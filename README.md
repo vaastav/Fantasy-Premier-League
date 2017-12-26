@@ -1,5 +1,4 @@
 Fantasy-Premier-League
 ======================
 
-Creates a .csv file of all players in the English Player League with their respective team and total fantasy points.
-Run it after every gameweek to have the updated list of points as well as players.
+A FPL library that gets all the basic stats for each player, gw-specific data for each player and season history of each player
