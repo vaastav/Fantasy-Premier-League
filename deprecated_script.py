@@ -8,6 +8,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('UTF-8')
 
+# This script is now deprecated.
+
 def main():
    all_players = []
    fpl = urllib.urlretrieve("http://fantasy.premierleague.com/player-list/","allplayers.txt")
