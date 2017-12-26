@@ -1,5 +1,6 @@
 import csv
 import math
+import os
 
 def clean_players(filename, base_filename):
     """ Creates a file with only important data columns for each player
@@ -9,7 +10,9 @@ def clean_players(filename, base_filename):
     """
     headers = ['first_name', 'second_name', 'goals_scored', 'assists', 'total_points', 'minutes', 'goals_conceded', 'creativity', 'influence', 'threat', 'bonus', 'bps', 'ict_index', 'clean_sheets', 'red_cards', 'yellow_cards', 'selected_by_percent', 'now_cost']
     fin = open(filename, 'r+', encoding='utf-8')
-    fout = open(base_filename + 'cleaned_players.csv', 'w+', encoding='utf-8', newline='')
+    outname = base_filename + 'cleaned_players.csv'
+    os.makedirs(os.path.dirname(outname), exist_ok=True)
+    fout = open(outname, 'w+', encoding='utf-8', newline='')
     reader = csv.DictReader(fin)
     writer = csv.DictWriter(fout, headers, extrasaction='ignore')
     writer.writeheader()
@@ -24,7 +27,9 @@ def id_players(players_filename, base_filename):
     """
     headers = ['first_name', 'second_name', 'id']
     fin = open(players_filename, 'r+', encoding='utf-8')
-    fout = open(base_filename + 'player_idlist.csv', 'w+', encoding='utf-8', newline='')
+    outname = base_filename + 'player_idlist.csv'
+    os.makedirs(os.path.dirname(outname), exist_ok=True)
+    fout = open(outname, 'w+', encoding='utf-8', newline='')
     reader = csv.DictReader(fin)
     writer = csv.DictWriter(fout, headers, extrasaction='ignore')
     writer.writeheader()
@@ -39,7 +44,7 @@ def get_player_ids(base_filename):
     reader = csv.DictReader(fin)
     player_ids = {}
     for line in reader:
-        k = line['id']
+        k = int(line['id'])
         v = line['first_name'] + '_' + line['second_name']
         player_ids[k] = v
     return player_ids

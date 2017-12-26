@@ -3,6 +3,7 @@ import json
 from utility import uprint
 from parsers import *
 from cleaners import *
+import time
 
 def get_data():
     """ Retrieve the fpl player data from the hard-coded url
@@ -22,7 +23,12 @@ def get_individual_player_data(player_id):
     """
     base_url = "https://fantasy.premierleague.com/drf/element-summary/"
     full_url = base_url + str(player_id)
-    response = requests.get(full_url)
+    response = ''
+    while response == '':
+        try:
+            response = requests.get(full_url)
+        except:
+            time.sleep(5)
     if response.status_code != 200:
         raise Exception("Response was code " + str(response.status_code))
     data = json.loads(response.text)
@@ -31,6 +37,7 @@ def get_individual_player_data(player_id):
 def parse_data():
     """ Parse and store all the data
     """
+    print("Getting data")
     data = get_data()
     season = '2017-18'
     base_filename = 'data/' + season + '/'

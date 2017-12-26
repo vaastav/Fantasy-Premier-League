@@ -15,7 +15,9 @@ def extract_stat_names(dict_of_stats):
 
 def parse_players(list_of_players, base_filename):
     stat_names = extract_stat_names(list_of_players[0])
-    f = open(base_filename + 'players_raw.csv', 'w', encoding='utf8', newline='')
+    filename = base_filename + 'players_raw.csv'
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    f = open(filename, 'w+', encoding='utf8', newline='')
     w = csv.DictWriter(f, sorted(stat_names))
     w.writeheader()
     for player in list_of_players:
