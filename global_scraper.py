@@ -2,6 +2,7 @@ import requests
 import json
 from utility import uprint
 from parsers import *
+from cleaners import *
 
 def get_data():
     """ Retrieve the fpl player data from the hard-coded url
@@ -31,12 +32,26 @@ def parse_data():
     """ Parse and store all the data
     """
     data = get_data()
-    parse_players(data["elements"])
+    season = '2017-18'
+    base_filename = 'data/' + season + '/'
+    print("Parsing summary data")
+    parse_players(data["elements"], base_filename)
+    print("Cleaning summay data")
+    clean_players(base_filename + 'players_raw.csv', base_filename)
+    print("Extracting player ids")
+    id_players(base_filename + 'players_raw.csv', base_filename)
+    player_ids = get_player_ids(base_filename)
     # TODO: parse other stats that may be useful
-    #num_players = len(data["elements"])
-    #for i in range(num_players):
-    #    player_data = get_individual_player_data(i+1)
-    #    parse_player_history(player_data["history_past"], i+1)
-    #    parse_player_gw_history(player_data["history"], i+1)
+    num_players = len(data["elements"])
+    player_base_filename = base_filename + 'players/'
+    print("Extracting player specific data")
+    for i in range(num_players):
+        player_data = get_individual_player_data(i+1)
+        parse_player_history(player_data["history_past"], player_base_filename, player_ids[i+1])
+        parse_player_gw_history(player_data["history"], player_base_filename, player_ids[i+1])
 
-parse_data(data)
+def main():
+    parse_data()
+
+if __name__ == "__main__":
+    main()
