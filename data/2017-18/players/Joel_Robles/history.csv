@@ -1,0 +1,6 @@
+assists,bonus,bps,clean_sheets,creativity,ea_index,element_code,end_cost,goals_conceded,goals_scored,ict_index,id,influence,minutes,own_goals,penalties_missed,penalties_saved,red_cards,saves,season,season_name,start_cost,threat,total_points,yellow_cards
+0,2,0,1,0.0,87,78315,40,16,0,0.0,4053,0.0,810,0,0,0,0,23,7,2012/13,40,0.0,22,0
+0,0,5,0,0.0,20,78315,42,2,0,0.0,4705,0.0,157,0,0,0,0,5,8,2013/14,45,0.0,5,0
+0,0,105,3,0.0,50,78315,48,6,0,0.0,5394,0.0,585,0,0,0,0,15,9,2014/15,50,0.0,26,1
+0,3,239,3,0.0,110,78315,43,20,0,0.0,6106,0.0,1170,0,0,0,0,45,10,2015/16,45,0.0,46,1
+1,5,407,10,10.0,0,78315,47,20,0,44.9,6829,439.2,1737,0,0,0,0,54,11,2016/17,50,0.0,89,2
