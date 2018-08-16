@@ -39,7 +39,7 @@ def parse_data():
     """
     print("Getting data")
     data = get_data()
-    season = '2017-18'
+    season = '2018-19'
     base_filename = 'data/' + season + '/'
     print("Parsing summary data")
     parse_players(data["elements"], base_filename)
