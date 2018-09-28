@@ -9,4 +9,6 @@ A FPL library that gets all the basic stats for each player, gw-specific data fo
 
 + [Visualization website by @antoniaelek](http://aelek.me/fantasy-premier-league/)
 
++ [FPL Captain Classifier by Raghunandh GS](https://medium.com/datacomics/building-an-fpl-captain-classifier-cf4ee343ebcc)
+
 + [My Personal Blog](http://vaastavanand.com/blog/)
