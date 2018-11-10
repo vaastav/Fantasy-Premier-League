@@ -58,7 +58,7 @@ def parse_data():
         player_data = get_individual_player_data(i+1)
         parse_player_history(player_data["history_past"], player_base_filename, player_ids[i+1], i+1)
         parse_player_gw_history(player_data["history"], player_base_filename, player_ids[i+1], i+1)
-    collect_gw(10, player_base_filename,gw_base_filename) 
+    collect_gw(11, player_base_filename,gw_base_filename) 
 
 def main():
     parse_data()
