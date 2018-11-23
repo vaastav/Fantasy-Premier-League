@@ -5,6 +5,8 @@ A FPL library that gets all the basic stats for each player, gw-specific data fo
 
 ## Notable Usages of this Repository
 
++ [Visualization by u/dkattir](https://www.reddit.com/r/dataisbeautiful/comments/9zlx14/points_per_game_vs_predictability_after_12_weeks/)
+
 + [Visualization by u/Dray11](https://www.reddit.com/r/FantasyPL/comments/9bjwra/created_a_very_crude_and_basic_comparison_chart/)
 
 + [Visualization website by @antoniaelek](http://fantasy.elek.hr/)
