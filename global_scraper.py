@@ -3,6 +3,7 @@ import json
 from utility import uprint
 from parsers import *
 from cleaners import *
+from collector import collect_gw
 import time
 
 def get_data():
@@ -39,7 +40,7 @@ def parse_data():
     """
     print("Getting data")
     data = get_data()
-    season = '2017-18'
+    season = '2018-19'
     base_filename = 'data/' + season + '/'
     print("Parsing summary data")
     parse_players(data["elements"], base_filename)
@@ -51,11 +52,13 @@ def parse_data():
     # TODO: parse other stats that may be useful
     num_players = len(data["elements"])
     player_base_filename = base_filename + 'players/'
+    gw_base_filename = base_filename + 'gws/'
     print("Extracting player specific data")
     for i in range(num_players):
         player_data = get_individual_player_data(i+1)
-        parse_player_history(player_data["history_past"], player_base_filename, player_ids[i+1])
-        parse_player_gw_history(player_data["history"], player_base_filename, player_ids[i+1])
+        parse_player_history(player_data["history_past"], player_base_filename, player_ids[i+1], i+1)
+        parse_player_gw_history(player_data["history"], player_base_filename, player_ids[i+1], i+1)
+    collect_gw(20, player_base_filename,gw_base_filename) 
 
 def main():
     parse_data()
