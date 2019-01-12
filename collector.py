@@ -45,7 +45,7 @@ def collect_gw(gw, directory_name, output_dir):
         writer.writerow(row)
 
 def collect_all_gws(directory_name, output_dir):
-    for i in range(1,38):
+    for i in range(1,5):
         collect_gw(i, directory_name, output_dir)
 
 def merge_all_gws(num_gws, gw_directory):
