@@ -3,7 +3,7 @@ import json
 from utility import uprint
 from parsers import *
 from cleaners import *
-from collector import collect_gw
+from collector import collect_gw, merge_gw
 import time
 
 def get_data():
@@ -44,7 +44,8 @@ def parse_data():
     base_filename = 'data/' + season + '/'
     print("Parsing summary data")
     parse_players(data["elements"], base_filename)
-    print("Cleaning summay data")
+    gw_num = data["current-event"]
+    print("Cleaning summary data")
     clean_players(base_filename + 'players_raw.csv', base_filename)
     print("Extracting player ids")
     id_players(base_filename + 'players_raw.csv', base_filename)
@@ -58,7 +59,10 @@ def parse_data():
         player_data = get_individual_player_data(i+1)
         parse_player_history(player_data["history_past"], player_base_filename, player_ids[i+1], i+1)
         parse_player_gw_history(player_data["history"], player_base_filename, player_ids[i+1], i+1)
-    collect_gw(21, player_base_filename,gw_base_filename) 
+    print("Collecting gw scores")
+    collect_gw(gw_num, player_base_filename, gw_base_filename) 
+    print("Merging gw scores")
+    merge_gw(gw_num, gw_base_filename)
 
 def main():
     parse_data()

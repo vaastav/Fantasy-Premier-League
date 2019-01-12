@@ -2,6 +2,26 @@ import os
 import sys
 import csv
 
+def merge_gw(gw, gw_directory):
+    merged_gw_filename = "merged_gw.csv"
+    gw_filename = "gw" + str(gw) + ".csv"
+    gw_path = os.path.join(gw_directory, gw_filename)
+    fin = open(gw_path, 'rU')
+    reader = csv.DictReader(fin)
+    fieldnames = reader.fieldnames
+    fieldnames += ["GW"]
+    rows = []
+    for row in reader:
+        row["GW"] = gw
+        rows += [row]
+    out_path = os.path.join(gw_directory, merged_gw_filename)
+    fout = open(out_path,'a')
+    writer = csv.DictWriter(fout, fieldnames=fieldnames, lineterminator='\n')
+    if gw == 1:
+        writer.writeheader()
+    for row in rows:
+        writer.writerow(row)
+
 def collect_gw(gw, directory_name, output_dir):
     rows = []
     fieldnames = []
@@ -25,11 +45,16 @@ def collect_gw(gw, directory_name, output_dir):
         writer.writerow(row)
 
 def collect_all_gws(directory_name, output_dir):
-    for i in range(1,4):
+    for i in range(1,38):
         collect_gw(i, directory_name, output_dir)
 
+def merge_all_gws(num_gws, gw_directory):
+    for i in range(1, num_gws):
+        merge_gw(i, gw_directory)
+
 def main():
-    collect_all_gws(sys.argv[1], sys.argv[2])    
+    #collect_all_gws(sys.argv[1], sys.argv[2])
+    merge_all_gws(int(sys.argv[1]), sys.argv[2])
 
 if __name__ == '__main__':
     main()
