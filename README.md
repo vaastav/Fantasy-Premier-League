@@ -3,6 +3,17 @@ Fantasy-Premier-League
 
 A FPL library that gets all the basic stats for each player, gw-specific data for each player and season history of each player
 
+## Downloading Your Team Data
+
+You can download the data for your team by executing the following steps:
+
+```
+python teams_scraper.py <team_id>
+#Eg: python teams_scraper.py 4582
+```
+
+This will create a new folder called "team_<team_id>_data18-19"
+
 ## Notable Usages of this Repository
 
 + [Stat Analysis on twitter by @StatOnScout](https://twitter.com/StatOnScout)
