@@ -1,39 +1,7 @@
-import requests
-import json
-from utility import uprint
 from parsers import *
 from cleaners import *
+from getters import *
 from collector import collect_gw, merge_gw
-import time
-
-def get_data():
-    """ Retrieve the fpl player data from the hard-coded url
-    """
-    response = requests.get("https://fantasy.premierleague.com/drf/bootstrap-static")
-    if response.status_code != 200:
-        raise Exception("Response was code " + str(response.status_code))
-    responseStr = response.text
-    data = json.loads(responseStr)
-    return data
-
-def get_individual_player_data(player_id):
-    """ Retrieve the player-specific detailed data
-
-    Args:
-        player_id (int): ID of the player whose data is to be retrieved
-    """
-    base_url = "https://fantasy.premierleague.com/drf/element-summary/"
-    full_url = base_url + str(player_id)
-    response = ''
-    while response == '':
-        try:
-            response = requests.get(full_url)
-        except:
-            time.sleep(5)
-    if response.status_code != 200:
-        raise Exception("Response was code " + str(response.status_code))
-    data = json.loads(response.text)
-    return data
 
 def parse_data():
     """ Parse and store all the data

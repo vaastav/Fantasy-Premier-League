@@ -1,6 +1,7 @@
 import csv 
 import os
 from utility import uprint
+import pandas as pd
 
 def extract_stat_names(dict_of_stats):
     """ Extracts all the names of the statistics
@@ -44,3 +45,32 @@ def parse_player_gw_history(list_of_gw, base_filename, player_name, Id):
         w.writeheader()
         for gw in list_of_gw:
             w.writerow(gw)
+
+def parse_gw_entry_history(data, outfile_base):
+    i = 1
+    for gw in data:
+        print(gw)
+        i += 1
+
+def parse_entry_history(data, outfile_base):
+    chips_df = pd.DataFrame.from_records(data["chips"])
+    chips_df.to_csv(os.path.join(outfile_base, 'chips.csv'))
+    season_df = pd.DataFrame.from_records(data["season"])
+    season_df.to_csv(os.path.join(outfile_base, 'history.csv'))
+    profile_data = data["entry"].pop('kit', None)
+    profile_df = pd.DataFrame.from_records(profile_data)
+    profile_df.to_csv(os.path.join(outfile_base, 'profile.csv'))
+    gw_history_df = pd.DataFrame.from_records(data["history"])
+    gw_history_df.to_csv(os.path.join(outfile_base, 'gws.csv'))
+    classic_leagues_df = pd.DataFrame.from_records(data["leagues"]["classic"])
+    classic_leagues_df.to_csv(os.path.join(outfile_base, 'classic_leagues.csv'))
+    cup_leagues_df = pd.DataFrame.from_records(data["leagues"]["cup"])
+    cup_leagues_df.to_csv(os.path.join(outfile_base, 'cup_leagues.csv'))
+    h2h_leagues_df = pd.DataFrame.from_records(data["leagues"]["h2h"])
+    h2h_leagues_df.to_csv(os.path.join(outfile_base, 'h2h_leagues.csv'))
+
+def parse_transfer_history(data, outfile_base):
+    wildcards_df = pd.DataFrame.from_records(data["wildcards"])
+    wildcards_df.to_csv(os.path.join(outfile_base, 'wildcards.csv'))
+    transfers_df = pd.DataFrame.from_records(data["history"])
+    transfers_df.to_csv(os.path.join(outfile_base, 'transfers.csv'))
