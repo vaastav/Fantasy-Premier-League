@@ -1,0 +1,12 @@
+,_scoring,admin_entry,closed,created,entry_can_admin,entry_can_forum,entry_can_invite,entry_can_leave,entry_change,entry_code,entry_last_rank,entry_movement,entry_rank,forum_disabled,id,league_type,make_code_public,name,rank,reprocess_standings,short_name,size,start_event
+0,c,,False,2018-07-05T12:12:23Z,False,False,False,False,3040.0,,10920,up,7880,False,1,s,False,Arsenal,,False,team-1,,1
+1,c,,False,2018-07-05T12:12:23Z,False,False,False,False,371.0,,1288,up,917,False,59,s,False,Canada,,False,region-39,,1
+2,c,,False,2018-07-05T12:12:24Z,False,False,False,False,36582.0,,123751,up,87169,False,275,s,False,Gameweek 1,,False,event-1,,1
+3,c,,False,2018-07-05T12:12:24Z,False,False,False,False,36782.0,,124163,up,87381,False,313,s,False,Overall,,False,overall,,1
+4,c,4582.0,False,2018-07-05T17:57:02Z,True,True,True,False,,4582-8710,2,same,2,False,8710,x,False,Bla Liga,,False,,,1
+5,c,262104.0,True,2018-07-09T19:15:54Z,False,True,False,True,12.0,,48,up,36,False,54062,x,False,QFPL Master League,,False,,,1
+6,c,277822.0,False,2018-07-10T08:45:22Z,False,True,False,True,1.0,,4,up,3,False,57589,x,False,OSALSA,,False,,,1
+7,c,485.0,False,2018-07-13T21:24:16Z,False,True,False,True,,,4,same,4,False,92759,x,False,QFPL Leicester City,,False,,,1
+8,c,5442.0,False,2018-07-23T13:16:33Z,False,True,False,True,1.0,,8,up,7,False,231070,x,False,The Quartet,,False,,,1
+9,c,1383772.0,False,2018-07-27T15:41:57Z,False,True,False,True,,,1,same,1,False,314162,x,False,Domitable Masterminds,,False,,,1
+10,c,3161558.0,False,2018-08-08T13:26:48Z,False,True,False,True,,,1,same,1,False,723928,x,False,LSA ,,False,,,1
