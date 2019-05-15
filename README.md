@@ -12,7 +12,7 @@ python teams_scraper.py <team_id>
 #Eg: python teams_scraper.py 4582
 ```
 
-This will create a new folder called "team_<team_id>_data18-19"
+This will create a new folder called "team_<team_id>_data18-19" with individual files of all the important data
 
 ## Notable Usages of this Repository
 
