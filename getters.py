@@ -90,3 +90,11 @@ def get_entry_transfers_data(entry_id):
         raise Exception("Response was code " + str(response.status_code))
     data = json.loads(response.text)
     return data
+
+def main():
+    data = get_data()
+    with open('raw.json', 'w') as outf:
+        json.dump(data, outf)
+
+if __name__ == '__main__':
+    main()
