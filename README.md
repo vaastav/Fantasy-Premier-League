@@ -18,6 +18,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 + [Stat Analysis on twitter by @StatOnScout](https://twitter.com/StatOnScout)
 
++ [Arsenal-Chelsea LinkedIn article by Velko Kamenov](https://www.linkedin.com/pulse/whoever-wins-2019-uefa-europe-league-final-still-ends-velko-kamenov/)
+
 + [Form vs Fixture Medium article by JinHyunCheong](https://towardsdatascience.com/mythbusting-fantasy-premier-league-form-over-fixtures-eecf9022e834)
 
 + [Visualization by u/dkattir](https://www.reddit.com/r/dataisbeautiful/comments/9zlx14/points_per_game_vs_predictability_after_12_weeks/)
