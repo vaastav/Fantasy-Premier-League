@@ -3,6 +3,16 @@ Fantasy-Premier-League
 
 A FPL library that gets all the basic stats for each player, gw-specific data for each player and season history of each player
 
+## FAQ
+
+### Player Position Data
+
+In players_raw.csv, element_type is the field that corresponds to the position.
+1 = GK
+2 = DEF
+3 = MID
+4 = FWD
+
 ## Downloading Your Team Data
 
 You can download the data for your team by executing the following steps:
