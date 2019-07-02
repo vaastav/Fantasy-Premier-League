@@ -1,0 +1,424 @@
+assists,bonus,bps,chance_of_playing_next_round,chance_of_playing_this_round,clean_sheets,code,cost_change_event,cost_change_event_fall,cost_change_start,cost_change_start_fall,creativity,dreamteam_count,element_type,ep_next,ep_this,event_points,first_name,form,goals_conceded,goals_scored,ict_index,id,in_dreamteam,influence,minutes,news,news_added,now_cost,own_goals,penalties_missed,penalties_saved,photo,points_per_game,red_cards,saves,second_name,selected_by_percent,special,squad_number,status,team,team_code,threat,total_points,transfers_in,transfers_in_event,transfers_out,transfers_out_event,value_form,value_season,web_name,yellow_cards
+0,5,475,None,None,6,69140,0,0,0,0,106.0,0,2,None,None,0,Shkodran,0.0,40,2,107.8,1,False,718.6,2611,,None,55,0,0,0,69140.jpg,2.6,0,0,Mustafi,0.3,False,None,a,1,3,252.0,80,0,0,0,0,0.0,0.0,Mustafi,9
+5,5,304,0,None,4,98745,0,0,0,0,197.8,0,2,None,None,0,Héctor,0.0,21,0,73.7,2,False,261.6,1532,Knee injury - Unknown return date,2019-06-25T11:30:06.897107Z,55,1,0,0,98745.jpg,3.2,0,0,Bellerín,0.2,False,None,i,1,3,280.0,60,0,0,0,0,0.0,0.0,Bellerín,3
+7,10,382,None,None,5,111457,0,0,0,0,445.9,0,2,None,None,0,Sead,0.0,29,0,101.0,3,False,323.2,1886,,None,55,1,0,0,111457.jpg,3.4,0,0,Kolasinac,1.5,False,None,a,1,3,242.0,81,0,0,0,0,0.0,0.0,Kolasinac,5
+1,3,152,None,None,2,154043,0,0,0,0,98.9,0,2,None,None,0,Ainsley,0.0,20,1,44.8,4,False,224.2,983,,None,50,0,0,0,154043.jpg,2.1,1,0,Maitland-Niles,0.8,False,None,a,1,3,126.0,34,0,0,0,0,0.0,0.0,Maitland-Niles,1
+2,4,402,None,None,5,39476,0,0,0,0,67.9,0,2,None,None,0,Sokratis,0.0,33,1,70.4,5,False,513.8,2198,,None,50,0,0,0,39476.jpg,2.6,0,0,Papastathopoulos,1.0,False,None,a,1,3,120.0,64,0,0,0,0,0.0,0.0,Sokratis,12
+4,7,392,None,None,5,38411,0,0,0,0,196.6,0,2,None,None,0,Nacho,0.0,24,1,83.4,6,False,413.2,1860,,None,50,0,0,0,38411.jpg,3.5,0,0,Monreal,0.9,False,None,a,1,3,224.0,77,0,0,0,0,0.0,0.0,Monreal,5
+0,8,319,None,None,3,51507,0,0,0,0,29.5,0,2,None,None,0,Laurent,0.0,23,3,59.1,7,False,456.4,1329,,None,50,0,0,0,51507.jpg,3.6,0,0,Koscielny,0.8,False,None,a,1,3,105.0,62,0,0,0,0,0.0,0.0,Koscielny,1
+0,0,28,None,None,0,233963,0,0,0,0,14.1,0,2,None,None,0,Konstantinos,0.0,1,0,5.2,8,False,27.0,147,,None,45,0,0,0,233963.jpg,0.8,0,0,Mavropanos,0.1,False,None,a,1,3,10.0,3,0,0,0,0,0.0,0.0,Mavropanos,1
+0,0,16,None,None,0,80254,0,0,0,0,16.9,0,2,None,None,0,Carl,0.0,3,0,5.2,9,False,26.8,165,,None,45,0,0,0,80254.jpg,1.3,0,0,Jenkinson,0.1,False,None,a,1,3,8.0,4,0,0,0,0,0.0,0.0,Jenkinson,0
+0,5,148,0,None,1,156074,0,0,0,0,28.7,0,2,None,None,0,Rob,0.0,10,0,23.2,10,False,187.8,806,Anterior cruciate ligament - Unknown return date,2019-06-25T11:30:06.913215Z,45,0,0,0,156074.jpg,2.4,0,0,Holding,0.2,False,None,i,1,3,14.0,24,0,0,0,0,0.0,0.0,Holding,1
+7,32,756,None,None,7,54694,0,0,0,0,484.6,0,4,None,None,0,Pierre-Emerick,0.0,42,22,289.6,11,False,984.4,2722,,None,110,0,1,0,54694.jpg,5.7,0,0,Aubameyang,15.3,False,None,a,1,3,1429.0,205,0,0,0,0,0.0,0.0,Aubameyang,0
+12,20,560,None,None,6,59966,0,0,0,0,482.4,0,4,None,None,0,Alexandre,0.0,31,13,260.6,12,False,808.0,2497,,None,95,0,0,0,59966.jpg,4.7,0,0,Lacazette,7.5,False,None,a,1,3,1319.0,166,0,0,0,0,0.0,0.0,Lacazette,2
+0,1,36,None,None,0,205533,0,0,0,0,14.7,0,4,None,None,0,Edward,0.0,3,1,11.4,13,False,40.8,63,,None,45,0,0,0,205533.jpg,2.0,0,0,Nketiah,4.5,False,None,a,1,3,59.0,10,0,0,0,0,0.0,0.0,Nketiah,0
+0,5,568,None,None,6,80201,0,0,0,0,0.0,0,1,None,None,0,Bernd,0.0,42,0,80.5,14,False,807.2,2835,,None,50,0,0,0,80201.jpg,3.3,0,105,Leno,4.3,False,None,a,1,3,0.0,106,0,0,0,0,0.0,0.0,Leno,0
+3,9,363,None,None,5,37605,0,0,0,0,714.2,0,3,None,None,0,Mesut,0.0,24,5,140.0,15,False,429.6,1732,,None,75,0,0,0,37605.jpg,3.7,0,0,Özil,0.8,False,None,a,1,3,254.0,89,0,0,0,0,0.0,0.0,Özil,2
+4,12,354,None,None,3,57249,0,0,0,0,454.9,0,3,None,None,0,Henrikh,0.0,26,6,150.2,16,False,446.4,1637,,None,70,0,0,0,57249.jpg,3.9,0,0,Mkhitaryan,5.1,False,None,a,1,3,600.0,98,0,0,0,0,0.0,0.0,Mkhitaryan,1
+8,3,382,None,None,4,153133,0,0,0,0,596.7,0,3,None,None,0,Alex,0.0,32,3,171.1,17,False,469.0,1961,,None,60,0,0,0,153133.jpg,2.8,0,0,Iwobi,1.2,False,None,a,1,3,646.0,99,0,0,0,0,0.0,0.0,Iwobi,0
+3,8,452,None,None,7,84450,0,0,0,0,674.0,0,3,None,None,0,Granit,0.0,37,4,152.6,18,False,634.6,2498,,None,55,0,0,0,84450.jpg,3.1,0,0,Xhaka,0.9,False,None,a,1,3,215.0,90,0,0,0,0,0.0,0.0,Xhaka,10
+4,6,409,None,None,5,198849,0,0,0,0,301.0,0,3,None,None,0,Lucas,0.0,38,2,94.5,19,False,440.8,2377,,None,50,0,0,0,198849.jpg,2.3,1,0,Torreira,1.6,False,None,a,1,3,203.0,78,0,0,0,0,0.0,0.0,Torreira,7
+0,0,59,None,None,0,153256,0,0,0,0,76.7,0,3,None,None,0,Mohamed,0.0,5,0,22.7,20,False,86.6,377,,None,45,0,0,0,153256.jpg,1.3,0,0,Elneny,0.4,False,None,a,1,3,63.0,10,0,0,0,0,0.0,0.0,Elneny,0
+0,0,321,None,None,3,242166,0,0,0,0,312.4,0,3,None,None,0,Matteo,0.0,32,0,76.6,21,False,323.2,2140,,None,45,0,0,0,242166.jpg,1.4,0,0,Guendouzi,4.2,False,None,a,1,3,130.0,47,0,0,0,0,0.0,0.0,Guendouzi,9
+0,0,0,None,None,0,37339,0,0,0,0,0.0,0,2,None,None,0,Ahmed,0.0,0,0,0.0,22,False,0.0,0,,None,45,0,0,0,37339.jpg,0.0,0,0,El Mohamady,7.0,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,El Mohamady,0
+0,0,0,None,None,0,43252,0,0,0,0,0.0,0,2,None,None,0,James,0.0,0,0,0.0,23,False,0.0,0,,None,45,0,0,0,43252.jpg,0.0,0,0,Chester,0.8,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Chester,0
+0,0,0,None,None,0,47390,0,0,0,0,0.0,0,2,None,None,0,Neil,0.0,0,0,0.0,24,False,0.0,0,,None,45,0,0,0,47390.jpg,0.0,0,0,Taylor,0.4,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Taylor,0
+0,0,0,None,None,0,123354,0,0,0,0,0.0,0,2,None,None,0,Kortney,0.0,0,0,0.0,25,False,0.0,0,,None,45,0,0,0,123354.jpg,0.0,0,0,Hause,0.3,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Hause,0
+0,0,0,None,None,0,54764,0,0,0,0,0.0,0,4,None,None,0,Jonathan,0.0,0,0,0.0,26,False,0.0,0,,None,55,0,0,0,54764.jpg,0.0,0,0,Kodjia,2.0,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Kodjia,0
+0,0,0,None,None,0,98770,0,0,0,0,0.0,0,1,None,None,0,Ørjan,0.0,0,0,0.0,27,False,0.0,0,,None,45,0,0,0,98770.jpg,0.0,0,0,Nyland,1.7,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Nyland,0
+0,0,0,None,None,0,85242,0,0,0,0,0.0,0,3,None,None,0,Conor,0.0,0,0,0.0,28,False,0.0,0,,None,60,0,0,0,85242.jpg,0.0,0,0,Hourihane,0.6,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Hourihane,0
+0,0,0,None,None,0,114283,0,0,0,0,0.0,0,3,None,None,0,Jack,0.0,0,0,0.0,29,False,0.0,0,,None,60,0,0,0,114283.jpg,0.0,0,0,Grealish,10.6,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Grealish,0
+0,0,0,None,None,0,193488,0,0,0,0,0.0,0,3,None,None,0,Anwar,0.0,0,0,0.0,30,False,0.0,0,,None,55,0,0,0,193488.jpg,0.0,0,0,El Ghazi,1.8,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,El Ghazi,0
+0,0,0,None,None,0,122806,0,0,0,0,0.0,0,3,None,None,0,John,0.0,0,0,0.0,31,False,0.0,0,,None,55,0,0,0,122806.jpg,0.0,0,0,McGinn,3.0,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,McGinn,0
+0,0,0,None,None,0,174597,0,0,0,0,0.0,0,3,None,None,0,Andre,0.0,0,0,0.0,32,False,0.0,0,,None,50,0,0,0,174597.jpg,0.0,0,0,Green,0.1,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Green,0
+0,0,0,None,None,0,27770,0,0,0,0,0.0,0,3,None,None,0,Birkir,0.0,0,0,0.0,33,False,0.0,0,,None,45,0,0,0,27770.jpg,0.0,0,0,Bjarnason,0.5,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Bjarnason,0
+0,0,0,None,None,0,221239,0,0,0,0,0.0,0,3,None,None,0,Keinan,0.0,0,0,0.0,34,False,0.0,0,,None,45,0,0,0,221239.jpg,0.0,0,0,Davis,0.3,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Davis,0
+0,0,0,None,None,0,40564,0,0,0,0,0.0,0,3,None,None,0,Henri,0.0,0,0,0.0,35,False,0.0,0,,None,45,0,0,0,40564.jpg,0.0,0,0,Lansbury,0.3,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Lansbury,0
+0,0,0,None,None,0,89274,0,0,0,0,0.0,0,3,None,None,0,José Ignacio,0.0,0,0,0.0,36,False,0.0,0,,None,60,0,0,0,89274.jpg,0.0,0,0,Peleteiro Romallo,0.4,False,None,a,2,7,0.0,0,0,0,0,0,0.0,0.0,Jota,0
+1,6,549,None,None,9,56917,0,0,0,0,143.3,0,2,None,None,0,Steve,0.0,56,1,116.5,58,False,731.0,2786,,None,50,1,0,0,56917.jpg,2.7,0,0,Cook,0.6,False,None,a,3,91,292.0,85,0,0,0,0,0.0,0.0,Steve Cook,3
+1,8,716,None,None,10,126184,0,0,0,0,125.9,0,2,None,None,0,Nathan,0.0,70,4,156.8,59,False,1002.0,3411,,None,50,0,0,0,126184.jpg,3.2,0,0,Aké,14.5,False,None,a,3,91,440.0,120,0,0,0,0,0.0,0.0,Aké,3
+0,1,278,0,None,4,41320,0,0,0,0,215.4,0,2,None,None,0,Charlie,0.0,34,1,66.2,60,False,289.8,1583,Knee injury - Unknown return date,2019-06-25T11:30:06.960367Z,45,0,0,0,41320.jpg,2.1,0,0,Daniels,0.1,False,None,i,3,91,156.0,44,0,0,0,0,0.0,0.0,Daniels,4
+1,0,158,None,None,2,223911,0,0,0,0,24.1,0,2,None,None,0,Chris,0.0,17,0,22.5,61,False,177.2,848,,None,45,0,0,0,223911.jpg,2.1,0,0,Mepham,0.3,False,None,a,3,91,22.0,27,0,0,0,0,0.0,0.0,Mepham,1
+2,0,244,0,None,4,15149,0,0,0,0,173.3,0,2,None,None,0,Simon,0.0,24,0,54.4,62,False,332.4,1227,Anterior cruciate ligament - Unknown return date,2019-06-25T11:30:06.976202Z,45,0,0,0,15149.jpg,2.4,0,0,Francis,0.0,False,None,i,3,91,39.0,40,0,0,0,0,0.0,0.0,Francis,1
+1,1,383,None,None,8,54469,0,0,0,0,199.8,0,2,None,None,0,Adam,0.0,33,1,68.5,63,False,374.0,2067,,None,45,0,0,0,54469.jpg,2.8,1,0,Smith,2.1,False,None,a,3,91,110.0,70,0,0,0,0,0.0,0.0,Adam Smith,5
+0,0,0,None,None,0,235530,0,0,0,0,0.0,0,2,None,None,0,Lloyd,0.0,0,0,0.0,64,False,0.0,0,,None,45,0,0,0,235530.jpg,0.0,0,0,Kelly,0.4,False,None,a,3,91,0.0,0,0,0,0,0,0.0,0.0,Kelly,0
+0,0,89,None,None,0,171129,0,0,0,0,171.6,0,2,None,None,0,Diego,0.0,19,0,31.4,65,False,107.4,606,,None,40,0,0,0,171129.jpg,0.7,0,0,Rico,2.9,False,None,a,3,91,36.0,8,0,0,0,0,0.0,0.0,Rico,1
+0,0,73,None,None,1,222434,0,0,0,0,2.0,0,2,None,None,0,Jack,0.0,9,0,11.0,66,False,85.4,401,,None,40,1,0,0,222434.jpg,1.7,0,0,Simpson,6.6,False,None,a,3,91,21.0,10,0,0,0,0,0.0,0.0,Simpson,0
+12,22,525,None,None,9,75115,0,0,0,0,388.4,0,4,None,None,0,Callum,0.0,47,14,225.0,67,False,737.8,2528,,None,80,0,1,0,75115.jpg,5.6,0,0,Wilson,27.2,False,None,a,3,91,1137.0,168,0,0,0,0,0.0,0.0,Wilson,3
+3,20,457,None,None,10,78007,0,0,0,0,535.7,0,4,None,None,0,Joshua,0.0,57,12,223.8,68,False,655.4,2963,,None,65,0,1,0,78007.jpg,4.0,0,0,King,20.0,False,None,a,3,91,1058.0,141,0,0,0,0,0.0,0.0,King,3
+1,0,45,None,None,0,154566,0,0,0,0,96.0,0,4,None,None,0,Dominic,0.0,5,0,33.0,69,False,79.0,340,,None,55,0,0,0,154566.jpg,1.5,0,0,Solanke,0.5,False,None,a,3,91,154.0,15,0,0,0,0,0.0,0.0,Solanke,0
+0,0,74,None,None,0,178304,0,0,0,0,65.1,0,4,None,None,0,Lys,0.0,15,1,33.8,70,False,74.6,350,,None,50,0,0,0,178304.jpg,1.2,0,0,Mousset,0.2,False,None,a,3,91,201.0,28,0,0,0,0,0.0,0.0,Mousset,1
+0,0,3,None,None,0,217331,0,0,0,0,11.8,0,4,None,None,0,Sam,0.0,0,0,4.0,71,False,5.0,11,,None,45,0,0,0,217331.jpg,1.0,0,0,Surridge,1.8,False,None,a,3,91,23.0,2,0,0,0,0,0.0,0.0,Surridge,0
+0,4,363,None,None,5,40349,0,0,0,0,0.0,0,1,None,None,0,Asmir,0.0,47,0,44.2,72,False,440.6,2160,,None,45,0,0,0,40349.jpg,2.6,0,59,Begovic,3.1,False,None,a,3,91,0.0,63,0,0,0,0,0.0,0.0,Begovic,0
+0,4,218,None,None,4,18726,0,0,0,0,0.0,0,1,None,None,0,Artur,0.0,18,0,30.3,73,False,302.0,1080,,None,45,0,0,0,18726.jpg,3.8,0,39,Boruc,0.8,False,None,a,3,91,0.0,46,0,0,0,0,0.0,0.0,Boruc,2
+0,1,46,None,None,1,229600,0,0,0,0,0.0,0,1,None,None,0,Mark,0.0,5,0,6.8,74,False,68.2,180,,None,45,0,0,0,229600.jpg,4.5,0,9,Travers,0.7,False,None,a,3,91,0.0,9,0,0,0,0,0.0,0.0,Travers,0
+14,23,751,None,None,9,90105,0,0,0,0,1382.4,0,3,None,None,0,Ryan,0.0,64,7,301.2,75,False,930.6,3165,,None,75,0,0,0,90105.jpg,4.8,0,0,Fraser,22.2,False,None,a,3,91,696.0,181,0,0,0,0,0.0,0.0,Fraser,2
+6,7,414,None,None,9,111317,0,0,0,0,466.7,0,3,None,None,0,David,0.0,41,7,167.5,76,False,598.0,2263,,None,65,0,0,0,111317.jpg,4.1,0,0,Brooks,7.4,False,None,a,3,91,609.0,123,0,0,0,0,0.0,0.0,Brooks,3
+3,3,205,0,None,2,56872,0,0,0,0,254.5,0,3,None,None,0,Junior,0.0,24,2,82.0,77,False,225.2,1021,Knee injury - Unknown return date,2019-06-25T11:30:06.990995Z,60,0,0,0,56872.jpg,2.4,0,0,Stanislas,0.0,False,None,i,3,91,340.0,56,0,0,0,0,0.0,0.0,Stanislas,1
+1,0,105,None,None,1,103912,0,0,0,0,174.8,0,3,None,None,0,Jordon,0.0,23,1,46.0,78,False,131.2,789,,None,50,0,0,0,103912.jpg,1.7,0,0,Ibe,0.2,False,None,a,3,91,155.0,33,0,0,0,0,0.0,0.0,Ibe,1
+0,0,91,0,None,3,155408,0,0,0,0,50.4,0,3,None,None,0,Lewis,0.0,10,0,16.5,79,False,76.0,719,Anterior cruciate ligament - Unknown return date,2019-06-25T11:30:07.007116Z,50,0,0,0,155408.jpg,1.7,0,0,Cook,0.0,False,None,i,3,91,36.0,22,0,0,0,0,0.0,0.0,Lewis Cook,2
+0,0,206,0,None,4,15237,0,0,0,0,163.0,0,3,None,None,0,Andrew,0.0,37,0,39.2,80,False,190.8,1438,Calf injury - Unknown return date,2019-06-25T11:30:07.022396Z,50,0,0,0,15237.jpg,2.0,0,0,Surman,0.0,False,None,i,3,91,38.0,36,0,0,0,0,0.0,0.0,Surman,2
+2,0,237,None,None,4,40387,0,0,0,0,164.7,0,3,None,None,0,Dan,0.0,33,2,78.1,81,False,400.6,1734,,None,50,0,0,0,40387.jpg,2.2,0,0,Gosling,0.1,False,None,a,3,91,217.0,54,0,0,0,0,0.0,0.0,Gosling,8
+2,6,410,None,None,9,152551,0,0,0,0,245.8,0,3,None,None,0,Jefferson,0.0,49,2,96.2,82,False,539.6,2505,,None,50,1,0,0,152551.jpg,2.5,0,0,Lerma,0.2,False,None,a,3,91,174.0,75,0,0,0,0,0.0,0.0,Lerma,12
+2,9,582,None,None,7,61933,0,0,0,0,84.1,0,2,None,None,0,Shane,0.0,55,5,160.9,37,False,1024.4,3087,,None,50,0,0,0,61933.jpg,3.3,1,0,Duffy,3.6,False,None,a,4,36,499.0,115,0,0,0,0,0.0,0.0,Duffy,4
+1,1,351,None,None,3,86153,0,0,0,0,289.2,0,2,None,None,0,Martín,0.0,41,0,78.6,38,False,437.6,2166,,None,45,0,0,0,86153.jpg,1.8,0,0,Montoya,0.2,False,None,a,4,36,58.0,45,0,0,0,0,0.0,0.0,Montoya,4
+1,0,290,None,None,2,209362,0,0,0,0,172.6,0,2,None,None,0,Bernardo,0.0,29,0,70.0,39,False,444.2,1749,,None,45,0,0,0,209362.jpg,1.8,0,0,Fernandes da Silva Junior,0.2,False,None,a,4,36,83.0,39,0,0,0,0,0.0,0.0,Bernardo,4
+0,0,86,None,None,0,52484,0,0,0,0,1.1,0,2,None,None,0,Leon,0.0,10,1,16.2,40,False,134.0,591,,None,45,0,0,0,52484.jpg,1.9,0,0,Balogun,0.1,False,None,a,4,36,27.0,15,0,0,0,0,0.0,0.0,Balogun,2
+0,0,254,None,None,5,42748,0,0,0,0,153.3,0,2,None,None,0,Gaëtan,0.0,34,0,38.0,41,False,220.0,1805,,None,45,0,0,0,42748.jpg,2.2,0,0,Bong,0.2,False,None,a,4,36,8.0,48,0,0,0,0,0.0,0.0,Bong,0
+1,6,573,None,None,7,83299,0,0,0,0,132.9,0,2,None,None,0,Lewis,0.0,56,2,118.7,42,False,805.8,3151,,None,45,0,0,0,83299.jpg,2.5,1,0,Dunk,7.9,False,None,a,4,36,245.0,91,0,0,0,0,0.0,0.0,Dunk,5
+0,0,0,None,None,0,178173,0,0,0,0,0.0,0,2,None,None,0,Matthew,0.0,0,0,0.0,43,False,0.0,0,,None,45,0,0,0,178173.jpg,0.0,0,0,Clarke,0.2,False,None,a,4,36,0.0,0,0,0,0,0,0.0,0.0,Clarke,0
+1,16,337,None,None,4,20529,0,0,0,0,190.0,0,4,None,None,0,Glenn,0.0,45,13,148.1,44,False,478.0,2501,,None,60,0,0,0,20529.jpg,3.4,0,0,Murray,4.3,False,None,a,4,36,835.0,129,0,0,0,0,0.0,0.0,Murray,5
+0,6,155,None,None,3,106757,0,0,0,0,190.8,0,4,None,None,0,Jürgen,0.0,21,2,69.7,45,False,154.4,1225,,None,55,0,0,0,106757.jpg,2.0,0,0,Locadia,0.4,False,None,a,4,36,356.0,52,0,0,0,0,0.0,0.0,Locadia,1
+0,2,74,None,None,2,93284,0,0,0,0,48.6,0,4,None,None,0,Florin,0.0,14,3,54.9,46,False,147.2,866,,None,50,0,0,0,93284.jpg,1.7,0,0,Andone,0.8,False,None,a,4,36,361.0,38,0,0,0,0,0.0,0.0,Andone,5
+0,11,547,None,None,6,131897,0,0,0,0,0.0,0,1,None,None,0,Mathew,0.0,55,0,70.9,47,False,707.0,3060,,None,45,0,0,0,131897.jpg,3.1,0,97,Ryan,17.8,False,None,a,4,36,0.0,104,0,0,0,0,0.0,0.0,Ryan,2
+0,2,76,None,None,1,50093,0,0,0,0,0.0,0,1,None,None,0,David,0.0,5,0,8.9,48,False,89.2,360,,None,40,0,0,0,50093.jpg,3.8,0,14,Button,22.1,False,None,a,4,36,0.0,15,0,0,0,0,0.0,0.0,Button,0
+3,12,347,None,None,3,60307,0,0,0,0,815.3,0,3,None,None,0,Pascal,0.0,31,3,161.7,49,False,456.0,1864,,None,65,0,1,0,60307.jpg,3.2,0,0,Groß,0.8,False,None,a,4,36,344.0,80,0,0,0,0,0.0,0.0,Groß,1
+0,0,61,None,None,5,165210,0,0,0,0,104.0,0,3,None,None,0,Alireza,0.0,16,0,35.5,50,False,94.4,1014,,None,60,0,0,0,165210.jpg,1.7,0,0,Jahanbakhsh,0.2,False,None,a,4,36,162.0,33,0,0,0,0,0.0,0.0,Jahanbakhsh,2
+2,0,95,0,None,3,167473,0,0,0,0,77.3,0,3,None,None,0,José Heriberto,0.0,10,0,30.0,51,False,75.4,789,Knee injury - Unknown return date,2019-06-25T11:30:06.929510Z,55,0,0,0,167473.jpg,2.1,0,0,Izquierdo Mena,0.0,False,None,i,4,36,147.0,31,0,0,0,0,0.0,0.0,Izquierdo,1
+6,2,293,None,None,3,83543,0,0,0,0,580.8,0,3,None,None,0,Anthony,0.0,41,2,131.4,52,False,389.6,1828,,None,55,0,0,0,83543.jpg,2.5,1,0,Knockaert,0.3,False,None,a,4,36,345.0,74,0,0,0,0,0.0,0.0,Knockaert,4
+0,0,170,0,None,3,227127,0,0,0,0,213.0,0,3,None,None,0,Yves,0.0,32,0,66.8,53,False,253.4,1764,Shoulder injury - Unknown return date,2019-06-25T11:30:06.944296Z,50,0,0,0,227127.jpg,1.5,0,0,Bissouma,0.0,False,None,i,4,36,201.0,43,0,0,0,0,0.0,0.0,Bissouma,5
+1,3,351,None,None,4,66242,0,0,0,0,279.1,0,3,None,None,0,Davy,0.0,45,1,79.2,54,False,389.2,2546,,None,50,0,0,0,66242.jpg,2.4,0,0,Pröpper,0.1,False,None,a,4,36,121.0,72,0,0,0,0,0.0,0.0,Pröpper,2
+6,5,342,None,None,6,109345,0,0,0,0,684.5,0,3,None,None,0,Solomon,0.0,40,1,156.6,55,False,474.6,2459,,None,50,0,0,0,109345.jpg,2.7,0,0,March,0.7,False,None,a,4,36,405.0,94,0,0,0,0,0.0,0.0,March,1
+1,0,136,None,None,4,38490,0,0,0,0,59.3,0,3,None,None,0,Beram,0.0,17,1,33.6,56,False,224.0,935,,None,45,0,0,0,38490.jpg,2.0,0,0,Kayal,0.2,False,None,a,4,36,53.0,36,0,0,0,0,0.0,0.0,Kayal,4
+1,4,404,None,None,5,40845,0,0,0,0,249.3,0,3,None,None,0,Dale,0.0,46,1,83.6,57,False,498.2,2484,,None,45,0,0,0,40845.jpg,2.2,1,0,Stephens,4.2,False,None,a,4,36,88.0,65,0,0,0,0,0.0,0.0,Stephens,6
+0,0,0,None,None,0,116216,0,0,0,0,0.0,0,3,None,None,0,Leandro,0.0,0,0,0.0,421,False,0.0,0,,None,60,0,0,0,116216.jpg,0.0,0,0,Trossard,1.0,False,None,a,4,36,0.0,0,0,0,0,0,0.0,0.0,Trossard,0
+2,5,572,None,None,8,51927,0,0,0,0,113.8,0,2,None,None,0,Ben,0.0,68,0,123.9,83,False,885.4,3420,,None,50,2,0,0,51927.jpg,2.1,0,0,Mee,0.7,False,None,a,5,90,238.0,81,0,0,0,0,0.0,0.0,Mee,9
+2,7,524,None,None,7,17761,0,0,0,0,69.8,0,2,None,None,0,James,0.0,63,3,154.5,84,False,1023.2,3086,,None,50,0,0,0,17761.jpg,2.8,0,0,Tarkowski,2.4,False,None,a,5,90,450.0,97,0,0,0,0,0.0,0.0,Tarkowski,8
+0,1,269,None,None,4,68983,0,0,0,0,158.6,0,2,None,None,0,Matthew,0.0,41,0,54.6,85,False,338.0,1748,,None,45,0,0,0,68983.jpg,1.6,0,0,Lowton,0.3,False,None,a,5,90,48.0,34,0,0,0,0,0.0,0.0,Lowton,7
+0,0,224,None,None,4,17997,0,0,0,0,139.6,0,2,None,None,0,Phil,0.0,27,0,47.4,86,False,267.8,1670,,None,45,1,0,0,17997.jpg,1.7,0,0,Bardsley,0.2,False,None,a,5,90,66.0,33,0,0,0,0,0.0,0.0,Bardsley,9
+1,2,505,None,None,7,103914,0,0,0,0,268.5,0,2,None,None,0,Charlie,0.0,64,0,94.9,87,False,649.4,3240,,None,45,0,0,0,103914.jpg,2.2,0,0,Taylor,2.0,False,None,a,5,90,30.0,82,0,0,0,0,0.0,0.0,Taylor,2
+1,0,101,None,None,1,41674,0,0,0,0,11.6,0,2,None,None,0,Kevin,0.0,9,0,16.8,88,False,147.8,513,,None,45,0,0,0,41674.jpg,2.7,0,0,Long,0.2,False,None,a,5,90,8.0,16,0,0,0,0,0.0,0.0,Long,0
+0,0,17,None,None,0,83312,0,0,0,0,0.4,0,2,None,None,0,Ben,0.0,3,1,7.6,89,False,42.4,62,,None,40,0,0,0,83312.jpg,6.0,0,0,Gibson,3.1,False,None,a,5,90,33.0,6,0,0,0,0,0.0,0.0,Gibson,1
+3,13,394,None,None,7,44699,0,0,0,0,309.9,0,4,None,None,0,Ashley,0.0,41,12,192.9,90,False,581.2,2378,,None,65,1,0,0,44699.jpg,3.3,0,0,Barnes,1.1,False,None,a,5,90,1042.0,122,0,0,0,0,0.0,0.0,Barnes,8
+3,17,379,None,None,7,60689,0,0,0,0,310.3,0,4,None,None,0,Chris,0.0,49,10,167.9,91,False,475.8,2580,,None,65,0,0,0,60689.jpg,3.4,0,0,Wood,1.3,False,None,a,5,90,911.0,131,0,0,0,0,0.0,0.0,Wood,2
+1,0,61,None,None,0,81183,0,0,0,0,33.7,0,4,None,None,0,Matej,0.0,7,1,21.4,92,False,70.4,310,,None,55,0,0,0,81183.jpg,1.6,0,0,Vydra,0.1,False,None,a,5,90,114.0,21,0,0,0,0,0.0,0.0,Vydra,1
+0,0,0,None,None,0,98747,0,0,0,0,0.0,0,1,None,None,0,Nick,0.0,0,0,0.0,93,False,0.0,0,,None,45,0,0,0,98747.jpg,0.0,0,0,Pope,1.6,False,None,a,5,90,0.0,0,0,0,0,0,0.0,0.0,Pope,0
+0,4,323,None,None,4,21205,0,0,0,0,20.1,0,1,None,None,0,Tom,0.0,27,0,46.6,94,False,442.8,1710,,None,45,0,0,0,21205.jpg,3.1,0,63,Heaton,6.5,False,None,a,5,90,4.0,58,0,0,0,0,0.0,0.0,Heaton,3
+0,7,378,None,None,4,15749,0,0,0,0,10.1,0,1,None,None,0,Joe,0.0,41,0,60.3,95,False,594.6,1710,,None,45,0,0,1,15749.jpg,3.6,0,77,Hart,1.6,False,None,a,5,90,0.0,69,0,0,0,0,0.0,0.0,Hart,0
+7,6,339,None,None,5,60586,0,0,0,0,574.1,0,3,None,None,0,Johann Berg,0.0,39,3,141.1,96,False,456.2,1743,,None,60,0,0,0,60586.jpg,3.2,0,0,Gudmundsson,0.4,False,None,a,5,90,380.0,92,0,0,0,0,0.0,0.0,Gudmundsson,2
+4,6,305,None,None,5,433154,0,0,0,0,442.8,0,3,None,None,0,Dwight,0.0,25,3,112.5,97,False,405.2,1590,,None,60,0,0,0,433154.jpg,3.6,0,0,McNeil,0.6,False,None,a,5,90,279.0,75,0,0,0,0,0.0,0.0,McNeil,2
+1,0,77,None,None,1,90517,0,0,0,0,194.1,0,3,None,None,0,Robbie,0.0,17,0,38.2,98,False,102.0,714,,None,55,0,0,0,90517.jpg,1.3,1,0,Brady,0.2,False,None,a,5,90,85.0,20,0,0,0,0,0.0,0.0,Brady,3
+0,0,70,0,None,0,39847,0,0,0,0,36.6,0,3,None,None,0,Steven,0.0,14,0,9.9,99,False,61.4,449,Calf injury - Unknown return date,2019-06-25T11:30:07.038056Z,55,0,0,0,39847.jpg,1.7,0,0,Defour,0.0,False,None,i,5,90,0.0,10,0,0,0,0,0.0,0.0,Defour,0
+2,3,243,None,None,4,83314,0,0,0,0,205.3,0,3,None,None,0,Jeff,0.0,44,2,70.6,100,False,233.8,2058,,None,55,0,0,0,83314.jpg,2.3,0,0,Hendrick,0.1,False,None,a,5,90,269.0,73,0,0,0,0,0.0,0.0,Hendrick,4
+8,10,518,None,None,7,60551,0,0,0,0,643.1,0,3,None,None,0,Ashley,0.0,55,2,152.3,101,False,623.0,2821,,None,55,0,0,0,60551.jpg,3.3,0,0,Westwood,1.3,False,None,a,5,90,253.0,111,0,0,0,0,0.0,0.0,Westwood,5
+2,0,446,None,None,8,40145,0,0,0,0,309.7,0,3,None,None,0,Jack,0.0,63,1,104.3,102,False,491.4,3312,,None,50,0,0,0,40145.jpg,2.4,0,0,Cork,0.3,False,None,a,5,90,240.0,87,0,0,0,0,0.0,0.0,Cork,6
+8,21,702,None,None,14,82263,0,0,0,0,520.1,0,2,None,None,0,Marcos,0.0,28,2,161.7,103,False,619.0,2759,,None,65,0,0,0,82263.jpg,5.2,0,0,Alonso,3.1,False,None,a,6,8,475.0,161,0,0,0,0,0.0,0.0,Alonso,6
+2,9,609,0,None,12,102380,0,0,0,0,143.6,0,2,None,None,0,Antonio,0.0,35,1,98.5,104,False,566.8,2871,Knee injury - Unknown return date,2019-06-25T11:30:07.053434Z,60,0,0,0,102380.jpg,3.5,0,0,Rüdiger,0.1,False,None,i,6,8,273.0,116,0,0,0,0,0.0,0.0,Rüdiger,7
+6,11,822,None,None,16,41328,0,0,0,0,525.1,0,2,None,None,0,César,0.0,39,1,163.2,105,False,815.0,3402,,None,60,0,0,0,41328.jpg,4.2,0,0,Azpilicueta,10.0,False,None,a,6,8,286.0,158,0,0,0,0,0.0,0.0,Azpilicueta,4
+2,19,794,None,None,16,41270,0,0,0,0,358.7,0,2,None,None,0,David,0.0,36,3,158.0,106,False,859.0,3238,,None,60,0,0,0,41270.jpg,4.6,0,0,Luiz Moreira Marinho,9.8,False,None,a,6,8,363.0,164,0,0,0,0,0.0,0.0,David Luiz,3
+0,1,130,None,None,2,109533,0,0,0,0,113.8,0,2,None,None,0,Emerson,0.0,11,0,30.0,107,False,104.6,660,,None,55,0,0,0,109533.jpg,2.2,0,0,Palmieri dos Santos,0.6,False,None,a,6,8,81.0,22,0,0,0,0,0.0,0.0,Emerson,0
+0,0,133,None,None,3,135363,0,0,0,0,8.4,0,2,None,None,0,Andreas,0.0,7,0,13.6,108,False,120.6,615,,None,50,0,0,0,135363.jpg,2.8,0,0,Christensen,0.6,False,None,a,6,8,6.0,22,0,0,0,0,0.0,0.0,Christensen,1
+0,0,30,None,None,1,105700,0,0,0,0,14.7,0,2,None,None,0,Davide,0.0,0,0,6.1,109,False,17.4,125,,None,45,0,0,0,105700.jpg,2.3,0,0,Zappacosta,0.4,False,None,a,6,8,29.0,9,0,0,0,0,0.0,0.0,Zappacosta,0
+4,2,169,None,None,6,44346,0,0,0,0,253.6,0,4,None,None,0,Olivier,0.0,5,2,94.5,110,False,183.2,828,,None,70,0,0,0,44346.jpg,2.0,0,0,Giroud,3.3,False,None,a,6,8,519.0,55,0,0,0,0,0.0,0.0,Giroud,1
+0,7,685,None,None,14,109745,0,0,0,0,0.1,0,1,None,None,0,Kepa,0.0,39,0,68.0,111,False,681.0,3240,,None,55,0,0,1,109745.jpg,3.9,0,82,Arrizabalaga,8.0,False,None,a,6,8,0.0,142,0,0,0,0,0.0,0.0,Kepa,2
+0,0,45,None,None,2,20310,0,0,0,0,1.0,0,1,None,None,0,Willy,0.0,0,0,2.6,112,False,24.6,180,,None,50,0,0,0,20310.jpg,6.5,0,3,Caballero,0.3,False,None,a,6,8,0.0,13,0,0,0,0,0.0,0.0,Caballero,0
+7,6,475,None,None,11,47431,0,0,0,0,1165.5,0,3,None,None,0,Willian,0.0,25,3,246.7,113,False,557.6,2091,,None,70,0,0,0,47431.jpg,3.4,0,0,Borges Da Silva,6.3,False,None,a,6,8,742.0,108,0,0,0,0,0.0,0.0,Willian,2
+2,12,440,None,None,7,49579,0,0,0,0,503.5,0,3,None,None,0,Pedro,0.0,19,8,176.5,114,False,530.2,1768,,None,70,0,0,0,49579.jpg,3.6,0,0,Rodríguez Ledesma,4.1,False,None,a,6,8,733.0,112,0,0,0,0,0.0,0.0,Pedro,2
+2,6,292,0,None,5,126187,0,0,0,0,254.9,0,3,None,None,0,Ruben,0.0,9,6,99.4,115,False,391.6,980,Achilles injury - Unknown return date,2019-06-25T11:30:07.068350Z,65,0,0,0,126187.jpg,3.3,0,0,Loftus-Cheek,0.4,False,None,i,6,8,346.0,79,0,0,0,0,0.0,0.0,Loftus-Cheek,0
+1,1,83,0,None,2,209046,0,0,0,0,143.2,0,3,None,None,0,Callum,0.0,5,0,36.2,116,False,89.2,388,Achilles injury - Unknown return date,2019-06-25T11:30:07.083018Z,60,0,0,0,209046.jpg,1.8,0,0,Hudson-Odoi,0.9,False,None,i,6,8,133.0,18,0,0,0,0,0.0,0.0,Hudson-Odoi,0
+5,5,300,None,None,7,88894,0,0,0,0,349.0,0,3,None,None,0,Ross,0.0,13,3,110.0,117,False,324.0,1231,,None,60,0,0,0,88894.jpg,2.9,0,0,Barkley,1.2,False,None,a,6,8,429.0,79,0,0,0,0,0.0,0.0,Barkley,1
+0,4,577,None,None,16,85955,0,0,0,0,628.4,0,3,None,None,0,Jorge Luiz,0.0,37,2,144.2,118,False,691.4,3156,,None,50,0,0,0,85955.jpg,2.6,0,0,Frello Filho,2.6,False,None,a,6,8,122.0,96,0,0,0,0,0.0,0.0,Jorginho,8
+4,3,563,None,None,14,116594,0,0,0,0,766.3,0,3,None,None,0,N'Golo,0.0,38,4,186.4,119,False,683.6,3092,,None,50,0,0,0,116594.jpg,3.2,0,0,Kanté,14.8,False,None,a,6,8,412.0,116,0,0,0,0,0.0,0.0,Kanté,3
+0,0,0,None,None,0,61603,0,0,0,0,0.0,0,3,None,None,0,Daniel,0.0,0,0,0.0,120,False,0.0,0,,None,45,0,0,0,61603.jpg,0.0,0,0,Drinkwater,0.4,False,None,a,6,8,0.0,0,0,0,0,0,0.0,0.0,Drinkwater,0
+0,0,0,None,None,0,199598,0,0,0,0,0.0,0,3,None,None,0,Ethan,0.0,0,0,0.0,121,False,0.0,0,,None,45,0,0,0,199598.jpg,0.0,0,0,Ampadu,0.3,False,None,a,6,8,0.0,0,0,0,0,0,0.0,0.0,Ampadu,0
+3,18,672,None,None,12,214590,0,0,0,0,266.8,0,2,None,None,0,Aaron,0.0,47,0,127.1,122,False,863.4,3134,,None,55,0,0,0,214590.jpg,3.4,1,0,Wan-Bissaka,34.2,False,None,a,7,31,139.0,120,0,0,0,0,0.0,0.0,Wan-Bissaka,4
+2,17,626,None,None,12,74230,0,0,0,0,520.4,0,2,None,None,0,Patrick,0.0,46,3,158.7,123,False,616.0,3196,,None,55,0,0,0,74230.jpg,3.9,0,0,van Aanholt,5.8,False,None,a,7,31,448.0,140,0,0,0,0,0.0,0.0,van Aanholt,3
+1,0,504,0,None,10,49413,0,0,0,0,83.0,0,2,None,None,0,James,0.0,37,1,92.3,124,False,560.8,2561,Groin Injury - Unknown return date,2019-06-25T11:30:07.097330Z,50,0,0,0,49413.jpg,3.0,0,0,Tomkins,0.0,False,None,i,7,31,276.0,86,0,0,0,0,0.0,0.0,Tomkins,6
+0,13,533,0,None,9,40784,0,0,0,0,78.2,0,2,None,None,0,Mamadou,0.0,35,0,66.6,125,False,540.6,2416,Knee injury - Unknown return date,2019-06-25T11:30:07.112991Z,50,0,0,0,40784.jpg,3.3,0,0,Sakho,0.1,False,None,i,7,31,47.0,88,0,0,0,0,0.0,0.0,Sakho,2
+0,0,68,None,None,0,55494,0,0,0,0,28.9,0,2,None,None,0,Joel,0.0,14,1,20.5,126,False,131.8,551,,None,45,0,0,0,55494.jpg,1.9,0,0,Ward,0.5,False,None,a,7,31,43.0,13,0,0,0,0,0.0,0.0,Ward,1
+1,0,129,None,None,2,19188,0,0,0,0,22.5,0,2,None,None,0,Scott,0.0,10,0,28.1,127,False,186.2,661,,None,45,0,0,0,19188.jpg,2.3,0,0,Dann,0.3,False,None,a,7,31,71.0,23,0,0,0,0,0.0,0.0,Dann,1
+0,1,166,None,None,3,58786,0,0,0,0,17.1,0,2,None,None,0,Martin,0.0,21,0,32.2,128,False,269.8,1110,,None,40,1,0,0,58786.jpg,2.0,0,0,Kelly,21.7,False,None,a,7,31,34.0,26,0,0,0,0,0.0,0.0,Kelly,2
+1,3,65,None,None,3,54861,0,0,0,0,118.4,0,4,None,None,0,Christian,0.0,13,1,56.1,129,False,106.0,807,,None,60,0,0,0,54861.jpg,2.1,0,0,Benteke,0.7,False,None,a,7,31,348.0,33,0,0,0,0,0.0,0.0,Benteke,1
+1,0,23,None,None,0,59125,0,0,0,0,41.9,0,4,None,None,0,Connor,0.0,1,0,12.0,130,False,23.2,61,,None,45,0,0,0,59125.jpg,1.5,0,0,Wickham,3.5,False,None,a,7,31,55.0,9,0,0,0,0,0.0,0.0,Wickham,0
+0,8,378,None,None,7,40836,0,0,0,0,0.0,0,1,None,None,0,Vicente,0.0,23,0,44.8,131,False,448.0,1754,,None,50,0,0,0,40836.jpg,4.0,0,64,Guaita,1.1,False,None,a,7,31,0.0,81,0,0,0,0,0.0,0.0,Guaita,2
+0,6,311,None,None,5,20066,0,0,0,0,0.0,0,1,None,None,0,Wayne,0.0,26,0,35.9,132,False,358.8,1575,,None,45,0,0,1,20066.jpg,3.7,0,44,Hennessey,1.4,False,None,a,7,31,0.0,67,0,0,0,0,0.0,0.0,Hennessey,0
+11,13,459,None,None,11,82403,0,0,0,0,753.3,0,3,None,None,0,Wilfried,0.0,49,10,270.6,133,False,752.8,3037,,None,70,0,0,0,82403.jpg,4.2,1,0,Zaha,35.1,False,None,a,7,31,1200.0,143,0,0,0,0,0.0,0.0,Zaha,8
+2,24,741,None,None,12,66975,0,0,0,0,910.1,0,3,None,None,0,Luka,0.0,53,12,246.3,134,False,1078.2,3420,,None,70,0,1,0,66975.jpg,4.4,0,0,Milivojevic,15.2,False,None,a,7,31,473.0,166,0,0,0,0,0.0,0.0,Milivojevic,10
+5,8,520,None,None,11,60252,0,0,0,0,928.5,0,3,None,None,0,Andros,0.0,46,6,229.6,135,False,743.0,3007,,None,60,0,0,0,60252.jpg,3.6,0,0,Townsend,3.8,False,None,a,7,31,622.0,135,0,0,0,0,0.0,0.0,Townsend,1
+3,0,223,None,None,6,141020,0,0,0,0,309.9,0,3,None,None,0,Max,0.0,24,1,98.0,136,False,236.0,1405,,None,55,0,0,0,141020.jpg,2.1,0,0,Meyer,0.2,False,None,a,7,31,433.0,60,0,0,0,0,0.0,0.0,Meyer,3
+3,3,301,0,None,4,86417,0,0,0,0,240.5,0,3,None,None,0,Jeffrey,0.0,26,4,105.7,137,False,385.2,1660,Ankle injury - Unknown return date,2019-06-25T11:30:07.127981Z,55,0,0,0,86417.jpg,3.0,0,0,Schlupp,0.0,False,None,i,7,31,430.0,91,0,0,0,0,0.0,0.0,Schlupp,1
+7,7,500,None,None,11,50471,0,0,0,0,457.2,0,3,None,None,0,James,0.0,49,3,161.3,138,False,666.8,3057,,None,55,0,0,0,50471.jpg,3.2,0,0,McArthur,2.0,False,None,a,7,31,487.0,121,0,0,0,0,0.0,0.0,McArthur,7
+3,0,251,None,None,9,55037,0,0,0,0,198.5,0,3,None,None,0,Cheikhou,0.0,30,0,75.6,139,False,337.4,1889,,None,50,0,0,0,55037.jpg,2.2,0,0,Kouyaté,0.1,False,None,a,7,31,222.0,67,0,0,0,0,0.0,0.0,Kouyaté,3
+0,0,3,None,None,0,221275,0,0,0,0,0.6,0,3,None,None,0,Luke,0.0,0,0,0.1,140,False,0.2,1,,None,45,0,0,0,221275.jpg,1.0,0,0,Dreher,0.1,False,None,a,7,31,0.0,1,0,0,0,0,0.0,0.0,Dreher,0
+5,22,736,None,None,13,101188,0,0,0,0,1142.0,0,2,None,None,0,Lucas,0.0,38,4,232.7,141,False,883.0,2964,,None,60,1,0,0,101188.jpg,4.5,1,0,Digne,27.7,False,None,a,8,11,300.0,158,0,0,0,0,0.0,0.0,Digne,5
+0,2,176,None,None,3,164511,0,0,0,0,37.5,0,2,None,None,0,Yerry,0.0,13,1,29.6,142,False,198.2,891,,None,55,0,0,0,164511.jpg,2.8,0,0,Mina,0.5,False,None,a,8,11,61.0,36,0,0,0,0,0.0,0.0,Mina,3
+2,15,642,None,None,13,106611,0,0,0,0,101.2,0,2,None,None,0,Michael,0.0,39,1,117.2,143,False,740.2,2970,,None,55,0,0,0,106611.jpg,3.9,0,0,Keane,2.2,False,None,a,8,11,326.0,129,0,0,0,0,0.0,0.0,Keane,2
+2,12,548,None,None,13,59949,0,0,0,0,387.3,0,2,None,None,0,Seamus,0.0,30,2,117.6,144,False,515.2,2558,,None,55,1,0,0,59949.jpg,4.3,0,0,Coleman,3.4,False,None,a,8,11,274.0,125,0,0,0,0,0.0,0.0,Coleman,1
+0,0,48,None,None,0,12745,0,0,0,0,91.4,0,2,None,None,0,Leighton,0.0,6,0,15.4,145,False,48.4,374,,None,50,0,0,0,12745.jpg,1.2,0,0,Baines,0.3,False,None,a,8,11,15.0,7,0,0,0,0,0.0,0.0,Baines,0
+3,3,166,None,None,1,66838,0,0,0,0,172.2,0,4,None,None,0,Cenk,0.0,17,3,92.8,146,False,212.6,1044,,None,60,0,0,0,66838.jpg,2.2,0,0,Tosun,0.3,False,None,a,8,11,546.0,56,0,0,0,0,0.0,0.0,Tosun,3
+5,3,267,None,None,8,177815,0,0,0,0,185.7,0,4,None,None,0,Dominic,0.0,26,6,111.5,147,False,321.8,1769,,None,60,0,0,0,177815.jpg,2.6,0,0,Calvert-Lewin,5.5,False,None,a,8,11,618.0,92,0,0,0,0,0.0,0.0,Calvert-Lewin,3
+0,13,706,None,None,14,111234,0,0,0,0,10.0,0,1,None,None,0,Jordan,0.0,46,0,78.5,148,False,776.4,3420,,None,55,0,0,3,111234.jpg,4.2,0,94,Pickford,11.6,False,None,a,8,11,0.0,161,0,0,0,0,0.0,0.0,Pickford,1
+0,0,0,None,None,0,10318,0,0,0,0,0.0,0,1,None,None,0,Maarten,0.0,0,0,0.0,149,False,0.0,0,,None,40,0,0,0,10318.jpg,0.0,0,0,Stekelenburg,4.6,False,None,a,8,11,0.0,0,0,0,0,0,0.0,0.0,Stekelenburg,0
+3,12,400,None,None,11,212319,0,0,0,0,350.7,0,3,None,None,0,Richarlison,0.0,36,13,224.5,150,False,698.4,2662,,None,80,0,0,0,212319.jpg,4.4,1,0,de Andrade,9.7,False,None,a,8,11,1209.0,153,0,0,0,0,0.0,0.0,Richarlison,5
+6,20,662,None,None,15,55422,0,0,0,0,1098.5,0,3,None,None,0,Gylfi,0.0,41,13,314.2,151,False,959.8,3122,,None,80,0,3,0,55422.jpg,4.8,0,0,Sigurdsson,16.2,False,None,a,8,11,1084.0,182,0,0,0,0,0.0,0.0,Sigurdsson,3
+4,5,319,None,None,13,100649,0,0,0,0,589.6,0,3,None,None,0,Bernard,0.0,19,1,133.3,152,False,366.0,2108,,None,65,0,0,0,100649.jpg,2.6,0,0,Anício Caldeira Duarte,0.5,False,None,a,8,11,377.0,88,0,0,0,0,0.0,0.0,Bernard,5
+3,4,292,None,None,6,20467,0,0,0,0,342.9,0,3,None,None,0,Theo,0.0,33,5,145.7,153,False,420.0,2108,,None,65,0,0,0,20467.jpg,2.7,0,0,Walcott,0.6,False,None,a,8,11,699.0,101,0,0,0,0,0.0,0.0,Walcott,1
+0,0,127,None,None,2,173807,0,0,0,0,96.2,0,3,None,None,0,Tom,0.0,19,0,32.1,154,False,122.6,975,,None,55,0,0,0,173807.jpg,1.6,0,0,Davies,0.2,False,None,a,8,11,103.0,26,0,0,0,0,0.0,0.0,Davies,3
+3,0,110,None,None,1,219352,0,0,0,0,172.1,0,3,None,None,0,Ademola,0.0,8,0,51.6,155,False,131.4,600,,None,50,0,0,0,219352.jpg,1.6,0,0,Lookman,0.2,False,None,a,8,11,211.0,34,0,0,0,0,0.0,0.0,Lookman,0
+2,0,472,None,None,13,80801,0,0,0,0,311.3,0,3,None,None,0,Idrissa,0.0,31,0,111.1,156,False,629.2,2821,,None,50,0,0,0,80801.jpg,2.4,0,0,Gueye,0.3,False,None,a,8,11,168.0,78,0,0,0,0,0.0,0.0,Gueye,6
+0,0,3,None,None,0,50472,0,0,0,0,0.1,0,3,None,None,0,James,0.0,0,0,0.5,157,False,5.2,14,,None,45,0,0,0,50472.jpg,1.0,0,0,McCarthy,0.2,False,None,a,8,11,0.0,1,0,0,0,0,0.0,0.0,McCarthy,0
+1,0,152,None,None,5,42774,0,0,0,0,124.7,0,3,None,None,0,Morgan,0.0,9,0,29.4,158,False,151.6,832,,None,45,0,0,0,42774.jpg,2.0,0,0,Schneiderlin,0.6,False,None,a,8,11,17.0,28,0,0,0,0,0.0,0.0,Schneiderlin,2
+2,2,268,None,None,9,120250,0,0,0,0,154.6,0,3,None,None,0,André Filipe,0.0,28,1,63.1,422,False,268.4,1977,,None,55,0,0,0,120250.jpg,2.4,0,0,Tavares Gomes,1.0,False,None,a,8,11,207.0,64,0,0,0,0,0.0,0.0,André Gomes,7
+8,22,693,None,None,10,111931,0,0,0,0,517.6,0,2,None,None,0,Ricardo Domingos,0.0,45,2,183.7,159,False,889.0,3123,,None,60,0,0,0,111931.jpg,4.2,0,0,Barbosa Pereira,8.9,False,None,a,9,13,430.0,146,0,0,0,0,0.0,0.0,Pereira,7
+1,10,533,None,None,6,95658,0,0,0,0,165.3,0,2,None,None,0,Harry,0.0,41,3,134.3,160,False,715.8,2596,,None,55,0,0,0,95658.jpg,3.0,1,0,Maguire,7.4,False,None,a,9,13,462.0,92,0,0,0,0,0.0,0.0,Maguire,6
+5,8,578,None,None,10,172850,0,0,0,0,674.6,0,2,None,None,0,Benjamin,0.0,43,0,170.0,161,False,721.0,3240,,None,55,0,0,0,172850.jpg,3.3,0,0,Chilwell,5.9,False,None,a,9,13,298.0,118,0,0,0,0,0.0,0.0,Chilwell,4
+0,3,418,None,None,8,37642,0,0,0,0,66.1,0,2,None,None,0,Jonny,0.0,26,1,68.5,162,False,460.0,1993,,None,50,0,0,0,37642.jpg,3.2,0,0,Evans,0.5,False,None,a,9,13,158.0,77,0,0,0,0,0.0,0.0,Evans,2
+0,0,38,None,None,0,37402,0,0,0,0,85.6,0,2,None,None,0,Christian,0.0,5,0,14.9,163,False,50.4,206,,None,45,0,0,0,37402.jpg,1.0,0,0,Fuchs,0.3,False,None,a,9,13,14.0,3,0,0,0,0,0.0,0.0,Fuchs,0
+0,0,48,None,None,0,218031,0,0,0,0,6.8,0,2,None,None,0,Çaglar,0.0,4,0,10.6,164,False,76.6,371,,None,45,0,0,0,218031.jpg,1.5,0,0,Söyüncü,0.1,False,None,a,9,13,22.0,9,0,0,0,0,0.0,0.0,Söyüncü,1
+0,7,365,None,None,6,15033,0,0,0,0,40.1,0,2,None,None,0,Wes,0.0,28,3,80.5,165,False,471.0,1924,,None,45,0,0,0,15033.jpg,3.5,2,0,Morgan,1.2,False,None,a,9,13,293.0,76,0,0,0,0,0.0,0.0,Morgan,1
+5,31,598,None,None,11,101668,0,0,0,0,419.9,0,4,None,None,0,Jamie,0.0,36,18,244.6,166,False,822.0,2726,,None,90,0,1,0,101668.jpg,5.1,1,0,Vardy,10.6,False,None,a,9,13,1206.0,174,0,0,0,0,0.0,0.0,Vardy,3
+5,3,160,None,None,1,173515,0,0,0,0,209.4,0,4,None,None,0,Kelechi,0.0,16,1,56.9,167,False,135.8,924,,None,60,0,0,0,173515.jpg,1.9,0,0,Iheanacho,0.3,False,None,a,9,13,230.0,58,0,0,0,0,0.0,0.0,Iheanacho,2
+0,6,618,None,None,10,17745,0,0,0,0,10.0,0,1,None,None,0,Kasper,0.0,48,0,76.9,168,False,756.8,3420,,None,50,0,0,0,17745.jpg,3.2,0,90,Schmeichel,4.2,False,None,a,9,13,4.0,120,0,0,0,0,0.0,0.0,Schmeichel,3
+0,0,0,None,None,0,11974,0,0,0,0,0.0,0,1,None,None,0,Eldin,0.0,0,0,0.0,169,False,0.0,0,,None,45,0,0,0,11974.jpg,0.0,0,0,Jakupovic,0.2,False,None,a,9,13,0.0,0,0,0,0,0,0.0,0.0,Jakupovic,0
+0,0,0,None,None,0,95463,0,0,0,0,0.0,0,1,None,None,0,Danny,0.0,0,0,0.0,170,False,0.0,0,,None,45,0,0,0,95463.jpg,0.0,0,0,Ward,0.2,False,None,a,9,13,0.0,0,0,0,0,0,0.0,0.0,Ward,0
+7,12,619,None,None,8,172780,0,0,0,0,1515.0,0,3,None,None,0,James,0.0,44,7,308.4,171,False,801.4,2831,,None,70,0,1,0,172780.jpg,3.8,1,0,Maddison,19.6,False,None,a,9,13,769.0,137,0,0,0,0,0.0,0.0,Maddison,3
+3,1,139,None,None,1,201666,0,0,0,0,242.0,0,3,None,None,0,Harvey,0.0,16,1,94.8,172,False,172.8,1001,,None,60,0,0,0,201666.jpg,2.7,0,0,Barnes,0.6,False,None,a,9,13,534.0,43,0,0,0,0,0.0,0.0,Barnes,0
+0,2,112,None,None,1,115858,0,0,0,0,307.0,0,3,None,None,0,Rachid,0.0,13,1,68.3,173,False,147.8,733,,None,55,0,0,0,115858.jpg,1.5,0,0,Ghezzal,0.1,False,None,a,9,13,228.0,28,0,0,0,0,0.0,0.0,Ghezzal,3
+2,4,279,None,None,5,51938,0,0,0,0,446.8,0,3,None,None,0,Marc,0.0,17,2,106.1,174,False,371.2,1617,,None,55,0,0,0,51938.jpg,2.3,0,0,Albrighton,0.3,False,None,a,9,13,242.0,63,0,0,0,0,0.0,0.0,Albrighton,3
+1,3,244,None,None,6,172632,0,0,0,0,310.2,0,3,None,None,0,Demarai,0.0,29,4,122.5,175,False,320.2,1978,,None,55,0,0,0,172632.jpg,2.5,0,0,Gray,1.0,False,None,a,9,13,599.0,84,0,0,0,0,0.0,0.0,Gray,2
+0,4,571,None,None,9,203341,0,0,0,0,342.4,0,3,None,None,0,Wilfred,0.0,47,2,141.6,176,False,726.0,3295,,None,50,0,0,0,203341.jpg,2.3,0,0,Ndidi,0.9,False,None,a,9,13,346.0,89,0,0,0,0,0.0,0.0,Ndidi,8
+0,0,0,None,None,0,61604,0,0,0,0,0.0,0,3,None,None,0,Matty,0.0,0,0,0.0,177,False,0.0,0,,None,45,0,0,0,61604.jpg,0.0,0,0,James,0.3,False,None,a,9,13,0.0,0,0,0,0,0,0.0,0.0,James,0
+0,0,103,0,None,1,155569,0,0,0,0,46.7,0,3,None,None,0,Daniel,0.0,9,0,20.8,178,False,139.0,639,Leg injury - Unknown return date,2019-06-25T11:30:07.144362Z,45,0,0,0,155569.jpg,1.7,0,0,Amartey,0.0,False,None,i,9,13,21.0,15,0,0,0,0,0.0,0.0,Amartey,2
+1,0,291,None,None,7,86881,0,0,0,0,135.5,0,3,None,None,0,Nampalys,0.0,29,0,39.5,179,False,235.8,2085,,None,45,0,0,0,86881.jpg,1.9,0,0,Mendy,2.6,False,None,a,9,13,23.0,58,0,0,0,0,0.0,0.0,Mendy,5
+0,0,80,None,None,4,197469,0,0,0,0,73.7,0,3,None,None,0,Hamza,0.0,4,0,24.6,180,False,119.6,593,,None,45,0,0,0,197469.jpg,2.2,0,0,Choudhury,1.0,False,None,a,9,13,51.0,20,0,0,0,0,0.0,0.0,Choudhury,0
+12,29,906,None,None,21,122798,0,0,0,0,767.2,0,2,None,None,0,Andrew,0.0,20,0,183.6,181,False,748.8,3216,,None,70,0,0,0,122798.jpg,5.9,0,0,Robertson,38.2,False,None,a,10,14,318.0,213,0,0,0,0,0.0,0.0,Robertson,4
+13,25,753,None,None,16,169187,0,0,0,0,837.4,0,2,None,None,0,Trent,0.0,14,1,184.7,182,False,734.4,2460,,None,70,0,0,0,169187.jpg,6.4,0,0,Alexander-Arnold,30.7,False,None,a,10,14,276.0,185,0,0,0,0,0.0,0.0,Alexander-Arnold,3
+4,22,932,None,None,20,97032,0,0,0,0,111.1,0,2,None,None,0,Virgil,0.0,22,4,156.1,183,False,993.6,3384,,None,65,0,0,0,97032.jpg,5.5,0,0,van Dijk,37.7,False,None,a,10,14,455.0,208,0,0,0,0,0.0,0.0,van Dijk,1
+0,2,268,None,None,7,171287,0,0,0,0,92.1,0,2,None,None,0,Joseph,0.0,4,0,34.7,184,False,209.8,1059,,None,55,0,0,0,171287.jpg,3.4,0,0,Gomez,1.7,False,None,a,10,14,44.0,55,0,0,0,0,0.0,0.0,Gomez,2
+0,7,402,None,None,9,60914,0,0,0,0,57.9,0,2,None,None,0,Joel,0.0,12,1,55.9,185,False,414.6,1535,,None,55,0,0,0,60914.jpg,3.8,0,0,Matip,1.0,False,None,a,10,14,85.0,83,0,0,0,0,0.0,0.0,Matip,3
+1,9,258,None,None,6,38454,0,0,0,0,29.1,0,2,None,None,0,Dejan,0.0,7,1,35.7,186,False,255.8,986,,None,55,0,0,0,38454.jpg,4.8,0,0,Lovren,0.2,False,None,a,10,14,72.0,63,0,0,0,0,0.0,0.0,Lovren,1
+8,24,647,None,None,19,92217,0,0,0,0,670.1,0,4,None,None,0,Roberto,0.0,15,12,267.8,187,False,774.8,2606,,None,95,0,0,0,92217.jpg,4.7,0,0,Firmino,7.6,False,None,a,10,14,1240.0,160,0,0,0,0,0.0,0.0,Firmino,0
+1,1,122,None,None,3,152760,0,0,0,0,45.0,0,4,None,None,0,Divock,0.0,2,3,38.2,188,False,143.4,364,,None,55,0,0,0,152760.jpg,2.7,0,0,Origi,1.8,False,None,a,10,14,195.0,32,0,0,0,0,0.0,0.0,Origi,0
+0,9,771,None,None,21,116535,0,0,0,0,0.1,0,1,None,None,0,Alisson,0.0,22,0,67.6,189,False,677.0,3420,,None,60,0,0,0,116535.jpg,4.6,0,76,Ramses Becker,29.4,False,None,a,10,14,0.0,176,0,0,0,0,0.0,0.0,Alisson,1
+0,0,0,None,None,0,66797,0,0,0,0,0.0,0,1,None,None,0,Simon,0.0,0,0,0.0,190,False,0.0,0,,None,45,0,0,0,66797.jpg,0.0,0,0,Mignolet,0.2,False,None,a,10,14,0.0,0,0,0,0,0,0.0,0.0,Mignolet,0
+12,18,687,None,None,21,118748,0,0,0,0,973.9,0,3,None,None,0,Mohamed,0.0,20,22,432.7,191,False,1186.8,3254,,None,125,0,0,0,118748.jpg,6.8,0,0,Salah,38.3,False,None,a,10,14,2168.0,259,0,0,0,0,0.0,0.0,Salah,1
+3,24,703,None,None,19,110979,0,0,0,0,692.8,0,3,None,None,0,Sadio,0.0,21,22,304.0,192,False,1015.8,3076,,None,115,0,0,0,110979.jpg,6.4,0,0,Mané,26.3,False,None,a,10,14,1332.0,231,0,0,0,0,0.0,0.0,Mané,2
+0,0,7,None,None,0,81880,0,0,0,0,10.8,0,3,None,None,0,Alex,0.0,0,0,4.0,193,False,10.2,19,,None,65,0,0,0,81880.jpg,1.0,0,0,Oxlade-Chamberlain,0.6,False,None,a,10,14,19.0,2,0,0,0,0,0.0,0.0,Chamberlain,0
+5,4,302,None,None,7,68312,0,0,0,0,344.7,0,3,None,None,0,Xherdan,0.0,6,6,99.1,194,False,363.6,1052,,None,65,0,0,0,68312.jpg,3.7,0,0,Shaqiri,0.4,False,None,a,10,14,282.0,88,0,0,0,0,0.0,0.0,Shaqiri,2
+1,0,96,None,None,3,39155,0,0,0,0,139.0,0,3,None,None,0,Adam,0.0,3,0,33.8,195,False,85.4,460,,None,60,0,0,0,39155.jpg,1.8,0,0,Lallana,0.1,False,None,a,10,14,113.0,23,0,0,0,0,0.0,0.0,Lallana,1
+1,3,246,None,None,10,175592,0,0,0,0,213.1,0,3,None,None,0,Naby,0.0,8,2,86.3,196,False,293.6,1385,,None,60,0,0,0,175592.jpg,2.7,0,0,Keita,0.5,False,None,a,10,14,356.0,67,0,0,0,0,0.0,0.0,Keita,0
+2,0,305,None,None,11,116643,0,0,0,0,283.4,0,3,None,None,0,Fabio Henrique,0.0,14,1,86.4,197,False,406.2,2011,,None,55,0,0,0,116643.jpg,2.3,0,0,Tavares,0.6,False,None,a,10,14,173.0,65,0,0,0,0,0.0,0.0,Fabinho,6
+3,2,397,None,None,12,56979,0,0,0,0,311.7,0,3,None,None,0,Jordan,0.0,14,1,85.4,198,False,358.8,1976,,None,55,0,0,0,56979.jpg,2.4,1,0,Henderson,0.5,False,None,a,10,14,182.0,76,0,0,0,0,0.0,0.0,Henderson,1
+1,9,470,None,None,18,41733,0,0,0,0,405.2,0,3,None,None,0,Georginio,0.0,16,3,118.4,199,False,437.6,2723,,None,55,0,0,0,41733.jpg,3.1,0,0,Wijnaldum,2.2,False,None,a,10,14,338.0,108,0,0,0,0,0.0,0.0,Wijnaldum,3
+5,12,448,None,None,9,15157,0,0,0,0,725.2,0,3,None,None,0,James,0.0,13,5,169.2,200,False,587.2,1778,,None,55,0,0,0,15157.jpg,3.3,1,0,Milner,0.7,False,None,a,10,14,374.0,101,0,0,0,0,0.0,0.0,Milner,5
+0,0,3,None,None,0,217989,0,0,0,0,0.0,0,3,None,None,0,Rafael,0.0,1,0,0.2,201,False,2.0,1,,None,45,0,0,0,217989.jpg,1.0,0,0,Camacho,0.0,False,None,a,10,14,0.0,1,0,0,0,0,0.0,0.0,Camacho,0
+3,16,768,None,None,18,146941,0,0,0,0,239.3,0,2,None,None,0,Aymeric,0.0,21,3,131.2,202,False,790.0,3056,,None,65,0,0,0,146941.jpg,5.1,0,0,Laporte,21.5,False,None,a,11,43,278.0,177,0,0,0,0,0.0,0.0,Laporte,3
+1,11,684,None,None,18,58621,0,0,0,0,448.4,0,2,None,None,0,Kyle,0.0,17,1,113.1,203,False,498.8,2776,,None,60,0,0,0,58621.jpg,4.5,0,0,Walker,13.9,False,None,a,11,43,183.0,150,0,0,0,0,0.0,0.0,Walker,3
+6,6,262,None,None,4,102826,0,0,0,0,222.7,0,2,None,None,0,Benjamin,0.0,6,0,54.2,204,False,250.8,900,,None,60,0,0,0,102826.jpg,5.9,0,0,Mendy,10.8,False,None,a,11,43,70.0,59,0,0,0,0,0.0,0.0,Mendy,1
+1,2,186,None,None,3,41823,0,0,0,0,97.8,0,2,None,None,0,Fabian,0.0,9,0,27.5,205,False,153.8,722,,None,55,0,0,0,41823.jpg,2.6,1,0,Delph,0.2,False,None,a,11,43,24.0,29,0,0,0,0,0.0,0.0,Delph,1
+3,1,230,None,None,9,206325,0,0,0,0,278.6,0,2,None,None,0,Oleksandr,0.0,4,0,63.5,206,False,279.2,1151,,None,55,0,0,0,206325.jpg,3.1,0,0,Zinchenko,2.4,False,None,a,11,43,77.0,44,0,0,0,0,0.0,0.0,Zinchenko,1
+0,9,431,None,None,9,97299,0,0,0,0,115.5,0,2,None,None,0,John,0.0,15,0,54.1,207,False,376.6,1761,,None,55,0,0,0,97299.jpg,3.5,0,0,Stones,1.8,False,None,a,11,43,49.0,83,0,0,0,0,0.0,0.0,Stones,1
+0,5,335,None,None,9,57410,0,0,0,0,53.7,0,2,None,None,0,Nicolás,0.0,7,0,47.8,208,False,281.2,1233,,None,55,0,0,0,57410.jpg,3.9,0,0,Otamendi,0.7,False,None,a,11,43,143.0,70,0,0,0,0,0.0,0.0,Otamendi,1
+0,7,202,None,None,4,100180,0,0,0,0,118.0,0,2,None,None,0,Danilo Luiz,0.0,7,1,38.2,209,False,165.2,805,,None,50,0,0,0,100180.jpg,4.2,0,0,da Silva,0.2,False,None,a,11,43,99.0,46,0,0,0,0,0.0,0.0,Danilo,1
+11,26,740,None,None,17,37572,0,0,0,0,523.7,0,4,None,None,0,Sergio,0.0,15,21,315.4,210,False,946.6,2457,,None,120,0,0,0,37572.jpg,6.1,0,0,Agüero,21.4,False,None,a,11,43,1685.0,201,0,0,0,0,0.0,0.0,Agüero,4
+3,7,259,None,None,2,205651,0,0,0,0,300.5,0,4,None,None,0,Gabriel Fernando,0.0,11,7,156.3,211,False,395.2,1017,,None,95,0,0,0,205651.jpg,2.7,0,0,de Jesus,1.3,False,None,a,11,43,864.0,79,0,0,0,0,0.0,0.0,Jesus,1
+1,6,700,None,None,20,121160,0,0,0,0,33.0,0,1,None,None,0,Ederson,0.0,23,0,56.8,212,False,535.2,3420,,None,60,0,0,0,121160.jpg,4.4,0,58,Santana de Moraes,17.6,False,None,a,11,43,0.0,169,0,0,0,0,0.0,0.0,Ederson,2
+0,0,0,0,None,0,33148,0,0,0,0,0.0,0,1,None,None,0,Claudio,0.0,0,0,0.0,213,False,0.0,0,Lack of match fitness - Unknown return date,2019-06-25T11:30:07.160148Z,50,0,0,0,33148.jpg,0.0,0,0,Bravo,0.0,False,None,i,11,43,0.0,0,0,0,0,0,0.0,0.0,Bravo,0
+15,25,743,None,None,17,103955,0,0,0,0,937.4,0,3,None,None,0,Raheem,0.0,19,17,357.1,214,False,1060.0,2770,,None,120,0,0,0,103955.jpg,6.9,0,0,Sterling,23.2,False,None,a,11,43,1572.0,234,0,0,0,0,0.0,0.0,Sterling,3
+3,8,268,None,None,6,61366,0,0,0,0,562.3,0,3,None,None,0,Kevin,0.0,3,2,117.9,215,False,301.4,968,,None,95,0,0,0,61366.jpg,3.1,0,0,De Bruyne,11.8,False,None,a,11,43,317.0,59,0,0,0,0,0.0,0.0,De Bruyne,2
+12,13,520,None,None,9,182156,0,0,0,0,645.0,0,3,None,None,0,Leroy,0.0,14,10,240.3,216,False,716.8,1857,,None,95,0,0,0,182156.jpg,5.0,0,0,Sané,2.4,False,None,a,11,43,1039.0,156,0,0,0,0,0.0,0.0,Sané,1
+4,14,349,None,None,4,103025,0,0,0,0,450.8,0,3,None,None,0,Riyad,0.0,9,7,164.1,217,False,459.4,1331,,None,85,0,1,0,103025.jpg,3.8,0,0,Mahrez,0.7,False,None,a,11,43,731.0,102,0,0,0,0,0.0,0.0,Mahrez,0
+8,17,649,None,None,15,165809,0,0,0,0,1026.3,0,3,None,None,0,Bernardo Mota,0.0,22,7,289.6,218,False,796.4,2849,,None,80,0,0,0,165809.jpg,4.3,0,0,Veiga de Carvalho e Silva,31.2,False,None,a,11,43,1069.0,154,0,0,0,0,0.0,0.0,Bernardo Silva,3
+8,14,614,None,None,16,20664,0,0,0,0,1150.3,0,3,None,None,0,David,0.0,14,6,295.8,219,False,715.2,2399,,None,75,0,0,0,20664.jpg,4.3,0,0,Silva,2.7,False,None,a,11,43,1092.0,143,0,0,0,0,0.0,0.0,David Silva,2
+0,3,93,None,None,2,209244,0,0,0,0,133.8,0,3,None,None,0,Phil,0.0,0,1,42.6,220,False,85.0,328,,None,55,0,0,0,209244.jpg,1.9,0,0,Foden,0.8,False,None,a,11,43,208.0,25,0,0,0,0,0.0,0.0,Foden,0
+3,4,444,None,None,12,27789,0,0,0,0,396.8,0,3,None,None,0,Fernando,0.0,15,1,114.2,221,False,534.6,2375,,None,55,0,0,0,27789.jpg,2.7,0,0,Luiz Rosa,1.0,False,None,a,11,43,208.0,79,0,0,0,0,0.0,0.0,Fernandinho,5
+3,10,528,None,None,13,59859,0,0,0,0,819.7,0,3,None,None,0,Ilkay,0.0,15,6,181.6,222,False,548.8,2129,,None,55,0,0,0,59859.jpg,3.6,0,0,Gündogan,3.2,False,None,a,11,43,447.0,113,0,0,0,0,0.0,0.0,Gündogan,3
+0,3,335,None,None,4,55909,0,0,0,0,31.0,0,2,None,None,0,Chris,0.0,36,1,66.0,223,False,453.4,2127,,None,55,1,0,0,55909.jpg,2.3,0,0,Smalling,0.2,False,None,a,12,1,176.0,56,0,0,0,0,0.0,0.0,Smalling,1
+3,4,450,None,None,4,18892,0,0,0,0,650.5,0,2,None,None,0,Ashley,0.0,44,2,133.0,224,False,554.4,2568,,None,55,0,0,0,18892.jpg,2.4,1,0,Young,0.3,False,None,a,12,1,124.0,73,0,0,0,0,0.0,0.0,Young,8
+1,9,527,None,None,6,184667,0,0,0,0,75.3,0,2,None,None,0,Victor,0.0,40,1,72.8,225,False,533.0,2600,,None,55,1,0,0,184667.jpg,2.8,0,0,Lindelöf,1.5,False,None,a,12,1,118.0,85,0,0,0,0,0.0,0.0,Lindelöf,1
+5,11,489,None,None,6,106760,0,0,0,0,505.6,0,2,None,None,0,Luke,0.0,39,1,138.1,226,False,586.2,2591,,None,55,0,0,0,106760.jpg,3.1,0,0,Shaw,2.9,False,None,a,12,1,287.0,91,0,0,0,0,0.0,0.0,Shaw,11
+0,0,15,None,None,0,58893,0,0,0,0,3.1,0,2,None,None,0,Marcos,0.0,5,0,10.9,227,False,42.2,209,,None,50,1,0,0,58893.jpg,0.4,0,0,Rojo,0.2,False,None,a,12,1,63.0,2,0,0,0,0,0.0,0.0,Rojo,2
+0,0,109,0,None,1,197365,0,0,0,0,3.4,0,2,None,None,0,Eric,0.0,13,0,16.5,228,False,125.0,636,Knee injury - Unknown return date,2019-06-25T11:30:07.176252Z,50,0,0,0,197365.jpg,1.3,1,0,Bailly,0.0,False,None,i,12,1,35.0,16,0,0,0,0,0.0,0.0,Bailly,0
+2,0,171,None,None,1,216051,0,0,0,0,259.0,0,2,None,None,0,José Diogo,0.0,18,0,53.7,229,False,184.4,1009,,None,50,0,0,0,216051.jpg,1.7,0,0,Dalot Teixeira,0.4,False,None,a,12,1,94.0,27,0,0,0,0,0.0,0.0,Dalot,3
+0,2,83,None,None,1,40002,0,0,0,0,34.9,0,2,None,None,0,Matteo,0.0,8,0,12.6,230,False,84.2,443,,None,50,0,0,0,40002.jpg,2.3,0,0,Darmian,0.1,False,None,a,12,1,7.0,14,0,0,0,0,0.0,0.0,Darmian,0
+1,3,273,None,None,3,76359,0,0,0,0,44.8,0,2,None,None,0,Phil,0.0,17,0,39.0,231,False,300.8,1261,,None,50,0,0,0,76359.jpg,2.4,0,0,Jones,0.2,False,None,a,12,1,42.0,43,0,0,0,0,0.0,0.0,Jones,1
+1,14,361,None,None,4,66749,0,0,0,0,330.2,0,4,None,None,0,Romelu,0.0,38,12,193.5,232,False,550.6,2126,,None,85,0,0,0,66749.jpg,3.6,0,0,Lukaku,4.5,False,None,a,12,1,1052.0,115,0,0,0,0,0.0,0.0,Lukaku,4
+7,14,425,None,None,6,176297,0,0,0,0,542.3,0,4,None,None,0,Marcus,0.0,35,10,224.6,233,False,650.0,2331,,None,85,0,0,0,176297.jpg,3.9,1,0,Rashford,15.2,False,None,a,12,1,1064.0,128,0,0,0,0,0.0,0.0,Rashford,3
+0,0,12,None,None,0,220688,0,0,0,0,43.3,0,4,None,None,0,Mason,0.0,2,0,15.7,234,False,24.0,115,,None,45,0,0,0,220688.jpg,1.3,0,0,Greenwood,4.1,False,None,a,12,1,90.0,4,0,0,0,0,0.0,0.0,Greenwood,0
+0,7,636,None,None,7,51940,0,0,0,0,0.0,0,1,None,None,0,David,0.0,54,0,84.5,235,False,846.0,3420,,None,55,0,0,0,51940.jpg,3.2,0,123,de Gea,9.3,False,None,a,12,1,0.0,120,0,0,0,0,0.0,0.0,de Gea,1
+0,0,0,None,None,0,42899,0,0,0,0,0.0,0,1,None,None,0,Sergio,0.0,0,0,0.0,236,False,0.0,0,,None,50,0,0,0,42899.jpg,0.0,0,0,Romero,0.3,False,None,a,12,1,0.0,0,0,0,0,0,0.0,0.0,Romero,0
+0,0,0,None,None,0,6744,0,0,0,0,0.0,0,1,None,None,0,Lee,0.0,0,0,0.0,237,False,0.0,0,,None,50,0,0,0,6744.jpg,0.0,0,0,Grant,0.2,False,None,a,12,1,0.0,0,0,0,0,0,0.0,0.0,Grant,0
+10,19,648,None,None,8,74208,0,0,0,0,822.3,0,3,None,None,0,Paul,0.0,43,13,316.9,238,False,1096.8,3007,,None,85,0,3,0,74208.jpg,5.1,0,0,Pogba,6.7,False,None,a,12,1,1246.0,179,0,0,0,0,0.0,0.0,Pogba,6
+4,13,389,None,None,5,148225,0,0,0,0,503.3,0,3,None,None,0,Anthony,0.0,25,10,178.9,239,False,532.8,1613,,None,75,0,0,0,148225.jpg,4.5,0,0,Martial,2.1,False,None,a,12,1,755.0,122,0,0,0,0,0.0,0.0,Martial,2
+5,1,168,None,None,2,37265,0,0,0,0,297.2,0,3,None,None,0,Alexis,0.0,10,1,81.1,240,False,207.6,869,,None,70,0,0,0,37265.jpg,2.4,0,0,Sánchez,6.7,False,None,a,12,1,307.0,47,0,0,0,0,0.0,0.0,Sánchez,3
+3,5,270,None,None,3,109322,0,0,0,0,306.1,0,3,None,None,0,Jesse,0.0,26,4,101.1,241,False,310.0,1657,,None,65,0,0,0,109322.jpg,2.9,0,0,Lingard,1.0,False,None,a,12,1,395.0,78,0,0,0,0,0.0,0.0,Lingard,3
+4,7,274,None,None,5,43670,0,0,0,0,464.0,0,3,None,None,0,Juan,0.0,15,3,98.6,242,False,258.4,1284,,None,65,0,0,0,43670.jpg,3.2,0,0,Mata,0.4,False,None,a,12,1,262.0,70,0,0,0,0,0.0,0.0,Mata,3
+0,0,0,None,None,0,200617,0,0,0,0,0.0,0,3,None,None,0,Daniel,0.0,0,0,0.0,243,False,0.0,0,,None,60,0,0,0,200617.jpg,0.0,0,0,James,2.8,False,None,a,12,1,0.0,0,0,0,0,0,0.0,0.0,James,0
+2,3,180,None,None,1,101582,0,0,0,0,203.2,0,3,None,None,0,Frederico,0.0,19,1,46.9,244,False,177.6,1039,,None,55,0,0,0,101582.jpg,2.4,0,0,Rodrigues de Paula Santos,0.2,False,None,a,12,1,87.0,40,0,0,0,0,0.0,0.0,Fred,2
+0,0,4,None,None,0,209041,0,0,0,0,2.3,0,3,None,None,0,Angel,0.0,1,0,2.6,245,False,5.2,25,,None,50,0,0,0,209041.jpg,1.0,0,0,Gomes,0.1,False,None,a,12,1,18.0,2,0,0,0,0,0.0,0.0,Gomes,0
+1,2,115,None,None,1,156689,0,0,0,0,139.5,0,3,None,None,0,Andreas,0.0,13,1,33.8,246,False,132.8,590,,None,50,0,0,0,156689.jpg,1.8,0,0,Pereira,0.1,False,None,a,12,1,67.0,27,0,0,0,0,0.0,0.0,Pereira,5
+0,2,371,None,None,6,62398,0,0,0,0,247.9,0,3,None,None,0,Nemanja,0.0,37,1,90.9,247,False,477.6,2437,,None,50,0,0,0,62398.jpg,2.1,1,0,Matic,0.3,False,None,a,12,1,183.0,59,0,0,0,0,0.0,0.0,Matic,6
+0,4,152,None,None,1,195851,0,0,0,0,33.1,0,3,None,None,0,Scott,0.0,18,2,38.8,248,False,175.4,862,,None,50,0,0,0,195851.jpg,2.4,0,0,McTominay,0.6,False,None,a,12,1,180.0,38,0,0,0,0,0.0,0.0,McTominay,1
+0,0,3,None,None,0,222677,0,0,0,0,2.1,0,3,None,None,0,Tahith,0.0,1,0,4.7,249,False,6.2,37,,None,45,0,0,0,222677.jpg,1.0,0,0,Chong,0.2,False,None,a,12,1,39.0,2,0,0,0,0,0.0,0.0,Chong,0
+0,0,3,None,None,0,232928,0,0,0,0,0.0,0,3,None,None,0,James,0.0,0,0,0.0,250,False,0.0,1,,None,45,0,0,0,232928.jpg,1.0,0,0,Garner,0.1,False,None,a,12,1,0.0,1,0,0,0,0,0.0,0.0,Garner,0
+8,7,504,None,None,10,56983,0,0,0,0,973.8,0,2,None,None,0,Matt,0.0,40,2,213.6,251,False,712.4,2927,,None,55,0,1,0,56983.jpg,3.1,0,0,Ritchie,3.6,False,None,a,13,4,448.0,110,0,0,0,0,0.0,0.0,Ritchie,9
+1,9,403,None,None,7,119471,0,0,0,0,148.6,0,2,None,None,0,Fabian,0.0,23,4,103.8,252,False,669.4,2000,,None,50,0,0,0,119471.jpg,3.9,0,0,Schär,3.2,False,None,a,13,4,220.0,93,0,0,0,0,0.0,0.0,Schär,12
+2,1,325,0,None,5,151119,0,0,0,0,406.3,0,2,None,None,0,DeAndre,0.0,41,1,95.8,253,False,436.4,2472,Groin Injury - Unknown return date,2019-06-25T11:30:07.199276Z,45,1,0,0,151119.jpg,2.2,1,0,Yedlin,0.1,False,None,i,13,4,113.0,63,0,0,0,0,0.0,0.0,Yedlin,6
+2,5,277,None,None,3,57145,0,0,0,0,63.7,0,2,None,None,0,Federico,0.0,24,0,48.5,254,False,350.0,1482,,None,45,0,0,0,57145.jpg,2.5,0,0,Fernández,0.2,False,None,a,13,4,70.0,47,0,0,0,0,0.0,0.0,Fernández,2
+0,3,365,None,None,7,106618,0,0,0,0,94.0,0,2,None,None,0,Paul,0.0,27,0,57.6,255,False,424.2,1986,,None,45,0,0,0,106618.jpg,2.6,0,0,Dummett,0.3,False,None,a,13,4,58.0,67,0,0,0,0,0.0,0.0,Dummett,1
+3,5,231,None,None,4,109528,0,0,0,0,127.3,0,2,None,None,0,Javier,0.0,16,0,38.8,256,False,231.0,1098,,None,45,0,0,0,109528.jpg,2.9,0,0,Manquillo,0.2,False,None,a,13,4,28.0,53,0,0,0,0,0.0,0.0,Manquillo,2
+0,0,209,0,None,4,77359,0,0,0,0,82.5,0,2,None,None,0,Florian,0.0,13,0,35.3,257,False,211.6,1054,Knee injury - Unknown return date,2019-06-25T11:30:07.214396Z,45,0,0,0,77359.jpg,2.9,0,0,Lejeune,0.0,False,None,i,13,4,59.0,35,0,0,0,0,0.0,0.0,Lejeune,0
+1,8,539,None,None,10,101148,0,0,0,0,46.8,0,2,None,None,0,Jamaal,0.0,36,0,79.6,258,False,632.4,2745,,None,45,0,0,0,101148.jpg,3.0,0,0,Lascelles,10.3,False,None,a,13,4,113.0,95,0,0,0,0,0.0,0.0,Lascelles,4
+0,4,194,None,None,2,58845,0,0,0,0,25.0,0,2,None,None,0,Ciaran,0.0,15,3,42.6,259,False,293.2,857,,None,45,0,0,0,58845.jpg,3.8,0,0,Clark,0.2,False,None,a,13,4,105.0,42,0,0,0,0,0.0,0.0,Clark,1
+0,0,65,None,None,1,196118,0,0,0,0,66.8,0,4,None,None,0,Yoshinori,0.0,10,1,27.4,260,False,71.8,514,,None,55,0,0,0,196118.jpg,1.4,0,0,Muto,0.1,False,None,a,13,4,140.0,24,0,0,0,0,0.0,0.0,Muto,1
+0,3,89,None,None,1,61316,0,0,0,0,35.9,0,4,None,None,0,Jose Luis,0.0,15,2,44.6,261,False,121.4,586,,None,50,0,0,0,61316.jpg,1.9,0,0,Mato Sanmartín,1.2,False,None,a,13,4,290.0,30,0,0,0,0,0.0,0.0,Joselu,1
+0,10,647,None,None,11,67089,0,0,0,0,0.0,0,1,None,None,0,Martin,0.0,48,0,78.4,262,False,783.6,3420,,None,50,0,0,0,67089.jpg,3.4,0,96,Dubravka,1.3,False,None,a,13,4,0.0,131,0,0,0,0,0.0,0.0,Dubravka,1
+0,0,0,None,None,0,59735,0,0,0,0,0.0,0,1,None,None,0,Karl,0.0,0,0,0.0,263,False,0.0,0,,None,45,0,0,0,59735.jpg,0.0,0,0,Darlow,0.2,False,None,a,13,4,0.0,0,0,0,0,0,0.0,0.0,Darlow,0
+0,0,0,None,None,0,155503,0,0,0,0,0.0,0,1,None,None,0,Frederick,0.0,0,0,0.0,264,False,0.0,0,,None,40,0,0,0,155503.jpg,0.0,0,0,Woodman,3.2,False,None,a,13,4,0.0,0,0,0,0,0,0.0,0.0,Woodman,0
+2,19,541,None,None,11,168580,0,0,0,0,585.6,0,3,None,None,0,Ayoze,0.0,35,12,232.1,265,False,783.6,2916,,None,65,0,0,0,168580.jpg,3.8,0,0,Pérez,6.7,False,None,a,13,4,954.0,141,0,0,0,0,0.0,0.0,Pérez,2
+2,0,107,None,None,3,179018,0,0,0,0,189.8,0,3,None,None,0,Miguel,0.0,11,0,54.6,266,False,121.4,758,,None,60,0,0,0,179018.jpg,2.8,0,0,Almirón,1.5,False,None,a,13,4,235.0,28,0,0,0,0,0.0,0.0,Almirón,0
+1,0,175,None,None,6,104953,0,0,0,0,273.0,0,3,None,None,0,Christian,0.0,18,1,82.3,267,False,218.8,1481,,None,55,0,0,0,104953.jpg,2.0,0,0,Atsu,0.2,False,None,a,13,4,331.0,55,0,0,0,0,0.0,0.0,Atsu,2
+1,1,197,None,None,4,76542,0,0,0,0,258.4,0,3,None,None,0,Sung-yueng,0.0,20,0,46.7,268,False,163.2,1298,,None,50,0,0,0,76542.jpg,2.1,0,0,Ki,0.1,False,None,a,13,4,45.0,38,0,0,0,0,0.0,0.0,Ki Sung-yueng,2
+1,2,170,None,None,5,50232,0,0,0,0,351.7,0,3,None,None,0,Jonjo,0.0,13,1,73.2,269,False,226.2,943,,None,50,0,0,0,50232.jpg,2.4,0,0,Shelvey,0.2,False,None,a,13,4,154.0,39,0,0,0,0,0.0,0.0,Shelvey,1
+1,1,117,0,None,3,180135,0,0,0,0,71.8,0,3,None,None,0,Sean,0.0,9,1,30.9,270,False,130.4,686,Knee injury - Unknown return date,2019-06-25T11:30:07.229329Z,50,0,0,0,180135.jpg,2.9,0,0,Longstaff,0.2,False,None,i,13,4,106.0,26,0,0,0,0,0.0,0.0,Longstaff,2
+4,5,306,None,None,7,153127,0,0,0,0,298.8,0,3,None,None,0,Isaac,0.0,25,1,94.4,271,False,412.0,1857,,None,45,0,0,0,153127.jpg,2.8,1,0,Hayden,10.7,False,None,a,13,4,232.0,69,0,0,0,0,0.0,0.0,Hayden,3
+0,0,0,None,None,0,84384,0,0,0,0,0.0,0,2,None,None,0,Timm,0.0,0,0,0.0,272,False,0.0,0,,None,45,0,0,0,84384.jpg,0.0,0,0,Klose,0.8,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Klose,0
+0,0,0,None,None,0,198826,0,0,0,0,0.0,0,2,None,None,0,Ben,0.0,0,0,0.0,273,False,0.0,0,,None,45,0,0,0,198826.jpg,0.0,0,0,Godfrey,0.4,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Godfrey,0
+0,0,0,None,None,0,232980,0,0,0,0,0.0,0,2,None,None,0,Maximillian,0.0,0,0,0.0,274,False,0.0,0,,None,45,0,0,0,232980.jpg,0.0,0,0,Aarons,6.0,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Aarons,0
+0,0,0,None,None,0,192303,0,0,0,0,0.0,0,2,None,None,0,Christoph,0.0,0,0,0.0,275,False,0.0,0,,None,45,0,0,0,192303.jpg,0.0,0,0,Zimmermann,0.4,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Zimmermann,0
+0,0,0,None,None,0,194799,0,0,0,0,0.0,0,2,None,None,0,Jamal,0.0,0,0,0.0,276,False,0.0,0,,None,45,0,0,0,194799.jpg,0.0,0,0,Lewis,0.4,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Lewis,0
+0,0,0,None,None,0,83428,0,0,0,0,0.0,0,2,None,None,0,Grant,0.0,0,0,0.0,277,False,0.0,0,,None,40,0,0,0,83428.jpg,0.0,0,0,Hanley,2.4,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Hanley,0
+0,0,0,None,None,0,57127,0,0,0,0,0.0,0,4,None,None,0,Teemu,0.0,0,0,0.0,278,False,0.0,0,,None,65,0,0,0,57127.jpg,0.0,0,0,Pukki,7.8,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Pukki,0
+0,0,0,None,None,0,179587,0,0,0,0,0.0,0,4,None,None,0,Dennis,0.0,0,0,0.0,279,False,0.0,0,,None,55,0,0,0,179587.jpg,0.0,0,0,Srbeny,0.2,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Srbeny,0
+0,0,0,None,None,0,20480,0,0,0,0,0.0,0,1,None,None,0,Tim,0.0,0,0,0.0,280,False,0.0,0,,None,45,0,0,0,20480.jpg,0.0,0,0,Krul,3.9,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Krul,0
+0,0,0,None,None,0,18499,0,0,0,0,0.0,0,1,None,None,0,Michael,0.0,0,0,0.0,281,False,0.0,0,,None,40,0,0,0,18499.jpg,0.0,0,0,McGovern,4.7,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,McGovern,0
+0,0,0,None,None,0,37614,0,0,0,0,0.0,0,3,None,None,0,Mario,0.0,0,0,0.0,282,False,0.0,0,,None,65,0,0,0,37614.jpg,0.0,0,0,Vrancic,0.5,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Vrancic,0
+0,0,0,None,None,0,195546,0,0,0,0,0.0,0,3,None,None,0,Emiliano,0.0,0,0,0.0,283,False,0.0,0,,None,60,0,0,0,195546.jpg,0.0,0,0,Buendía,1.3,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Buendía,0
+0,0,0,None,None,0,89470,0,0,0,0,0.0,0,3,None,None,0,Onel,0.0,0,0,0.0,284,False,0.0,0,,None,55,0,0,0,89470.jpg,0.0,0,0,Hernández,0.5,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Hernández,0
+0,0,0,None,None,0,71738,0,0,0,0,0.0,0,3,None,None,0,Marco,0.0,0,0,0.0,285,False,0.0,0,,None,55,0,0,0,71738.jpg,0.0,0,0,Stiepermann,0.4,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Stiepermann,0
+0,0,0,None,None,0,78607,0,0,0,0,0.0,0,3,None,None,0,Kenny,0.0,0,0,0.0,286,False,0.0,0,,None,50,0,0,0,78607.jpg,0.0,0,0,McLean,0.2,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,McLean,0
+0,0,0,None,None,0,193111,0,0,0,0,0.0,0,3,None,None,0,Todd,0.0,0,0,0.0,287,False,0.0,0,,None,45,0,0,0,193111.jpg,0.0,0,0,Cantwell,0.5,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Cantwell,0
+0,0,0,None,None,0,87396,0,0,0,0,0.0,0,3,None,None,0,Moritz,0.0,0,0,0.0,288,False,0.0,0,,None,45,0,0,0,87396.jpg,0.0,0,0,Leitner,0.4,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Leitner,0
+0,0,0,None,None,0,18665,0,0,0,0,0.0,0,3,None,None,0,Alexander,0.0,0,0,0.0,289,False,0.0,0,,None,45,0,0,0,18665.jpg,0.0,0,0,Tettey,0.9,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Tettey,0
+0,0,0,None,None,0,90440,0,0,0,0,0.0,0,3,None,None,0,Tom,0.0,0,0,0.0,290,False,0.0,0,,None,45,0,0,0,90440.jpg,0.0,0,0,Trybull,0.7,False,None,a,14,45,0.0,0,0,0,0,0,0.0,0.0,Trybull,0
+0,0,0,None,None,0,63426,0,0,0,0,0.0,0,2,None,None,0,Enda,0.0,0,0,0.0,291,False,0.0,0,,None,50,0,0,0,63426.jpg,0.0,0,0,Stevens,1.1,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Stevens,0
+0,0,0,None,None,0,87121,0,0,0,0,0.0,0,2,None,None,0,Kieron,0.0,0,0,0.0,292,False,0.0,0,,None,45,0,0,0,87121.jpg,0.0,0,0,Freeman,0.5,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Freeman,0
+0,0,0,None,None,0,146610,0,0,0,0,0.0,0,2,None,None,0,Jack,0.0,0,0,0.0,293,False,0.0,0,,None,45,0,0,0,146610.jpg,0.0,0,0,O'Connell,1.1,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,O'Connell,0
+0,0,0,None,None,0,82691,0,0,0,0,0.0,0,2,None,None,0,George,0.0,0,0,0.0,294,False,0.0,0,,None,45,0,0,0,82691.jpg,0.0,0,0,Baldock,0.3,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Baldock,0
+0,0,0,None,None,0,108416,0,0,0,0,0.0,0,2,None,None,0,John,0.0,0,0,0.0,295,False,0.0,0,,None,45,0,0,0,108416.jpg,0.0,0,0,Egan,0.4,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Egan,0
+0,0,0,None,None,0,18832,0,0,0,0,0.0,0,2,None,None,0,Richard,0.0,0,0,0.0,296,False,0.0,0,,None,40,0,0,0,18832.jpg,0.0,0,0,Stearman,4.1,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Stearman,0
+0,0,0,None,None,0,153723,0,0,0,0,0.0,0,2,None,None,0,John,0.0,0,0,0.0,297,False,0.0,0,,None,40,0,0,0,153723.jpg,0.0,0,0,Lundstram,1.7,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Lundstram,0
+0,0,0,None,None,0,18867,0,0,0,0,0.0,0,4,None,None,0,Billy,0.0,0,0,0.0,298,False,0.0,0,,None,60,0,0,0,18867.jpg,0.0,0,0,Sharp,2.6,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Sharp,0
+0,0,0,None,None,0,213280,0,0,0,0,0.0,0,1,None,None,0,Jake,0.0,0,0,0.0,299,False,0.0,0,,None,45,0,0,0,213280.jpg,0.0,0,0,Eastwood,1.1,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Eastwood,0
+0,0,0,None,None,0,59614,0,0,0,0,0.0,0,3,None,None,0,Mark,0.0,0,0,0.0,300,False,0.0,0,,None,55,0,0,0,59614.jpg,0.0,0,0,Duffy,0.5,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Duffy,0
+0,0,0,None,None,0,47247,0,0,0,0,0.0,0,3,None,None,0,John,0.0,0,0,0.0,301,False,0.0,0,,None,50,0,0,0,47247.jpg,0.0,0,0,Fleck,0.4,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Fleck,0
+0,0,0,None,None,0,79934,0,0,0,0,0.0,0,3,None,None,0,Oliver,0.0,0,0,0.0,302,False,0.0,0,,None,50,0,0,0,79934.jpg,0.0,0,0,Norwood,1.0,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Norwood,0
+0,0,0,None,None,0,27436,0,0,0,0,0.0,0,4,None,None,0,David,0.0,0,0,0.0,303,False,0.0,0,,None,55,0,0,0,27436.jpg,0.0,0,0,McGoldrick,0.7,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,McGoldrick,0
+0,0,0,None,None,0,40386,0,0,0,0,0.0,0,2,None,None,0,Chris,0.0,0,0,0.0,423,False,0.0,0,,None,45,0,0,0,40386.jpg,0.0,0,0,Basham,0.2,False,None,a,15,49,0.0,0,0,0,0,0,0.0,0.0,Basham,0
+0,0,396,None,None,4,93100,0,0,0,0,76.6,0,2,None,None,0,Jannik,0.0,31,0,75.9,304,False,576.6,2027,,None,50,0,0,0,93100.jpg,2.2,0,0,Vestergaard,0.2,False,None,a,16,20,104.0,50,0,0,0,0,0.0,0.0,Vestergaard,2
+0,1,291,None,None,6,40146,0,0,0,0,379.4,0,2,None,None,0,Ryan,0.0,42,1,82.6,305,False,326.8,2160,,None,50,0,0,0,40146.jpg,2.3,0,0,Bertrand,0.9,False,None,a,16,20,123.0,56,0,0,0,0,0.0,0.0,Bertrand,8
+1,0,251,None,None,3,213482,0,0,0,0,124.7,0,2,None,None,0,Yan,0.0,30,2,60.7,306,False,329.4,1709,,None,50,0,0,0,213482.jpg,2.3,1,0,Valery,0.9,False,None,a,16,20,157.0,54,0,0,0,0,0.0,0.0,Valery,3
+1,3,365,None,None,3,171771,0,0,0,0,108.8,0,2,None,None,0,Jan,0.0,37,0,81.9,307,False,616.0,2150,,None,45,0,0,0,171771.jpg,2.0,0,0,Bednarek,2.2,False,None,a,16,20,91.0,49,0,0,0,0,0.0,0.0,Bednarek,7
+0,4,282,None,None,3,88900,0,0,0,0,65.5,0,2,None,None,0,Jack,0.0,35,1,60.4,308,False,394.4,1697,,None,45,0,0,0,88900.jpg,2.0,0,0,Stephens,0.2,False,None,a,16,20,143.0,47,0,0,0,0,0.0,0.0,Stephens,4
+3,3,229,None,None,0,169359,0,0,0,0,366.8,0,2,None,None,0,Matt,0.0,25,1,86.2,309,False,314.2,1185,,None,45,0,0,0,169359.jpg,2.3,0,0,Targett,1.2,False,None,a,16,20,181.0,36,0,0,0,0,0.0,0.0,Targett,2
+1,4,278,None,None,3,80447,0,0,0,0,57.4,0,2,None,None,0,Maya,0.0,29,0,63.4,310,False,387.0,1518,,None,45,0,0,0,80447.jpg,2.6,0,0,Yoshida,0.4,False,None,a,16,20,189.0,44,0,0,0,0,0.0,0.0,Yoshida,0
+0,0,9,None,None,0,232797,0,0,0,0,0.0,0,2,None,None,0,Kayne,0.0,3,0,1.1,311,False,11.2,90,,None,40,0,0,0,232797.jpg,1.0,0,0,Ramsay,1.0,False,None,a,16,20,0.0,1,0,0,0,0,0.0,0.0,Ramsay,0
+2,1,117,None,None,5,78356,0,0,0,0,115.3,0,4,None,None,0,Charlie,0.0,17,2,67.4,312,False,158.4,970,,None,60,0,1,0,78356.jpg,1.8,0,0,Austin,0.4,False,None,a,16,20,405.0,46,0,0,0,0,0.0,0.0,Austin,1
+3,11,310,None,None,5,84939,0,0,0,0,346.9,0,4,None,None,0,Danny,0.0,27,7,158.4,313,False,433.8,1650,,None,60,0,0,0,84939.jpg,3.8,0,0,Ings,2.3,False,None,a,16,20,808.0,90,0,0,0,0,0.0,0.0,Ings,1
+1,0,46,0,None,0,220598,0,0,0,0,27.4,0,4,None,None,0,Michael,0.0,3,1,21.6,314,False,62.6,134,Hamstring injury - Unknown return date,2019-06-25T11:30:07.244310Z,50,0,0,0,220598.jpg,2.2,0,0,Obafemi,0.0,False,None,i,16,20,127.0,13,0,0,0,0,0.0,0.0,Obafemi,1
+2,5,191,None,None,2,20452,0,0,0,0,179.2,0,4,None,None,0,Shane,0.0,24,5,84.2,315,False,248.6,1260,,None,50,0,0,0,20452.jpg,2.5,0,0,Long,8.7,False,None,a,16,20,417.0,66,0,0,0,0,0.0,0.0,Long,3
+0,0,6,None,None,0,153371,0,0,0,0,0.3,0,4,None,None,0,Sam,0.0,1,0,0.0,316,False,0.0,32,,None,45,0,0,0,153371.jpg,1.0,0,0,Gallagher,1.1,False,None,a,16,20,0.0,4,0,0,0,0,0.0,0.0,Gallagher,0
+0,0,13,None,None,0,40383,0,0,0,0,0.0,0,1,None,None,0,Fraser,0.0,3,0,2.2,317,False,22.2,90,,None,45,0,0,0,40383.jpg,2.0,0,3,Forster,0.8,False,None,a,16,20,0.0,2,0,0,0,0,0.0,0.0,Forster,0
+0,6,414,None,None,4,58376,0,0,0,0,0.0,0,1,None,None,0,Alex,0.0,44,0,58.6,318,False,585.2,2250,,None,45,0,0,0,58376.jpg,2.9,0,78,McCarthy,1.7,False,None,a,16,20,0.0,73,0,0,0,0,0.0,0.0,McCarthy,1
+0,4,206,None,None,3,107265,0,0,0,0,0.0,0,1,None,None,0,Angus,0.0,18,0,23.8,319,False,239.2,1080,,None,45,0,0,1,107265.jpg,3.9,0,33,Gunn,2.2,False,None,a,16,20,0.0,47,0,0,0,0,0.0,0.0,Gunn,0
+5,12,433,None,None,9,83283,0,0,0,0,802.3,0,3,None,None,0,Nathan,0.0,58,6,241.4,320,False,665.4,3272,,None,65,0,0,0,83283.jpg,3.6,0,0,Redmond,3.6,False,None,a,16,20,950.0,137,0,0,0,0,0.0,0.0,Redmond,3
+0,15,390,None,None,3,101178,0,0,0,0,695.8,0,3,None,None,0,James,0.0,41,7,167.4,321,False,592.0,1940,,None,60,1,0,0,101178.jpg,3.6,0,0,Ward-Prowse,1.9,False,None,a,16,20,387.0,94,0,0,0,0,0.0,0.0,Ward-Prowse,4
+0,0,91,None,None,4,96787,0,0,0,0,228.3,0,3,None,None,0,Mohamed,0.0,10,0,54.2,322,False,94.2,785,,None,55,0,0,0,96787.jpg,1.8,0,0,Elyounoussi,0.1,False,None,a,16,20,220.0,28,0,0,0,0,0.0,0.0,Elyounoussi,0
+4,3,269,None,None,5,91047,0,0,0,0,392.4,0,3,None,None,0,Stuart,0.0,26,3,107.5,323,False,305.6,1421,,None,55,0,0,0,91047.jpg,2.6,0,0,Armstrong,0.3,False,None,a,16,20,379.0,75,0,0,0,0,0.0,0.0,Armstrong,2
+2,2,270,None,None,4,151086,0,0,0,0,214.7,0,3,None,None,0,Mario,0.0,37,1,71.6,324,False,313.0,1612,,None,50,0,0,0,151086.jpg,2.4,0,0,Lemina,0.1,False,None,a,16,20,188.0,50,0,0,0,0,0.0,0.0,Lemina,5
+3,8,477,None,None,4,132015,0,0,0,0,445.6,0,3,None,None,0,Pierre-Emile,0.0,59,4,148.8,325,False,616.0,2760,,None,50,0,0,0,132015.jpg,2.9,2,0,Højbjerg,1.4,False,None,a,16,20,421.0,90,0,0,0,0,0.0,0.0,Højbjerg,7
+0,0,3,None,None,0,204481,0,0,0,0,0.0,0,3,None,None,0,Tyreke,0.0,0,0,0.0,326,False,0.0,1,,None,45,0,0,0,204481.jpg,1.0,0,0,Johnson,0.1,False,None,a,16,20,0.0,1,0,0,0,0,0.0,0.0,Johnson,0
+0,0,12,None,None,0,193109,0,0,0,0,2.6,0,3,None,None,0,Callum,0.0,1,0,4.2,327,False,15.8,110,,None,45,0,0,0,193109.jpg,1.3,0,0,Slattery,0.1,False,None,a,16,20,24.0,4,0,0,0,0,0.0,0.0,Slattery,0
+0,3,282,None,None,6,78056,0,0,0,0,158.4,0,3,None,None,0,Oriol,0.0,37,1,74.0,328,False,455.2,2131,,None,45,0,0,0,78056.jpg,1.8,0,0,Romeu Vidal,1.7,False,None,a,16,20,124.0,55,0,0,0,0,0.0,0.0,Oriol Romeu,11
+0,5,361,None,None,6,115556,0,0,0,0,256.6,0,2,None,None,0,Ben,0.0,26,0,82.3,329,False,388.2,1837,,None,55,0,0,0,115556.jpg,2.4,0,0,Davies,0.4,False,None,a,17,6,176.0,66,0,0,0,0,0.0,0.0,Davies,2
+0,7,390,None,None,6,39194,0,0,0,0,116.7,0,2,None,None,0,Jan,0.0,23,1,72.7,330,False,445.4,1911,,None,55,0,0,0,39194.jpg,3.0,1,0,Vertonghen,2.1,False,None,a,17,6,165.0,67,0,0,0,0,0.0,0.0,Vertonghen,3
+0,7,651,None,None,12,55605,0,0,0,0,139.1,0,2,None,None,0,Toby,0.0,31,0,105.7,331,False,690.2,2921,,None,55,1,0,0,55605.jpg,3.1,0,0,Alderweireld,4.5,False,None,a,17,6,229.0,107,0,0,0,0,0.0,0.0,Alderweireld,3
+4,5,352,None,None,8,38290,0,0,0,0,416.6,0,2,None,None,0,Danny,0.0,16,0,97.6,332,False,343.6,1792,,None,55,0,0,0,38290.jpg,3.3,0,0,Rose,1.3,False,None,a,17,6,216.0,86,0,0,0,0,0.0,0.0,Rose,5
+2,4,412,None,None,6,173904,0,0,0,0,60.3,0,2,None,None,0,Davinson,0.0,22,1,70.0,333,False,454.2,1941,,None,55,0,0,0,173904.jpg,3.4,0,0,Sánchez,0.7,False,None,a,17,6,183.0,78,0,0,0,0,0.0,0.0,Sánchez,2
+5,16,573,None,None,10,77794,0,0,0,0,827.0,0,2,None,None,0,Kieran,0.0,23,1,155.0,334,False,601.6,2275,,None,55,1,0,0,77794.jpg,4.4,0,0,Trippier,9.1,False,None,a,17,6,121.0,118,0,0,0,0,0.0,0.0,Trippier,2
+0,4,172,0,None,3,234908,0,0,0,0,59.8,0,2,None,None,0,Juan,0.0,12,1,36.3,335,False,248.6,888,Suspended until 24 Aug,2019-06-25T11:30:07.259817Z,50,0,0,0,234908.jpg,2.9,1,0,Foyth,0.0,False,None,s,17,6,53.0,35,0,0,0,0,0.0,0.0,Foyth,3
+2,0,116,None,None,2,80226,0,0,0,0,108.4,0,2,None,None,0,Serge,0.0,9,0,30.5,336,False,151.6,562,,None,50,0,0,0,80226.jpg,3.0,0,0,Aurier,0.5,False,None,a,17,6,45.0,24,0,0,0,0,0.0,0.0,Aurier,1
+3,4,112,None,None,2,158534,0,0,0,0,104.9,0,2,None,None,0,Kyle,0.0,4,0,23.1,337,False,107.4,374,,None,50,0,0,0,158534.jpg,4.7,0,0,Walker-Peters,0.2,False,None,a,17,6,20.0,28,0,0,0,0,0.0,0.0,Walker-Peters,1
+6,24,561,None,None,9,78830,0,0,0,0,430.0,0,4,None,None,0,Harry,0.0,31,17,261.3,338,False,824.6,2423,,None,110,0,0,0,78830.jpg,5.7,0,0,Kane,21.2,False,None,a,17,6,1359.0,160,0,0,0,0,0.0,0.0,Kane,5
+0,0,4,None,None,0,165990,0,0,0,0,1.6,0,4,None,None,0,Vincent,0.0,0,0,6.5,339,False,6.2,36,,None,45,0,0,0,165990.jpg,1.0,0,0,Janssen,1.3,False,None,a,17,6,57.0,3,0,0,0,0,0.0,0.0,Janssen,0
+0,10,691,None,None,12,37915,0,0,0,0,0.0,0,1,None,None,0,Hugo,0.0,33,0,86.0,340,False,858.2,2970,,None,55,0,0,2,37915.jpg,4.4,0,100,Lloris,9.7,False,None,a,17,6,0.0,145,0,0,0,0,0.0,0.0,Lloris,0
+0,0,64,None,None,1,102884,0,0,0,0,0.0,0,1,None,None,0,Paulo,0.0,2,0,8.2,341,False,82.8,270,,None,45,0,0,0,102884.jpg,4.3,0,11,Gazzaniga,0.3,False,None,a,17,6,0.0,13,0,0,0,0,0.0,0.0,Gazzaniga,0
+8,17,489,0,None,10,85971,0,0,0,0,508.0,0,3,None,None,0,Heung-Min,0.0,23,12,219.9,342,False,690.6,2033,Suspended until 24 Aug,2019-06-25T11:30:07.273840Z,95,0,0,0,85971.jpg,5.1,1,0,Son,1.9,False,None,s,17,6,1002.0,159,0,0,0,0,0.0,0.0,Son,2
+12,15,675,None,None,8,80607,0,0,0,0,1148.7,0,3,None,None,0,Christian,0.0,37,8,283.0,343,False,876.0,2770,,None,90,0,0,0,80607.jpg,4.6,0,0,Eriksen,4.5,False,None,a,17,6,801.0,161,0,0,0,0,0.0,0.0,Eriksen,3
+4,8,356,None,None,8,108823,0,0,0,0,436.6,0,3,None,None,0,Bamidele,0.0,21,5,158.5,344,False,467.2,1822,,None,85,0,0,0,108823.jpg,3.8,0,0,Alli,1.9,False,None,a,17,6,681.0,94,0,0,0,0,0.0,0.0,Alli,4
+2,8,340,None,None,14,95715,0,0,0,0,415.6,0,3,None,None,0,Lucas,0.0,18,10,161.9,345,False,556.4,2115,,None,75,0,0,0,95715.jpg,4.1,0,0,Rodrigues Moura da Silva,6.4,False,None,a,17,6,650.0,131,0,0,0,0,0.0,0.0,Lucas Moura,3
+4,5,231,None,None,4,62974,0,0,0,0,339.9,0,3,None,None,0,Erik,0.0,12,4,104.1,346,False,263.8,965,,None,60,0,0,0,62974.jpg,3.5,0,0,Lamela,0.2,False,None,a,17,6,441.0,67,0,0,0,0,0.0,0.0,Lamela,2
+0,3,275,None,None,6,157668,0,0,0,0,168.6,0,3,None,None,0,Harry,0.0,17,1,50.7,347,False,268.2,1589,,None,55,0,0,0,157668.jpg,2.0,0,0,Winks,0.4,False,None,a,17,6,71.0,53,0,0,0,0,0.0,0.0,Winks,4
+0,2,105,None,None,3,54756,0,0,0,0,45.0,0,3,None,None,0,Victor,0.0,4,1,23.9,348,False,113.2,511,,None,50,0,0,0,54756.jpg,1.8,0,0,Wanyama,0.2,False,None,a,17,6,80.0,24,0,0,0,0,0.0,0.0,Wanyama,2
+3,3,395,None,None,11,45268,0,0,0,0,380.7,0,3,None,None,0,Moussa,0.0,28,0,90.2,349,False,329.0,2329,,None,50,0,0,0,45268.jpg,2.6,0,0,Sissoko,1.2,False,None,a,17,6,193.0,76,0,0,0,0,0.0,0.0,Sissoko,2
+0,3,269,None,None,5,93264,0,0,0,0,150.1,0,3,None,None,0,Eric,0.0,18,3,63.6,350,False,363.4,1504,,None,50,0,0,0,93264.jpg,2.8,0,0,Dier,0.3,False,None,a,17,6,121.0,56,0,0,0,0,0.0,0.0,Dier,4
+0,0,3,None,None,0,168764,0,0,0,0,0.1,0,3,None,None,0,Luke,0.0,0,0,0.2,351,False,2.2,2,,None,45,0,0,0,168764.jpg,1.0,0,0,Amos,0.1,False,None,a,17,6,0.0,1,0,0,0,0,0.0,0.0,Amos,0
+0,0,40,None,None,2,209042,0,0,0,0,20.5,0,3,None,None,0,Oliver,0.0,1,0,7.0,352,False,35.2,214,,None,45,0,0,0,209042.jpg,1.5,0,0,Skipp,0.2,False,None,a,17,6,12.0,12,0,0,0,0,0.0,0.0,Skipp,0
+7,10,437,None,None,5,40868,0,0,0,0,598.2,0,2,None,None,0,José,0.0,41,3,140.6,353,False,642.4,2392,,None,50,0,0,0,40868.jpg,3.3,1,0,Holebas,5.8,False,None,a,18,57,164.0,93,0,0,0,0,0.0,0.0,Holebas,12
+0,1,212,None,None,3,85624,0,0,0,0,24.0,0,2,None,None,0,Christian,0.0,29,0,56.7,354,False,355.2,1584,,None,45,0,0,0,85624.jpg,1.7,1,0,Kabasele,0.3,False,None,a,18,57,189.0,36,0,0,0,0,0.0,0.0,Kabasele,2
+1,1,165,None,None,2,155651,0,0,0,0,70.8,0,2,None,None,0,Adam,0.0,20,0,30.1,355,False,201.0,1002,,None,45,0,0,0,155651.jpg,1.9,0,0,Masina,0.1,False,None,a,18,57,27.0,26,0,0,0,0,0.0,0.0,Masina,5
+0,2,334,None,None,5,20145,0,0,0,0,61.9,0,2,None,None,0,Adrian,0.0,32,0,54.5,356,False,404.6,1924,,None,45,0,0,0,20145.jpg,2.2,0,0,Mariappa,0.3,False,None,a,18,57,79.0,57,0,0,0,0,0.0,0.0,Mariappa,3
+1,6,412,None,None,4,54484,0,0,0,0,252.9,0,2,None,None,0,Francisco,0.0,40,1,76.0,357,False,420.2,2043,,None,45,0,0,0,54484.jpg,2.3,0,0,Femenía Far,1.5,False,None,a,18,57,87.0,66,0,0,0,0,0.0,0.0,Kiko Femenía,1
+0,5,552,None,None,6,41338,0,0,0,0,25.5,0,2,None,None,0,Craig,0.0,54,3,100.8,358,False,719.6,3095,,None,45,2,0,0,41338.jpg,2.6,0,0,Cathcart,5.7,False,None,a,18,57,262.0,93,0,0,0,0,0.0,0.0,Cathcart,2
+2,6,274,None,None,3,52940,0,0,0,0,212.2,0,2,None,None,0,Daryl,0.0,22,0,67.8,359,False,346.2,1520,,None,45,0,0,0,52940.jpg,2.8,0,0,Janmaat,0.6,False,None,a,18,57,118.0,50,0,0,0,0,0.0,0.0,Janmaat,3
+0,0,12,None,None,0,220166,0,0,0,0,5.3,0,2,None,None,0,Marc,0.0,3,0,2.3,360,False,16.0,84,,None,40,0,0,0,220166.jpg,1.0,0,0,Navarro,0.9,False,None,a,18,57,2.0,2,0,0,0,0,0.0,0.0,Navarro,0
+0,0,2,None,None,0,41945,0,0,0,0,0.0,0,2,None,None,0,Sebastian,0.0,0,0,0.0,361,False,0.0,13,,None,40,0,0,0,41945.jpg,1.0,0,0,Prödl,1.4,False,None,a,18,57,0.0,1,0,0,0,0,0.0,0.0,Prödl,0
+5,13,411,None,None,5,41725,0,0,0,0,549.5,0,4,None,None,0,Troy,0.0,44,9,216.9,362,False,607.4,2542,,None,65,0,0,0,41725.jpg,3.6,1,0,Deeney,3.0,False,None,a,18,57,1019.0,116,0,0,0,0,0.0,0.0,Deeney,4
+5,10,344,None,None,9,94924,0,0,0,0,455.6,0,4,None,None,0,Gerard,0.0,29,10,185.6,363,False,549.2,2064,,None,65,0,0,0,94924.jpg,4.4,0,0,Deulofeu,14.2,False,None,a,18,57,856.0,133,0,0,0,0,0.0,0.0,Deulofeu,3
+2,10,254,None,None,4,73426,0,0,0,0,183.9,0,4,None,None,0,Andre,0.0,23,7,112.8,364,False,331.8,1352,,None,60,0,0,0,73426.jpg,2.9,0,0,Gray,0.7,False,None,a,18,57,620.0,83,0,0,0,0,0.0,0.0,Gray,2
+1,0,125,None,None,2,173514,0,0,0,0,274.5,0,4,None,None,0,Isaac,0.0,21,1,81.4,365,False,148.6,1033,,None,50,0,0,0,173514.jpg,1.4,0,0,Success Ajayi,1.3,False,None,a,18,57,394.0,42,0,0,0,0,0.0,0.0,Success,4
+0,11,703,None,None,7,9089,0,0,0,0,50.0,0,1,None,None,0,Ben,0.0,59,0,104.1,366,False,988.0,3420,,None,50,0,0,1,9089.jpg,3.4,0,128,Foster,3.2,False,None,a,18,57,1.0,129,0,0,0,0,0.0,0.0,Foster,1
+0,0,0,None,None,0,206882,0,0,0,0,0.0,0,1,None,None,0,Pontus,0.0,0,0,0.0,367,False,0.0,0,,None,45,0,0,0,206882.jpg,0.0,0,0,Dahlberg,0.3,False,None,a,18,57,0.0,0,0,0,0,0,0.0,0.0,Dahlberg,0
+7,14,550,None,None,5,121599,0,0,0,0,544.1,0,3,None,None,0,Abdoulaye,0.0,56,5,198.9,368,False,735.6,3061,,None,60,1,0,0,121599.jpg,3.5,0,0,Doucouré,3.6,False,None,a,18,57,709.0,124,0,0,0,0,0.0,0.0,Doucouré,7
+4,13,432,None,None,6,61566,0,0,0,0,512.7,0,3,None,None,0,Roberto,0.0,53,6,171.8,369,False,458.4,2817,,None,60,0,0,0,61566.jpg,3.7,0,0,Pereyra,5.5,False,None,a,18,57,744.0,122,0,0,0,0,0.0,0.0,Pereyra,3
+4,5,320,None,None,7,108413,0,0,0,0,416.0,0,3,None,None,0,Will,0.0,39,2,129.6,370,False,429.2,2419,,None,55,0,0,0,108413.jpg,2.7,0,0,Hughes,0.4,False,None,a,18,57,451.0,87,0,0,0,0,0.0,0.0,Hughes,5
+0,2,87,None,None,3,43250,0,0,0,0,33.4,0,3,None,None,0,Tom,0.0,7,1,17.2,371,False,97.4,470,,None,50,0,0,0,43250.jpg,1.9,0,0,Cleverley,0.1,False,None,a,18,57,40.0,25,0,0,0,0,0.0,0.0,Cleverley,2
+2,1,91,None,None,3,157775,0,0,0,0,112.7,0,3,None,None,0,Ken,0.0,9,1,40.8,372,False,128.6,747,,None,50,0,0,0,157775.jpg,2.2,0,0,Sema,0.1,False,None,a,18,57,169.0,37,0,0,0,0,0.0,0.0,Sema,1
+3,8,496,None,None,8,38439,0,0,0,0,219.2,0,3,None,None,0,Etienne,0.0,48,1,102.8,373,False,656.6,2944,,None,50,0,0,0,38439.jpg,2.4,1,0,Capoue,0.9,False,None,a,18,57,152.0,79,0,0,0,0,0.0,0.0,Capoue,14
+0,0,42,None,None,0,89085,0,0,0,0,20.2,0,3,None,None,0,Nathaniel,0.0,7,0,8.8,374,False,35.6,265,,None,45,0,0,0,89085.jpg,1.1,0,0,Chalobah,0.4,False,None,a,18,57,31.0,10,0,0,0,0,0.0,0.0,Chalobah,2
+0,2,68,0,None,0,216058,0,0,0,0,40.2,0,3,None,None,0,Domingos,0.0,5,1,13.1,375,False,69.0,334,Shoulder injury - Unknown return date,2019-06-25T11:30:07.289088Z,45,0,0,0,216058.jpg,2.1,0,0,Quina,0.0,False,None,i,18,57,22.0,17,0,0,0,0,0.0,0.0,Quina,0
+1,0,257,None,None,1,55459,0,0,0,0,290.9,0,2,None,None,0,Aaron,0.0,26,0,72.3,376,False,318.2,1588,,None,50,0,0,0,55459.jpg,1.7,0,0,Cresswell,0.4,False,None,a,19,21,113.0,34,0,0,0,0,0.0,0.0,Cresswell,1
+1,2,314,None,None,2,40669,0,0,0,0,54.2,0,2,None,None,0,Angelo,0.0,36,1,68.5,377,False,462.4,1871,,None,45,0,0,0,40669.jpg,2.0,0,0,Ogbonna,0.3,False,None,a,19,21,168.0,48,0,0,0,0,0.0,0.0,Ogbonna,2
+2,0,311,None,None,4,105717,0,0,0,0,212.0,0,2,None,None,0,Arthur,0.0,29,0,70.3,378,False,434.4,1757,,None,45,0,0,0,105717.jpg,2.1,0,0,Masuaku,0.4,False,None,a,19,21,55.0,49,0,0,0,0,0.0,0.0,Masuaku,2
+1,4,350,None,None,4,20658,0,0,0,0,163.2,0,2,None,None,0,Pablo,0.0,35,0,71.8,379,False,447.4,2089,,None,45,0,0,0,20658.jpg,2.2,0,0,Zabaleta,0.5,False,None,a,19,21,106.0,56,0,0,0,0,0.0,0.0,Zabaleta,4
+0,4,169,None,None,3,81012,0,0,0,0,77.2,0,2,None,None,0,Ryan,0.0,16,1,42.0,380,False,254.8,1084,,None,45,0,0,0,81012.jpg,2.5,0,0,Fredericks,0.7,False,None,a,19,21,85.0,38,0,0,0,0,0.0,0.0,Fredericks,5
+0,6,561,None,None,7,219924,0,0,0,0,52.3,0,2,None,None,0,Issa,0.0,43,1,94.8,381,False,733.0,2970,,None,45,1,0,0,219924.jpg,2.6,0,0,Diop,9.2,False,None,a,19,21,162.0,87,0,0,0,0,0.0,0.0,Diop,4
+0,3,375,None,None,5,166640,0,0,0,0,40.9,0,2,None,None,0,Fabián,0.0,32,1,77.8,382,False,534.6,2013,,None,45,0,0,0,166640.jpg,2.7,0,0,Balbuena,0.8,False,None,a,19,21,201.0,61,0,0,0,0,0.0,0.0,Balbuena,2
+0,0,0,None,None,0,48717,0,0,0,0,0.0,0,2,None,None,0,Winston,0.0,0,0,0.0,383,False,0.0,0,,None,40,0,0,0,48717.jpg,0.0,0,0,Reid,4.0,False,None,a,19,21,0.0,0,0,0,0,0,0.0,0.0,Reid,0
+0,0,6,None,None,0,222018,0,0,0,0,0.4,0,2,None,None,0,Ben,0.0,1,0,0.8,384,False,7.8,62,,None,40,0,0,0,222018.jpg,2.0,0,0,Johnson,0.8,False,None,a,19,21,0.0,2,0,0,0,0,0.0,0.0,Johnson,0
+5,15,405,None,None,4,41464,0,0,0,0,500.6,0,4,None,None,0,Marko,0.0,34,10,199.2,385,False,551.6,1988,,None,70,0,0,0,41464.jpg,4.2,0,0,Arnautovic,5.3,False,None,a,19,21,946.0,117,0,0,0,0,0.0,0.0,Arnautovic,3
+4,10,276,None,None,6,43020,0,0,0,0,112.0,0,4,None,None,0,Javier,0.0,20,7,93.4,386,False,301.0,1326,,None,60,0,0,0,43020.jpg,3.4,0,0,Hernández Balcázar,0.8,False,None,a,19,21,528.0,86,0,0,0,0,0.0,0.0,Chicharito,2
+0,0,3,None,None,0,209925,0,0,0,0,10.3,0,4,None,None,0,Alexandre Nascimento,0.0,0,0,4.8,387,False,2.0,17,,None,45,0,0,0,209925.jpg,1.0,0,0,Costa Silva,2.0,False,None,a,19,21,36.0,1,0,0,0,0,0.0,0.0,Xande Silva,0
+0,15,742,None,None,7,37096,0,0,0,0,20.0,0,1,None,None,0,Lukasz,0.0,55,0,115.5,388,False,1136.0,3420,,None,50,0,0,1,37096.jpg,3.8,0,148,Fabianski,11.8,False,None,a,19,21,0.0,143,0,0,0,0,0.0,0.0,Fabianski,0
+8,6,305,None,None,7,57531,0,0,0,0,346.2,0,3,None,None,0,Michail,0.0,30,6,167.0,389,False,482.0,2093,,None,70,0,0,0,57531.jpg,3.6,0,0,Antonio,4.9,False,None,a,19,21,852.0,118,0,0,0,0,0.0,0.0,Antonio,3
+6,18,619,None,None,7,101537,0,0,0,0,1042.4,0,3,None,None,0,Felipe Anderson,0.0,49,9,272.2,390,False,882.2,3045,,None,70,0,0,0,101537.jpg,4.3,0,0,Pereira Gomes,13.6,False,None,a,19,21,799.0,155,0,0,0,0,0.0,0.0,Felipe Anderson,3
+2,3,148,None,None,2,86934,0,0,0,0,118.2,0,3,None,None,0,Manuel,0.0,12,1,42.4,391,False,141.0,685,,None,65,0,0,0,86934.jpg,3.1,0,0,Lanzini,0.7,False,None,a,19,21,165.0,31,0,0,0,0,0.0,0.0,Lanzini,2
+1,2,88,None,None,1,56377,0,0,0,0,84.6,0,3,None,None,0,Andriy,0.0,6,2,29.1,392,False,86.0,456,,None,60,0,0,0,56377.jpg,3.0,0,0,Yarmolenko,0.4,False,None,a,19,21,122.0,27,0,0,0,0,0.0,0.0,Yarmolenko,2
+5,9,364,None,None,5,18987,0,0,0,0,976.0,0,3,None,None,0,Robert,0.0,33,2,181.5,393,False,460.8,2215,,None,55,0,0,0,18987.jpg,2.6,0,0,Snodgrass,0.4,False,None,a,19,21,380.0,85,0,0,0,0,0.0,0.0,Snodgrass,10
+2,0,90,None,None,1,54102,0,0,0,0,74.0,0,3,None,None,0,Jack,0.0,10,0,16.3,394,False,72.0,388,,None,50,0,0,0,54102.jpg,2.1,0,0,Wilshere,0.3,False,None,a,19,21,17.0,17,0,0,0,0,0.0,0.0,Wilshere,2
+0,9,586,None,None,6,204480,0,0,0,0,174.2,0,3,None,None,0,Declan,0.0,47,2,97.1,395,False,584.4,3003,,None,50,0,0,0,204480.jpg,2.7,0,0,Rice,3.2,False,None,a,19,21,213.0,92,0,0,0,0,0.0,0.0,Rice,4
+5,5,454,None,None,7,18073,0,0,0,0,359.8,0,3,None,None,0,Mark,0.0,31,5,107.6,396,False,521.4,2289,,None,50,0,0,0,18073.jpg,3.2,1,0,Noble,1.9,False,None,a,19,21,196.0,99,0,0,0,0,0.0,0.0,Noble,6
+0,0,44,None,None,0,42824,0,0,0,0,28.8,0,3,None,None,0,Carlos,0.0,4,0,7.8,397,False,24.6,240,,None,45,0,0,0,42824.jpg,1.3,0,0,Sánchez,0.2,False,None,a,19,21,24.0,9,0,0,0,0,0.0,0.0,Carlos Sánchez,0
+1,0,86,None,None,2,179830,0,0,0,0,174.5,0,3,None,None,0,Grady,0.0,13,0,46.2,398,False,115.0,600,,None,45,0,0,0,179830.jpg,1.5,0,0,Diangana,0.3,False,None,a,19,21,175.0,25,0,0,0,0,0.0,0.0,Diangana,0
+0,0,0,None,None,0,217593,0,0,0,0,0.0,0,3,None,None,0,Pablo,0.0,0,0,0.0,399,False,0.0,0,,None,65,0,0,0,217593.jpg,0.0,0,0,Fornals,2.4,False,None,a,19,21,0.0,0,0,0,0,0,0.0,0.0,Fornals,0
+2,1,188,None,None,2,59779,0,0,0,0,105.9,0,3,None,None,0,Pedro,0.0,21,0,43.6,400,False,219.2,1116,,None,45,0,0,0,59779.jpg,1.8,0,0,Obiang,0.6,False,None,a,19,21,112.0,43,0,0,0,0,0.0,0.0,Obiang,0
+7,12,596,None,None,8,87835,0,0,0,0,547.4,0,2,None,None,0,Matt,0.0,41,4,201.6,401,False,758.8,3141,,None,60,1,0,0,87835.jpg,3.8,0,0,Doherty,15.6,False,None,a,20,39,711.0,144,0,0,0,0,0.0,0.0,Doherty,5
+3,9,488,None,None,8,114128,0,0,0,0,447.3,0,2,None,None,0,Jonathan,0.0,39,1,133.3,402,False,523.4,2772,,None,55,0,0,0,114128.jpg,3.1,0,0,Castro Otto,1.1,False,None,a,20,39,361.0,103,0,0,0,0,0.0,0.0,Jonny,6
+0,6,585,None,None,9,94147,0,0,0,0,26.2,0,2,None,None,0,Conor,0.0,46,0,61.8,403,False,593.2,3420,,None,50,3,0,0,94147.jpg,2.5,0,0,Coady,1.3,False,None,a,20,39,0.0,94,0,0,0,0,0.0,0.0,Coady,5
+0,1,467,None,None,9,41727,0,0,0,0,129.7,0,2,None,None,0,Ryan,0.0,38,1,86.9,404,False,566.4,3060,,None,50,0,0,0,41727.jpg,2.6,0,0,Bennett,0.7,False,None,a,20,39,172.0,89,0,0,0,0,0.0,0.0,Bennett,12
+0,10,635,None,None,8,90585,0,0,0,0,146.9,0,2,None,None,0,Willy,0.0,43,4,137.7,405,False,954.2,3168,,None,50,0,0,0,90585.jpg,3.3,1,0,Boly,6.6,False,None,a,20,39,279.0,120,0,0,0,0,0.0,0.0,Boly,2
+0,0,118,None,None,1,216054,0,0,0,0,113.7,0,2,None,None,0,Rúben Gonçalo,0.0,9,0,30.0,406,False,117.0,703,,None,45,0,0,0,216054.jpg,1.4,0,0,Silva Nascimento Vinagre,0.2,False,None,a,20,39,69.0,24,0,0,0,0,0.0,0.0,Vinagre,1
+0,5,248,None,None,3,107613,0,0,0,0,70.9,0,2,None,None,0,Romain,0.0,17,2,56.2,407,False,363.6,1142,,None,45,0,0,0,107613.jpg,2.5,0,0,Saïss,0.3,False,None,a,20,39,129.0,47,0,0,0,0,0.0,0.0,Saïss,7
+0,0,3,None,None,0,214048,0,0,0,0,0.0,0,2,None,None,0,Max,0.0,0,0,0.0,408,False,0.0,1,,None,40,0,0,0,214048.jpg,1.0,0,0,Kilman,0.9,False,None,a,20,39,0.0,1,0,0,0,0,0.0,0.0,Kilman,0
+10,31,602,None,None,12,102057,0,0,0,0,648.5,0,4,None,None,0,Raúl,0.0,40,13,285.4,409,False,788.8,3112,,None,75,0,0,0,102057.jpg,4.8,0,0,Jiménez,45.4,False,None,a,20,39,1428.0,181,0,0,0,0,0.0,0.0,Jiménez,4
+8,13,386,None,None,10,194634,0,0,0,0,402.5,0,4,None,None,0,Diogo,0.0,29,9,185.0,410,False,559.6,2352,,None,65,0,0,0,194634.jpg,4.2,0,0,Jota,12.8,False,None,a,20,39,888.0,139,0,0,0,0,0.0,0.0,Jota,11
+0,4,581,None,None,8,38533,0,0,0,0,0.0,0,1,None,None,0,Rui Pedro,0.0,46,0,69.1,411,False,695.0,3330,,None,50,0,0,0,38533.jpg,3.2,0,97,dos Santos Patrício,4.3,False,None,a,20,39,0.0,118,0,0,0,0,0.0,0.0,Patrício,0
+0,0,25,None,None,1,19236,0,0,0,0,0.0,0,1,None,None,0,John,0.0,0,0,2.7,412,False,26.6,90,,None,45,0,0,0,19236.jpg,7.0,0,3,Ruddy,0.3,False,None,a,20,39,0.0,7,0,0,0,0,0.0,0.0,Ruddy,0
+0,0,3,None,None,0,168399,0,0,0,0,0.0,0,1,None,None,0,Will,0.0,0,0,0.0,413,False,0.0,1,,None,40,0,0,0,168399.jpg,1.0,0,0,Norris,2.5,False,None,a,20,39,0.0,1,0,0,0,0,0.0,0.0,Norris,0
+3,7,483,None,None,8,171317,0,0,0,0,365.9,0,3,None,None,0,Rúben Diogo,0.0,43,4,146.8,414,False,698.2,3006,,None,55,0,0,0,171317.jpg,3.0,0,0,da Silva Neves,6.2,False,None,a,20,39,402.0,104,0,0,0,0,0.0,0.0,Neves,8
+8,13,628,None,None,9,19624,0,0,0,0,1245.8,0,3,None,None,0,João Filipe Iria,0.0,39,1,216.4,415,False,812.6,3030,,None,55,0,0,0,19624.jpg,3.1,0,0,Santos Moutinho,6.9,False,None,a,20,39,102.0,119,0,0,0,0,0.0,0.0,Moutinho,4
+1,0,113,None,None,4,222531,0,0,0,0,181.1,0,3,None,None,0,Morgan,0.0,12,0,32.5,416,False,73.2,645,,None,50,0,0,0,222531.jpg,1.4,0,0,Gibbs-White,0.1,False,None,a,20,39,72.0,37,0,0,0,0,0.0,0.0,Gibbs-White,1
+1,2,182,None,None,1,159533,0,0,0,0,271.3,0,3,None,None,0,Adama,0.0,13,1,75.8,417,False,223.4,884,,None,50,0,0,0,159533.jpg,1.5,0,0,Traoré,0.2,False,None,a,20,39,265.0,44,0,0,0,0,0.0,0.0,Traoré,1
+2,0,136,None,None,5,165808,0,0,0,0,264.0,0,3,None,None,0,Hélder,0.0,19,1,70.9,418,False,162.8,1333,,None,50,0,0,0,165808.jpg,2.1,0,0,Costa,0.3,False,None,a,20,39,280.0,52,0,0,0,0,0.0,0.0,Costa,3
+1,3,156,None,None,1,166324,0,0,0,0,313.6,0,3,None,None,0,Ivan,0.0,11,3,66.0,419,False,198.0,677,,None,50,0,0,0,166324.jpg,2.1,0,0,Cavaleiro,0.1,False,None,a,20,39,156.0,48,0,0,0,0,0.0,0.0,Cavaleiro,1
+0,1,209,None,None,3,151589,0,0,0,0,126.6,0,3,None,None,0,Leander,0.0,21,2,75.1,420,False,334.8,1465,,None,45,0,0,0,151589.jpg,2.5,0,0,Dendoncker,8.4,False,None,a,20,39,288.0,48,0,0,0,0,0.0,0.0,Dendoncker,1
