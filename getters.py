@@ -5,7 +5,7 @@ import time
 def get_data():
     """ Retrieve the fpl player data from the hard-coded url
     """
-    response = requests.get("https://fantasy.premierleague.com/drf/bootstrap-static")
+    response = requests.get("https://fantasy.premierleague.com/api/bootstrap-static")
     if response.status_code != 200:
         raise Exception("Response was code " + str(response.status_code))
     responseStr = response.text
@@ -18,7 +18,7 @@ def get_individual_player_data(player_id):
     Args:
         player_id (int): ID of the player whose data is to be retrieved
     """
-    base_url = "https://fantasy.premierleague.com/drf/element-summary/"
+    base_url = "https://fantasy.premierleague.com/api/element-summary/"
     full_url = base_url + str(player_id)
     response = ''
     while response == '':
@@ -37,7 +37,7 @@ def get_entry_data(entry_id):
     Args:
         entry_id (int) : ID of the team whose data is to be retrieved
     """
-    base_url = "https://fantasy.premierleague.com/drf/entry/"
+    base_url = "https://fantasy.premierleague.com/api/entry/"
     full_url = base_url + str(entry_id) + "/history"
     response = ''
     while response == '':
@@ -56,7 +56,7 @@ def get_entry_gws_data(entry_id):
     Args:
         entry_id (int) : ID of the team whose data is to be retrieved
     """
-    base_url = "https://fantasy.premierleague.com/drf/entry/"
+    base_url = "https://fantasy.premierleague.com/api/entry/"
     gw_data = []
     for i in range(1, 39):
         full_url = base_url + str(entry_id) + "/event/" + str(i)
@@ -78,7 +78,7 @@ def get_entry_transfers_data(entry_id):
     Args:
         entry_id (int) : ID of the team whose data is to be retrieved
     """
-    base_url = "https://fantasy.premierleague.com/drf/entry/"
+    base_url = "https://fantasy.premierleague.com/api/entry/"
     full_url = base_url + str(entry_id) + "/transfers"
     response = ''
     while response == '':
