@@ -36,6 +36,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 ## Notable Usages of this Repository
 
++ [FPL.co.id Tailsman](http://fpl.co.id/tools/talismans/)
+
 + [Leicester City Brendan Rodgers Impact Analysis on twitter by @neilswmurrayFPL](https://twitter.com/neilswmurrayFPL/status/1147407501736009728)
 
 + [Stat Analysis on twitter by @StatOnScout](https://twitter.com/StatOnScout)
