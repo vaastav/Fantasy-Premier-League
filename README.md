@@ -5,6 +5,16 @@ A FPL library that gets all the basic stats for each player, gw-specific data fo
 
 ## FAQ
 
+### Data Structure
+
+The data folder contains the data from past seasons as well as the current season. It is structured as follows:
+
++ season/cleaned_players.csv : The overview stats for the season
++ season/gws/gw_number.csv : GW-specific stats for the particular season
++ season/gws/merged_gws.csv : GW-by-GW stats for each player in a single file
++ season/players/player_name/gws.csv : GW-by-GW stats for that specific player
++ season/players/player_name/history.csv : Prior seasons history stats for that specific player.
+
 ### Player Position Data
 
 In players_raw.csv, element_type is the field that corresponds to the position.
