@@ -21,10 +21,12 @@ def parse_data():
     clean_players(base_filename + 'players_raw.csv', base_filename)
     print("Getting fixtures data")
     fixtures(base_filename)
+    if gw_num == 0:
+        print("Getting teams data")
+        parse_team_data(data["teams"], base_filename)
     print("Extracting player ids")
     id_players(base_filename + 'players_raw.csv', base_filename)
     player_ids = get_player_ids(base_filename)
-    # TODO: parse other stats that may be useful
     num_players = len(data["elements"])
     player_base_filename = base_filename + 'players/'
     gw_base_filename = base_filename + 'gws/'
