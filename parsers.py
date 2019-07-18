@@ -74,3 +74,7 @@ def parse_transfer_history(data, outfile_base):
     wildcards_df.to_csv(os.path.join(outfile_base, 'wildcards.csv'))
     transfers_df = pd.DataFrame.from_records(data["history"])
     transfers_df.to_csv(os.path.join(outfile_base, 'transfers.csv'))
+
+def parse_fixtures(data, outfile_base):
+    fixtures_df = pd.DataFrame.from_records(data)
+    fixtures_df.to_csv(os.path.join(outfile_base, 'fixtures.csv'), index=False)

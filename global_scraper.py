@@ -19,6 +19,8 @@ def parse_data():
         print("Season hasn't started yet m8")
     print("Cleaning summary data")
     clean_players(base_filename + 'players_raw.csv', base_filename)
+    print("Getting fixtures data")
+    fixtures(base_filename)
     print("Extracting player ids")
     id_players(base_filename + 'players_raw.csv', base_filename)
     player_ids = get_player_ids(base_filename)
@@ -36,6 +38,10 @@ def parse_data():
         collect_gw(gw_num, player_base_filename, gw_base_filename) 
         print("Merging gw scores")
         merge_gw(gw_num, gw_base_filename)
+
+def fixtures(base_filename):
+    data = get_fixtures_data()
+    parse_fixtures(data, base_filename)
 
 def main():
     parse_data()
