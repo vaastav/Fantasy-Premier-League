@@ -23,6 +23,15 @@ In players_raw.csv, element_type is the field that corresponds to the position.
 3 = MID
 4 = FWD
 
+### Contributing
+
++ If you feel like there is some data that is missing which you would like to see, then please feel free to create a PR or create an issue highlighting what is missing and what you would like to be added
++ If you have access to old data (pre-2016) then please feel free to create Pull Requests adding the data to the repo or create an issue with links to old data and I will add them myself.
+
+### Using
+
+If you use data from here for your website or blog posts, then I would humbly request that you please add a link back to this repo as the data source (and I would in turn add a link to your post/site as a notable usage of this repo).
+
 ## Downloading Your Team Data
 
 You can download the data for your team by executing the following steps:
