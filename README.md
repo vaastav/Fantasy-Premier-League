@@ -45,9 +45,11 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 ## Notable Usages of this Repository
 
-+ [FPL modeling and prediction](https://github.com/alsgregory/Fantasy-Football)
++ [graphql API by u/jeppews](https://api.better-fpl.com/graphql)
 
-+ [FPL.co.id Tailsman](http://fpl.co.id/tools/talismans/)
++ [FPL modeling and prediction by @alsgregory](https://github.com/alsgregory/Fantasy-Football)
+
++ [FPL.co.id Talismans by @FPL_COID](http://fpl.co.id/tools/talismans/)
 
 + [Leicester City Brendan Rodgers Impact Analysis on twitter by @neilswmurrayFPL](https://twitter.com/neilswmurrayFPL/status/1147407501736009728)
 
