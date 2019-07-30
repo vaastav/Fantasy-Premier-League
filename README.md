@@ -1,3 +1,5 @@
+[![GitSpo Mentions](https://gitspo.com/badges/mentions/vaastav/Fantasy-Premier-League?style=flat-square)](https://gitspo.com/mentions/vaastav/Fantasy-Premier-League)
+
 Fantasy-Premier-League
 ======================
 
