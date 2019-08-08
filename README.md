@@ -47,6 +47,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 ## Notable Usages of this Repository
 
++ [How to Win at Fantasy Premier league using Deep learning by Paul Solomon](https://medium.com/@sol.paul/how-to-win-at-fantasy-premier-league-using-data-part-1-forecasting-with-deep-learning-bf121f38643a)
+
 + [graphql API by u/jeppews](https://api.better-fpl.com/graphql)
 
 + [FPL modeling and prediction by @alsgregory](https://github.com/alsgregory/Fantasy-Football)
