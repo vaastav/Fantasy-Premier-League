@@ -31,10 +31,11 @@ def parse_data():
     player_base_filename = base_filename + 'players/'
     gw_base_filename = base_filename + 'gws/'
     print("Extracting player specific data")
-    for i in range(num_players):
-        player_data = get_individual_player_data(i+1)
-        parse_player_history(player_data["history_past"], player_base_filename, player_ids[i+1], i+1)
-        parse_player_gw_history(player_data["history"], player_base_filename, player_ids[i+1], i+1)
+    for i,name in player_ids.items():
+        print("Getting player ", i)
+        player_data = get_individual_player_data(i)
+        parse_player_history(player_data["history_past"], player_base_filename, name, i)
+        parse_player_gw_history(player_data["history"], player_base_filename, name, i)
     if gw_num > 0:
         print("Collecting gw scores")
         collect_gw(gw_num, player_base_filename, gw_base_filename) 
