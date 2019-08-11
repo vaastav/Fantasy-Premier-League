@@ -61,7 +61,7 @@ def parse_entry_history(data, outfile_base):
     #profile_df = pd.DataFrame.from_records(profile_data)
     #profile_df.to_csv(os.path.join(outfile_base, 'profile.csv'))
     gw_history_df = pd.DataFrame.from_records(data["current"])
-    gw_history_df.to_csv(os.path.join(outfile_base, 'gws.csv'))
+    gw_history_df.to_csv(os.path.join(outfile_base, 'gws.csv'), index=False)
 
 def parse_entry_leagues(data, outfile_base):
     classic_leagues_df = pd.DataFrame.from_records(data["leagues"]["classic"])

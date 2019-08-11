@@ -12,11 +12,11 @@ def parse_data():
     base_filename = 'data/' + season + '/'
     print("Parsing summary data")
     parse_players(data["elements"], base_filename)
-    try:
-        gw_num = data["current-event"]
-    except:
-        gw_num = 0
-        print("Season hasn't started yet m8")
+    gw_num = 0
+    events = data["events"]
+    for event in events:
+        if event["is_current"] == True:
+            gw_num = event["id"]
     print("Cleaning summary data")
     clean_players(base_filename + 'players_raw.csv', base_filename)
     print("Getting fixtures data")
@@ -32,7 +32,6 @@ def parse_data():
     gw_base_filename = base_filename + 'gws/'
     print("Extracting player specific data")
     for i,name in player_ids.items():
-        print("Getting player ", i)
         player_data = get_individual_player_data(i)
         parse_player_history(player_data["history_past"], player_base_filename, name, i)
         parse_player_gw_history(player_data["history"], player_base_filename, name, i)
