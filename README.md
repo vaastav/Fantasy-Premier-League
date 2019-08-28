@@ -51,6 +51,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 ## Notable Usages of this Repository
 
++ [Captaincy Choice GW4 2019-20 post by Matthew Barnfield](https://mbarnfield.github.io/fpl.html)
+
 + [Building a dataset for Fantasy Premier League analysis by djfinnoy](http://www.didjfin.no/blog/fpl/fantasy-premier-league-data/)
 
 + [Value in FPL 2019-20 Report by Who Got The Assist?](https://whogottheassist.com/value-in-fpl-2019-20-report/)
