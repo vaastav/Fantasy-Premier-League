@@ -2,6 +2,7 @@ from parsers import *
 from cleaners import *
 from getters import *
 from collector import collect_gw, merge_gw
+from understat import parse_epl_data
 
 def parse_data():
     """ Parse and store all the data
@@ -40,6 +41,7 @@ def parse_data():
         collect_gw(gw_num, player_base_filename, gw_base_filename) 
         print("Merging gw scores")
         merge_gw(gw_num, gw_base_filename)
+    parse_epl_data(base_filename)
 
 def fixtures(base_filename):
     data = get_fixtures_data()
