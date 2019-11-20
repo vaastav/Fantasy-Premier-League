@@ -51,7 +51,7 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 ## Notable Usages of this Repository
 
-+ [Top Players against GW13 rival by u/LiuSiuMing]https://www.reddit.com/r/FantasyPL/comments/dz04hf/top_players_against_gw13_rival/)
++ [Top Players against GW13 rival by u/LiuSiuMing](https://www.reddit.com/r/FantasyPL/comments/dz04hf/top_players_against_gw13_rival/)
 
 + [Captaincy Choice GW4 2019-20 post by Matthew Barnfield](https://mbarnfield.github.io/fpl.html)
 
