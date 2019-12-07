@@ -6,7 +6,7 @@ def merge_gw(gw, gw_directory):
     merged_gw_filename = "merged_gw.csv"
     gw_filename = "gw" + str(gw) + ".csv"
     gw_path = os.path.join(gw_directory, gw_filename)
-    fin = open(gw_path, 'rU')
+    fin = open(gw_path, 'rU', encoding="utf-8")
     reader = csv.DictReader(fin)
     fieldnames = reader.fieldnames
     fieldnames += ["GW"]
@@ -15,8 +15,9 @@ def merge_gw(gw, gw_directory):
         row["GW"] = gw
         rows += [row]
     out_path = os.path.join(gw_directory, merged_gw_filename)
-    fout = open(out_path,'a')
+    fout = open(out_path,'a', encoding="utf-8")
     writer = csv.DictWriter(fout, fieldnames=fieldnames, lineterminator='\n')
+    print(gw)
     if gw == 1:
         writer.writeheader()
     for row in rows:
@@ -38,7 +39,7 @@ def collect_gw(gw, directory_name, output_dir):
                         rows += [row]
 
     fieldnames = ['name'] + fieldnames
-    outf = open(os.path.join(output_dir, "gw" + str(gw) + ".csv"), 'w')
+    outf = open(os.path.join(output_dir, "gw" + str(gw) + ".csv"), 'w', encoding="utf-8")
     writer = csv.DictWriter(outf, fieldnames=fieldnames, lineterminator='\n')
     writer.writeheader()
     for row in rows:

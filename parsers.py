@@ -47,25 +47,32 @@ def parse_player_gw_history(list_of_gw, base_filename, player_name, Id):
             w.writerow(gw)
 
 def parse_gw_entry_history(data, outfile_base):
-    i = 1
     for gw in data:
-        print(gw)
-        i += 1
+        picks = gw['picks']
+        event = gw['entry_history']['event']
+        filename = "picks_" +str(event) + ".csv"
+        picks_df = pd.DataFrame.from_records(picks)
+        picks_df.to_csv(os.path.join(outfile_base, filename), index=False)
 
 def parse_entry_history(data, outfile_base):
     chips_df = pd.DataFrame.from_records(data["chips"])
     chips_df.to_csv(os.path.join(outfile_base, 'chips.csv'))
-    season_df = pd.DataFrame.from_records(data["season"])
+    season_df = pd.DataFrame.from_records(data["past"])
     season_df.to_csv(os.path.join(outfile_base, 'history.csv'))
     #profile_data = data["entry"].pop('kit', data["entry"])
     #profile_df = pd.DataFrame.from_records(profile_data)
     #profile_df.to_csv(os.path.join(outfile_base, 'profile.csv'))
-    gw_history_df = pd.DataFrame.from_records(data["history"])
-    gw_history_df.to_csv(os.path.join(outfile_base, 'gws.csv'))
+    gw_history_df = pd.DataFrame.from_records(data["current"])
+    gw_history_df.to_csv(os.path.join(outfile_base, 'gws.csv'), index=False)
+
+def parse_entry_leagues(data, outfile_base):
     classic_leagues_df = pd.DataFrame.from_records(data["leagues"]["classic"])
     classic_leagues_df.to_csv(os.path.join(outfile_base, 'classic_leagues.csv'))
-    cup_leagues_df = pd.DataFrame.from_records(data["leagues"]["cup"])
-    cup_leagues_df.to_csv(os.path.join(outfile_base, 'cup_leagues.csv'))
+    try:
+        cup_leagues_df = pd.DataFrame.from_records(data["leagues"]["cup"])
+        cup_leagues_df.to_csv(os.path.join(outfile_base, 'cup_leagues.csv'))
+    except KeyError:
+        print("No cups yet")
     h2h_leagues_df = pd.DataFrame.from_records(data["leagues"]["h2h"])
     h2h_leagues_df.to_csv(os.path.join(outfile_base, 'h2h_leagues.csv'))
 
@@ -74,3 +81,11 @@ def parse_transfer_history(data, outfile_base):
     wildcards_df.to_csv(os.path.join(outfile_base, 'wildcards.csv'))
     transfers_df = pd.DataFrame.from_records(data["history"])
     transfers_df.to_csv(os.path.join(outfile_base, 'transfers.csv'))
+
+def parse_fixtures(data, outfile_base):
+    fixtures_df = pd.DataFrame.from_records(data)
+    fixtures_df.to_csv(os.path.join(outfile_base, 'fixtures.csv'), index=False)
+
+def parse_team_data(data, outfile_base):
+    teams_df = pd.DataFrame.from_records(data)
+    teams_df.to_csv(os.path.join(outfile_base, 'teams.csv'), index=False)
