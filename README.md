@@ -8,6 +8,7 @@ A FPL library that gets all the basic stats for each player, gw-specific data fo
 ### Acknowledgement
 
 + speeder1987 for providing 2018/19 fixtures.csv file
++ ravgeetdhillon for github actions automation for data update
 
 ## FAQ
 
