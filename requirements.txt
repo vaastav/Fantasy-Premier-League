@@ -1,0 +1,13 @@
+beautifulsoup4==4.8.1
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+numpy==1.17.4
+pandas==0.25.3
+# pkg-resources==0.0.0
+python-dateutil==2.8.1
+pytz==2019.3
+requests==2.22.0
+six==1.13.0
+soupsieve==1.9.5
+urllib3==1.25.7
