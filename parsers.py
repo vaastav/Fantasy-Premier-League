@@ -69,7 +69,7 @@ def parse_entry_leagues(data, outfile_base):
     classic_leagues_df = pd.DataFrame.from_records(data["leagues"]["classic"])
     classic_leagues_df.to_csv(os.path.join(outfile_base, 'classic_leagues.csv'))
     try:
-        cup_leagues_df = pd.DataFrame.from_records(data["leagues"]["cup"])
+        cup_leagues_df = pd.DataFrame.from_records(data["leagues"]["cup"]["matches"])
         cup_leagues_df.to_csv(os.path.join(outfile_base, 'cup_leagues.csv'))
     except KeyError:
         print("No cups yet")
