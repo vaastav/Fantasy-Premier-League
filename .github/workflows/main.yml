@@ -10,28 +10,44 @@ name: Fetch Data
 # so the workflow will execute on 12 Dec 2019 11:30 UTC
 on:
    schedule:
-   - cron: '30 11 12 12 *'
-   - cron: '30 11 19 12 *'
-   - cron: '30 11 24 12 *'
-   - cron: '30 11 26 12 *'
-   - cron: '30 11 29 12 *'
-   - cron: '0 19 8 1 *'
-   - cron: '30 11 16 1 *'
-   - cron: '30 18 19 1 *'
-   - cron: '0 14 29 1 *'
-   - cron: '0 14 6 2 *'
-   - cron: '0 14 20 2 *'
-   - cron: '0 14 27 2 *'
-   - cron: '0 14 5 3 *'
-   - cron: '0 14 12 3 *'
-   - cron: '0 14 19 3 *'
-   - cron: '0 13 2 4 *'
-   - cron: '0 13 9 4 *'
-   - cron: '0 13 16 4 *'
-   - cron: '0 13 23 4 *'
-   - cron: '0 13 30 4 *'
-   - cron: '0 13 7 5 *'
-   - cron: '0 13 15 5 *'
+   - cron: '30 03 12 08 *'
+   - cron: '00 07 20 08 *'
+   - cron: '30 03 26 08 *'
+   - cron: '30 03 02 09 *'
+   - cron: '00 07 17 09 *'
+   - cron: '30 03 23 09 *'
+   - cron: '00 07 01 10 *'
+   - cron: '30 03 07 10 *'
+   - cron: '00 07 22 10 *'
+   - cron: '30 04 28 10 *'
+   - cron: '30 04 04 11 *'
+   - cron: '30 04 11 11 *'
+   - cron: '00 08 26 11 *'
+   - cron: '30 04 02 12 *'
+   - cron: '15 08 06 12 *'
+   - cron: '00 08 10 12 *'
+   - cron: '45 07 17 12 *'
+   - cron: '30 04 23 12 *'
+   - cron: '45 07 28 12 *'
+   - cron: '00 06 30 12 *'
+   - cron: '00 08 03 01 *'
+   - cron: '30 04 13 01 *'
+   - cron: '30 04 20 01 *'
+   - cron: '00 08 24 01 *'
+   - cron: '00 03 02 02 *'
+   - cron: '00 03 09 02 *'
+   - cron: '00 03 23 02 *'
+   - cron: '00 03 01 03 *'
+   - cron: '00 03 08 03 *'
+   - cron: '00 03 15 03 *'
+   - cron: '00 03 22 03 *'
+   - cron: '00 02 05 04 *'
+   - cron: '00 02 12 04 *'
+   - cron: '00 02 19 04 *'
+   - cron: '00 02 26 04 *'
+   - cron: '00 02 03 05 *'
+   - cron: '00 02 10 05 *'
+   - cron: '00 02 18 05 *'
 
 jobs:
   fetchData:
@@ -70,6 +86,6 @@ jobs:
     - name: Commit and Push
       run: |
         gameweek_id=`python gameweek.py`
-        git add .
+        git add data/2019-20
         git commit -m "gh-actions added gw${gameweek_id} data"
         git push --force https://${GITHUB_ACTOR}:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git HEAD:${REMOTE_BRANCH}
