@@ -52,6 +52,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 ## Notable Usages of this Repository
 
++ [Expected Goals vs Actual Goals for Manchester United by u/JLane1996](https://www.reddit.com/r/reddevils/comments/ecbn9j/corrected_plot_of_goals_vs_expected_goals_this/fba8vs3/)
+
 + [Tableau Viz by u/richkelana](https://www.reddit.com/r/tableau/comments/e2j0uq/my_first_tableu_viz_fpl/)
 
 + [Top Players against GW13 rival by u/LiuSiuMing](https://www.reddit.com/r/FantasyPL/comments/dz04hf/top_players_against_gw13_rival/)
