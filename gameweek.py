@@ -1,3 +1,4 @@
+from datetime import datetime
 import requests
 import json
 
@@ -11,11 +12,12 @@ def get_recent_gameweek_id():
     data = json.loads(data.content)
 
     gameweeks = data['events']
-
+    
+    now = datetime.utcnow()
     for gameweek in gameweeks:
-        if gameweek['finished'] == False:
-            gameweek_id = gameweek['id']
-            return gameweek_id - 1
+        next_deadline_date = datetime.strptime(gameweek['deadline_time'], '%Y-%m-%dT%H:%M:%SZ')
+        if next_deadline_date > now:
+            return gameweek['id'] - 1
 
 
 if __name__ == '__main__':
