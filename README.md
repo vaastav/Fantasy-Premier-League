@@ -52,6 +52,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 ## Notable Usages of this Repository
 
++ [xA vs xG for Attacking Midfielders/Forwards by u/JLane1996](https://www.reddit.com/r/FantasyPL/comments/erfdy1/a_plot_of_xg_vs_xa_for_for_attacking_midsforwards/)
+
 + [Expected Goals vs Actual Goals for Manchester United by u/JLane1996](https://www.reddit.com/r/reddevils/comments/ecbn9j/corrected_plot_of_goals_vs_expected_goals_this/fba8vs3/)
 
 + [Tableau Viz by u/richkelana](https://www.reddit.com/r/tableau/comments/e2j0uq/my_first_tableu_viz_fpl/)
