@@ -50,7 +50,9 @@ python teams_scraper.py <team_id>
 
 This will create a new folder called "team_<team_id>_data18-19" with individual files of all the important data
 
-## Notable Usages of this Repository
+# Notable Usages of this Repository
+
++ [Machine Learning Model by pratz](https://keytodatascience.com/fpl-machine-learning/)
 
 + [xA vs xG for Attacking Midfielders/Forwards by u/JLane1996](https://www.reddit.com/r/FantasyPL/comments/erfdy1/a_plot_of_xg_vs_xa_for_for_attacking_midsforwards/)
 
