@@ -75,7 +75,6 @@ jobs:
     - name: Fetch and organize data
       run: |
         python global_scraper.py
-        python understat.py
 
       # change this config settings according to your need
     - name: Configure Git
