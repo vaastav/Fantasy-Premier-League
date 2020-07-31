@@ -14,6 +14,23 @@ def extract_stat_names(dict_of_stats):
         stat_names += [key]
     return stat_names
 
+def parse_top_players(data, base_filename):
+    rows = []
+    for event in data['events']:
+        gw = event['id']
+        player_id = event['top_element']
+        points = event['top_element_info']['points']
+        row = {}
+        row['gw'] = gw
+        row['player_id'] = player_id
+        row['points'] = points
+        rows += [row]
+    f = open(os.path.join(base_filename, 'best_players.csv'), 'w+', newline='')
+    w = csv.DictWriter(f, ['gw', 'player_id', 'points'])
+    w.writeheader()
+    for row in rows:
+        w.writerow(row)
+
 def parse_players(list_of_players, base_filename):
     stat_names = extract_stat_names(list_of_players[0])
     filename = base_filename + 'players_raw.csv'
@@ -77,10 +94,8 @@ def parse_entry_leagues(data, outfile_base):
     h2h_leagues_df.to_csv(os.path.join(outfile_base, 'h2h_leagues.csv'))
 
 def parse_transfer_history(data, outfile_base):
-    wildcards_df = pd.DataFrame.from_records(data["wildcards"])
-    wildcards_df.to_csv(os.path.join(outfile_base, 'wildcards.csv'))
-    transfers_df = pd.DataFrame.from_records(data["history"])
-    transfers_df.to_csv(os.path.join(outfile_base, 'transfers.csv'))
+    wildcards_df = pd.DataFrame.from_records(data)
+    wildcards_df.to_csv(os.path.join(outfile_base, 'transfers.csv'), index=False)
 
 def parse_fixtures(data, outfile_base):
     fixtures_df = pd.DataFrame.from_records(data)
