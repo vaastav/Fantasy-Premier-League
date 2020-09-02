@@ -53,7 +53,7 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 # Notable Usages of this Repository
 
-+ [Fantasy Nutmeg Website by code247](fantasynutmeg.com/history)
++ [Fantasy Nutmeg Website by code247](https://www.fantasynutmeg.com/history)
 
 + [Machine Learning Model by pratz](https://keytodatascience.com/fpl-machine-learning/)
 
