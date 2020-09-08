@@ -37,6 +37,17 @@ def get_epl_data():
                 playerData = json.loads(decoded_content)
     return teamData, playerData
 
+def get_player_data(id):
+    scripts = get_data("https://understat.com/player/" + str(id))
+    groupsData = {}
+    matchesData = {}
+    shotsData = {}
+    for script in scripts:
+        for c in script.contents:
+            split_data = c.split('=')
+            data = split_data[0].strip()
+            print(data)
+
 def parse_epl_data(outfile_base):
     teamData,playerData = get_epl_data()
     new_team_data = []
@@ -50,7 +61,8 @@ def parse_epl_data(outfile_base):
     player_frame.to_csv(os.path.join(outfile_base, 'understat_player.csv'), index=False)
 
 def main():
-    parse_epl_data('data/2019-20/understat')
+    #parse_epl_data('data/2019-20/understat')
+    get_player_data(318)
 
 if __name__ == '__main__':
     main()

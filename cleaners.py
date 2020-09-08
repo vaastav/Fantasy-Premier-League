@@ -8,7 +8,7 @@ def clean_players(filename, base_filename):
     Args:
         filename (str): Name of the file that contains the full data for each player
     """
-    headers = ['first_name', 'second_name', 'goals_scored', 'assists', 'total_points', 'minutes', 'goals_conceded', 'creativity', 'influence', 'threat', 'bonus', 'bps', 'ict_index', 'clean_sheets', 'red_cards', 'yellow_cards', 'selected_by_percent', 'now_cost']
+    headers = ['first_name', 'second_name', 'goals_scored', 'assists', 'total_points', 'minutes', 'goals_conceded', 'creativity', 'influence', 'threat', 'bonus', 'bps', 'ict_index', 'clean_sheets', 'red_cards', 'yellow_cards', 'selected_by_percent', 'now_cost', 'element_type']
     fin = open(filename, 'r+', encoding='utf-8')
     outname = base_filename + 'cleaned_players.csv'
     os.makedirs(os.path.dirname(outname), exist_ok=True)
@@ -17,6 +17,16 @@ def clean_players(filename, base_filename):
     writer = csv.DictWriter(fout, headers, extrasaction='ignore')
     writer.writeheader()
     for line in reader:
+        if line['element_type'] == '1':
+            line['element_type'] = 'GK'
+        elif line['element_type'] == '2':
+            line['element_type'] = 'DEF'
+        elif line['element_type'] == '3':
+            line['element_type'] = 'MID'
+        elif line['element_type'] == '4':
+            line['element_type'] = 'FWD'
+        else:
+            print("Oh boy")
         writer.writerow(line)
 
 def id_players(players_filename, base_filename):
