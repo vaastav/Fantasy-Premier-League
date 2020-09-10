@@ -53,6 +53,10 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 # Notable Usages of this Repository
 
++ [2019-20 Winner Joshua Bull's Oxford Maths Public Lecture](https://www.youtube.com/watch?v=LzEuweGrHvc)
+
++ [2019-20 Lottery Analysis by @theFPLKiwi](https://twitter.com/theFPLkiwi/status/1297619700206239746?s=20)
+
 + [Fantasy Nutmeg Website by code247](https://www.fantasynutmeg.com/history)
 
 + [Machine Learning Model by pratz](https://keytodatascience.com/fpl-machine-learning/)
