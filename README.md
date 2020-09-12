@@ -53,11 +53,17 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 # Notable Usages of this Repository
 
++ [How to win at Fantasy Football with Splunk and Machine Learning by Rupert Truman](https://www.splunk.com/en_us/blog/machine-learning/how-to-win-at-fantasy-football-with-splunk-and-machine-learning-part-1.html)
+
 + [2019-20 Winner Joshua Bull's Oxford Maths Public Lecture](https://www.youtube.com/watch?v=LzEuweGrHvc)
 
 + [2019-20 Lottery Analysis by @theFPLKiwi](https://twitter.com/theFPLkiwi/status/1297619700206239746?s=20)
 
 + [Fantasy Nutmeg Website by code247](https://www.fantasynutmeg.com/history)
+
++ [Fantasy Premier League 19/20, a review by Hersh Dhillon](https://medium.com/@2017csb1079/fantasy-premier-league-19-20-a-review-part-1-basics-167e610e229)
+
++ [Visualisasi Data: Fantasy Premier League 19/20 by Erwindra Rusli](https://medium.com/@erwindrarusli/visualisasi-data-fantasy-premier-league-19-20-a80aaf097a21)
 
 + [Machine Learning Model by pratz](https://keytodatascience.com/fpl-machine-learning/)
 
