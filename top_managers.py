@@ -6,7 +6,7 @@ overallLeageID = 314
 
 # number of GW in 2019/20 season. Done as array to avoid calling api for blank GW 30-38.
 gameWeeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,39,40,
-			41,42,43,44,45,46,47]
+		41,42,43,44,45,46,47]
 
 # adds the top 10 team ID's to this array
 teamIDarray = []
@@ -41,7 +41,7 @@ for manager in managerParsed:
 	
 	if count <= topManagerNumber:
 		csvwriter1.writerow([manager['rank'],manager['entry'],manager['player_name'],
-							manager['entry_name'],manager['total']])
+						manager['entry_name'],manager['total']])
 
 		count +=1
 		teamIDarray.append(manager['entry'])
@@ -59,15 +59,15 @@ for teamID in teamIDarray:
 		# write data to top_managers_gwInfo.csv
 		if count1 == 0:
 			header = ['team_id','gw','points','bench','gw_rank','transfers','hits','total_points',
-					'overall_ank','team_value','chip']
+				'overall_ank','team_value','chip']
 
 			csvwriter2.writerow(header)
 			count1 += 1
 		try:
 			csvwriter2.writerow([teamID,x, parsed['entry_history']['points'], parsed['entry_history']['points_on_bench'],
-								parsed['entry_history']['rank'], parsed['entry_history']['event_transfers'],
-							 	parsed['entry_history']['event_transfers_cost'], parsed['entry_history']['total_points'],
-							 	parsed['entry_history']['overall_rank'], int(parsed['entry_history']['value'])/10, parsed['active_chip']])
+							parsed['entry_history']['rank'], parsed['entry_history']['event_transfers'],
+							parsed['entry_history']['event_transfers_cost'], parsed['entry_history']['total_points'],
+							parsed['entry_history']['overall_rank'], int(parsed['entry_history']['value'])/10, parsed['active_chip']])
 		except:
 			continue
 
