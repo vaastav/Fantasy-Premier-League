@@ -33,6 +33,14 @@ def get_positions(directory):
         names[int(row['id'])] = row['first_name'] + ' ' + row['second_name']
     return names, positions
 
+def get_expected_points(gw, directory):
+    xPoints = {}
+    fin = open(os.path.join(directory, 'xP' + str(gw) + '.csv'), 'rU')
+    reader = csv.DictReader(fin)
+    for row in reader:
+        xPoints[int(row['id'])] = row['xP']
+    return xPoints
+
 def merge_gw(gw, gw_directory):
     merged_gw_filename = "merged_gw.csv"
     gw_filename = "gw" + str(gw) + ".csv"
@@ -61,6 +69,7 @@ def collect_gw(gw, directory_name, output_dir):
     fixtures_home, fixtures_away = get_fixtures(root_directory_name)
     teams = get_teams(root_directory_name)
     names, positions = get_positions(root_directory_name)
+    xPoints = get_expected_points(gw, output_dir)
     for root, dirs, files in os.walk(u"./" + directory_name):
         for fname in files:
             if fname == 'gw.csv':
@@ -73,15 +82,17 @@ def collect_gw(gw, directory_name, output_dir):
                         id = int(os.path.basename(root).split('_')[-1])
                         name = names[id]
                         position = positions[id]
+                        fixture = int(row['fixture'])
                         if row['was_home'] == True or row['was_home'] == "True":
                             row['team'] = teams[fixtures_home[fixture]]
                         else:
                             row['team'] = teams[fixtures_away[fixture]]
                         row['name'] = name
-                        :row['position'] = position
+                        row['position'] = position
+                        row['xP'] = xPoints[id]
                         rows += [row]
 
-    fieldnames = ['name', 'position', 'team'] + fieldnames
+    fieldnames = ['name', 'position', 'team', 'xP'] + fieldnames
     outf = open(os.path.join(output_dir, "gw" + str(gw) + ".csv"), 'w', encoding="utf-8")
     writer = csv.DictWriter(outf, fieldnames=fieldnames, lineterminator='\n')
     writer.writeheader()

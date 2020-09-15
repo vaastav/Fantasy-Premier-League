@@ -29,6 +29,8 @@ William,Saliba,27
 Willian,Borges Da Silva,478
 Gabriel,Magalhães,494
 Daniel,Ceballos Fernández,501
+Mohamed Naser,El Sayed Elneny,526
+Matt,Macey,527
 Tom,Heaton,28
 Ahmed,El Mohamady,29
 Henri,Lansbury,30
@@ -84,6 +86,7 @@ Aaron,Connolly,78
 Steven,Alzate,79
 Alexis,Mac Allister,80
 Christian,Walton,503
+Jason,Steele,528
 James,Tarkowski,81
 Phil,Bardsley,82
 Erik,Pieters,83
@@ -104,6 +107,8 @@ Charlie,Taylor,97
 Josh,Brownhill,98
 Bailey,Peacock-Farrell,99
 Dwight,McNeil,100
+Jimmy,Dunne,519
+Bobby,Thomas,520
 Willy,Caballero,101
 César,Azpilicueta,102
 Olivier,Giroud,103
@@ -111,7 +116,6 @@ Marcos,Alonso,104
 Jorge Luiz,Frello Filho,105
 Ross,Barkley,106
 Mateo,Kovacic,107
-Michy,Batshuayi,108
 Antonio,Rüdiger,109
 Kurt,Zouma,110
 Emerson,Palmieri dos Santos,111
@@ -131,6 +135,7 @@ Billy,Gilmour,124
 Benjamin,Chilwell,232
 Thiago,Thiago,490
 Kai,Havertz,500
+Michy,Batshuayi,108
 Gary,Cahill,125
 Wayne,Hennessey,126
 Mamadou,Sakho,127
@@ -156,6 +161,7 @@ Tyrick,Mitchell,146
 Brandon,Pierrick,147
 Scott,Dann,486
 Eberechi,Eze,489
+Sam,Woods,522
 Theo,Walcott,148
 Fabian,Delph,149
 Gylfi,Sigurdsson,150
@@ -207,6 +213,9 @@ Zeze Steven,Sessegnon,192
 Harrison,Reed,373
 Antonee,Robinson,484
 Mario,Lemina,493
+Alphonse,Areola,516
+Kenny,Tete,517
+Denis,Odoi,525
 Wes,Morgan,216
 Kasper,Schmeichel,217
 Christian,Fuchs,218
@@ -232,6 +241,7 @@ Filip,Benkovic,237
 James,Justin,239
 Luke,Thomas,240
 Timothy,Castagne,498
+Nampalys,Mendy,518
 Pablo,Hernández Domínguez,193
 Francisco,Casilla Cortés,194
 Liam,Cooper,195
@@ -391,6 +401,7 @@ Aaron,Ramsdale,483
 Ethan,Ampadu,509
 Jayden,Bogle,510
 Max,Lowe,511
+Phil,Jagielka,529
 Shane,Long,361
 Ryan,Bertrand,362
 Alex,McCarthy,363
@@ -413,6 +424,8 @@ Jake,Vokins,380
 Michael,Obafemi,381
 Moussa,Djenepo,382
 Mohammed,Salisu,479
+Fraser,Forster,523
+Nathan,Tella,524
 Hugo,Lloris,383
 Danny,Rose,384
 Moussa,Sissoko,385
@@ -439,6 +452,7 @@ Tanguy,Ndombele,405
 Juan,Foyth,406
 Matt,Doherty,457
 Joe,Hart,482
+Cameron,Carter-Vickers,521
 David,Button,56
 Callum,Robinson,358
 Kieran,Gibbs,407
@@ -513,3 +527,4 @@ Bruno André,Cavaco Jordao,475
 Leonardo,Campana,476
 Fabio,Silva,504
 Fernando,Marçal,505
+Vitor,Ferreira,515
