@@ -1,1 +1,2 @@
-
+date,deep,deep_allowed,draws,h_a,loses,missed,npxG,npxGA,npxGD,ppda,ppda_allowed,pts,result,scored,wins,xG,xGA,xpts
+2020-09-20 18:00:00,6,14,0,a,1,4,1.52404,0.987365,0.536675,"{'def': 21, 'att': 338}","{'def': 17, 'att': 127}",0,l,2,0,1.52404,0.987365,1.7849
