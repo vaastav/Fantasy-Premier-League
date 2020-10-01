@@ -1,0 +1,3 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+0,0,1,0,0.1,293,15,1,0,0.2,0.0,2020-09-19T16:30:00Z,9,6,0,0,0,0,2,0,21375,3,1,2.0,1,-1023,2047,3070,65,True,0
+0,0,0,0,0.0,293,19,0,0,0.0,0.0,2020-09-26T11:30:00Z,0,3,0,0,0,0,3,0,18756,3,2,0.0,0,-4490,942,5432,64,False,0

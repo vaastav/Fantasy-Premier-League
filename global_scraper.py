@@ -3,16 +3,23 @@ from cleaners import *
 from getters import *
 from collector import collect_gw, merge_gw
 from understat import parse_epl_data
+import csv
 
 def parse_data():
     """ Parse and store all the data
     """
-    print("Getting data")
-    data = get_data()
     season = '2020-21'
     base_filename = 'data/' + season + '/'
+    print("Getting data")
+    data = get_data()
     print("Parsing summary data")
     parse_players(data["elements"], base_filename)
+    xPoints = []
+    for e in data["elements"]:
+        xPoint = {}
+        xPoint['id'] = e['id']
+        xPoint['xP'] = e['ep_this']
+        xPoints += [xPoint]
     gw_num = 0
     events = data["events"]
     for event in events:
@@ -36,6 +43,12 @@ def parse_data():
         parse_player_history(player_data["history_past"], player_base_filename, name, i)
         parse_player_gw_history(player_data["history"], player_base_filename, name, i)
     if gw_num > 0:
+        print("Writing expected points")
+        with open(os.path.join(gw_base_filename, 'xP' + str(gw_num) + '.csv'), 'w+') as outf:
+            w = csv.DictWriter(outf, ['id', 'xP'])
+            w.writeheader()
+            for xp in xPoints:
+                w.writerow(xp)
         print("Collecting gw scores")
         collect_gw(gw_num, player_base_filename, gw_base_filename) 
         print("Merging gw scores")
