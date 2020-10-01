@@ -2,6 +2,45 @@ import os
 import sys
 import csv
 
+def get_teams(directory):
+    teams = {}
+    fin = open(directory + "/teams.csv", 'rU')
+    reader = csv.DictReader(fin)
+    for row in reader:
+        teams[int(row['id'])] = row['name']
+    return teams
+
+
+def get_fixtures(directory):
+    fixtures_home = {}
+    fixtures_away = {}
+    fin = open(directory + "/fixtures.csv", 'rU')
+    reader = csv.DictReader(fin)
+    for row in reader:
+        fixtures_home[int(row['id'])] = int(row['team_h'])
+        fixtures_away[int(row['id'])] = int(row['team_a'])
+    return fixtures_home, fixtures_away
+
+
+def get_positions(directory):
+    positions = {}
+    names = {}
+    pos_dict = {'1': "GK", '2': "DEF", '3': "MID", '4': "FWD"}
+    fin = open(directory + "/players_raw.csv", 'rU',encoding="utf-8")
+    reader = csv.DictReader(fin)
+    for row in reader:
+        positions[int(row['id'])] = pos_dict[row['element_type']] 
+        names[int(row['id'])] = row['first_name'] + ' ' + row['second_name']
+    return names, positions
+
+def get_expected_points(gw, directory):
+    xPoints = {}
+    fin = open(os.path.join(directory, 'xP' + str(gw) + '.csv'), 'rU')
+    reader = csv.DictReader(fin)
+    for row in reader:
+        xPoints[int(row['id'])] = row['xP']
+    return xPoints
+
 def merge_gw(gw, gw_directory):
     merged_gw_filename = "merged_gw.csv"
     gw_filename = "gw" + str(gw) + ".csv"
@@ -26,6 +65,11 @@ def merge_gw(gw, gw_directory):
 def collect_gw(gw, directory_name, output_dir):
     rows = []
     fieldnames = []
+    root_directory_name = "data/2020-21/"
+    fixtures_home, fixtures_away = get_fixtures(root_directory_name)
+    teams = get_teams(root_directory_name)
+    names, positions = get_positions(root_directory_name)
+    xPoints = get_expected_points(gw, output_dir)
     for root, dirs, files in os.walk(u"./" + directory_name):
         for fname in files:
             if fname == 'gw.csv':
@@ -35,10 +79,20 @@ def collect_gw(gw, directory_name, output_dir):
                 fieldnames = reader.fieldnames
                 for row in reader:
                     if int(row['round']) == gw:
-                        row['name'] = os.path.basename(root)
+                        id = int(os.path.basename(root).split('_')[-1])
+                        name = names[id]
+                        position = positions[id]
+                        fixture = int(row['fixture'])
+                        if row['was_home'] == True or row['was_home'] == "True":
+                            row['team'] = teams[fixtures_home[fixture]]
+                        else:
+                            row['team'] = teams[fixtures_away[fixture]]
+                        row['name'] = name
+                        row['position'] = position
+                        row['xP'] = xPoints[id]
                         rows += [row]
 
-    fieldnames = ['name'] + fieldnames
+    fieldnames = ['name', 'position', 'team', 'xP'] + fieldnames
     outf = open(os.path.join(output_dir, "gw" + str(gw) + ".csv"), 'w', encoding="utf-8")
     writer = csv.DictWriter(outf, fieldnames=fieldnames, lineterminator='\n')
     writer.writeheader()
