@@ -57,6 +57,7 @@ Mbwana,Samatta,49
 Keinan,Davis,50
 Indiana,Vassilev,51
 Douglas Luiz,Soares de Paulo,52
+Ross,Barkley,106
 Matthew,Cash,496
 Ollie,Watkins,514
 Bertrand,Traoré,540
@@ -121,7 +122,6 @@ César,Azpilicueta,102
 Olivier,Giroud,103
 Marcos,Alonso,104
 Jorge Luiz,Frello Filho,105
-Ross,Barkley,106
 Mateo,Kovacic,107
 Antonio,Rüdiger,109
 Kurt,Zouma,110
@@ -197,6 +197,8 @@ Jarrad,Branthwaite,170
 Allan,Marques Loureiro,502
 James,Rodríguez,508
 Abdoulaye,Doucouré,512
+Niels,Nkounkou,559
+Ben,Godfrey,566
 Fabricio,Agosto Ramírez,171
 Kevin,McDonald,172
 Maxime,Le Marchand,173
@@ -225,6 +227,8 @@ Mario,Lemina,493
 Alphonse,Areola,516
 Kenny,Tete,517
 Denis,Odoi,525
+Ademola,Lookman,557
+Ola,Aina,562
 Wes,Morgan,216
 Kasper,Schmeichel,217
 Christian,Fuchs,218
@@ -252,6 +256,7 @@ Luke,Thomas,240
 Timothy,Castagne,498
 Nampalys,Mendy,518
 Cengiz,Ünder,541
+Wesley,Fofana,561
 Pablo,Hernández Domínguez,193
 Francisco,Casilla Cortés,194
 Liam,Cooper,195
@@ -301,12 +306,12 @@ Takumi,Minamino,258
 Trent,Alexander-Arnold,259
 Joseph,Gomez,260
 Naby,Keita,261
-Rhian,Brewster,262
 Curtis,Jones,263
 Neco,Williams,264
 Harvey,Elliott,265
 Diogo,Jota,468
 Thiago,Alcántara do Nascimento,531
+Caoimhin,Kelleher,560
 Fernando,Luiz Rosa,266
 Claudio,Bravo,267
 Sergio,Agüero,268
@@ -334,6 +339,7 @@ Adrián,Bernabé,537
 Zack,Steffen,538
 Liam,Delap,539
 Cole,Palmer,552
+Rúben Santos,Gato Alves Dias,556
 Sergio,Romero,289
 Juan,Mata,290
 David,de Gea,291
@@ -397,6 +403,7 @@ Jacob,Murphy,497
 Callum,Wilson,506
 Ryan,Fraser,507
 Jamal,Lewis,513
+Rhian,Brewster,262
 Billy,Sharp,343
 David,McGoldrick,344
 Chris,Basham,345
@@ -445,6 +452,7 @@ Moussa,Djenepo,382
 Mohammed,Salisu,479
 Fraser,Forster,523
 Nathan,Tella,524
+Ibrahima,Diallo,565
 Hugo,Lloris,383
 Danny,Rose,384
 Moussa,Sissoko,385
@@ -474,6 +482,7 @@ Joe,Hart,482
 Cameron,Carter-Vickers,521
 Sergio,Reguilón,542
 Gareth,Bale,543
+Carlos Vinicius,Alves Morais,564
 David,Button,56
 Callum,Robinson,358
 Kieran,Gibbs,407
@@ -500,6 +509,7 @@ Matheus,Pereira,481
 Cedric,Kipre,499
 Branislav,Ivanovic,530
 Conor,Gallagher,544
+Filip,Krovinovic,555
 Mark,Noble,427
 Robert,Snodgrass,428
 David,Martin,429
@@ -525,6 +535,7 @@ Tomas,Soucek,449
 Pablo,Fornals,450
 Issa,Diop,451
 Ben,Johnson,452
+Vladimir,Coufal,558
 John,Ruddy,453
 João Filipe Iria,Santos Moutinho,454
 Rui Pedro,dos Santos Patrício,455
@@ -553,3 +564,4 @@ Vitor,Ferreira,515
 Ki-Jana,Hoever,545
 Nélson,Cabral Semedo,546
 Meritan,Shabani,553
+Rayan,Ait Nouri,563
