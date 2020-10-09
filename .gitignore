@@ -1,2 +1,23 @@
+# ide and text editor
 .vscode
+
+# environment files
+venv/
+env/
+.env
+.venv
+
+#some folders
+team_*
+output/
+result/
+
+
+# Byte-compiled / optimized / DLL files
 __pycache__
+*.py[cod]
+*$py.class
+
+#others
+
+*.log

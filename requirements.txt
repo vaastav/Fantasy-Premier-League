@@ -11,3 +11,8 @@ requests==2.22.0
 six==1.13.0
 soupsieve==1.9.5
 urllib3==1.25.7
+
+# linter
+flake8==3.8.4
+# formater
+black==20.8b1
