@@ -1,12 +1,12 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn import ensemble
+from config import RAW_DATA_PATH, FEATURE_DATA, PREDICTIONS
+import os
 
 
 def main():
-    source_path = ".../data/"
-    destination_path = ".../data/"
-    features = pd.read_csv(source_path + "features.csv").drop_duplicates()
+    features = pd.read_csv(os.path.join(RAW_DATA_PATH, FEATURE_DATA)).drop_duplicates()
     features = features.set_index(['player', 'career_gw'])
     params = {'n_estimators': 500,
               'max_depth': 4,
@@ -48,7 +48,7 @@ def main():
     players = players.sort_values(by='prediction', ascending=False)
     players['pred_rank'] = players['prediction'].rank(method='max', ascending=False)
     players = players[['player', 'prediction', 'position']]
-    players.drop_duplicates().to_csv(destination_path + "predictions.csv", index=False)
+    players.drop_duplicates().to_csv(os.path.join(RAW_DATA_PATH, PREDICTIONS), index=False)
 
 
 if __name__ == "__main__":
