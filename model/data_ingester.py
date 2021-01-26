@@ -1,5 +1,5 @@
 import pandas as pd
-from config import WEBSCRAPE_DATA_PATH, FEATURE_COLUMNS, RAW_DATA_PATH
+from config import WEBSCRAPE_DATA_PATH, FEATURE_COLUMNS, RAW_DATA_PATH, INGESTED_DATA
 import os
 
 
@@ -67,7 +67,7 @@ def main():
     features_df = pd.concat(features_year_df_dict.values())
     gw_raw_df = pd.merge(features_df, position_df, on='player')
 
-    gw_raw_df.to_csv(RAW_DATA_PATH + "gw_raw.csv", index=False)
+    gw_raw_df.to_csv(os.path.join(RAW_DATA_PATH, INGESTED_DATA), index=False)
 
 
 if __name__ == "__main__":
