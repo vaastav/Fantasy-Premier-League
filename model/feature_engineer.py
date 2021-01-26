@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-from config import RAW_DATA_PATH, INGESTED_DATA, FEATURE_DATA, PAST_WEEKS_NUM, BASE_FEATURES
+from config import RAW_DATA_PATH, INGESTED_DATA, FEATURE_DATA, PAST_WEEKS_NUM, BASE_FEATURES, TARGET_WEEKS_INTO_FUTURE
 
 
 def create_index(df):
@@ -53,7 +53,13 @@ def main():
     gw_df_filtered = gw_df_team_features[BASE_FEATURES + ['is_home', 'element_type']]
 
     features_df = gw_df_filtered[['element_type', 'is_home']]
-    features_df['target'] = gw_df_filtered.groupby(level=0)['total_points'].shift(-1)
+
+    # Positive integer -> we will take an average of scores over that many weeks in subsequent gameweeks
+    if TARGET_WEEKS_INTO_FUTURE > 0:
+      features_df['target'] = gw_df_filtered.groupby(level=0)['total_points'].shift(0).rolling(TARGET_WEEKS_INTO_FUTURE).mean().shift(-TARGET_WEEKS_INTO_FUTURE)
+    # 0 or negative -> we will take the exponential average of all subsequent gameweek scores
+    else:
+      features_df['target'] = gw_df_filtered.groupby(level=0)['total_points'].shift(-1).sort_index(ascending=False).shift(0).ewm(com=1).mean().sort_index(ascending=True)
 
     features_with_time_df = create_feature_over_time(base_features=BASE_FEATURES, past_weeks_num=PAST_WEEKS_NUM,
                                                      features_df=features_df, base_features_df=gw_df_filtered)
