@@ -1,11 +1,7 @@
 import pandas as pd
-import numpy as np
-import os
 from sklearn.preprocessing import StandardScaler
 from sklearn import ensemble
-from sklearn.metrics import mean_squared_error
-import matplotlib.pyplot as plt
-from sklearn.feature_selection import SelectFromModel
+
 
 def main():
     source_path = ".../data/"
@@ -13,10 +9,10 @@ def main():
     features = pd.read_csv(source_path + "features.csv").drop_duplicates()
     features = features.set_index(['player', 'career_gw'])
     params = {'n_estimators': 500,
-          'max_depth': 4,
-          'min_samples_split': 5,
-          'learning_rate': 0.01,
-          'loss': 'ls'}
+              'max_depth': 4,
+              'min_samples_split': 5,
+              'learning_rate': 0.01,
+              'loss': 'ls'}
     players = pd.DataFrame(columns=['player', 'prediction', 'position'])
     positions = [1, 2, 3, 4]
     for pos in positions:
@@ -46,13 +42,14 @@ def main():
         pred = pd.DataFrame(reg.predict(X_test))
         pred['player'] = X.groupby(level=0).tail(1).reset_index()['player']
         pred['position'] = pos
-        pred.rename(columns = {0: 'prediction'}, inplace = True)
+        pred.rename(columns={0: 'prediction'}, inplace=True)
         players = players.append(pred)
-        
+
     players = players.sort_values(by='prediction', ascending=False)
     players['pred_rank'] = players['prediction'].rank(method='max', ascending=False)
     players = players[['player', 'prediction', 'position']]
     players.drop_duplicates().to_csv(destination_path + "predictions.csv", index=False)
+
 
 if __name__ == "__main__":
     main()
