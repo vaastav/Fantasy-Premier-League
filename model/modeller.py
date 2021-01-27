@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn import ensemble
-from config import RAW_DATA_PATH, FEATURE_DATA, PREDICTIONS
+from config import RAW_DATA_PATH, FEATURE_DATA, PREDICTIONS, TARGET_WEEKS_INTO_FUTURE
 import os
 
 
@@ -23,8 +23,9 @@ def main():
         players_in_pos = features[features['element_type'] == pos]
 
         # Train-test split
+
         grouped = players_in_pos.reset_index(['career_gw'])
-        test = grouped.groupby(level=0).tail(1)
+        test = grouped.groupby(level=0).tail(min(1, TARGET_WEEKS_INTO_FUTURE))
         test.set_index('career_gw', append=True, inplace=True)
         # test = players_in_pos.xs(players_in_pos.index.levels[1].max(), level=1, drop_level=False)
         # train = players_in_pos.drop(players_in_pos.index.levels[1].max(), level=1, axis=0)
