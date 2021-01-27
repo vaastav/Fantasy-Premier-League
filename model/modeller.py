@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn import ensemble
-from config import RAW_DATA_PATH, FEATURE_DATA, PREDICTIONS
+from config import RAW_DATA_PATH, FEATURE_DATA, PREDICTIONS, TARGET_WEEKS_INTO_FUTURE
 import os
 
 
@@ -23,9 +23,9 @@ def main():
         # Train-test split
         X = players_in_pos.drop('target', axis=1)
         y = players_in_pos['target']
-        X_train = X.groupby(level=0).apply(lambda x: x.iloc[:-1])
+        X_train = X.groupby(level=0).apply(lambda x: x.iloc[:-min(1, TARGET_WEEKS_INTO_FUTURE)])
         X_test = X.groupby(level=0).tail(1)
-        y_train = y.groupby(level=0).apply(lambda x: x.iloc[:-1])
+        y_train = y.groupby(level=0).apply(lambda x: x.iloc[:-min(1, TARGET_WEEKS_INTO_FUTURE)])
 
         # Normalize
         scaler = StandardScaler()

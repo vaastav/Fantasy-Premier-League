@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-from config import RAW_DATA_PATH, INGESTED_DATA, FEATURE_DATA, PAST_WEEKS_NUM, BASE_FEATURES
+from config import RAW_DATA_PATH, INGESTED_DATA, FEATURE_DATA, PAST_WEEKS_NUM, BASE_FEATURES, TARGET_TYPE, TARGET_WEEKS_INTO_FUTURE
 
 
 def create_index(df):
@@ -28,6 +28,19 @@ def add_own_team_features(df):
     return df
 
 
+def create_target(gw_df, target_type, target_weeks_into_future):
+  # Positive integer -> we will take an average of scores over that many weeks in subsequent gameweeks
+  if target_type.upper() == "AVG" and isinstance(target_weeks_into_future, int) and target_weeks_into_future > 0:
+    target = gw_df.groupby(level=0)['total_points'].shift(0).rolling(target_weeks_into_future).mean().shift(-target_weeks_into_future)
+  # 0 or negative -> we will take the exponential average of all subsequent gameweek scores
+  elif target_type.upper() == "EWM":
+    target = gw_df.groupby(level=0)['total_points'].shift(-1).sort_index(ascending=False).shift(0).ewm(com=1).mean().sort_index(ascending=True)
+  # Default to target being the next gameweek's scpre
+  else:
+    target = gw_df.groupby(level=0)['total_points'].shift(-1)
+  return target
+    
+
 def create_feature_over_time(base_features, past_weeks_num, features_df, base_features_df):
     for feat in base_features:
         for x in past_weeks_num:
@@ -43,6 +56,7 @@ def create_feature_over_time(base_features, past_weeks_num, features_df, base_fe
     return features_df
 
 
+
 def main():
     gw_df = pd.read_csv(os.path.join(RAW_DATA_PATH, INGESTED_DATA)).drop_duplicates()
 
@@ -53,7 +67,8 @@ def main():
     gw_df_filtered = gw_df_team_features[BASE_FEATURES + ['is_home', 'element_type']]
 
     features_df = gw_df_filtered[['element_type', 'is_home']]
-    features_df['target'] = gw_df_filtered.groupby(level=0)['total_points'].shift(-1)
+
+    features_df['target'] = create_target(gw_df_filtered, TARGET_TYPE, TARGET_WEEKS_INTO_FUTURE)
 
     features_with_time_df = create_feature_over_time(base_features=BASE_FEATURES, past_weeks_num=PAST_WEEKS_NUM,
                                                      features_df=features_df, base_features_df=gw_df_filtered)
