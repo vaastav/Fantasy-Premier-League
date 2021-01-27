@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-from config import RAW_DATA_PATH, INGESTED_DATA, FEATURE_DATA, PAST_WEEKS_NUM, BASE_FEATURES
+from config import RAW_DATA_PATH, INGESTED_DATA, FEATURE_DATA, PAST_WEEKS_NUM, TIME_RELATED_FEATURES
 
 
 def create_index(df):
@@ -28,8 +28,8 @@ def add_own_team_features(df):
     return df
 
 
-def create_feature_over_time(base_features, past_weeks_num, features_df, base_features_df):
-    for feat in base_features:
+def create_feature_over_time(time_features, past_weeks_num, features_df, base_features_df):
+    for feat in time_features:
         for x in past_weeks_num:
             post_pend = f"_av_last_{x}_gws"
             features_df[feat + post_pend] = base_features_df.groupby(level=0)[feat].shift(0).rolling(x).mean()
@@ -50,12 +50,12 @@ def main():
 
     gw_df_team_features['is_home'] = gw_df_team_features['was_home']
 
-    gw_df_filtered = gw_df_team_features[BASE_FEATURES + ['is_home', 'element_type']]
+    gw_df_filtered = gw_df_team_features[TIME_RELATED_FEATURES + ['is_home', 'element_type', 'team', 'team_code']]
 
-    features_df = gw_df_filtered[['element_type', 'is_home']]
+    features_df = gw_df_filtered[['element_type', 'is_home', 'team', 'team_code']]
     features_df['target'] = gw_df_filtered.groupby(level=0)['total_points'].shift(-1)
 
-    features_with_time_df = create_feature_over_time(base_features=BASE_FEATURES, past_weeks_num=PAST_WEEKS_NUM,
+    features_with_time_df = create_feature_over_time(time_features=TIME_RELATED_FEATURES, past_weeks_num=PAST_WEEKS_NUM,
                                                      features_df=features_df, base_features_df=gw_df_filtered)
 
     for col in features_with_time_df.columns.difference(['target']):
