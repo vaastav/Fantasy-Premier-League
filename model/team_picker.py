@@ -1,5 +1,6 @@
 import pandas as pd
 import sys
+from config import TARGET_WEEKS_INTO_FUTURE
 
 
 def pick_team(out, budget, position_column, points_column, name_column, price_column, formation=[4, 4, 2]):
@@ -225,6 +226,19 @@ def pick_transfers(team, out, budget, position_column, points_column, name_colum
     return team
 
 
+def chance_of_playing_scaling(prediction, chance_of_playing, target_weeks_into_future):
+    games_in_future = 1
+    prediction_per_game = prediction / target_weeks_into_future
+    scaled_prediction = 0
+    if chance_of_playing:
+        while games_in_future <= target_weeks_into_future:
+            scaled_prediction = scaled_prediction + (prediction_per_game * chance_of_playing)
+            if chance_of_playing < 1:
+                chance_of_playing = min(chance_of_playing + 0.25, 1)
+            games_in_future += 1
+    return scaled_prediction
+
+
 def main(save_team, from_scratch, formation, budget, max_transfers):
     source_path = ".../data/"
     source_path2 = ".../Fantasy-Premier-League/data/2020-21/players_raw.csv"
@@ -235,9 +249,18 @@ def main(save_team, from_scratch, formation, budget, max_transfers):
     price_list['player'] = price_list['first_name'] + "_" + price_list['second_name']
     price_list['price'] = price_list['now_cost'] / 10
     price_list['position'] = price_list['element_type']
-    players = price_list[['player', 'price', 'team', 'position']]
+    price_list['perc_chance_of_playing'] = np.where(
+         price_list['chance_of_playing_next_round'] == "None", 
+         "100", 
+         price_list['chance_of_playing_next_round']
+    ).astype(float) / 100
+    players = price_list[['player', 'price', 'team', 'position', 'perc_chance_of_playing']]
     players = pd.merge(players, predictions, how='inner', left_on=['player', 'position'],
                        right_on=['player', 'position'])
+
+    players["pre_scaling_prediction"] = players["prediction"]
+    players["prediction"] = players.apply(lambda x: chance_of_playing_scaling(x.pre_scaling_prediction, x.perc_chance_of_playing, TARGET_WEEKS_INTO_FUTURE), axis=1)
+
     if from_scratch:
         team = pick_team(players, budget, 'position', 'prediction', 'player', 'price', formation)
     else:
