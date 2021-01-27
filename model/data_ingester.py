@@ -12,6 +12,17 @@ def gameweek_filepaths(players_path):
     return filepaths
 
 
+def understat_filepaths(file_path):
+    filepaths = []
+    team = []
+    for root, dirs, files in os.walk(file_path):
+        for filename in files:
+            if ('understat' in filename) and ('team' not in filename) and ('player' not in filename):
+                filepaths += [f"{root}/{filename}"]
+                team = team + [filename.split('_')[1].split('.')[0]]
+    return pd.DataFrame({'Filepath': filepaths,
+                         }, index=team)
+
 def clean_player_name(year, path):
     if year < 2018:
         return os.path.split(os.path.dirname(path))[1]
@@ -42,16 +53,16 @@ def create_features_df(players_path, year):
 def create_position_df_for_year(players_path) -> pd.DataFrame:
     position_year_df = pd.read_csv(os.path.join(players_path, 'players_raw.csv'),
                                    usecols=['first_name', 'second_name',
-                                            'id', 'element_type'])
+                                            'id', 'element_type', 'team', 'team_code'])
 
     position_year_df['player'] = position_year_df['first_name'] + "_" + position_year_df['second_name']
-    return position_year_df[['player', 'element_type']]
+    return position_year_df[['player', 'element_type', 'team', 'team_code']]
 
 
-def main():
+def create_gw_raw_df_dict():
+    gw_raw_year_df_dict = {}
     position_year_df_dict = {}
     features_year_df_dict = {}
-
     for subdir in os.listdir(WEBSCRAPE_DATA_PATH):
         year = int(subdir[:4])
         players_path = os.path.join(os.path.normpath(WEBSCRAPE_DATA_PATH), subdir)
@@ -62,10 +73,16 @@ def main():
                                                          year=year)
 
         print(f'features_year_df_dict shape is {features_year_df_dict[year].shape} for {year}')
+        gw_raw_year_df_dict[year] = pd.merge(position_year_df_dict[year], features_year_df_dict[year],
+                                             on='player')
+    return gw_raw_year_df_dict
 
-    position_df = pd.concat(position_year_df_dict.values()).drop_duplicates().reset_index(drop=True)
-    features_df = pd.concat(features_year_df_dict.values())
-    gw_raw_df = pd.merge(features_df, position_df, on='player')
+
+def main():
+
+    gw_raw_year_df_dict = create_gw_raw_df_dict()
+
+    gw_raw_df = pd.concat(gw_raw_year_df_dict.values())
 
     gw_raw_df.to_csv(os.path.join(RAW_DATA_PATH, INGESTED_DATA), index=False)
 
