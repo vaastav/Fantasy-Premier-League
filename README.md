@@ -1,4 +1,5 @@
 [![GitSpo Mentions](https://gitspo.com/badges/mentions/vaastav/Fantasy-Premier-League?style=flat-square)](https://gitspo.com/mentions/vaastav/Fantasy-Premier-League)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=RQ2V64LXSKPV4)
 
 Fantasy-Premier-League
 ======================
