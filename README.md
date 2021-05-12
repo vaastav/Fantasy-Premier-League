@@ -54,6 +54,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 # Notable Usages of this Repository
 
++ [Hindsight Optimization for FPL by Sertalp B. Cay](https://alpscode.com/blog/hindsight-optimization/)
+
 + [FPLDASH: A customizable Fantasy Premier League Dashboard by Jin Hyun Cheong](http://www.fpldash.com)
 
 + [How to win at Fantasy Football with Splunk and Machine Learning by Rupert Truman](https://www.splunk.com/en_us/blog/machine-learning/how-to-win-at-fantasy-football-with-splunk-and-machine-learning-part-1.html)
