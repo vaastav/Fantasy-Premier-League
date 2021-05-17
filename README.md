@@ -60,6 +60,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 + [Hindsight Optimization for FPL by Sertalp B. Cay](https://alpscode.com/blog/hindsight-optimization/)
 
++ [Data Science to get top 1% on return to FPL by James Asher](https://medium.com/the-sports-scientist/how-i-used-data-science-to-get-into-the-top-1-on-the-return-to-fantasy-premier-league-98829d4f65e5)
+
 + [FPLDASH: A customizable Fantasy Premier League Dashboard by Jin Hyun Cheong](http://www.fpldash.com)
 
 + [How to win at Fantasy Football with Splunk and Machine Learning by Rupert Truman](https://www.splunk.com/en_us/blog/machine-learning/how-to-win-at-fantasy-football-with-splunk-and-machine-learning-part-1.html)
