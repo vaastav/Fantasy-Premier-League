@@ -32,6 +32,10 @@ In players_raw.csv, element_type is the field that corresponds to the position.
 3 = MID
 4 = FWD
 
+### Errata
+
++ GW35 expected points data is wrong (all values are 0).
+
 ### Contributing
 
 + If you feel like there is some data that is missing which you would like to see, then please feel free to create a PR or create an issue highlighting what is missing and what you would like to be added
