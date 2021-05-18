@@ -89,7 +89,10 @@ def collect_gw(gw, directory_name, output_dir):
                             row['team'] = teams[fixtures_away[fixture]]
                         row['name'] = name
                         row['position'] = position
-                        row['xP'] = xPoints[id]
+                        if id in xPoints:
+                            row['xP'] = xPoints[id]
+                        else:
+                            row['xP'] = 0.0
                         rows += [row]
 
     fieldnames = ['name', 'position', 'team', 'xP'] + fieldnames
