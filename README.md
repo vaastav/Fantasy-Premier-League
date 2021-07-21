@@ -8,6 +8,8 @@ A FPL library that gets all the basic stats for each player, gw-specific data fo
 
 ### Acknowledgement
 
++ rin-hairie for adding master team lists and merge scripts
++ ergest for adding merged_gw.csv files for 2016-17 and 2017-18 seasons
 + BDooley11 for providing top managers script
 + speeder1987 for providing 2018/19 fixtures.csv file
 + ravgeetdhillon for github actions automation for data update
@@ -57,6 +59,8 @@ python teams_scraper.py <team_id>
 This will create a new folder called "team_<team_id>_data18-19" with individual files of all the important data
 
 # Notable Usages of this Repository
+
++ [An introduction to SQL using FPL data by Liam Connors](https://towardsdatascience.com/an-introduction-to-sql-using-fpl-data-8314ec982308)
 
 + [Hindsight Optimization for FPL by Sertalp B. Cay](https://alpscode.com/blog/hindsight-optimization/)
 
