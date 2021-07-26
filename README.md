@@ -60,6 +60,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 # Notable Usages of this Repository
 
++ [Money (Foot)Ball – how will our virtual football team selected entirely by Machine Learning compete in the big leagues?](https://www.dtsquared.co.uk/money-football-how-will-our-virtual-football-team-selected-entirely-by-machine-learning-compete-in-the-big-leagues/)
+
 + [An introduction to SQL using FPL data by Liam Connors](https://towardsdatascience.com/an-introduction-to-sql-using-fpl-data-8314ec982308)
 
 + [Hindsight Optimization for FPL by Sertalp B. Cay](https://alpscode.com/blog/hindsight-optimization/)
