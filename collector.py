@@ -62,10 +62,9 @@ def merge_gw(gw, gw_directory):
     for row in rows:
         writer.writerow(row)
 
-def collect_gw(gw, directory_name, output_dir):
+def collect_gw(gw, directory_name, output_dir, root_directory_name="data/2021-22"):
     rows = []
     fieldnames = []
-    root_directory_name = "data/2020-21/"
     fixtures_home, fixtures_away = get_fixtures(root_directory_name)
     teams = get_teams(root_directory_name)
     names, positions = get_positions(root_directory_name)
