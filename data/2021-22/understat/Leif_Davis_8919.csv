@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Manchester United,Leeds,6,2,2020-12-20,14570,2020,436872,0,0,0,0,0,0,0
+0,0,0,12,Sub,Leeds,Manchester City,1,1,2020-10-03,14469,2020,419644,0,0,0,0,0,0.2329990118741989,0.2329990118741989

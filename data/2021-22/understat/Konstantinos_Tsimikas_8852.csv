@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Liverpool,Burnley,2,0,2021-08-21,16386,2021,476667,0.3992407023906708,1,4,0,0,0.8559853434562683,0.8559853434562683
+0,2,0.15946871042251587,90,DL,Norwich,Liverpool,0,3,2021-08-14,16383,2021,475692,0,0,0,0,0.15946871042251587,0.22307556867599487,0.06360685080289841
+0,0,0,1,Sub,Burnley,Liverpool,0,3,2021-05-19,14796,2020,472565,0,0,0,0,0,0,0
+0,0,0,3,Sub,Liverpool,Manchester City,1,4,2021-02-07,14659,2020,448446,0,0,0,0,0,0,0

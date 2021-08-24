@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Burnley,Manchester City,0,2,2021-02-03,14646,2020,446991,0,0,0,0,0,0,0
+0,0,0,82,Sub,Burnley,Sheffield United,1,0,2020-12-29,14587,2020,438415,0,0,0,0,0,0,0
+0,0,0,75,MR,Leeds,Burnley,1,0,2020-12-27,14578,2020,438231,0,0,0,0,0,0.035705793648958206,0.035705793648958206
+0,0,0,1,Sub,Burnley,Wolverhampton Wanderers,2,1,2020-12-21,14566,2020,437090,0,0,0,0,0,0,0
+0,0,0,1,Sub,Burnley,Everton,1,1,2020-12-05,14537,2020,431055,0,0,0,0,0,0,0
+0,2,0.20441411435604095,90,MC,Manchester City,Burnley,5,0,2020-11-28,14533,2020,429629,0,0,0,0,0.20441411435604095,0.12159555405378342,0.09676380455493927

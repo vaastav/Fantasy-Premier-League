@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Manchester City,Everton,5,0,2021-05-23,14811,2020,473419,0,0,0,0,0,0,0
+0,1,0.016959821805357933,70,DL,Newcastle United,Everton,2,1,2020-11-01,14501,2020,425200,0,0,0,0,0.016959821805357933,0.030957642942667007,0.013997821137309074

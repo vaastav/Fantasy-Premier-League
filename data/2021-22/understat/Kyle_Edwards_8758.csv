@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,West Bromwich Albion,Tottenham,0,1,2020-11-08,14513,2020,426731,0,0,0,0,0,0,0
+0,0,0,26,Sub,Brighton,West Bromwich Albion,1,1,2020-10-26,14487,2020,423984,0.021378837525844574,0,1,0,0,0.07346635311841965,0.05208751931786537
+0,1,0.056204654276371,47,AMR,Southampton,West Bromwich Albion,2,0,2020-10-04,14473,2020,419973,0,0,0,0,0.056204654276371,0.056204654276371,0
+0,0,0,16,Sub,Everton,West Bromwich Albion,5,2,2020-09-19,14096,2020,415595,0,0,0,0,0,0,0
+0,1,0.06261113286018372,20,Sub,West Bromwich Albion,Leicester,0,3,2020-09-13,14092,2020,414988,0,0,0,0,0.06261113286018372,0.06261113286018372,0

@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Brighton,0,1,2021-02-03,14654,2020,447185,0,0,0,0,0,0.44792696833610535,0.44792696833610535
+0,0,0,90,GK,Liverpool,Wolverhampton Wanderers,4,0,2020-12-06,14539,2020,432287,0,0,0,0,0,0,0

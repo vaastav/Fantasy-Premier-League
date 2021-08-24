@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sheffield United,Burnley,1,0,2021-05-23,14812,2020,473433,0,0,0,0,0,0,0
+0,0,0,90,GK,Burnley,Liverpool,0,3,2021-05-19,14796,2020,472542,0.0476219616830349,0,1,0,0,0.09335120767354965,0.045729245990514755
+0,0,0,1,Sub,Wolverhampton Wanderers,Fulham,1,0,2019-05-04,9557,2018,330216,0,0,0,0,0,0,0

@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,Newcastle United,0,2,2021-05-23,14807,2020,473280,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,Arsenal,0,3,2020-09-12,14086,2020,414500,0,0,0,0,0,0.020527511835098267,0.020527511835098267

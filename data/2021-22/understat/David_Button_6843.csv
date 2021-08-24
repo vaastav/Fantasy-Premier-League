@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,West Bromwich Albion,2,3,2021-01-16,14624,2020,442086,0,0,0,0,0,0,0
+0,0,0,90,GK,Manchester United,Brighton,2,1,2019-01-19,9421,2018,303687,0,0,0,0,0,0.05989893898367882,0.05989893898367882
+0,0,0,90,GK,Brighton,Liverpool,0,1,2019-01-12,9416,2018,303373,0,0,0,0,0,0.07074711471796036,0.07074711471796036
+0,0,0,90,GK,West Ham,Brighton,2,2,2019-01-02,9398,2018,303140,0,0,0,0,0,0,0
+0,0,0,90,GK,Brighton,Everton,1,0,2018-12-29,9396,2018,291451,0,0,0,0,0,0,0

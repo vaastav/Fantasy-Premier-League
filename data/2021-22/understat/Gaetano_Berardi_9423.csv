@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.07476061582565308,70,DC,Leeds,West Bromwich Albion,3,1,2021-05-23,14808,2020,473309,0,0,0,0,0.07476061582565308,0.1222032904624939,0.1222032904624939
+0,0,0,43,Sub,Southampton,Leeds,0,2,2021-05-18,14802,2020,472345,0,0,0,0,0,0.10907464474439621,0.10907464474439621

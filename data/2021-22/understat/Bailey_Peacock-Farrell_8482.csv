@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Burnley,Leeds,0,4,2021-05-15,14786,2020,470667,0,0,0,0,0,0,0
+0,0,0,90,GK,Manchester United,Burnley,3,1,2021-04-18,14751,2020,463687,0,0,0,0,0,0,0
+0,0,0,90,GK,Burnley,Newcastle United,1,2,2021-04-11,14736,2020,461571,0,0,0,0,0,0,0
+0,0,0,90,GK,Manchester City,Burnley,5,0,2020-11-28,14533,2020,429622,0,0,0,0,0,0.007730923593044281,0.007730923593044281

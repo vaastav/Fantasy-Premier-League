@@ -46,7 +46,19 @@ def get_player_data(id):
         for c in script.contents:
             split_data = c.split('=')
             data = split_data[0].strip()
-            print(data)
+            if data == 'var matchesData':
+                content = re.findall(r'JSON\.parse\(\'(.*)\'\)',split_data[1])
+                decoded_content = codecs.escape_decode(content[0], "hex")[0].decode('utf-8')
+                matchesData = json.loads(decoded_content)
+            elif data == 'var shotsData':
+                content = re.findall(r'JSON\.parse\(\'(.*)\'\)',split_data[1])
+                decoded_content = codecs.escape_decode(content[0], "hex")[0].decode('utf-8')
+                shotsData = json.loads(decoded_content)
+            elif data == 'var groupsData':
+                content = re.findall(r'JSON\.parse\(\'(.*)\'\)',split_data[1])
+                decoded_content = codecs.escape_decode(content[0], "hex")[0].decode('utf-8')
+                groupsData = json.loads(decoded_content)
+    return matchesData, shotsData, groupsData
 
 def parse_epl_data(outfile_base):
     teamData,playerData = get_epl_data()
@@ -59,10 +71,18 @@ def parse_epl_data(outfile_base):
         team_frame.to_csv(os.path.join(outfile_base, 'understat_' + team + '.csv'), index=False)
     player_frame = pd.DataFrame.from_records(playerData)
     player_frame.to_csv(os.path.join(outfile_base, 'understat_player.csv'), index=False)
+    for d in playerData:
+        matches, shots, groups = get_player_data(int(d['id']))
+        indi_player_frame = pd.DataFrame.from_records(matches)
+        player_name = d['player_name']
+        player_name = player_name.replace(' ', '_')
+        indi_player_frame.to_csv(os.path.join(outfile_base, player_name + '_' + d['id'] + '.csv'), index=False)
 
 def main():
-    #parse_epl_data('data/2019-20/understat')
-    get_player_data(318)
+    parse_epl_data('data/2021-22/understat')
+    #md, sd, gd = get_player_data(318)
+    #match_frame = pd.DataFrame.from_records(md)
+    #match_frame.to_csv('auba.csv', index=False)
 
 if __name__ == '__main__':
     main()
