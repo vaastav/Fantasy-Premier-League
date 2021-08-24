@@ -31,6 +31,8 @@ Albert,Sambi Lokonga,478
 Folarin,Balogun,530
 Reiss,Nelson,531
 Karl,Hein,532
+Martin,Ødegaard,558
+Aaron,Ramsdale,559
 Jed,Steer,28
 Conor,Hourihane,29
 Emiliano,Martínez,30
@@ -88,6 +90,7 @@ Kristoffer,Ajer,483
 Dominic,Thompson,498
 Shandon,Baptiste,499
 Yoane,Wissa,524
+Álvaro,Fernández,556
 Adam,Lallana,53
 Jason,Steele,54
 Pascal,Groß,55
@@ -118,6 +121,7 @@ Andi,Zeqiri,535
 Michal,Karbownik,536
 Taylor,Richards,537
 Moisés,Caicedo,538
+Haydon,Roberts,560
 James,Tarkowski,98
 Phil,Bardsley,99
 Erik,Pieters,100
@@ -143,6 +147,7 @@ Nathan,Collins,451
 Wayne,Hennessey,480
 Lewis,Richardson,533
 Bobby,Thomas,534
+Owen,Dodgson,565
 César,Azpilicueta,119
 Olivier,Giroud,120
 Thiago,Emiliano da Silva,121
@@ -199,6 +204,7 @@ Reece,Hannam,540
 Jesurun,Rak-Sakyi,541
 Robert,Street,542
 Scott,Banks,543
+Remi,Matthews,561
 Fabian,Delph,163
 Gylfi,Sigurdsson,164
 Seamus,Coleman,165
@@ -226,6 +232,7 @@ Anthony,Gordon,503
 Jean-Philippe,Gbamin,504
 Jarrad,Branthwaite,544
 Nathan,Broadhead,545
+Moise,Kean,564
 Kasper,Schmeichel,200
 Jonny,Evans,201
 Marc,Albrighton,202
@@ -276,6 +283,8 @@ Kristoffer,Klaesson,490
 Sam,Greenwood,550
 Crysencio,Summerville,551
 Adam,Forshaw,552
+Cody,Drameh,562
+Charlie,Cresswell,563
 James,Milner,221
 Jordan,Henderson,222
 Adrián,San Miguel del Castillo,223
@@ -329,6 +338,7 @@ Ferran,Torres,268
 Fernando,Luiz Rosa,453
 Cole,Palmer,507
 Samuel,Edozie,508
+Tommy,Doyle,566
 Edinson,Cavani,269
 David,de Gea,270
 Nemanja,Matic,271
@@ -349,13 +359,13 @@ Eric,Bailly,286
 Daniel,James,287
 Aaron,Wan-Bissaka,288
 Mason,Greenwood,289
-Brandon,Williams,290
 Juan,Mata,459
 Jadon,Sancho,485
 Tom,Heaton,509
 José Diogo,Dalot Teixeira,510
 Andreas,Pereira,511
 Anthony,Elanga,512
+Raphaël,Varane,555
 Joseph,Willock,19
 Jonjo,Shelvey,291
 Matt,Ritchie,292
@@ -383,6 +393,7 @@ Federico,Fernández,465
 Freddie,Woodman,513
 Mark,Gillespie,514
 Billy,Gilmour,145
+Brandon,Williams,290
 Michael,McGovern,313
 Tim,Krul,314
 Teemu,Pukki,315
@@ -500,6 +511,7 @@ Joshua,King,468
 Adedapo,Awokoya-Mebude,469
 Juan Camilo,Hernández Suárez,472
 Juraj,Kucka,495
+Ozan,Tufan,557
 Mark,Noble,406
 Darren,Randolph,407
 Lukasz,Fabianski,408
