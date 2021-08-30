@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Salernitana,Roma,0,4,2021-08-29,16775,2021,479849,0,0,0,0,0,0.651432991027832,0.651432991027832
 0,0,0,90,GK,Roma,Fiorentina,3,1,2021-08-22,16763,2021,478040,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23,14814,2020,473475,0,0,0,0,0,0,0
 0,0,0,90,GK,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16,14793,2020,471457,0,0,0,0,0,0.01496055256575346,0.01496055256575346

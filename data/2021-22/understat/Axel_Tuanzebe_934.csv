@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.05882754176855087,90,DC,Aston Villa,Brentford,1,1,2021-08-28,16399,2021,478940,0,0,0,0,0.05882754176855087,0.06309586763381958,0.06309586763381958
 0,0,0,1,Sub,Aston Villa,Newcastle United,2,0,2021-08-21,16388,2021,476943,0,0,0,0,0,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23,14814,2020,473491,0,0,0,0,0,0.4084653854370117,0.4084653854370117
 0,0,0,90,DC,Manchester United,Fulham,1,1,2021-05-18,14800,2020,472294,0,0,0,0,0,0.014647945761680603,0.014647945761680603

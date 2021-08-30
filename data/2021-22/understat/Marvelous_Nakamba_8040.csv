@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,Aston Villa,Brentford,1,1,2021-08-28,16399,2021,478949,0,0,0,0,0,0,0
 0,0,0,90,DMC,Watford,Aston Villa,3,2,2021-08-14,16382,2021,475574,0,0,0,0,0,0.13800528645515442,0.13800528645515442
 0,0,0,90,DMC,Aston Villa,Chelsea,2,1,2021-05-23,14806,2020,473258,0,0,0,0,0,0,0
 0,0,0,90,DMC,Tottenham,Aston Villa,1,2,2021-05-19,14803,2020,472478,0,0,0,0,0,0.3963397443294525,0.3963397443294525

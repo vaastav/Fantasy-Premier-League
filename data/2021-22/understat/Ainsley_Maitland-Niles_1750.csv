@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Manchester City,Arsenal,5,0,2021-08-28,16396,2021,478707,0,0,0,0,0,0,0
 0,1,0.04600265249609947,84,ML,Leeds,West Bromwich Albion,3,1,2021-05-23,14808,2020,473331,0.10609067231416702,0,2,0,0.04600265249609947,0.20560722053050995,0.0634407177567482
 0,0,0,72,ML,West Bromwich Albion,West Ham,1,3,2021-05-19,14804,2020,472576,0,0,0,0,0,0,0
 0,0,0,12,Sub,West Bromwich Albion,Liverpool,1,2,2021-05-16,14789,2020,471483,0,0,0,0,0,0,0

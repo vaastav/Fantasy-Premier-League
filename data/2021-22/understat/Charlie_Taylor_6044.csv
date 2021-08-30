@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Burnley,Leeds,1,1,2021-08-29,16403,2021,479538,0,0,0,0,0,0,0
 0,0,0,90,DL,Liverpool,Burnley,2,0,2021-08-21,16386,2021,476681,0,0,0,0,0,0.386956125497818,0.386956125497818
 0,0,0,90,DL,Burnley,Brighton,1,2,2021-08-14,16378,2021,475447,0.008357822895050049,0,1,0,0,0.04358635097742081,0.04358635097742081
 0,0,0,90,DL,Sheffield United,Burnley,1,0,2021-05-23,14812,2020,473437,0,0,0,0,0,0,0
