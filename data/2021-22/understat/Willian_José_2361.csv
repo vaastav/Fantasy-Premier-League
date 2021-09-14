@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,42,Sub,Granada,Real Betis,1,2,2021-09-13,17169,2021,481628,0.043921973556280136,0,1,0,0,0.08872529119253159,0.04480331763625145
 0,1,0.08316620439291,64,Sub,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23,14814,2020,473487,0,0,0,0,0.08316620439291,0.08316620439291,0
 0,0,0,22,Sub,Everton,Wolverhampton Wanderers,1,0,2021-05-19,14799,2020,472513,0,0,0,0,0,0,0
 0,0,0,26,Sub,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16,14793,2020,471468,0.07024100422859192,0,1,0,0,0.1903497874736786,0.12010879069566727

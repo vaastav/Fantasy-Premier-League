@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,61,MC,Crystal Palace,Tottenham,3,0,2021-09-11,16406,2021,480041,0,0,0,0,0,0,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22,16393,2021,477585,0,0,0,0,0,0,0
 0,0,0,90,DMC,Leicester,Tottenham,2,4,2021-05-23,14809,2020,473356,0,0,0,0,0,0.1023605614900589,0.1023605614900589
 0,1,0.013999978080391884,78,DMC,Tottenham,Aston Villa,1,2,2021-05-19,14803,2020,472465,0,0,0,0,0.013999978080391884,0.11148379743099213,0.11148379743099213

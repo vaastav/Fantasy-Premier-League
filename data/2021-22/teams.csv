@@ -1,7 +1,7 @@
 code,draw,form,id,loss,name,played,points,position,short_name,strength,team_division,unavailable,win,strength_overall_home,strength_overall_away,strength_attack_home,strength_attack_away,strength_defence_home,strength_defence_away,pulse_id
-3,0,,1,0,Arsenal,0,0,0,ARS,4,,False,0,1200,1250,1130,1150,1220,1210,1
+3,0,,1,0,Arsenal,0,0,0,ARS,4,,False,0,1200,1210,1130,1150,1220,1210,1
 7,0,,2,0,Aston Villa,0,0,0,AVL,3,,False,0,1100,1160,1120,1140,1080,1100,2
-94,0,,3,0,Brentford,0,0,0,BRE,2,,False,0,1010,1020,1020,1030,1020,1030,130
+94,0,,3,0,Brentford,0,0,0,BRE,2,,False,0,1020,1030,1020,1030,1020,1030,130
 36,0,,4,0,Brighton,0,0,0,BHA,3,,False,0,1100,1130,1150,1190,1100,1130,131
 90,0,,5,0,Burnley,0,0,0,BUR,2,,False,0,1060,1070,1040,1090,1040,1080,43
 8,0,,6,0,Chelsea,0,0,0,CHE,4,,False,0,1250,1280,1260,1300,1250,1310,4
