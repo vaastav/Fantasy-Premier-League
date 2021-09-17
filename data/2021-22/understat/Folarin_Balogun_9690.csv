@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Arsenal,Chelsea,0,2,2021-08-22,16394,2021,477840,0,0,0,0,0,0,0
+0,3,0.15745480358600616,60,FW,Brentford,Arsenal,2,0,2021-08-13,16376,2021,475196,0,0,0,0,0.15745480358600616,0.15745480358600616,0

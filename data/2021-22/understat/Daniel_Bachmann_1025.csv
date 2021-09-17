@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Watford,Wolverhampton Wanderers,0,2,2021-09-11,16412,2021,480293,0,0,0,0,0,0,0
+0,0,0,90,GK,Tottenham,Watford,1,0,2021-08-29,16404,2021,479404,0,0,0,0,0,0,0
+0,0,0,90,GK,Brighton,Watford,2,0,2021-08-21,16391,2021,477243,0,0,0,0,0,0.010346517898142338,0.010346517898142338
+0,0,0,90,GK,Watford,Aston Villa,3,2,2021-08-14,16382,2021,475555,0,0,0,0,0,0.21052585542201996,0.21052585542201996

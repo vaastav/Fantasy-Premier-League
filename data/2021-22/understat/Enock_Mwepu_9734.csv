@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.03440256789326668,16,Sub,Brighton,Watford,2,0,2021-08-21,16391,2021,477242,0,0,0,0,0.03440256789326668,0.03440256789326668,0
+0,0,0,49,MC,Burnley,Brighton,1,2,2021-08-14,16378,2021,475465,0.05208665505051613,0,1,0,0,0.05208665505051613,0
