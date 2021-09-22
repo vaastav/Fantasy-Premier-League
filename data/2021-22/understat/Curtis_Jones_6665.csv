@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.027232827618718147,13,Sub,Liverpool,Crystal Palace,3,0,2021-09-18,16420,2021,482099,0,0,0,0,0.027232827618718147,0.027232827618718147,0
 0,0,0,64,MC,West Bromwich Albion,Liverpool,1,2,2021-05-16,14789,2020,471492,0,0,0,0,0,0.504732608795166,0.504732608795166
 0,0,0,12,Sub,Manchester United,Liverpool,2,4,2021-05-13,14770,2020,470607,0.4681112766265869,1,1,0,0,0.4681112766265869,0
 0,0,0,1,Sub,Liverpool,Southampton,2,0,2021-05-08,14780,2020,469004,0,0,0,0,0,0,0

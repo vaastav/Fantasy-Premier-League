@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester City,Southampton,0,0,2021-09-18,16421,2021,482130,0,0,0,0,0,0.17421862483024597,0.17421862483024597
 0,0,0,42,Sub,Southampton,Manchester United,1,1,2021-08-22,16392,2021,477541,0,0,0,0,0,0,0
 0,1,0.020702321082353592,90,DC,West Ham,Southampton,3,0,2021-05-23,14813,2020,473464,0,0,0,0,0.020702321082353592,0.6057946681976318,0.6057946681976318
 0,0,0,48,DC,Southampton,Crystal Palace,3,1,2021-05-11,14753,2020,469987,0,0,0,0,0,0.07146742194890976,0.07146742194890976

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,15,Sub,Aston Villa,Everton,3,0,2021-09-18,16422,2021,482386,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Southampton,3,1,2021-08-14,16380,2021,475512,0,0,0,0,0,0,0
 0,0,0,55,AML,Sheffield United,Everton,0,1,2020-12-26,14582,2020,438179,0.01913999207317829,0,1,0,0,0.05342049524188042,0.05342049524188042
 0,0,0,1,Sub,Leicester,Everton,0,2,2020-12-16,14559,2020,434693,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Chelsea,0,3,2021-09-19,16425,2021,482915,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Tottenham,3,0,2021-09-11,16406,2021,480034,0,0,0,0,0,0.02842867188155651,0.02842867188155651
 0,0,0,90,GK,Tottenham,Watford,1,0,2021-08-29,16404,2021,479391,0,0,0,0,0,0.0367911197245121,0.0367911197245121
 0,0,0,90,GK,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22,16393,2021,477572,0.03095254674553871,0,1,0,0,0.03095254674553871,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Brentford,0,2,2021-09-18,16417,2021,481828,0,0,0,0,0,0.8311439752578735,0.8311439752578735
 0,0,0,90,GK,Brentford,Brighton,0,1,2021-09-11,16408,2021,480400,0,0,0,0,0,0.5684152245521545,0.5684152245521545
 0,0,0,90,GK,Aston Villa,Brentford,1,1,2021-08-28,16399,2021,478952,0,0,0,0,0,0.31873199343681335,0.31873199343681335
 0,0,0,90,GK,Crystal Palace,Brentford,0,0,2021-08-21,16389,2021,476970,0,0,0,0,0,0,0

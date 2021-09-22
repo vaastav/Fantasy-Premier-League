@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Southampton,0,0,2021-09-18,16421,2021,482114,0,0,0,0,0,0.06496762484312057,0.06496762484312057
 0,0,0,90,GK,Leicester,Manchester City,0,1,2021-09-11,16409,2021,480387,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester City,Arsenal,5,0,2021-08-28,16396,2021,478680,0,0,0,0,0,1.3258631229400635,1.3258631229400635
 0,0,0,90,GK,Manchester City,Norwich,5,0,2021-08-21,16387,2021,476902,0,0,0,0,0,0.038580723106861115,0.038580723106861115

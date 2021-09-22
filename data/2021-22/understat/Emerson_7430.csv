@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Tottenham,Chelsea,0,3,2021-09-19,16425,2021,482916,0.03781348094344139,0,1,0,0,0.47913822531700134,0.44132474064826965
 0,0,0,90,DR,Crystal Palace,Tottenham,3,0,2021-09-11,16406,2021,480035,0,0,0,0,0,0,0
 0,0,0,67,DR,Barcelona,Getafe,2,1,2021-08-29,17162,2021,479592,0,0,0,0,0,0.29384663701057434,0.29384663701057434
 0,0,0,6,Sub,Athletic Club,Barcelona,1,1,2021-08-21,17150,2021,477468,0,0,0,0,0,0,0

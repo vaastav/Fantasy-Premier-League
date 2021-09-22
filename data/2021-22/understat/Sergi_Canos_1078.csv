@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,71,DMR,Wolverhampton Wanderers,Brentford,0,2,2021-09-18,16417,2021,481832,0,0,0,0,0,0,0
 0,0,0,66,DMR,Brentford,Brighton,0,1,2021-09-11,16408,2021,480404,0,0,0,0,0,0,0
 0,2,0.09533028304576874,90,MR,Aston Villa,Brentford,1,1,2021-08-28,16399,2021,478956,0,0,0,0,0.09533028304576874,0.17207704484462738,0.07674675434827805
 0,0,0,90,DMR,Crystal Palace,Brentford,0,0,2021-08-21,16389,2021,476974,0.11126385629177094,0,2,0,0,0.1017376258969307,0

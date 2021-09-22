@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.016181522980332375,63,MC,Tottenham,Chelsea,0,3,2021-09-19,16425,2021,482921,0.01943175308406353,0,1,0,0.016181522980332375,0.45020592212677,0.4340243935585022
 0,0,0,12,Sub,Tottenham,Aston Villa,1,2,2021-05-19,14803,2020,472470,0,0,0,0,0,0.09777955710887909,0.09777955710887909
 0,0,0,7,Sub,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16,14793,2020,471454,0,0,0,0,0,0,0
 0,0,0,9,Sub,Leeds,Tottenham,3,1,2021-05-08,14778,2020,468413,0,0,0,0,0,0,0

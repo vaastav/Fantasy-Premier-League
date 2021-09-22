@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,67,MC,Wolverhampton Wanderers,Brentford,0,2,2021-09-18,16417,2021,481836,0,0,0,0,0,0,0
 0,1,0.02505750022828579,80,MC,Brentford,Brighton,0,1,2021-09-11,16408,2021,480408,0,0,0,0,0.02505750022828579,0.02505750022828579,0
 0,0,0,1,Sub,Aston Villa,Brentford,1,1,2021-08-28,16399,2021,478965,0,0,0,0,0,0,0

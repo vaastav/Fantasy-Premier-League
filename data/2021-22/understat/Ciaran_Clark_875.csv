@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Newcastle United,Leeds,1,1,2021-09-17,16416,2021,481697,0,0,0,0,0,0,0
 0,0,0,87,DC,Manchester United,Newcastle United,4,1,2021-09-11,16410,2021,480361,0.015107756480574608,0,1,0,0,0.13120147585868835,0.13120147585868835
 0,3,0.2325003445148468,90,DC,Newcastle United,West Ham,2,4,2021-08-15,16384,2021,475989,0.011805915273725986,0,1,0,0.2325003445148468,0.16568242013454437,0.16568242013454437
 0,0,0,86,DC,Newcastle United,Arsenal,0,2,2021-05-02,14771,2020,467608,0,0,0,0,0,0,0

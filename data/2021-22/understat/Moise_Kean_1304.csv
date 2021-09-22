@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.4581899344921112,22,Sub,Juventus,AC Milan,1,1,2021-09-19,16790,2021,483201,0,0,0,0,0.4581899344921112,0,0
 0,0,0,8,Sub,Napoli,Juventus,2,1,2021-09-11,16781,2021,480518,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leeds,Everton,2,2,2021-08-21,16390,2021,477008,0,0,0,0,0,0.01786201260983944,0.01786201260983944
 1,2,0.1693926900625229,12,Sub,Paris Saint Germain,Reims,4,0,2021-05-16,16125,2020,472210,0,0,0,1,0.1693926900625229,0.1693926900625229,0
