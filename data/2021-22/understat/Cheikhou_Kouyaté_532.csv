@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Crystal Palace,Brighton,1,1,2021-09-27,16435,2021,485990,0,0,0,0,0,0,0
 0,0,0,83,MC,Liverpool,Crystal Palace,3,0,2021-09-18,16420,2021,482105,0,0,0,0,0,0.09923852235078812,0.09923852235078812
 0,1,0.06397439539432526,68,MC,Crystal Palace,Tottenham,3,0,2021-09-11,16406,2021,480025,0,0,0,0,0.06397439539432526,0.157596617937088,0.157596617937088
 0,0,0,90,MC,West Ham,Crystal Palace,2,2,2021-08-28,16401,2021,478904,0,0,0,0,0,0.548084557056427,0.548084557056427
