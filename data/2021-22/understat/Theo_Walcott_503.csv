@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.6349789500236511,49,MR,Chelsea,Southampton,3,1,2021-10-02,16438,2021,486481,0.021903160959482193,0,1,0,0.6349789500236511,0.6622248291969299,0.02242557890713215
 0,0,0,48,MR,Southampton,Manchester United,1,1,2021-08-22,16392,2021,477535,0,0,0,0,0,0,0
 0,0,0,81,MR,Everton,Southampton,3,1,2021-08-14,16380,2021,475518,0,0,0,0,0,0,0
 0,0,0,79,MR,Southampton,Leeds,0,2,2021-05-18,14802,2020,472324,0,0,0,0,0,0.08666004240512848,0.08666004240512848

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.1293780654668808,62,Sub,West Ham,Brentford,1,2,2021-10-03,16444,2021,487068,0.01627281680703163,0,1,0,0.1293780654668808,0.1293780654668808,0
 0,0,0,17,Sub,Brentford,Brighton,0,1,2021-09-11,16408,2021,480412,0,0,0,0,0,0,0
 0,0,0,9,Sub,Aston Villa,Brentford,1,1,2021-08-28,16399,2021,478963,0.09271638095378876,0,2,0,0,0.07428491860628128,0
 0,0,0,4,Sub,Atletico Madrid,Celta Vigo,2,0,2019-04-13,10273,2018,324448,0,0,0,0,0,0,0

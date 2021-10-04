@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Tottenham,Aston Villa,2,1,2021-10-03,16443,2021,487021,0,0,0,0,0,0.6693311333656311,0.6693311333656311
 0,0,0,84,DC,Tottenham,Chelsea,0,3,2021-09-19,16425,2021,482917,0,0,0,0,0,0.44132474064826965,0.44132474064826965
 0,0,0,1,Sub,Tottenham,Manchester City,1,0,2021-08-15,16385,2021,476242,0,0,0,0,0,0,0
 0,0,0,90,DC,Atalanta,AC Milan,0,2,2021-05-23,15801,2020,473628,0.015910305082798004,0,1,0,0,0.08376921713352203,0.08376921713352203

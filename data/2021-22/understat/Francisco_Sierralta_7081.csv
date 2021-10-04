@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,70,DC,Leeds,Watford,1,0,2021-10-02,16440,2021,486450,0,0,0,0,0,0.015048423781991005,0.015048423781991005
 0,0,0,90,DC,Watford,Wolverhampton Wanderers,0,2,2021-09-11,16412,2021,480295,0,0,0,0,0,0.10449658334255219,0.10449658334255219
 0,0,0,90,DC,Tottenham,Watford,1,0,2021-08-29,16404,2021,479406,0,0,0,0,0,0.17726649343967438,0.17726649343967438
 0,0,0,25,Sub,Bologna,Parma Calcio 1913,4,1,2019-05-13,9931,2018,332922,0,0,0,0,0,0,0

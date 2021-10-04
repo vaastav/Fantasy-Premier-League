@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Brighton,Arsenal,0,0,2021-10-02,16436,2021,486714,0,0,0,0,0,0.055852487683296204,0.055852487683296204
 0,0,0,28,Sub,Manchester City,Arsenal,5,0,2021-08-28,16396,2021,478706,0,0,0,0,0,0,0
 0,0,0,11,Sub,Arsenal,Brighton,2,0,2021-05-23,14805,2020,473515,0,0,0,0,0,0,0
 0,0,0,10,Sub,Chelsea,Arsenal,0,1,2021-05-12,14790,2020,470432,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,3,0.4178110957145691,58,AML,Manchester United,Everton,1,1,2021-10-02,16442,2021,486199,0,0,0,1,0.4178110957145691,0.49507343769073486,0.07726234942674637
 0,0,0,2,Sub,Manchester United,Newcastle United,4,1,2021-09-11,16410,2021,480356,0,0,0,0,0,0,0
 0,0,0,17,Sub,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29,16405,2021,479707,0,0,0,0,0,0,0
 0,1,0.647928774356842,61,FW,Southampton,Manchester United,1,1,2021-08-22,16392,2021,477554,0,0,0,0,0.647928774356842,0.09751414507627487,0.09751414507627487

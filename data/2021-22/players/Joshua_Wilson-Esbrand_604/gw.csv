@@ -1,3 +1,4 @@
 assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
 0,0,0,0,0.0,604,45,0,0,0.0,0.0,2021-09-18T14:00:00Z,0,16,0,0,0,0,5,0,0,0,0,0.0,0,0,0,0,40,True,0
 0,0,0,0,0.0,604,53,0,0,0.0,0.0,2021-09-25T11:30:00Z,0,6,0,0,0,0,6,0,2601,1,0,0.0,0,1454,1874,420,40,False,0
+0,0,0,0,0.0,604,66,0,0,0.0,0.0,2021-10-03T15:30:00Z,0,11,0,0,0,0,7,0,3292,2,2,0.0,0,144,766,622,40,False,0

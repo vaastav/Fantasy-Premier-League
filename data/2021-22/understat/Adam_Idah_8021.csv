@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Burnley,Norwich,0,0,2021-10-02,16437,2021,486516,0,0,0,0,0,0,0
 0,0,0,1,Sub,Norwich,Watford,1,3,2021-09-18,16418,2021,482154,0,0,0,0,0,0,0
 0,0,0,9,Sub,Arsenal,Norwich,1,0,2021-09-11,16407,2021,480290,0.08606340736150742,0,1,0,0,0.08606340736150742,0
 0,1,0.10912499576807022,6,Sub,Norwich,Leicester,1,2,2021-08-28,16398,2021,478870,0,0,0,0,0.10912499576807022,0.10912499576807022,0

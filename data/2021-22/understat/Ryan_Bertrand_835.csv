@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Crystal Palace,Leicester,2,2,2021-10-03,16439,2021,487009,0,0,0,0,0,0,0
 0,0,0,90,DL,Leicester,Burnley,2,2,2021-09-25,16430,2021,484675,0,0,0,0,0,1.4980578422546387,1.4980578422546387
 0,0,0,70,DL,Brighton,Leicester,2,1,2021-09-19,16423,2021,482596,0,0,0,0,0,0.1507190316915512,0.1507190316915512
 0,0,0,90,DL,Leicester,Manchester City,0,1,2021-09-11,16409,2021,480377,0,0,0,0,0,0.035141315311193466,0.035141315311193466
