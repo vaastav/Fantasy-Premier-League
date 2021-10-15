@@ -69,7 +69,7 @@ def get_entry_personal_data(entry_id):
     data = json.loads(response.text)
     return data
 
-def get_entry_gws_data(entry_id,num_gws):
+def get_entry_gws_data(entry_id,num_gws,start_gw=1):
     """ Retrieve the gw-by-gw data for a specific entry/team
 
     Args:
@@ -77,7 +77,7 @@ def get_entry_gws_data(entry_id,num_gws):
     """
     base_url = "https://fantasy.premierleague.com/api/entry/"
     gw_data = []
-    for i in range(1, num_gws+1):
+    for i in range(start_gw, num_gws+1):
         full_url = base_url + str(entry_id) + "/event/" + str(i) + "/picks/"
         response = ''
         while response == '':
