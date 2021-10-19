@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Southampton,Leeds,1,0,2021-10-16,16454,2021,488183,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Southampton,3,1,2021-10-02,16438,2021,486476,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Wolverhampton Wanderers,0,1,2021-09-26,16433,2021,485459,0,0,0,0,0,0.02327941544353962,0.02327941544353962
 0,0,0,90,GK,Manchester City,Southampton,0,0,2021-09-18,16421,2021,482128,0,0,0,0,0,0,0

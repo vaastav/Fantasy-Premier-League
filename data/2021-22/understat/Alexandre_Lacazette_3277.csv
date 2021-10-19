@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,3,0.3133651316165924,20,Sub,Arsenal,Crystal Palace,2,2,2021-10-18,16446,2021,489372,0.12290651351213455,0,2,1,0.3133651316165924,0.2892899513244629,0.04988773539662361
 0,0,0,17,Sub,Brighton,Arsenal,0,0,2021-10-02,16436,2021,486714,0,0,0,0,0,0.055852487683296204,0.055852487683296204
 0,0,0,28,Sub,Manchester City,Arsenal,5,0,2021-08-28,16396,2021,478706,0,0,0,0,0,0,0
 0,0,0,11,Sub,Arsenal,Brighton,2,0,2021-05-23,14805,2020,473515,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Burnley,2,0,2021-10-16,16451,2021,488127,0,0,0,0,0,0.3352588415145874,0.3352588415145874
 0,0,0,90,GK,Chelsea,Manchester City,1,3,2021-01-03,14603,2020,439711,0,0,0,0,0,0.34973475337028503,0.34973475337028503
 0,0,0,90,GK,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22,12550,2019,372228,0,0,0,0,0,0.06341815739870071,0.06341815739870071
 0,0,0,90,GK,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17,12545,2019,370859,0,0,0,0,0,0.05894656851887703,0.05894656851887703

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,West Ham,0,1,2021-10-17,16449,2021,488645,0,0,0,0,0,0.10093802958726883,0.10093802958726883
 0,0,0,90,GK,West Ham,Brentford,1,2,2021-10-03,16444,2021,487046,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,West Ham,1,2,2021-09-25,16429,2021,484741,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Manchester United,1,2,2021-09-19,16424,2021,482606,0,0,0,0,0,0.22310315072536469,0.22310315072536469

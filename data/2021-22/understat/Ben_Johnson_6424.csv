@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Everton,West Ham,0,1,2021-10-17,16449,2021,488646,0.037371840327978134,0,1,0,0,0.037371840327978134,0.037371840327978134
 0,0,0,1,Sub,Newcastle United,West Ham,2,4,2021-08-15,16384,2021,476013,0,0,0,0,0,0,0
 0,0,0,6,Sub,West Ham,Chelsea,0,1,2021-04-24,14763,2020,465576,0,0,0,0,0,0,0
 0,2,0.0283923652023077,90,ML,Newcastle United,West Ham,3,2,2021-04-17,14752,2020,462669,0.3671119213104248,0,3,0,0.0283923652023077,0.3013308644294739,0
