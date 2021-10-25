@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brighton,Manchester City,1,4,2021-10-23,16458,2021,490206,0,0,0,0,0,0,0
 0,0,0,62,DMR,Norwich,Brighton,0,0,2021-10-16,16453,2021,488173,0,0,0,0,0,0.22249440848827362,0.22249440848827362
 0,0,0,90,DMR,Brighton,Arsenal,0,0,2021-10-02,16436,2021,486694,0.08972030878067017,0,1,0,0,0.12769295275211334,0.03797263652086258
 0,0,0,90,DMR,Crystal Palace,Brighton,1,1,2021-09-27,16435,2021,485995,0.08625943213701248,1,1,0,0,0.08625943213701248,0

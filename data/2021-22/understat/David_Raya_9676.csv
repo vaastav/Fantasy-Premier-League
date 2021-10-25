@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brentford,Leicester,1,2,2021-10-24,16457,2021,490444,0,0,0,0,0,0.032133735716342926,0.032133735716342926
 0,0,0,90,GK,Brentford,Chelsea,0,1,2021-10-16,16448,2021,488335,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Brentford,1,2,2021-10-03,16444,2021,487057,0,0,0,0,0,0.06908391416072845,0.06908391416072845
 0,0,0,90,GK,Brentford,Liverpool,3,3,2021-09-25,16432,2021,484968,0,0,0,0,0,1.0173916816711426,1.0173916816711426

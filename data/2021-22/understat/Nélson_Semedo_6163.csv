@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMR,Leeds,Wolverhampton Wanderers,1,1,2021-10-23,16462,2021,490010,0.10175652801990509,0,1,0,0,0.10175652801990509,0
 0,0,0,90,DMR,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16,16447,2021,488089,0.05028995871543884,0,1,0,0,0.05028995871543884,0
 0,0,0,90,DMR,Wolverhampton Wanderers,Newcastle United,2,1,2021-10-02,16445,2021,486522,0,0,0,0,0,0.18911504745483398,0.18911504745483398
 0,1,0.07915866374969482,88,DMR,Southampton,Wolverhampton Wanderers,0,1,2021-09-26,16433,2021,485477,0,0,0,0,0.07915866374969482,0.4120037257671356,0.3328450620174408

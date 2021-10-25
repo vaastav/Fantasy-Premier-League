@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Wolverhampton Wanderers,1,1,2021-10-23,16462,2021,490006,0.06217397749423981,0,1,0,0,0.06217397749423981,0
 0,0,0,90,GK,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16,16447,2021,488085,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Newcastle United,2,1,2021-10-02,16445,2021,486518,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Wolverhampton Wanderers,0,1,2021-09-26,16433,2021,485473,0.3328450620174408,1,1,0,0,0.3328450620174408,0
