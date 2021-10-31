@@ -131,3 +131,5 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 + [FPL Captain Classifier by Raghunandh GS](https://medium.com/datacomics/building-an-fpl-captain-classifier-cf4ee343ebcc)
 
 + [My Personal Blog](http://vaastavanand.com/blog/)
+
++ [FPL.cool](https://www.fpl.cool)
