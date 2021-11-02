@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,35,Sub,Tottenham,Manchester United,0,3,2021-10-30,16473,2021,492544,0,0,0,0,0,0,0
 0,0,0,1,Sub,West Ham,Tottenham,1,0,2021-10-24,16465,2021,490529,0,0,0,0,0,0,0
 0,2,0.16884970664978027,69,AML,Tottenham,Watford,1,0,2021-08-29,16404,2021,479400,0,0,0,0,0.16884970664978027,0.1944660097360611,0.1576748788356781
 0,2,0.10619615018367767,90,FWL,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22,16393,2021,477582,0.5441294312477112,0,2,0,0.10619615018367767,0.65032559633255,0

@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,11,Sub,Burnley,Brentford,3,1,2021-10-30,16467,2021,492317,0,0,0,0,0,0.06276118755340576,0.06276118755340576
 0,0,0,12,Sub,Wolverhampton Wanderers,Brentford,0,2,2021-09-18,16417,2021,481840,0,0,0,0,0,0,0
 0,0,0,24,Sub,Brentford,Brighton,0,1,2021-09-11,16408,2021,480411,0,0,0,0,0,0,0

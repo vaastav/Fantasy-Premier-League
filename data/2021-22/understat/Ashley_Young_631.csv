@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,76,Sub,Aston Villa,West Ham,1,4,2021-10-31,16466,2021,493189,0.008925030939280987,0,1,0,0,0.4839356243610382,0.4839356243610382
 0,0,0,8,Sub,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16,16447,2021,488083,0,0,0,0,0,0,0
 0,0,0,6,Sub,Aston Villa,Everton,3,0,2021-09-18,16422,2021,482371,0,0,0,0,0,0,0
 0,0,0,80,MC,Aston Villa,Brentford,1,1,2021-08-28,16399,2021,478945,0,0,0,0,0,0,0

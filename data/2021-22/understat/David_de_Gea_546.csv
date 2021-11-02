@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Manchester United,0,3,2021-10-30,16473,2021,492546,0,0,0,0,0,0.09110844135284424,0.09110844135284424
 0,0,0,90,GK,Manchester United,Liverpool,0,5,2021-10-24,16463,2021,490837,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,Manchester United,4,2,2021-10-16,16450,2021,488113,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Everton,1,1,2021-10-02,16442,2021,486190,0,0,0,0,0,0.1161915585398674,0.1161915585398674
