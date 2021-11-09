@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.14568103849887848,69,Sub,West Ham,Liverpool,3,2,2021-11-07,16485,2021,494952,0,0,0,0,0.14568103849887848,0.6111974716186523,0.6111974716186523
 0,0,0,1,Sub,West Ham,Tottenham,1,0,2021-10-24,16465,2021,490516,0,0,0,0,0,0,0
 0,0,0,10,Sub,Everton,West Ham,0,1,2021-10-17,16449,2021,488658,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leeds,West Ham,1,2,2021-09-25,16429,2021,484754,0,0,0,0,0,0,0

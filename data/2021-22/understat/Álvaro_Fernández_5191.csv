@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brentford,Norwich,1,2,2021-11-06,16477,2021,493993,0,0,0,0,0,0.05206480622291565,0.05206480622291565
 0,0,0,90,GK,Burnley,Brentford,3,1,2021-10-30,16467,2021,492306,0,0,0,0,0,0,0
 0,1,0.026911556720733643,90,GK,SD Huesca,Valencia,0,0,2021-05-22,15151,2020,472973,0,0,0,0,0.026911556720733643,0.11166253685951233,0.11166253685951233
 0,0,0,90,GK,Real Betis,SD Huesca,1,0,2021-05-16,15142,2020,471699,0,0,0,0,0,0,0

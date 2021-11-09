@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Southampton,Aston Villa,1,0,2021-11-05,16484,2021,493604,0,0,0,0,0,0,0
 0,0,0,90,GK,Watford,Southampton,0,1,2021-10-30,16474,2021,492196,0,0,0,0,0,0.7991949319839478,0.7991949319839478
 0,0,0,90,GK,Southampton,Burnley,2,2,2021-10-23,16464,2021,489909,0,0,0,0,0,0.19117781519889832,0.19117781519889832
 0,0,0,90,GK,Southampton,Leeds,1,0,2021-10-16,16454,2021,488183,0,0,0,0,0,0,0

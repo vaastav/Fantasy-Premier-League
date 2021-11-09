@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Leeds,Leicester,1,1,2021-11-07,16482,2021,494617,0,0,0,0,0,0.06891913712024689,0.06891913712024689
 0,0,0,90,DC,Norwich,Leeds,1,2,2021-10-31,16472,2021,492827,0,0,0,0,0,0.3018428087234497,0.3018428087234497
 0,0,0,90,MC,Leeds,Wolverhampton Wanderers,1,1,2021-10-23,16462,2021,489998,0,0,0,0,0,0.07463167607784271,0.07463167607784271
 0,0,0,90,DC,Southampton,Leeds,1,0,2021-10-16,16454,2021,488198,0,0,0,0,0,0,0

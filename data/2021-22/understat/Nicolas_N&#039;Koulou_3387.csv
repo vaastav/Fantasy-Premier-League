@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Arsenal,Watford,1,0,2021-11-07,16476,2021,494513,0.012984516099095345,0,1,0,0,0.0964711457490921,0.0964711457490921
 0,0,0,10,Sub,Everton,Watford,2,5,2021-10-23,16461,2021,489990,0,0,0,0,0,0,0
 0,0,0,90,DC,Lazio,Torino,0,0,2021-05-18,15671,2020,472393,0,0,0,0,0,0,0
 0,0,0,90,DC,Spezia,Torino,4,1,2021-05-15,15795,2020,470744,0,0,0,0,0,0.04336315765976906,0.04336315765976906

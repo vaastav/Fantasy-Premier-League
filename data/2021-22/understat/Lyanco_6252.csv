@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,33,Sub,Southampton,Aston Villa,1,0,2021-11-05,16484,2021,493615,0,0,0,0,0,0,0
 0,0,0,1,Sub,Watford,Southampton,0,1,2021-10-30,16474,2021,492207,0,0,0,0,0,0,0
 0,0,0,90,DC,Torino,AC Milan,0,7,2021-05-12,15780,2020,470288,0,0,0,0,0,0,0
 0,1,0.009086579084396362,37,Sub,Verona,Torino,1,1,2021-05-09,15775,2020,469350,0,0,0,0,0.009086579084396362,0.009086579084396362,0

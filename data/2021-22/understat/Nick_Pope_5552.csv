@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Burnley,1,1,2021-11-06,16479,2021,493979,0.04805099219083786,0,1,0,0,0.04805099219083786,0
 0,0,0,90,GK,Burnley,Brentford,3,1,2021-10-30,16467,2021,492294,0,0,0,0,0,0.522027313709259,0.522027313709259
 0,0,0,90,GK,Southampton,Burnley,2,2,2021-10-23,16464,2021,489923,0,0,0,0,0,0.18044067919254303,0.18044067919254303
 0,0,0,90,GK,Manchester City,Burnley,2,0,2021-10-16,16451,2021,488141,0,0,0,0,0,0,0

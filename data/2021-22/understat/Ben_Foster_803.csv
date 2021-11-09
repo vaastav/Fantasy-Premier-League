@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,Watford,1,0,2021-11-07,16476,2021,494511,0,0,0,0,0,0.21820349991321564,0.21820349991321564
 0,0,0,90,GK,Watford,Southampton,0,1,2021-10-30,16474,2021,492182,0,0,0,0,0,0.5476655960083008,0.5476655960083008
 0,0,0,90,GK,Everton,Watford,2,5,2021-10-23,16461,2021,489978,0,0,0,0,0,0.3681415319442749,0.3681415319442749
 0,0,0,90,GK,Watford,Liverpool,0,5,2021-10-16,16455,2021,487832,0,0,0,0,0,0,0

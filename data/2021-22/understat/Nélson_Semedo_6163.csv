@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,71,DMR,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06,16480,2021,494039,0,0,0,0,0,0,0
 0,0,0,90,DMR,Wolverhampton Wanderers,Everton,2,1,2021-11-01,16475,2021,493486,0.34969839453697205,0,1,0,0,0.8497962951660156,0.500097930431366
 0,0,0,90,DMR,Leeds,Wolverhampton Wanderers,1,1,2021-10-23,16462,2021,490010,0.10175652801990509,0,1,0,0,0.10175652801990509,0
 0,0,0,90,DMR,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16,16447,2021,488089,0.05028995871543884,0,1,0,0,0.05028995871543884,0

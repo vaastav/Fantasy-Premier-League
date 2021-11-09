@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,Watford,1,0,2021-11-07,16476,2021,494497,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,Arsenal,0,2,2021-10-30,16468,2021,491922,0,0,0,0,0,0.03321174159646034,0.03321174159646034
 0,0,0,90,GK,Arsenal,Aston Villa,3,1,2021-10-22,16456,2021,489543,0,0,0,0,0,0.07059339433908463,0.07059339433908463
 0,0,0,90,GK,Arsenal,Crystal Palace,2,2,2021-10-18,16446,2021,489359,0,0,0,0,0,0.11649570614099503,0.11649570614099503

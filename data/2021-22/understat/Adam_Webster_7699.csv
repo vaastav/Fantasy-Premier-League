@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Brighton,Newcastle United,1,1,2021-11-06,16478,2021,494243,0,0,0,0,0,0,0
 0,0,0,36,DC,Brentford,Brighton,0,1,2021-09-11,16408,2021,480416,0,0,0,0,0,0,0
 0,0,0,90,DC,Brighton,Everton,0,2,2021-08-28,16400,2021,478914,0,0,0,0,0,0.16451521217823029,0.16451521217823029
 0,0,0,90,DC,Brighton,Watford,2,0,2021-08-21,16391,2021,477232,0,0,0,0,0,0.08088762313127518,0.08088762313127518

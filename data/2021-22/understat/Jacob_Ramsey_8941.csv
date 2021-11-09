@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,Southampton,Aston Villa,1,0,2021-11-05,16484,2021,493629,0.03148649260401726,0,1,0,0,0.05972876772284508,0.02824227511882782
 0,0,0,14,MC,Aston Villa,West Ham,1,4,2021-10-31,16466,2021,493183,0,0,0,0,0,0,0
 1,2,0.14604756236076355,16,Sub,Arsenal,Aston Villa,3,1,2021-10-22,16456,2021,489570,0.032079555094242096,0,1,1,0.14604756236076355,0.17812711000442505,0
 0,0,0,13,Sub,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16,16447,2021,488084,0,0,0,0,0,0,0

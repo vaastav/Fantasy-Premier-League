@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Arsenal,Watford,1,0,2021-11-07,16476,2021,494509,0.05096719413995743,0,2,0,0,0.029319005087018013,0
 0,0,0,41,Sub,Manchester City,Arsenal,5,0,2021-08-28,16396,2021,478705,0,0,0,0,0,0,0
 0,0,0,90,DMC,Crystal Palace,Arsenal,1,3,2021-05-19,14798,2020,472533,0,0,0,0,0,0.37555086612701416,0.37555086612701416
 0,0,0,90,MC,Chelsea,Arsenal,0,1,2021-05-12,14790,2020,470427,0,0,0,0,0,0.11806613206863403,0.11806613206863403

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06,16480,2021,494035,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Everton,2,1,2021-11-01,16475,2021,493482,0,0,0,0,0,0.04656168818473816,0.04656168818473816
 0,0,0,90,GK,Leeds,Wolverhampton Wanderers,1,1,2021-10-23,16462,2021,490006,0.06217397749423981,0,1,0,0,0.06217397749423981,0
 0,0,0,90,GK,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16,16447,2021,488085,0,0,0,0,0,0,0

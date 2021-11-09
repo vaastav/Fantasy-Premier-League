@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Brighton,Newcastle United,1,1,2021-11-06,16478,2021,494251,0,0,0,0,0,0.03960496187210083,0.03960496187210083
 0,0,0,6,Sub,Newcastle United,Chelsea,0,3,2021-10-30,16471,2021,492223,0.0325426384806633,0,1,0,0,0.0325426384806633,0
 0,0,0,22,Sub,Newcastle United,Tottenham,2,3,2021-10-17,16452,2021,489074,0,0,0,0,0,0.011620122008025646,0.011620122008025646
 0,0,0,72,MC,Newcastle United,West Ham,2,4,2021-08-15,16384,2021,475993,0.12838605046272278,0,1,0,0,0.12838605046272278,0

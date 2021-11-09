@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester United,Manchester City,0,2,2021-11-06,16483,2021,493710,0,0,0,0,0,0.9798104166984558,0.9798104166984558
 0,0,0,90,DC,Manchester City,Crystal Palace,0,2,2021-10-30,16470,2021,492240,0,0,0,0,0,0.19093376398086548,0.19093376398086548
 0,1,0.09714128822088242,90,DC,Brighton,Manchester City,1,4,2021-10-23,16458,2021,490221,0,0,0,0,0.09714128822088242,0.8205994963645935,0.8205994963645935
 0,0,0,14,Sub,Manchester City,Burnley,2,0,2021-10-16,16451,2021,488139,0,0,0,0,0,0,0
