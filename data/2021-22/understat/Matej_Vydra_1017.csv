@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.25656819343566895,4,Sub,Burnley,Crystal Palace,3,3,2021-11-20,16487,2021,495714,0,0,0,0,0.25656819343566895,0.25656819343566895,0
 1,2,0.5500559210777283,18,Sub,Chelsea,Burnley,1,1,2021-11-06,16479,2021,493990,0,0,0,1,0.5500559210777283,0.5500559210777283,0
 0,0,0,20,Sub,Burnley,Brentford,3,1,2021-10-30,16467,2021,492305,0,0,0,0,0,0,0
 0,0,0,1,Sub,Southampton,Burnley,2,2,2021-10-23,16464,2021,489934,0,0,0,0,0,0,0

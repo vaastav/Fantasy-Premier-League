@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Newcastle United,Brentford,3,3,2021-11-20,16491,2021,495754,0,0,0,0,0,0,0
 0,2,0.08828762173652649,28,MC,West Ham,Brentford,1,2,2021-10-03,16444,2021,487064,0,0,0,0,0.08828762173652649,0.0466463640332222,0.0466463640332222
 0,0,0,19,Sub,Brentford,Liverpool,3,3,2021-09-25,16432,2021,484981,0,0,0,0,0,0,0
 0,0,0,67,MC,Wolverhampton Wanderers,Brentford,0,2,2021-09-18,16417,2021,481836,0,0,0,0,0,0,0
