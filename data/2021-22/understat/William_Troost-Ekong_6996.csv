@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.09180137515068054,90,DC,Leicester,Watford,4,2,2021-11-28,16502,2021,498057,0,0,0,0,0.09180137515068054,0,0
 0,0,0,23,Sub,Watford,Manchester United,4,1,2021-11-20,16494,2021,495658,0,0,0,0,0,0,0
 0,0,0,90,DC,Watford,Southampton,0,1,2021-10-30,16474,2021,492184,0,0,0,0,0,0.4380410611629486,0.4380410611629486
 0,0,0,90,DC,Everton,Watford,2,5,2021-10-23,16461,2021,489980,0,0,0,0,0,0.34761112928390503,0.34761112928390503

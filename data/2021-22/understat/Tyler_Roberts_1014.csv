@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,4,0.5580734610557556,25,Sub,Brighton,Leeds,0,0,2021-11-27,16498,2021,497601,0,0,0,0,0.5580734610557556,0.579075276851654,0.05276702344417572
 0,0,0,16,Sub,Tottenham,Leeds,2,1,2021-11-21,16493,2021,496623,0,0,0,0,0,0,0
 0,0,0,5,Sub,Leeds,Leicester,1,1,2021-11-07,16482,2021,494624,0,0,0,0,0,0,0
 0,0,0,1,Sub,Norwich,Leeds,1,2,2021-10-31,16472,2021,492838,0.02960001491010189,0,1,0,0,0.02960001491010189,0

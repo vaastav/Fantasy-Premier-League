@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Chelsea,Manchester United,1,1,2021-11-28,16500,2021,498294,0,0,0,0,0,0,0
 0,0,0,47,DC,Manchester United,Manchester City,0,2,2021-11-06,16483,2021,493696,0,0,0,0,0,0.07999278604984283,0.07999278604984283
 0,1,0.032036662101745605,90,DC,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23,14814,2020,473492,0,0,0,0,0.032036662101745605,0.677914559841156,0.677914559841156
 0,0,0,90,DC,Manchester United,Liverpool,2,4,2021-05-13,14770,2020,470585,0,0,0,0,0,0.0638350322842598,0.0638350322842598

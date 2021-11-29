@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Norwich,Wolverhampton Wanderers,0,0,2021-11-27,16505,2021,497398,0,0,0,0,0,0,0
 0,0,0,3,Sub,Wolverhampton Wanderers,West Ham,1,0,2021-11-20,16495,2021,495768,0,0,0,0,0,0,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Everton,2,1,2021-11-01,16475,2021,493493,0,0,0,0,0,0,0
 0,0,0,90,MC,Leeds,Wolverhampton Wanderers,1,1,2021-10-23,16462,2021,490012,0,0,0,0,0,0,0
