@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,Norwich,1,1,2021-11-30,16513,2021,498640,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Newcastle United,2,0,2021-11-27,16496,2021,497084,0,0,0,0,0,0.02965037152171135,0.02965037152171135
 0,0,0,90,GK,Fulham,Newcastle United,0,2,2021-05-23,14807,2020,473294,0,0,0,0,0,0.1280137300491333,0.1280137300491333
 0,0,0,90,GK,Newcastle United,Sheffield United,1,0,2021-05-19,14801,2020,472432,0,0,0,0,0,0.4635190963745117,0.4635190963745117

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Everton,Liverpool,1,4,2021-12-01,16507,2021,499357,0,0,0,0,0,0.01560334675014019,0.01560334675014019
 0,0,0,9,Sub,Everton,West Ham,0,1,2021-01-01,14595,2020,438854,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Arsenal,2,1,2020-12-19,14569,2020,436192,0,0,0,0,0,0,0
 0,0,0,1,Sub,Burnley,Everton,1,1,2020-12-05,14537,2020,431069,0,0,0,0,0,0,0

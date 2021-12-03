@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,24,Sub,Southampton,Leicester,2,2,2021-12-01,16514,2021,499101,0,0,0,0,0,0,0
 0,1,0.22548937797546387,90,FWR,Liverpool,Southampton,4,0,2021-11-27,16503,2021,497423,0,0,0,0,0.22548937797546387,0.5551024079322815,0.32961300015449524
 0,0,0,32,Sub,Norwich,Southampton,2,1,2021-11-20,16492,2021,495811,0,0,0,0,0,0,0
 0,0,0,8,Sub,Southampton,Aston Villa,1,0,2021-11-05,16484,2021,493616,0,0,0,0,0,0,0

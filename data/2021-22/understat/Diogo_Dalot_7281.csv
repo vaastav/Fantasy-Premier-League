@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.02271648310124874,90,DR,Manchester United,Arsenal,3,2,2021-12-02,16512,2021,499464,0,0,0,0,0.02271648310124874,0.5980027914047241,0.575286328792572
 0,0,0,2,Sub,Watford,Manchester United,4,1,2021-11-20,16494,2021,495673,0,0,0,0,0,0,0
 0,0,0,23,Sub,Manchester United,Liverpool,0,5,2021-10-24,16463,2021,490849,0.044674310833215714,0,1,0,0,0.044674310833215714,0
 0,0,0,57,Sub,Manchester United,Aston Villa,0,1,2021-09-25,16431,2021,484376,0,0,0,0,0,0.07053016871213913,0.07053016871213913

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.09027513116598129,90,DC,Tottenham,Brentford,2,0,2021-12-02,16515,2021,499406,0,0,0,0,0.09027513116598129,0.7821338772773743,0.7821338772773743
 0,0,0,20,Sub,Tottenham,Leeds,2,1,2021-11-21,16493,2021,496608,0.02617560513317585,0,1,0,0,0.02617560513317585,0
 0,0,0,90,DC,Arsenal,Tottenham,3,1,2021-09-26,16434,2021,485629,0,0,0,0,0,0,0
 0,0,0,6,Sub,Tottenham,Chelsea,0,3,2021-09-19,16425,2021,482926,0,0,0,0,0,0,0
