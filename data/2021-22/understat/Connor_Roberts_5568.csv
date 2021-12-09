@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,11,Sub,Newcastle United,Burnley,1,0,2021-12-04,16520,2021,499968,0,0,0,0,0,0,0
+0,0,0,90,DMR,Swansea,Southampton,0,1,2018-05-08,7426,2017,238625,0,0,0,0,0,0,0
+0,0,0,90,DMR,Bournemouth,Swansea,1,0,2018-05-05,7488,2017,237613,0,0,0,0,0,0.2811824679374695,0.2811824679374695
+0,0,0,64,DMR,Swansea,Chelsea,0,1,2018-04-28,7476,2017,235910,0,0,0,0,0,0.03563935309648514,0.03563935309648514
+0,0,0,24,Sub,Newcastle United,Swansea,1,1,2018-01-13,7345,2017,207731,0,0,0,0,0,0,0

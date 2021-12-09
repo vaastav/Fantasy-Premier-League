@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Manchester United,Crystal Palace,1,0,2021-12-05,16519,2021,500521,0,0,0,0,0,0,0
 0,0,0,90,DR,Crystal Palace,Burnley,0,3,2021-02-13,14668,2020,449027,0.05876154825091362,0,2,0,0,0.09027036279439926,0.0474030040204525
 0,0,0,90,DR,Leeds,Crystal Palace,2,0,2021-02-08,14658,2020,448686,0,0,0,0,0,0.02813582681119442,0.02813582681119442
 0,0,0,90,DR,Newcastle United,Crystal Palace,1,2,2021-02-02,14652,2020,446781,0,0,0,0,0,0,0

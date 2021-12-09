@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Newcastle United,Burnley,1,0,2021-12-04,16520,2021,499943,0,0,0,0,0,0,0
 0,0,0,90,DR,Newcastle United,Norwich,1,1,2021-11-30,16513,2021,498641,0,0,0,0,0,0,0
 0,1,0.0325426384806633,90,DR,Newcastle United,Chelsea,0,3,2021-10-30,16471,2021,492211,0.010114416480064392,0,1,0,0.0325426384806633,0.108589768409729,0.0760471299290657
 0,0,0,90,DR,Crystal Palace,Newcastle United,1,1,2021-10-23,16460,2021,489952,0,0,0,0,0,0,0
