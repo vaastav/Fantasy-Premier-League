@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Brentford,Watford,2,1,2021-12-10,16527,2021,501339,0,0,0,0,0,0,0
 0,0,0,42,Sub,Watford,Southampton,0,1,2021-10-30,16474,2021,492193,0,0,0,0,0,0,0
 0,0,0,45,Sub,Leeds,Watford,1,0,2021-10-02,16440,2021,486461,0,0,0,0,0,0,0
 0,0,0,15,Sub,Norwich,Watford,1,3,2021-09-18,16418,2021,482168,0,0,0,0,0,0.4364789128303528,0.4364789128303528

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Leicester,Newcastle United,4,0,2021-12-12,16532,2021,502257,0,0,0,0,0,0.11978882551193237,0.11978882551193237
 0,0,0,13,Sub,Leicester,Watford,4,2,2021-11-28,16502,2021,498053,0,0,0,0,0,0,0
 0,0,0,90,DMR,Leicester,Chelsea,0,3,2021-11-20,16488,2021,495373,0.009345616213977337,0,1,0,0,0.47551706433296204,0.4661714434623718
 0,0,0,8,Sub,Crystal Palace,Leicester,2,2,2021-10-03,16439,2021,487018,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Burnley,West Ham,0,0,2021-12-12,16529,2021,502225,0.025875980034470558,0,1,0,0,0.2823375463485718,0.25646156072616577
 0,0,0,90,MC,Wolverhampton Wanderers,Burnley,0,0,2021-12-01,16511,2021,498990,0,0,0,0,0,0,0
 0,0,0,72,MC,Southampton,Burnley,2,2,2021-10-23,16464,2021,489930,0,0,0,0,0,0.029602129012346268,0.029602129012346268
 0,0,0,76,MC,Manchester City,Burnley,2,0,2021-10-16,16451,2021,488148,0,0,0,0,0,0.1232905238866806,0.1232905238866806

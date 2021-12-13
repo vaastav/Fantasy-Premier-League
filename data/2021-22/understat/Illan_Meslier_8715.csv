@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Leeds,3,2,2021-12-11,16530,2021,501682,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Brentford,2,2,2021-12-05,16518,2021,500478,0,0,0,0,0,0.04814920946955681,0.04814920946955681
 0,0,0,90,GK,Leeds,Crystal Palace,1,0,2021-11-30,16508,2021,498729,0,0,0,0,0,0.14144465327262878,0.14144465327262878
 0,0,0,90,GK,Brighton,Leeds,0,0,2021-11-27,16498,2021,497588,0,0,0,0,0,0,0

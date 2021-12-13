@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.028649168089032173,90,DC,Burnley,West Ham,0,0,2021-12-12,16529,2021,502234,0,0,0,0,0.028649168089032173,0,0
 0,0,0,90,DC,West Ham,Chelsea,3,2,2021-12-04,16524,2021,499614,0,0,0,0,0,0,0
 0,0,0,1,Sub,West Ham,Southampton,3,0,2021-05-23,14813,2020,473459,0,0,0,0,0,0,0
 0,0,0,1,Sub,West Bromwich Albion,West Ham,1,3,2021-05-19,14804,2020,472593,0,0,0,0,0,0,0

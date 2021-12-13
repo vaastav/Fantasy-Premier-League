@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Everton,3,1,2021-12-12,16531,2021,502607,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Crystal Palace,1,0,2021-12-05,16519,2021,500520,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Crystal Palace,1,0,2021-11-30,16508,2021,498743,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Aston Villa,1,2,2021-11-27,16501,2021,497429,0,0,0,0,0,0.06296833604574203,0.06296833604574203

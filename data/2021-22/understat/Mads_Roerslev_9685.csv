@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMR,Brentford,Watford,2,1,2021-12-10,16527,2021,501317,0,0,0,0,0,0,0
 0,0,0,90,DMR,Leeds,Brentford,2,2,2021-12-05,16518,2021,500496,0.47478386759757996,0,1,0,0,0.47478386759757996,0
 0,0,0,11,Sub,Brentford,Everton,1,0,2021-11-28,16497,2021,497937,0,0,0,0,0,0,0
 0,1,0.01587294042110443,83,DC,Newcastle United,Brentford,3,3,2021-11-20,16491,2021,495744,0,0,0,0,0.01587294042110443,0.01587294042110443,0

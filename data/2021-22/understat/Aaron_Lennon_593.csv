@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Burnley,West Ham,0,0,2021-12-12,16529,2021,502230,0,0,0,0,0,0,0
 0,0,0,3,Sub,Wolverhampton Wanderers,Burnley,0,0,2021-12-01,16511,2021,498996,0,0,0,0,0,0,0
 0,1,0.07576808333396912,64,MR,Burnley,Norwich,0,0,2021-10-02,16437,2021,486495,0,0,0,0,0.07576808333396912,0.07576808333396912,0
 0,1,0.006338948383927345,1,Sub,Leicester,Burnley,2,2,2021-09-25,16430,2021,484698,0,0,0,0,0.006338948383927345,0.006338948383927345,0
