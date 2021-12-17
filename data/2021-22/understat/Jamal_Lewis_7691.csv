@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,DL,Liverpool,Newcastle United,3,1,2021-12-16,16544,2021,503374,0,0,0,0,0,0,0
 0,0,0,64,DL,Leicester,Newcastle United,4,0,2021-12-12,16532,2021,502263,0.026890233159065247,0,1,0,0,0.08254258334636688,0.055652350187301636
 0,0,0,90,DL,Newcastle United,Burnley,1,0,2021-12-04,16520,2021,499946,0,0,0,0,0,0.1080983430147171,0.1080983430147171
 0,0,0,90,DL,Newcastle United,Norwich,1,1,2021-11-30,16513,2021,498644,0,0,0,0,0,0.02017948403954506,0.02017948403954506

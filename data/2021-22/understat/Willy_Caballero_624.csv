@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Southampton,2,2,2021-12-15,16542,2021,503259,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Southampton,3,0,2021-12-11,16526,2021,501710,0,0,0,0,0,0,0
 0,0,0,90,GK,West Bromwich Albion,Chelsea,3,3,2020-09-26,14108,2020,417598,0,0,0,0,0,0.14356312155723572,0.14356312155723572
 0,0,0,90,GK,Chelsea,Wolverhampton Wanderers,2,0,2020-07-26,12021,2019,411260,0,0,0,0,0,0.06673698872327805,0.06673698872327805
