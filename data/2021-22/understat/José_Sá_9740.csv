@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Chelsea,0,0,2021-12-19,16555,2021,503996,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Wolverhampton Wanderers,0,1,2021-12-15,16538,2021,503287,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11,16534,2021,501383,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Liverpool,0,1,2021-12-04,16525,2021,499914,0,0,0,0,0,0,0

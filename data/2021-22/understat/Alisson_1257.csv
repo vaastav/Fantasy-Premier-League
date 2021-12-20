@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Liverpool,2,2,2021-12-19,16552,2021,504155,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Newcastle United,3,1,2021-12-16,16544,2021,503356,0,0,0,0,0,0.07295326143503189,0.07295326143503189
 0,0,0,90,GK,Liverpool,Aston Villa,1,0,2021-12-11,16533,2021,501640,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Liverpool,0,1,2021-12-04,16525,2021,499928,0,0,0,0,0,0.08922145515680313,0.08922145515680313

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,50,MC,Wolverhampton Wanderers,Chelsea,0,0,2021-12-19,16555,2021,504016,0,0,0,0,0,0,0
 0,0,0,10,Sub,Chelsea,Everton,1,1,2021-12-16,16543,2021,503340,0,0,0,0,0,0,0
 0,0,0,66,DC,Watford,Chelsea,1,2,2021-12-01,16509,2021,499309,0,0,0,0,0,0,0
 0,0,0,90,DC,Chelsea,Manchester United,1,1,2021-11-28,16500,2021,498280,0,0,0,0,0,0.3225058615207672,0.3225058615207672

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,81,MR,Newcastle United,Manchester City,0,4,2021-12-19,16550,2021,504055,0,0,0,0,0,0,0
 0,1,0.04875490814447403,64,MR,Leicester,Newcastle United,4,0,2021-12-12,16532,2021,502264,0,0,0,0,0.04875490814447403,0.11219922453165054,0.06344431638717651
 0,6,0.4052698314189911,89,MR,Newcastle United,Burnley,1,0,2021-12-04,16520,2021,499947,0,0,0,0,0.4052698314189911,0.4052698314189911,0
 0,0,0,11,Sub,Newcastle United,Norwich,1,1,2021-11-30,16513,2021,498652,0,0,0,0,0,0,0

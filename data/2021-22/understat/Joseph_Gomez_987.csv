@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Liverpool,2,2,2021-12-19,16552,2021,504168,0,0,0,0,0,0,0
 0,0,0,11,Sub,Liverpool,Manchester City,2,2,2021-10-03,16441,2021,487419,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Burnley,2,0,2021-08-21,16386,2021,476676,0,0,0,0,0,0,0
 0,0,0,90,DC,Manchester City,Liverpool,1,1,2020-11-08,14511,2020,427247,0,0,0,0,0,0,0

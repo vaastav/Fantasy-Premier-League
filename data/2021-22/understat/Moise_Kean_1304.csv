@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,71,FWL,Bologna,Juventus,0,2,2021-12-18,16927,2021,503776,0,0,0,0,0,0.08249586075544357,0.08249586075544357
 0,0,0,12,Sub,Venezia,Juventus,1,1,2021-12-11,16925,2021,501847,0,0,0,0,0,0,0
 0,0,0,17,Sub,Juventus,Genoa,2,0,2021-12-05,16909,2021,501026,0,0,0,0,0,0,0
 0,0,0,70,FW,Salernitana,Juventus,0,2,2021-11-30,16903,2021,498724,0.06605744361877441,0,1,0,0,0.2262250930070877,0.1601676493883133

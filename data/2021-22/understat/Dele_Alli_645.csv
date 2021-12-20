@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.46499961614608765,84,MC,Tottenham,Liverpool,2,2,2021-12-19,16552,2021,504148,0.4709970951080322,0,1,0,0.46499961614608765,1.0597892999649048,0.1237926110625267
 0,0,0,1,Sub,Tottenham,Leeds,2,1,2021-11-21,16493,2021,496610,0,0,0,0,0,0,0
 0,0,0,16,Sub,Tottenham,Manchester United,0,3,2021-10-30,16473,2021,492545,0,0,0,0,0,0,0
 0,0,0,48,MC,Arsenal,Tottenham,3,1,2021-09-26,16434,2021,485634,0,0,0,0,0,0.01591194048523903,0.01591194048523903

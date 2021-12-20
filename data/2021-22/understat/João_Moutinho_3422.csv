@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Wolverhampton Wanderers,Chelsea,0,0,2021-12-19,16555,2021,504004,0.008192785084247589,0,1,0,0,0.27373501658439636,0.26554223895072937
 0,0,0,90,MC,Brighton,Wolverhampton Wanderers,0,1,2021-12-15,16538,2021,503293,0.08245857059955597,0,1,0,0,0.09629414230585098,0.09629414230585098
 0,0,0,90,MC,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11,16534,2021,501391,0,0,0,0,0,0.06557999551296234,0.06557999551296234
 0,0,0,8,Sub,Wolverhampton Wanderers,Liverpool,0,1,2021-12-04,16525,2021,499927,0,0,0,0,0,0,0
