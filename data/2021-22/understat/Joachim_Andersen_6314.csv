@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Tottenham,Crystal Palace,3,0,2021-12-26,16563,2021,505053,0,0,0,0,0,0,0
 0,0,0,7,Sub,Crystal Palace,Southampton,2,2,2021-12-15,16542,2021,503257,0,0,0,0,0,0,0
 0,1,0.11960192024707794,90,DC,Burnley,Crystal Palace,3,3,2021-11-20,16487,2021,495718,0.0982624813914299,1,1,0,0.11960192024707794,0.4678100645542145,0.369547575712204
 0,0,0,90,DC,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06,16480,2021,494023,0,0,0,0,0,0.4925321936607361,0.4925321936607361

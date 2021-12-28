@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Crystal Palace,3,0,2021-12-26,16563,2021,505051,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Southampton,2,2,2021-12-15,16542,2021,503245,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Aston Villa,3,2,2021-05-16,14794,2020,471325,0,0,0,0,0,0,0
 0,0,0,90,GK,Swansea,Stoke,1,2,2018-05-13,7491,2017,240077,0,0,0,0,0,0.019587695598602295,0.019587695598602295

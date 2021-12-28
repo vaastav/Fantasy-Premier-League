@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Southampton,2,3,2021-12-26,16564,2021,505118,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,West Ham,2,0,2021-12-15,16536,2021,503315,0,0,0,0,0,0,0
 0,0,0,90,GK,Burnley,West Ham,0,0,2021-12-12,16529,2021,502232,0,0,0,0,0,0.02062651887536049,0.02062651887536049
 0,0,0,90,GK,West Ham,Chelsea,3,2,2021-12-04,16524,2021,499612,0,0,0,0,0,0,0

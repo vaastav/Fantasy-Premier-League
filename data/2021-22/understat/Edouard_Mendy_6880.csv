@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Chelsea,1,3,2021-12-26,16556,2021,505160,0,0,0,0,0,0.2917229235172272,0.2917229235172272
 0,0,0,90,GK,Wolverhampton Wanderers,Chelsea,0,0,2021-12-19,16555,2021,504009,0,0,0,0,0,0.36177247762680054,0.36177247762680054
 0,0,0,90,GK,Chelsea,Everton,1,1,2021-12-16,16543,2021,503328,0,0,0,0,0,0.141077920794487,0.141077920794487
 0,0,0,90,GK,Chelsea,Leeds,3,2,2021-12-11,16530,2021,501668,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.013330291025340557,50,Sub,Brighton,Brentford,2,0,2021-12-26,16557,2021,505199,0.06937529891729355,0,2,0,0.013330291025340557,0.08270558714866638,0
 0,0,0,70,FW,Brentford,Watford,2,1,2021-12-10,16527,2021,501323,0,0,0,0,0,0,0
 0,0,0,15,Sub,Leeds,Brentford,2,2,2021-12-05,16518,2021,500504,0,0,0,0,0,0,0
 0,0,0,18,Sub,Tottenham,Brentford,2,0,2021-12-02,16515,2021,499431,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Norwich,Arsenal,0,5,2021-12-26,16562,2021,505090,0,0,0,0,0,0,0
 0,1,0.015566117130219936,90,MC,Manchester United,Arsenal,3,2,2021-12-02,16512,2021,499483,0.014574898406863213,1,1,0,0.015566117130219936,0.27588820457458496,0.27588820457458496
 0,0,0,1,Sub,Arsenal,Newcastle United,2,0,2021-11-27,16496,2021,497082,0.02872537262737751,0,1,0,0,0.02872537262737751,0
 0,0,0,5,Sub,Liverpool,Arsenal,4,0,2021-11-20,16489,2021,495953,0,0,0,0,0,0,0

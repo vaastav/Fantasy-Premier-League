@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04168283939361572,48,AMR,West Ham,Southampton,2,3,2021-12-26,16564,2021,505125,0,0,0,0,0.04168283939361572,0.04168283939361572,0
 0,0,0,17,Sub,Burnley,West Ham,0,0,2021-12-12,16529,2021,502243,0.14934909343719482,0,3,0,0,0.14934909343719482,0.1069655641913414
 0,0,0,19,Sub,Wolverhampton Wanderers,West Ham,1,0,2021-11-20,16495,2021,495782,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,West Ham,1,4,2021-10-31,16466,2021,493203,0,0,0,0,0,0,0

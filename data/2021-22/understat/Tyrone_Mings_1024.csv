@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,Chelsea,1,3,2021-12-26,16556,2021,505148,0,0,0,0,0,0.09246303886175156,0.09246303886175156
 0,0,0,90,DC,Norwich,Aston Villa,0,2,2021-12-14,16541,2021,503052,0,0,0,0,0,0.20224371552467346,0.20224371552467346
 0,0,0,90,DC,Liverpool,Aston Villa,1,0,2021-12-11,16533,2021,501657,0,0,0,0,0,0,0
 0,0,0,90,DC,Aston Villa,Leicester,2,1,2021-12-05,16516,2021,500862,0,0,0,0,0,0.3953671455383301,0.3953671455383301

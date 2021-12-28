@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Brentford,2,0,2021-12-26,16557,2021,505174,0,0,0,0,0,0.06721425801515579,0.06721425801515579
 0,0,0,90,GK,Brighton,Wolverhampton Wanderers,0,1,2021-12-15,16538,2021,503273,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Brighton,1,1,2021-12-04,16521,2021,499900,0,0,0,0,0,0.10140487551689148,0.10140487551689148
 0,0,0,90,GK,West Ham,Brighton,1,1,2021-12-01,16510,2021,499011,0,0,0,0,0,0,0

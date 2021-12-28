@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Tottenham,Crystal Palace,3,0,2021-12-26,16563,2021,505050,0.04560457170009613,0,1,0,0,0.18439392745494843,0.18439392745494843
 0,0,0,5,Sub,West Ham,Tottenham,1,0,2021-10-24,16465,2021,490530,0,0,0,0,0,0,0
 0,0,0,1,Sub,Tottenham,Aston Villa,2,1,2021-10-03,16443,2021,487031,0,0,0,0,0,0,0
 0,0,0,18,Sub,Arsenal,Tottenham,3,1,2021-09-26,16434,2021,485639,0,0,0,0,0,0.29918771982192993,0.29918771982192993
