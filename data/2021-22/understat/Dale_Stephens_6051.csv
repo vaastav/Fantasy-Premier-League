@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,30,Sub,Manchester United,Burnley,3,1,2021-12-30,16574,2021,505421,0,0,0,0,0,0,0
 0,0,0,7,Sub,Tottenham,Burnley,4,0,2021-02-28,14693,2020,452990,0,0,0,0,0,0,0
 0,0,0,18,Sub,Burnley,Manchester City,0,2,2021-02-03,14646,2020,446990,0,0,0,0,0,0,0
 0,0,0,9,Sub,Burnley,Sheffield United,1,0,2020-12-29,14587,2020,438414,0,0,0,0,0,0,0

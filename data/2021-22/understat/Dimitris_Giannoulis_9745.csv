@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,51,DL,Crystal Palace,Norwich,3,0,2021-12-28,16570,2021,505275,0,0,0,0,0,0.009688709862530231,0.009688709862530231
 0,0,0,90,DL,Norwich,Manchester United,0,1,2021-12-11,16535,2021,501854,0.08132921159267426,0,1,0,0,0.08132921159267426,0
 0,0,0,15,Sub,Newcastle United,Norwich,1,1,2021-11-30,16513,2021,498666,0.10594114661216736,1,1,0,0,0.10594114661216736,0
 0,0,0,13,Sub,Brentford,Norwich,1,2,2021-11-06,16477,2021,494018,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04658527299761772,90,DR,Crystal Palace,Norwich,3,0,2021-12-28,16570,2021,505272,0.062495552003383636,0,1,0,0.04658527299761772,0.26763370633125305,0.20513814687728882
 0,0,0,45,Sub,Norwich,Aston Villa,0,2,2021-12-14,16541,2021,503047,0,0,0,0,0,0,0
 0,0,0,26,DL,Norwich,Liverpool,0,1,2020-02-15,11899,2019,386990,0,0,0,0,0,0,0
 0,4,0.6812039017677307,90,DL,Newcastle United,Norwich,0,0,2020-02-01,11889,2019,386623,0,0,0,0,0.6812039017677307,0,0

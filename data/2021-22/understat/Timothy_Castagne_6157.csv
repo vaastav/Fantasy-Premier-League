@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Leicester,Liverpool,1,0,2021-12-28,16573,2021,505314,0.09080860763788223,0,1,0,0,0.16410069167613983,0.0732920840382576
 0,0,0,42,Sub,Manchester City,Leicester,6,3,2021-12-26,16560,2021,505116,0,0,0,0,0,1.0813000202178955,1.0813000202178955
 0,0,0,90,DR,Leicester,Newcastle United,4,0,2021-12-12,16532,2021,502246,0,0,0,0,0,0,0
 0,0,0,90,DR,Aston Villa,Leicester,2,1,2021-12-05,16516,2021,500875,0,0,0,0,0,0.14613476395606995,0.14613476395606995
