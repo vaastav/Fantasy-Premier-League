@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,51,DL,Crystal Palace,West Ham,2,3,2022-01-01,16579,2021,505525,0,0,0,0,0,0.9630652666091919,0.9630652666091919
 0,0,0,84,DL,Watford,West Ham,1,4,2021-12-28,16569,2021,505303,0,0,0,0,0,0.2545294165611267,0.2545294165611267
 0,0,0,46,DML,West Ham,Chelsea,3,2,2021-12-04,16524,2021,499617,0,0,0,0,0,0,0
 0,0,0,90,DL,West Ham,Brighton,1,1,2021-12-01,16510,2021,499002,0,0,0,0,0,0.11244523525238037,0.11244523525238037

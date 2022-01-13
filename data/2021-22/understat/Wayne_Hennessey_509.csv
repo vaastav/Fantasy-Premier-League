@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Burnley,3,1,2022-01-02,16581,2021,505633,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Burnley,3,1,2021-12-30,16574,2021,505408,0.1527586430311203,0,3,0,0,0.07922413945198059,0
 0,0,0,90,GK,Liverpool,Crystal Palace,4,0,2020-06-24,11951,2019,402533,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Crystal Palace,2,2,2019-10-27,11733,2019,360291,0,0,0,0,0,0.11491350084543228,0.11491350084543228

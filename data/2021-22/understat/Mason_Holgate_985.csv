@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Everton,Brighton,2,3,2022-01-02,16580,2021,505570,0,0,0,0,0,0.09082646667957306,0.09082646667957306
 0,0,0,90,DC,Chelsea,Everton,1,1,2021-12-16,16543,2021,503345,0,0,0,0,0,0.014555222354829311,0.014555222354829311
 0,0,0,90,DC,Crystal Palace,Everton,3,1,2021-12-12,16531,2021,502623,0,0,0,0,0,0,0
 0,0,0,60,Sub,Everton,Arsenal,2,1,2021-12-06,16517,2021,501150,0,0,0,0,0,0.024091731756925583,0.024091731756925583

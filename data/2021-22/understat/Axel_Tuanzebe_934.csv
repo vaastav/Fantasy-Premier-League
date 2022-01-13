@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Napoli,Sampdoria,1,0,2022-01-09,16961,2021,507329,0,0,0,0,0,0.08473429083824158,0.08473429083824158
 0,0,0,1,Sub,Norwich,Aston Villa,0,2,2021-12-14,16541,2021,503061,0,0,0,0,0,0,0
 0,0,0,3,Sub,Aston Villa,Leicester,2,1,2021-12-05,16516,2021,500873,0,0,0,0,0,0,0
 0,0,0,90,DC,Southampton,Aston Villa,1,0,2021-11-05,16484,2021,493620,0,0,0,0,0,0,0
