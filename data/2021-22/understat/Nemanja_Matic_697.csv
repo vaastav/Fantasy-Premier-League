@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Brentford,Manchester United,1,3,2022-01-19,16537,2021,509210,0,0,0,0,0,0,0
+0,0,0,90,DMC,Aston Villa,Manchester United,2,2,2022-01-15,16586,2021,508245,0,0,0,0,0,0.16711640357971191,0.16711640357971191
 0,0,0,90,DMC,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03,16583,2021,505881,0.32680925726890564,0,1,0,0,0.5273788571357727,0.20056962966918945
 0,0,0,90,DMC,Manchester United,Burnley,3,1,2021-12-30,16574,2021,505399,0.035179514437913895,0,1,0,0,0.34212976694107056,0.30695024132728577
 0,0,0,7,Sub,Newcastle United,Manchester United,1,1,2021-12-27,16561,2021,505227,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Newcastle United,Watford,1,1,2022-01-15,16591,2021,508086,0,0,0,0,0,0.06925350427627563,0.06925350427627563
 0,0,0,90,DC,Fulham,Newcastle United,0,2,2021-05-23,14807,2020,473298,0.07201110571622849,0,1,0,0,0.20002484321594238,0.1280137300491333
 0,2,0.08036217093467712,90,DC,Newcastle United,Sheffield United,1,0,2021-05-19,14801,2020,472436,0,0,0,0,0.08036217093467712,0,0
 0,0,0,90,DC,Newcastle United,Manchester City,3,4,2021-05-14,14791,2020,470645,0,0,0,0,0,0,0

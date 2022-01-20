@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,Watford,1,1,2022-01-15,16591,2021,508095,0,0,0,0,0,0,0
 0,0,0,90,GK,Watford,Manchester United,4,1,2021-11-20,16494,2021,495646,0.06758871674537659,1,1,0,0,0.06758871674537659,0
 0,0,0,90,GK,Arsenal,Watford,1,0,2021-11-07,16476,2021,494511,0,0,0,0,0,0.21820349991321564,0.21820349991321564
 0,0,0,90,GK,Watford,Southampton,0,1,2021-10-30,16474,2021,492182,0,0,0,0,0,0.5476655960083008,0.5476655960083008

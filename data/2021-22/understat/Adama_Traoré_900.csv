@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.5442107319831848,8,Sub,Wolverhampton Wanderers,Southampton,3,1,2022-01-15,16595,2021,508147,0,0,0,1,0.5442107319831848,0.5442107319831848,0
 0,0,0,23,Sub,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03,16583,2021,505902,0,0,0,0,0,0,0
 0,0,0,7,Sub,Wolverhampton Wanderers,Chelsea,0,0,2021-12-19,16555,2021,504008,0,0,0,0,0,0,0
 0,0,0,75,Sub,Brighton,Wolverhampton Wanderers,0,1,2021-12-15,16538,2021,503299,0.5103616714477539,0,3,0,0,0.5103616714477539,0

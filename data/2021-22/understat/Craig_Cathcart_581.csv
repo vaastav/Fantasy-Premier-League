@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Newcastle United,Watford,1,1,2022-01-15,16591,2021,508098,0.017659228295087814,0,1,0,0,0.05958547070622444,0.05958547070622444
 0,0,0,90,DR,Watford,Tottenham,0,1,2022-01-01,16585,2021,505480,0,0,0,0,0,0,0
 0,0,0,90,DC,Watford,West Ham,1,4,2021-12-28,16569,2021,505288,0,0,0,0,0,0,0
 0,0,0,90,DC,Brentford,Watford,2,1,2021-12-10,16527,2021,501330,0,0,0,0,0,0,0

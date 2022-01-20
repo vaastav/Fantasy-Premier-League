@@ -49,7 +49,6 @@ Tyrone,Mings,38
 Matt,Targett,39
 Ollie,Watkins,40
 Marvelous,Nakamba,41
-Anwar,El Ghazi,42
 Emiliano,Buendía Stati,43
 Matthew,Cash,44
 Ezri,Konsa Ngoyo,45
@@ -60,6 +59,7 @@ Keinan,Davis,49
 Douglas Luiz,Soares de Paulo,50
 Jacob,Ramsey,51
 Ashley,Young,52
+Lucas,Digne,168
 Danny,Ings,337
 Leon,Bailey,492
 Aaron,Ramsey,496
@@ -72,6 +72,8 @@ Tim,Iroegbunam,638
 Filip,Marschall,650
 Josh,Feeney,670
 Philippe,Coutinho Correia,681
+Kaine,Hayden,684
+Robin,Olsen,691
 Pontus,Jansson,76
 Christian,Nørgaard,77
 Ivan,Toney,78
@@ -145,6 +147,7 @@ Jeremy,Sarmiento,612
 Ed,Turns,653
 Marc,Leonard,654
 Evan,Ferguson,655
+Thomas,McGill,688
 James,Tarkowski,98
 Phil,Bardsley,99
 Erik,Pieters,100
@@ -156,7 +159,6 @@ Ashley,Barnes,105
 Ben,Mee,106
 Ashley,Westwood,107
 Johann Berg,Gudmundsson,108
-Chris,Wood,109
 Matthew,Lowton,110
 Matej,Vydra,111
 Nick,Pope,112
@@ -206,6 +208,7 @@ Saúl,Ñíguez,592
 Marcus,Bettinelli,606
 Lewis,Hall,671
 Harvey,Vale,672
+Robert Kenedy,Nunes do Nascimento,690
 Conor,Gallagher,144
 Vicente,Guaita,146
 James,Tomkins,147
@@ -236,12 +239,12 @@ Robert,Street,542
 Scott,Banks,543
 Remi,Matthews,561
 Odsonne,Edouard,586
+Anwar,El Ghazi,42
 Fabian,Delph,163
 Gylfi,Sigurdsson,164
 Seamus,Coleman,165
 James,Rodríguez,166
 Bernard,Anício Caldeira Duarte,167
-Lucas,Digne,168
 Michael,Keane,169
 Jordan,Pickford,170
 Allan,Marques Loureiro,171
@@ -443,6 +446,7 @@ Cristiano Ronaldo,dos Santos Aveiro,579
 Phil,Jones,632
 Amad,Diallo,636
 Joseph,Willock,19
+Chris,Wood,109
 Jonjo,Shelvey,291
 Matt,Ritchie,292
 Ciaran,Clark,293
@@ -682,3 +686,7 @@ Louie,Moulden,611
 James,Storer,621
 Hugo,Bueno,635
 Bruno André,Cavaco Jordão,661
+Toti António,Gomes,685
+Dion,Sanderson,686
+Ryan,Giles,687
+Francisco Jorge,Tomás Oliveira,689

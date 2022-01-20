@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.644173800945282,15,Sub,Liverpool,Brentford,3,0,2022-01-16,16589,2021,508478,0.4911211431026459,0,1,1,0.644173800945282,1.1352949142456055,0
 0,0,0,1,Sub,Liverpool,Aston Villa,1,0,2021-12-11,16533,2021,501651,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Liverpool,1,4,2021-12-01,16507,2021,499371,0,0,0,0,0,0,0
 0,0,0,7,Sub,Liverpool,Southampton,4,0,2021-11-27,16503,2021,497412,0,0,0,0,0,0.039430566132068634,0.039430566132068634
