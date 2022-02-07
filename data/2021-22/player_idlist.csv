@@ -8,7 +8,6 @@ Alexandre,Lacazette,6
 Granit,Xhaka,7
 Pablo,Marí,8
 Héctor,Bellerín,9
-Calum,Chambers,10
 Sead,Kolasinac,11
 Mohamed Naser,El Sayed Elneny,12
 Ainsley,Maitland-Niles,13
@@ -36,6 +35,11 @@ Aaron,Ramsdale,559
 Arthur,Okonkwo,572
 Takehiro,Tomiyasu,590
 Charlie,Patino,664
+Omari,Hutchinson,692
+Salah-Eddine,Oulad M'hand,693
+Mika,Biereth,694
+Ryan,Alebiosu,695
+Calum,Chambers,10
 Jed,Steer,28
 Conor,Hourihane,29
 Emiliano,Martínez,30
@@ -46,7 +50,6 @@ John,McGinn,35
 Kortney,Hause,36
 Mahmoud Ahmed,Ibrahim Hassan,37
 Tyrone,Mings,38
-Matt,Targett,39
 Ollie,Watkins,40
 Marvelous,Nakamba,41
 Emiliano,Buendía Stati,43
@@ -110,12 +113,12 @@ Maxwell,Haygarth,628
 Nathan,Young-Coombes,640
 Myles,Peart-Harris,662
 Jonas,Lössl,673
+Christian,Eriksen,699
 Adam,Lallana,53
 Jason,Steele,54
 Pascal,Groß,55
 Shane,Duffy,56
 Davy,Pröpper,57
-Dan,Burn,58
 Lewis,Dunk,59
 Solomon,March,60
 Adam,Webster,61
@@ -176,6 +179,7 @@ Owen,Dodgson,565
 Aaron,Lennon,575
 Maxwel,Cornet,578
 Connor,Roberts,585
+Wout,Weghorst,700
 César,Azpilicueta,119
 Olivier,Giroud,120
 Thiago,Emiliano da Silva,121
@@ -258,6 +262,8 @@ Mason,Holgate,178
 Ben,Godfrey,179
 Richarlison,de Andrade,180
 João,Virgínia,181
+Donny,van de Beek,282
+Bamidele,Alli,363
 Asmir,Begović,481
 Andros,Townsend,482
 Demarai,Gray,484
@@ -383,6 +389,7 @@ Conor,Bradley,626
 Owen,Beck,627
 Marcelo,de Araújo Pitaluga Filho,656
 Jarell,Quansah,660
+Luis,Díaz,696
 Jack,Grealish,33
 Kyle,Walker,249
 Ilkay,Gündogan,250
@@ -428,7 +435,6 @@ Anthony,Martial,278
 Alex Nicolao,Telles,279
 Dean,Henderson,280
 Marcus,Rashford,281
-Donny,van de Beek,282
 Axel,Tuanzebe,283
 Victor,Lindelöf,284
 Scott,McTominay,285
@@ -446,6 +452,8 @@ Cristiano Ronaldo,dos Santos Aveiro,579
 Phil,Jones,632
 Amad,Diallo,636
 Joseph,Willock,19
+Matt,Targett,39
+Dan,Burn,58
 Chris,Wood,109
 Jonjo,Shelvey,291
 Matt,Ritchie,292
@@ -475,6 +483,7 @@ Mark,Gillespie,514
 Joe,White,599
 Elliot,Anderson,609
 Kieran,Trippier,678
+Bruno,Guimarães Rodriguez Moura,697
 Billy,Gilmour,145
 Brandon,Williams,290
 Michael,McGovern,313
@@ -552,7 +561,6 @@ Heung-Min,Son,359
 Matt,Doherty,360
 Eric,Dier,361
 Lucas,Rodrigues Moura da Silva,362
-Bamidele,Alli,363
 Ben,Davies,364
 Pierre-Emile,Højbjerg,365
 Harry,Winks,366
@@ -574,6 +582,8 @@ Dilan,Markanday,597
 Tobi,Omole,598
 Brandon,Austin,659
 Harvey,White,668
+Dejan,Kulusevski,701
+Rodrigo,Bentancur,702
 Moussa,Sissoko,354
 Ben,Foster,376
 Danny,Rose,377
@@ -620,6 +630,7 @@ Kamil,Conteh,669
 Hassane,Kamara,676
 Samir,Caetano de Souza Santos,677
 Edo,Kayembe,679
+Samuel,Kalu,698
 Kurt,Zouma,128
 Mark,Noble,406
 Darren,Randolph,407

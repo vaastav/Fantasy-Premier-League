@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,44,Sub,Monaco,Lyon,2,0,2022-02-05,18047,2021,511384,0.025262314826250076,0,1,0,0,0.07176167517900467,0.07176167517900467
 0,0,0,9,Sub,Tottenham,Crystal Palace,3,0,2021-12-26,16563,2021,505048,0,0,0,0,0,0,0
 0,0,0,67,MC,Tottenham,Liverpool,2,2,2021-12-19,16552,2021,504147,0.1237926110625267,1,1,0,0,0.3257671892642975,0.20197457075119019
 0,0,0,4,Sub,Everton,Tottenham,0,0,2021-11-07,16481,2021,494611,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,West Ham,1,0,2022-01-22,16603,2021,509741,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Fulham,1,1,2021-05-18,14800,2020,472305,0,0,0,0,0,0.06317993998527527,0.06317993998527527
 0,0,0,90,GK,Southampton,Fulham,3,1,2021-05-15,14792,2020,470987,0,0,0,0,0,0.345314621925354,0.345314621925354
 0,0,0,90,GK,Fulham,Burnley,0,2,2021-05-10,14777,2020,469806,0,0,0,0,0,0,0

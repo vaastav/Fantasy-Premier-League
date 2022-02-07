@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.061807528138160706,90,FW,Brentford,Wolverhampton Wanderers,1,2,2022-01-22,16597,2021,509809,0,0,0,0,0.061807528138160706,0.08310706913471222,0.021299544721841812
 0,1,0.06480054557323456,6,Sub,Wolverhampton Wanderers,Southampton,3,1,2022-01-15,16595,2021,508149,0,0,0,0,0.06480054557323456,0.06480054557323456,0
 0,0,0,8,Sub,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03,16583,2021,505903,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Wolverhampton Wanderers,0,1,2021-12-15,16538,2021,503300,0,0,0,0,0,0,0
