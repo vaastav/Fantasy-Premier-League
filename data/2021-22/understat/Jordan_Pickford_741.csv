@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,Everton,3,1,2022-02-08,16612,2021,512076,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Aston Villa,0,1,2022-01-22,16600,2021,509457,0.03854501247406006,0,1,0,0,0.03854501247406006,0
 0,0,0,90,GK,Norwich,Everton,2,1,2022-01-15,16592,2021,508123,0,0,0,0,0,0.046999502927064896,0.046999502927064896
 0,0,0,90,GK,Everton,Brighton,2,3,2022-01-02,16580,2021,505566,0,0,0,0,0,0.07430601119995117,0.07430601119995117

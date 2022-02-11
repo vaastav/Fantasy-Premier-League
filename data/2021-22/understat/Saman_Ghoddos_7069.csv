@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,64,FW,Manchester City,Brentford,2,0,2022-02-09,16615,2021,512221,0.26438549160957336,0,1,0,0,0.2907261550426483,0.02634066343307495
 0,0,0,1,Sub,Brentford,Wolverhampton Wanderers,1,2,2022-01-22,16597,2021,509798,0.04227009788155556,0,1,0,0,0,0
 0,0,0,34,Sub,Brentford,Aston Villa,2,1,2022-01-02,16577,2021,505606,0,0,0,0,0,0,0
 0,0,0,6,Sub,Brentford,Manchester City,0,1,2021-12-29,16567,2021,505381,0,0,0,0,0,0,0
