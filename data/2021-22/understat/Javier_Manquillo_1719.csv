@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,49,DL,Newcastle United,Aston Villa,1,0,2022-02-13,16622,2021,513333,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Everton,3,1,2022-02-08,16612,2021,512074,0,0,0,0,0,0,0
 0,0,0,22,Sub,Leeds,Newcastle United,0,1,2022-01-22,16601,2021,509725,0,0,0,0,0,0.06494035571813583,0.06494035571813583
 0,0,0,90,DL,Newcastle United,Manchester United,1,1,2021-12-27,16561,2021,505206,0.012537430971860886,0,1,0,0,0.05250703915953636,0.039969608187675476

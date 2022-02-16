@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,Norwich,Manchester City,0,4,2022-02-12,16623,2021,512860,0,0,0,0,0,0,0
 0,0,0,13,Sub,Norwich,Crystal Palace,1,1,2022-02-09,16609,2021,512154,0,0,0,0,0,0,0
 0,0,0,34,DMC,Norwich,Wolverhampton Wanderers,0,0,2021-11-27,16505,2021,497378,0,0,0,0,0,0.02260506898164749,0.02260506898164749
 0,1,0.020393164828419685,90,MC,Norwich,Southampton,2,1,2021-11-20,16492,2021,495789,0.06946758180856705,0,1,0,0.020393164828419685,0.08986074477434158,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Norwich,Manchester City,0,4,2022-02-12,16623,2021,512863,0,0,0,0,0,0.1997678428888321,0.1997678428888321
 0,0,0,90,GK,Manchester City,Brentford,2,0,2022-02-09,16615,2021,512199,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Manchester City,1,1,2022-01-22,16604,2021,509920,0,0,0,0,0,0.507210373878479,0.507210373878479
 0,0,0,90,GK,Manchester City,Chelsea,1,0,2022-01-15,16590,2021,507875,0,0,0,0,0,0.061605438590049744,0.061605438590049744
