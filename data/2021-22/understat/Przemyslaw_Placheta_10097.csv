@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Liverpool,Norwich,3,1,2022-02-19,16631,2021,514258,0,0,0,0,0,0,0
 0,0,0,66,MR,Norwich,Crystal Palace,1,1,2022-02-09,16609,2021,512148,0,0,0,0,0,0,0
 0,0,0,1,Sub,Watford,Norwich,0,3,2022-01-21,16605,2021,509454,0,0,0,0,0,0,0
 0,1,0.01467556320130825,69,AMR,West Ham,Norwich,2,0,2022-01-12,16554,2021,507778,0,0,0,0,0.01467556320130825,0.031628694385290146,0.016953131183981895

@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Arsenal,Wolverhampton Wanderers,2,1,2022-02-24,16566,2021,515408,0.505104124546051,1,1,0,0,0.5234161615371704,0.01831205002963543
+0,0,0,2,Sub,Arsenal,Brentford,2,1,2022-02-19,16626,2021,514160,0,0,0,0,0,0,0
 0,0,0,6,Sub,Wolverhampton Wanderers,Arsenal,0,1,2022-02-10,16611,2021,512278,0,0,0,0,0,0,0
 0,0,0,11,Sub,Arsenal,Burnley,0,0,2022-01-23,16596,2021,510329,0,0,0,0,0,0,0
 0,0,0,8,Sub,Arsenal,West Ham,2,0,2021-12-15,16536,2021,503314,0,0,0,0,0,0,0

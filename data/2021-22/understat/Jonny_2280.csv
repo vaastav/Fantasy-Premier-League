@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,27,Sub,Arsenal,Wolverhampton Wanderers,2,1,2022-02-24,16566,2021,515423,0,0,0,0,0,0,0
 0,0,0,90,DML,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15,14714,2020,457424,0,0,0,0,0,0.042834676802158356,0.042834676802158356
 0,0,0,90,DML,Aston Villa,Wolverhampton Wanderers,0,0,2021-03-06,14695,2020,454767,0,0,0,0,0,0.00994910765439272,0.00994910765439272
 0,0,0,57,DML,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02,14720,2020,453566,0,0,0,0,0,0,0
