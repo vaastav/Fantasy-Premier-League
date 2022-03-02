@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.2458783984184265,23,Sub,Brentford,Newcastle United,0,2,2022-02-26,16637,2021,516017,0,0,0,0,0.2458783984184265,0.27351126074790955,0.04464086517691612
 0,0,0,1,Sub,West Ham,Newcastle United,1,1,2022-02-19,16634,2021,513960,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Aston Villa,1,0,2022-02-13,16622,2021,513340,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Everton,3,1,2022-02-08,16612,2021,512073,0.6818205714225769,0,1,0,0,0.6818205714225769,0.6818205714225769

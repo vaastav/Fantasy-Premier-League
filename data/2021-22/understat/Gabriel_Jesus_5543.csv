@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,11,Sub,Everton,Manchester City,0,1,2022-02-26,16641,2021,516276,0,0,0,0,0,0,0
 0,1,0.08978987485170364,28,Sub,Southampton,Manchester City,1,1,2022-01-22,16604,2021,509931,0,0,0,0,0.08978987485170364,0.08978987485170364,0
 0,0,0,1,Sub,Manchester City,Chelsea,1,0,2022-01-15,16590,2021,507886,0,0,0,0,0,0,0
 0,1,0.072861447930336,65,FW,Arsenal,Manchester City,1,2,2022-01-01,16576,2021,505476,0.02125939354300499,0,1,0,0.072861447930336,0.02125939354300499,0

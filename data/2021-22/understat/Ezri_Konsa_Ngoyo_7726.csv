@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brighton,Aston Villa,0,2,2022-02-26,16638,2021,516119,0.04954065382480621,0,1,0,0,0,0
 0,0,0,90,DC,Aston Villa,Leeds,3,3,2022-02-09,16606,2021,512229,0,0,0,0,0,0.3577149510383606,0.3577149510383606
 0,0,0,90,DC,Everton,Aston Villa,0,1,2022-01-22,16600,2021,509474,0,0,0,0,0,0.04071487486362457,0.04071487486362457
 0,0,0,51,DC,Aston Villa,Manchester United,2,2,2022-01-15,16586,2021,508227,0,0,0,0,0,0.030190641060471535,0.030190641060471535
