@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,18,Sub,Leeds,Aston Villa,0,3,2022-03-10,16572,2021,518965,0.02820633538067341,0,1,0,0,0.2647503912448883,0.2647503912448883
+0,0,0,18,Sub,Aston Villa,Southampton,4,0,2022-03-05,16646,2021,517505,0,0,0,0,0,0,0
 0,0,0,16,Sub,Brighton,Aston Villa,0,2,2022-02-26,16638,2021,516127,0,0,0,0,0,0,0
 0,0,0,73,MC,Aston Villa,Manchester United,2,2,2022-01-15,16586,2021,508231,0,0,0,0,0,0.14191168546676636,0.14191168546676636
 0,0,0,19,Sub,Brentford,Aston Villa,2,1,2022-01-02,16577,2021,505619,0,0,0,0,0,0.42582812905311584,0.42582812905311584

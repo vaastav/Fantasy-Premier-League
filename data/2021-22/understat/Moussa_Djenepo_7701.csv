@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Southampton,Newcastle United,1,2,2022-03-10,16584,2021,518923,0,0,0,0,0,0.022749969735741615,0.022749969735741615
 0,0,0,1,Sub,Southampton,Norwich,2,0,2022-02-25,16644,2021,515583,0,0,0,0,0,0,0
 0,0,0,1,Sub,Southampton,Everton,2,0,2022-02-19,16633,2021,514272,0,0,0,0,0,0,0
 0,1,0.01831861026585102,18,Sub,Crystal Palace,Southampton,2,2,2021-12-15,16542,2021,503271,0.021353837102651596,0,1,0,0.01831861026585102,0.021353837102651596,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,23,Sub,Manchester City,Manchester United,4,1,2022-03-06,16650,2021,518469,0,0,0,0,0,0,0
 0,0,0,73,AMR,Leeds,Manchester United,2,4,2022-02-20,16630,2021,514700,0.08862791955471039,0,1,0,0,0.08862791955471039,0
 0,0,0,6,Sub,Manchester United,Southampton,1,1,2022-02-12,16621,2021,512415,0,0,0,0,0,0,0
 0,1,0.02671629749238491,8,Sub,Burnley,Manchester United,1,1,2022-02-08,16608,2021,512142,0,0,0,0,0.02671629749238491,0.02671629749238491,0
