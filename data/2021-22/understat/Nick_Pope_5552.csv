@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brentford,Burnley,2,0,2022-03-12,16657,2021,519340,0,0,0,0,0,0.2728976011276245,0.2728976011276245
 0,0,0,90,GK,Burnley,Chelsea,0,4,2022-03-05,16647,2021,517521,0,0,0,0,0,0,0
 0,0,0,90,GK,Burnley,Leicester,0,2,2022-03-01,16588,2021,517066,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Burnley,1,1,2022-02-26,16640,2021,516033,0,0,0,0,0,0,0

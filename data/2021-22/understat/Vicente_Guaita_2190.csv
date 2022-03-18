@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Manchester City,0,0,2022-03-14,16660,2021,520639,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Crystal Palace,0,2,2022-03-05,16655,2021,517618,0,0,0,0,0,0.24221989512443542,0.24221989512443542
 0,0,0,49,GK,Crystal Palace,Chelsea,0,1,2022-02-19,16629,2021,514204,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Crystal Palace,0,0,2022-02-12,16616,2021,512658,0,0,0,0,0,0,0

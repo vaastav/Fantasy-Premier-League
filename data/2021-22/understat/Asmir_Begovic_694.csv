@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Newcastle United,1,0,2022-03-17,16571,2021,520779,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Everton,3,0,2021-09-18,16422,2021,482372,0,0,0,0,0,0,0
 0,0,0,90,GK,AC Milan,Genoa,1,2,2020-03-08,13343,2019,397240,0,0,0,0,0,0.6044806838035583,0.6044806838035583
 0,0,0,36,Sub,Fiorentina,AC Milan,1,1,2020-02-22,13332,2019,395023,0,0,0,0,0,0,0

@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Everton,Newcastle United,1,0,2022-03-17,16571,2021,520782,0,0,0,0,0,0,0
+0,0,0,90,DC,Everton,Wolverhampton Wanderers,0,1,2022-03-13,16661,2021,519954,0.015939457342028618,0,1,0,0,0.25057536363601685,0.25057536363601685
 0,0,0,90,DC,Tottenham,Everton,5,0,2022-03-07,16653,2021,518756,0,0,0,0,0,0.016086719930171967,0.016086719930171967
 0,0,0,90,DC,Everton,Manchester City,0,1,2022-02-26,16641,2021,516253,0,0,0,0,0,0,0
 0,0,0,90,DC,Southampton,Everton,2,0,2022-02-19,16633,2021,514277,0,0,0,0,0,0.04388564079999924,0.04388564079999924

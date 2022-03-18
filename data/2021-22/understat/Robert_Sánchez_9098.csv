@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Tottenham,0,2,2022-03-16,16528,2021,520723,0,0,0,0,0,0,0
+0,0,0,90,GK,Brighton,Liverpool,0,2,2022-03-12,16658,2021,519085,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Brighton,2,1,2022-03-05,16651,2021,517562,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Aston Villa,0,2,2022-02-26,16638,2021,516104,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Burnley,0,3,2022-02-19,16628,2021,514176,0,0,0,0,0,0.11225105822086334,0.11225105822086334
