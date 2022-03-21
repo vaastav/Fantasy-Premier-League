@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Elche,Valencia,0,1,2022-03-19,17425,2021,521285,0,0,0,0,0,0,0
 0,0,0,1,Sub,Getafe,Valencia,0,0,2022-03-12,17410,2021,519650,0,0,0,0,0,0,0
 0,0,0,3,Sub,Valencia,Granada,3,1,2022-03-05,17404,2021,517794,0,0,0,0,0,0,0
 0,0,0,10,Sub,Mallorca,Valencia,0,1,2022-02-26,17388,2021,515774,0,0,0,0,0,0,0

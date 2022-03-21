@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Arsenal,0,1,2022-03-19,16666,2021,521032,0,0,0,0,0,0.09235572069883347,0.09235572069883347
 0,0,0,90,GK,Manchester City,Arsenal,5,0,2021-08-28,16396,2021,478694,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Chelsea,0,2,2021-08-22,16394,2021,477827,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Arsenal,2,0,2021-08-13,16376,2021,475186,0,0,0,0,0,0.09702771157026291,0.09702771157026291

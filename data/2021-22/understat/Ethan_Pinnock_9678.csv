@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Leicester,Brentford,2,1,2022-03-20,16668,2021,521734,0,0,0,0,0,0.07599813491106033,0.07599813491106033
 0,0,0,90,DC,Brentford,Burnley,2,0,2022-03-12,16657,2021,519328,0,0,0,0,0,0.11978552490472794,0.11978552490472794
 0,0,0,90,DC,Norwich,Brentford,1,3,2022-03-05,16652,2021,517592,0.04170238599181175,0,1,0,0,0,0
 0,0,0,90,DC,Brentford,Newcastle United,0,2,2022-02-26,16637,2021,515994,0,0,0,0,0,0,0

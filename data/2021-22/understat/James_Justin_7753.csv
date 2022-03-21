@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.4185602068901062,90,DR,Leicester,Brentford,2,1,2022-03-20,16668,2021,521719,0.314341276884079,0,1,0,0.4185602068901062,0.7914407253265381,0.3728805184364319
 0,0,0,28,Sub,Arsenal,Leicester,2,0,2022-03-13,16656,2021,520358,0,0,0,0,0,0,0
 0,0,0,30,DL,Leicester,West Ham,2,2,2022-02-13,16620,2021,513486,0,0,0,0,0,0,0
 0,0,0,90,DR,Liverpool,Leicester,2,0,2022-02-10,16614,2021,512295,0,0,0,0,0,0,0
