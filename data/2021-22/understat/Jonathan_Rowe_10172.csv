@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,28,Sub,Brighton,Norwich,0,0,2022-04-02,16685,2021,522747,0,0,0,0,0,0,0
 0,2,0.11763504892587662,26,Sub,Leeds,Norwich,2,1,2022-03-13,16662,2021,520063,0,0,0,0,0.11763504892587662,0.11763504892587662,0
 0,0,0,5,Sub,Norwich,Chelsea,1,3,2022-03-10,16672,2021,518979,0,0,0,0,0,0,0
 0,0,0,14,Sub,Norwich,Brentford,1,3,2022-03-05,16652,2021,517588,0.17053785920143127,1,2,0,0,0.035276103764772415,0.035276103764772415

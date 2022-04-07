@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Juventus,Inter,0,1,2022-04-03,17059,2021,523834,0,0,0,0,0,0,0
 0,0,0,1,Sub,Juventus,Salernitana,2,0,2022-03-20,17051,2021,521880,0,0,0,0,0,0,0
 0,1,0.3882686197757721,65,FW,Sampdoria,Juventus,1,3,2022-03-12,17042,2021,519498,0,0,0,0,0.3882686197757721,0.3882686197757721,0
 0,0,0,5,Sub,Juventus,Spezia,1,0,2022-03-06,17031,2021,518482,0,0,0,0,0,0.03617989644408226,0.03617989644408226

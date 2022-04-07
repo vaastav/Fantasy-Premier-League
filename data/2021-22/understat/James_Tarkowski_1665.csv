@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Burnley,Everton,3,2,2022-04-06,16558,2021,524131,0,0,0,0,0,0.8309635519981384,0.8309635519981384
+0,0,0,90,DC,Burnley,Manchester City,0,2,2022-04-02,16684,2021,522751,0,0,0,0,0,0.011780264787375927,0.011780264787375927
 0,0,0,90,DC,Brentford,Burnley,2,0,2022-03-12,16657,2021,519343,0.01261128019541502,0,1,0,0,0.01261128019541502,0
 0,0,0,90,DC,Burnley,Chelsea,0,4,2022-03-05,16647,2021,517524,0,0,0,0,0,0,0
 0,0,0,90,DC,Burnley,Leicester,0,2,2022-03-01,16588,2021,517068,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Burnley,Manchester City,0,2,2022-04-02,16684,2021,522759,0,0,0,0,0,0,0
 0,0,0,11,Sub,Burnley,Chelsea,0,4,2022-03-05,16647,2021,517532,0,0,0,0,0,0,0
 0,0,0,1,Sub,Burnley,Leicester,0,2,2022-03-01,16588,2021,517078,0,0,0,0,0,0,0
 0,0,0,1,Sub,Crystal Palace,Burnley,1,1,2022-02-26,16640,2021,516044,0,0,0,0,0,0,0

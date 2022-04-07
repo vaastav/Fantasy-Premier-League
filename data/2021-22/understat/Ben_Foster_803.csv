@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Watford,2,0,2022-04-02,16680,2021,522463,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Watford,1,2,2022-03-13,16664,2021,520138,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Watford,4,0,2022-03-10,16565,2021,518897,0,0,0,0,0,0,0
 0,0,0,90,GK,Watford,Arsenal,2,3,2022-03-06,16654,2021,518295,0,0,0,0,0,0.16107897460460663,0.16107897460460663

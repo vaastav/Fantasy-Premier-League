@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Liverpool,Watford,2,0,2022-04-02,16680,2021,522450,0.5523763298988342,1,1,0,0,0.640437662601471,0.0880613625049591
 0,0,0,90,DR,Liverpool,Norwich,3,1,2022-02-19,16631,2021,514233,0.0410771481692791,0,1,0,0,1.4510225057601929,1.4510225057601929
 0,0,0,1,Sub,Crystal Palace,Liverpool,1,3,2022-01-23,16599,2021,510201,0,0,0,0,0,0,0
 0,0,0,1,Sub,Tottenham,Liverpool,2,2,2021-12-19,16552,2021,504168,0,0,0,0,0,0,0
