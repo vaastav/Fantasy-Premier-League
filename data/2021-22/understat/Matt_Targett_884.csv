@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.016334667801856995,90,DL,Newcastle United,Wolverhampton Wanderers,1,0,2022-04-08,16689,2021,524189,0,0,0,0,0.016334667801856995,0,0
 0,0,0,90,DL,Tottenham,Newcastle United,5,1,2022-04-03,16678,2021,523657,0,0,0,0,0,0,0
 0,0,0,90,DL,Everton,Newcastle United,1,0,2022-03-17,16571,2021,520797,0.03730569779872894,0,1,0,0,0.10152257978916168,0.10152257978916168
 0,0,0,90,DL,Chelsea,Newcastle United,1,0,2022-03-13,16659,2021,519912,0.07953813672065735,0,2,0,0,0.09822970628738403,0.06839601695537567

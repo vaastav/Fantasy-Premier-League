@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.19792266190052032,65,AML,Everton,Manchester United,1,0,2022-04-09,16692,2021,524356,0,0,0,0,0.19792266190052032,0.1195201426744461,0
 0,0,0,32,Sub,Manchester United,Leicester,1,1,2022-04-02,16679,2021,523025,0,0,0,0,0,0.00994123425334692,0.00994123425334692
 0,0,0,70,AMR,Manchester United,Tottenham,3,2,2022-03-12,16663,2021,519510,0,0,0,0,0,0.14836344122886658,0.14836344122886658
 0,0,0,23,Sub,Manchester City,Manchester United,4,1,2022-03-06,16650,2021,518470,0,0,0,0,0,0,0

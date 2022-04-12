@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.07445850968360901,90,DC,Norwich,Burnley,2,0,2022-04-10,16688,2021,525256,0,0,0,0,0.07445850968360901,0,0
 1,1,0.5479639768600464,90,DC,Burnley,Everton,3,2,2022-04-06,16558,2021,524130,0,0,0,1,0.5479639768600464,0,0
 0,0,0,90,DC,Brentford,Burnley,2,0,2022-03-12,16657,2021,519342,0,0,0,0,0,0,0
 0,1,0.08469181507825851,90,DC,Burnley,Chelsea,0,4,2022-03-05,16647,2021,517523,0,0,0,0,0.08469181507825851,0,0

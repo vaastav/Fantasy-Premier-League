@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leicester,Crystal Palace,2,1,2022-04-10,16691,2021,525180,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Leicester,1,1,2022-04-02,16679,2021,523026,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,Brentford,2,1,2022-03-20,16668,2021,521718,0,0,0,0,0,0.03260335326194763,0.03260335326194763
 0,0,0,90,GK,Arsenal,Leicester,2,0,2022-03-13,16656,2021,520345,0,0,0,0,0,0.25227904319763184,0.25227904319763184

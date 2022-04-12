@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Norwich,Burnley,2,0,2022-04-10,16688,2021,525254,0,0,0,0,0,0.019566981121897697,0.019566981121897697
 0,0,0,90,GK,Burnley,Everton,3,2,2022-04-06,16558,2021,524128,0,0,0,0,0,0.0190475732088089,0.0190475732088089
 0,0,0,90,GK,Burnley,Manchester City,0,2,2022-04-02,16684,2021,522748,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Burnley,2,0,2022-03-12,16657,2021,519340,0,0,0,0,0,0.2728976011276245,0.2728976011276245
