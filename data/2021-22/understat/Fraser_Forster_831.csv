@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Burnley,Southampton,2,0,2022-04-21,16667,2021,528261,0,0,0,0,0,0.06835735589265823,0.06835735589265823
+0,0,0,90,GK,Southampton,Arsenal,1,0,2022-04-16,16700,2021,526396,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Chelsea,0,6,2022-04-09,16687,2021,524603,0,0,0,0,0,0.02927250973880291,0.02927250973880291
 0,0,0,90,GK,Leeds,Southampton,1,1,2022-04-02,16681,2021,522817,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Watford,1,2,2022-03-13,16664,2021,520124,0,0,0,0,0,0,0

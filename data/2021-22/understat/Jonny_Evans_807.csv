@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Everton,Leicester,1,1,2022-04-20,16547,2021,527874,0,0,0,0,0,0.2974958121776581,0.2974958121776581
 0,0,0,67,DC,Manchester United,Leicester,1,1,2022-04-02,16679,2021,523029,0,0,0,0,0,0.21952062845230103,0.21952062845230103
 0,0,0,25,Sub,Leicester,Brentford,2,1,2022-03-20,16668,2021,521731,0,0,0,0,0,0,0
 0,0,0,5,DC,Leicester,Newcastle United,4,0,2021-12-12,16532,2021,502248,0,0,0,0,0,0,0

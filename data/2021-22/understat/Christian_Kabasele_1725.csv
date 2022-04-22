@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Watford,Brentford,1,2,2022-04-16,16698,2021,526425,0,0,0,0,0,0.16671942174434662,0.16671942174434662
 0,0,0,90,DC,Watford,Leeds,0,3,2022-04-09,16686,2021,524633,0,0,0,0,0,0,0
 0,0,0,90,DC,Liverpool,Watford,2,0,2022-04-02,16680,2021,522465,0,0,0,0,0,0,0
 0,0,0,90,DC,Southampton,Watford,1,2,2022-03-13,16664,2021,520140,0,0,0,0,0,0.04038083180785179,0.04038083180785179

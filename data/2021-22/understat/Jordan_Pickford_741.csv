@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Leicester,1,1,2022-04-20,16547,2021,527858,0,0,0,0,0,0.09098038822412491,0.09098038822412491
 0,0,0,90,GK,Everton,Manchester United,1,0,2022-04-09,16692,2021,524334,0.04112991690635681,0,1,0,0,0.04112991690635681,0
 0,0,0,90,GK,Burnley,Everton,3,2,2022-04-06,16558,2021,524142,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Everton,2,1,2022-04-03,16677,2021,523448,0,0,0,0,0,0.08558114618062973,0.08558114618062973

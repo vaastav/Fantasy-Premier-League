@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,AMC,Villarreal,Valencia,2,0,2022-04-19,17465,2021,527610,0,0,0,0,0,0.13964572548866272,0.13964572548866272
+0,0,0,65,MR,Valencia,Osasuna,1,2,2022-04-16,17454,2021,526608,0,0,0,0,0,0.02016887068748474,0.02016887068748474
 0,0,0,4,Sub,Valencia,Cadiz,0,0,2022-04-03,17435,2021,523739,0,0,0,0,0,0,0
 0,0,0,1,Sub,Elche,Valencia,0,1,2022-03-19,17425,2021,521285,0,0,0,0,0,0,0
 0,0,0,1,Sub,Getafe,Valencia,0,0,2022-03-12,17410,2021,519650,0,0,0,0,0,0,0

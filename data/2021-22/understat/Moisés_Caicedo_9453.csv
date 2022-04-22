@@ -1,2 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,75,MC,Manchester City,Brighton,3,0,2022-04-20,16670,2021,528115,0,0,0,0,0,0,0
+0,0,0,81,MC,Tottenham,Brighton,0,1,2022-04-16,16699,2021,526114,0,0,0,0,0,0.0540003702044487,0.0540003702044487
 0,2,0.09134192019701004,90,MC,Arsenal,Brighton,1,2,2022-04-09,16695,2021,524597,0.03812781348824501,1,1,0,0.09134192019701004,0.1447135955095291,0.053371675312519073
