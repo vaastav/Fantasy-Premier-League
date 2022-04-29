@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Chelsea,1,1,2022-04-28,16742,2021,529987,0,0,0,0,0,0,0
+0,0,0,90,GK,Arsenal,Manchester United,3,1,2022-04-23,16715,2021,528383,0,0,0,0,0,0.24260127544403076,0.24260127544403076
 0,0,0,90,GK,Liverpool,Manchester United,4,0,2022-04-19,16669,2021,527539,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Norwich,3,2,2022-04-16,16702,2021,526368,0,0,0,0,0,0.09428396821022034,0.09428396821022034
 0,0,0,90,GK,Everton,Manchester United,1,0,2022-04-09,16692,2021,524347,0,0,0,0,0,0.20672820508480072,0.20672820508480072

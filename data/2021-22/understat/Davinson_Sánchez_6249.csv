@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,15,Sub,Brentford,Tottenham,0,0,2022-04-23,16714,2021,528899,0,0,0,0,0,0.04324663430452347,0.04324663430452347
 0,1,0.06445243954658508,35,Sub,Tottenham,Everton,5,0,2022-03-07,16653,2021,518750,0,0,0,0,0.06445243954658508,0.5790975689888,0.5790975689888
 0,0,0,1,Sub,Manchester City,Tottenham,2,3,2022-02-19,16632,2021,514462,0,0,0,0,0,0,0
 0,0,0,90,DC,Tottenham,Wolverhampton Wanderers,0,2,2022-02-13,16624,2021,513303,0,0,0,0,0,0.16628257930278778,0.16628257930278778

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.3913113474845886,76,FWR,Norwich,Newcastle United,0,3,2022-04-23,16706,2021,528718,0.7814643383026123,1,3,0,0.3913113474845886,1.052573800086975,0.09011965245008469
 0,0,0,12,Sub,Newcastle United,Crystal Palace,1,0,2022-04-20,16671,2021,527896,0,0,0,0,0,0,0
 0,0,0,15,Sub,Newcastle United,Leicester,2,1,2022-04-17,16701,2021,527011,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Wolverhampton Wanderers,1,0,2022-04-08,16689,2021,524197,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,79,MC,Brentford,Tottenham,0,0,2022-04-23,16714,2021,528881,0.08034992218017578,0,2,0,0,0.08034992218017578,0
 0,0,0,14,Sub,Watford,Brentford,1,2,2022-04-16,16698,2021,526448,0,0,0,0,0,0,0
 0,0,0,18,Sub,Brentford,West Ham,2,0,2022-04-10,16693,2021,525132,0,0,0,0,0,0.040995966643095016,0.040995966643095016
 0,0,0,6,Sub,Chelsea,Brentford,1,4,2022-04-02,16683,2021,522801,0,0,0,0,0,0,0

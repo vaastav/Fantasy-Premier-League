@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,West Ham,1,0,2022-04-24,16711,2021,529364,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Burnley,1,1,2022-04-17,16697,2021,526972,0,0,0,0,0,0.10611855238676071,0.10611855238676071
 0,0,0,90,GK,Brentford,West Ham,2,0,2022-04-10,16693,2021,525134,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Everton,2,1,2022-04-03,16677,2021,523435,0,0,0,0,0,0,0

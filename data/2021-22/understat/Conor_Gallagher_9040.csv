@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.2474309504032135,90,MC,Crystal Palace,Leeds,0,0,2022-04-25,16710,2021,529871,0,0,0,0,0.2474309504032135,0.3535453975200653,0.14314158260822296
 0,0,0,62,AMC,Newcastle United,Crystal Palace,1,0,2022-04-20,16671,2021,527907,0,0,0,0,0,0,0
 0,0,0,60,AMC,Leicester,Crystal Palace,2,1,2022-04-10,16691,2021,525202,0.09312621504068375,0,1,0,0,0,0
 0,0,0,90,MC,Crystal Palace,Arsenal,3,0,2022-04-04,16682,2021,523951,0,0,0,0,0,0,0
