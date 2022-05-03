@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,62,DL,Marseille,Lyon,0,3,2022-05-01,18164,2021,531475,0,0,0,0,0,0.7142399549484253,0.7142399549484253
 0,0,0,47,DL,Reims,Marseille,0,1,2022-04-24,18159,2021,529701,0,0,0,0,0,0.019471561536192894,0.019471561536192894
 0,0,0,1,Sub,Marseille,Nantes,3,2,2022-04-20,18147,2021,528043,0,0,0,0,0,0,0
 0,0,0,10,Sub,Marseille,Montpellier,2,0,2022-04-10,18128,2021,525795,0,0,0,0,0,0,0

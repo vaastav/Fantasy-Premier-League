@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.15625536441802979,56,FWR,Tottenham,Leicester,3,1,2022-05-01,16719,2021,531023,0,0,0,0,0.15625536441802979,0.19117774069309235,0.03492238000035286
 0,0,0,3,Sub,Brentford,Tottenham,0,0,2022-04-23,16714,2021,528898,0,0,0,0,0,0,0
 0,0,0,23,Sub,Tottenham,Brighton,0,1,2022-04-16,16699,2021,526103,0,0,0,0,0,0.3727516531944275,0.3727516531944275
 0,0,0,7,Sub,Aston Villa,Tottenham,0,4,2022-04-09,16694,2021,524807,0,0,0,0,0,0,0

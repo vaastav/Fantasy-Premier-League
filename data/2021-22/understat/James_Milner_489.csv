@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.03169504925608635,80,MC,Newcastle United,Liverpool,0,1,2022-04-30,16721,2021,530127,0.46237844228744507,0,4,0,0.03169504925608635,1.6076717376708984,1.221742868423462
 0,0,0,3,Sub,Liverpool,Manchester United,4,0,2022-04-19,16669,2021,527538,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Watford,2,0,2022-04-02,16680,2021,522462,0,0,0,0,0,0,0
 0,0,0,2,Sub,Brighton,Liverpool,0,2,2022-03-12,16658,2021,519112,0,0,0,0,0,0,0
