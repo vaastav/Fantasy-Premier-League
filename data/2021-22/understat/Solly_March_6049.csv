@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,78,DMR,Brighton,Manchester United,4,0,2022-05-07,16733,2021,534176,0.0679718554019928,0,1,0,0,0.17516085505485535,0.10718899220228195
 0,0,0,90,DMR,Wolverhampton Wanderers,Brighton,0,3,2022-04-30,16716,2021,530490,0,0,0,0,0,0.041537802666425705,0.041537802666425705
 0,1,0.02417183481156826,24,Sub,Brighton,Southampton,2,2,2022-04-24,16713,2021,529278,0,0,0,0,0.02417183481156826,0,0
 0,0,0,90,DML,Manchester City,Brighton,3,0,2022-04-20,16670,2021,528112,0,0,0,0,0,0,0

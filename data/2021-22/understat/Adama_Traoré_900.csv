@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Real Betis,Barcelona,1,2,2022-05-07,17478,2021,533174,0,0,0,0,0,0.06617338955402374,0.06617338955402374
 0,2,0.18191461265087128,18,Sub,Barcelona,Rayo Vallecano,0,1,2022-04-24,17338,2021,529758,0,0,0,0,0.18191461265087128,0.18191461265087128,0
 0,0,0,13,Sub,Barcelona,Cadiz,0,1,2022-04-18,17449,2021,527475,0.06241190433502197,0,1,0,0,0.06241190433502197,0
 0,0,0,6,Sub,Levante,Barcelona,2,3,2022-04-10,17439,2021,525781,0,0,0,0,0,0,0

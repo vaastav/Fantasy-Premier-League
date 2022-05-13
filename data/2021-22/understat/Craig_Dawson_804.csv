@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.05909973382949829,70,DC,Norwich,West Ham,0,4,2022-05-08,16726,2021,533381,0,0,0,0,0.05909973382949829,0.1603398323059082,0.1603398323059082
 0,0,0,89,DC,Chelsea,West Ham,1,0,2022-04-24,16711,2021,529366,0,0,0,0,0,0,0
 0,0,0,90,DC,West Ham,Burnley,1,1,2022-04-17,16697,2021,526975,0,0,0,0,0,0.183720663189888,0.183720663189888
 0,0,0,90,DC,Brentford,West Ham,2,0,2022-04-10,16693,2021,525137,0,0,0,0,0,0,0
