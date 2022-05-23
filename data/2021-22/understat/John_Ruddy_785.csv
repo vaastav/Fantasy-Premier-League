@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,39,Sub,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22,16753,2021,537910,0,0,0,0,0,0,0
+0,0,0,90,GK,Wolverhampton Wanderers,Norwich,1,1,2022-05-15,16736,2021,536025,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Wolverhampton Wanderers,1,0,2021-05-19,14799,2020,472501,0,0,0,0,0,0,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15,14714,2020,457431,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02,9477,2018,305236,0,0,0,0,0,0,0

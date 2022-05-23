@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,4,0.20326651632785797,90,FWR,Southampton,Liverpool,1,2,2022-05-17,16740,2021,536768,0.06919269263744354,0,1,1,0.20326651632785797,0.4073830842971802,0.13492387533187866
 0,0,0,1,Sub,Liverpool,Norwich,3,1,2022-02-19,16631,2021,514244,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Leicester,2,0,2022-02-10,16614,2021,512292,0,0,0,0,0,0,0
 0,0,0,29,Sub,Crystal Palace,Liverpool,1,3,2022-01-23,16599,2021,510199,0,0,0,0,0,0,0

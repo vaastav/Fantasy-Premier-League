@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,54,AML,Newcastle United,Arsenal,2,0,2022-05-16,16741,2021,536740,0,0,0,0,0,0.08480627089738846,0.08480627089738846
 0,0,0,24,Sub,Tottenham,Arsenal,3,0,2022-05-12,16593,2021,535035,0.01575474999845028,0,1,0,0,0,0
 0,0,0,8,Sub,Arsenal,Leeds,2,1,2022-05-08,16735,2021,533464,0,0,0,0,0,0,0
 0,0,0,2,Sub,West Ham,Arsenal,1,2,2022-05-01,16717,2021,531347,0,0,0,0,0,0.06058388948440552,0.06058388948440552
