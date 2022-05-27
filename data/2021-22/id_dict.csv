@@ -21,6 +21,7 @@ Understat_ID, FPL_ID, Understat_Name, FPL_Name
 462,378,Dan Gosling,Dan Gosling
 465,468,Joshua King,Joshua King
 468,296,Callum Wilson,Callum Wilson
+473,204,Danny Ward,Danny Ward
 482,228,Roberto Firmino,Roberto Firmino
 484,235,Divock Origi,Divock Origi
 486,53,Adam Lallana,Adam Lallana
@@ -533,15 +534,19 @@ Understat_ID, FPL_ID, Understat_Name, FPL_Name
 9332,520,Dane Scarlett,Dane Scarlett
 9339,577,Joe Gelhardt,Joe Gelhardt
 9356,526,Carney Chukwuemeka,Carney Chukwuemeka
+9359,727,Shola Shoretire,Shola Shoretire
 9406,545,Nathan Broadhead,Nathan Broadhead
 9415,497,Jaden Philogene-Bidace,Jaden Philogene-Bidace
+9453,538,Moisés Caicedo,Moisés Caicedo
 9461,541,Jesurun Rak-Sakyi,Jesurun Rak-Sakyi
+9470,718,Isaac Price,Isaac Price
 9492,551,Crysencio Summerville,Crysencio Summerville
 9493,550,Sam Greenwood,Sam Greenwood
 9499,562,Cody Drameh,Cody Drameh
 9512,491,Valentino Livramento,Tino Livramento
 9524,512,Anthony Elanga,Anthony Elanga
 9554,638,Tim Iroegbunam,Tim Iroegbunam
+9558,706,Hannibal Mejbri,Hannibal Mejbri
 9676,80,David Raya,David Raya Martin
 9677,483,Kristoffer Ajer,Kristoffer Ajer
 9678,91,Ethan Pinnock,Ethan Pinnock
@@ -563,6 +568,7 @@ Understat_ID, FPL_ID, Understat_Name, FPL_Name
 9738,455,Patson Daka,Patson Daka
 9739,505,Kiernan Dewsbury-Hall,Kiernan Dewsbury-Hall
 9740,475,José Sá,José Malheiro de Sá
+9741,548,Chem Campbell,Chem Campbell
 9745,457,Dimitris Giannoulis,Dimitris Giannoulis
 9746,528,Christos Tzolis,Christos Tzolis
 9747,515,Bali Mumba,Bali Mumba
@@ -586,8 +592,11 @@ Understat_ID, FPL_ID, Understat_Name, FPL_Name
 10118,625,Kaide Gordon,Kaide Gordon
 10126,629,James McAtee,James McAtee
 10141,634,Sonny Perkins,Sonny Perkins
+10150,640,Nathan Young-Coombes,Nathan Young-Coombes
 10166,647,Kasey McAteer,Kasey McAteer
+10168,646,Lewis Brunt,Lewis Brunt
 10172,648,Jonathan Rowe,Jonathan Rowe
+10174,651,CJ Egan-Riley,Conrad Egan-Riley
 10177,655,Evan Ferguson,Evan Ferguson
 10203,663,Kayky,Kayky da Silva Chagas
 10290,679,Edo Kayembe,Edo Kayembe
@@ -597,3 +606,5 @@ Understat_ID, FPL_ID, Understat_Name, FPL_Name
 10405,82,Josh Dasilva,Pelenda Joshua Dasilva
 10408,696,Luis Díaz,Luis Díaz
 10424,710,Daniel Chesters,Daniel Chesters
+10525,716,Tony Springett,Tony Springett
+10552,723,Alejandro Garnacho,Alejandro Garnacho Ferreyra
