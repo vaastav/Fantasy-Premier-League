@@ -13,6 +13,8 @@ A FPL library that gets all the basic stats for each player, gw-specific data fo
 + BDooley11 for providing top managers script
 + speeder1987 for providing 2018/19 fixtures.csv file
 + ravgeetdhillon for github actions automation for data update
++ kz4killua for fixing GW37 data for the 21-22 season
++ SaintJuniper for id-dictionary update for the 21-22 season
 
 ## FAQ
 
