@@ -4,7 +4,7 @@ import numpy as np
 from os.path import dirname, join
 import os
 
-def import_merged_gw(season='2020-21'):
+def import_merged_gw(season='2021-22'):
     """ Function to call merged_gw.csv file in every data/season folder
     Args:
         season (str): Name of the folder season that contains the merged_gw.csv file
