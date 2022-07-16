@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Watford,Leicester,1,5,2022-05-15,16738,2021,536066,0,0,0,0,0,0.7123157382011414,0.7123157382011414
+0,0,0,90,GK,Swansea,Liverpool,3,1,2016-05-01,433,2015,63477,0,0,0,0,0,0.022164857015013695,0.022164857015013695
+0,0,0,90,GK,Bournemouth,Liverpool,1,2,2016-04-17,412,2015,67578,0,0,0,0,0,0.008925373665988445,0.008925373665988445

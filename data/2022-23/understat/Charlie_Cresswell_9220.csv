@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.06303486973047256,37,Sub,Wolverhampton Wanderers,Leeds,2,3,2022-03-18,16675,2021,520957,0,0,0,0,0.06303486973047256,0.2673850953578949,0.2673850953578949
+0,0,0,1,Sub,Chelsea,Leeds,3,2,2021-12-11,16530,2021,501695,0,0,0,0,0,0,0
+0,0,0,1,Sub,Leeds,Crystal Palace,1,0,2021-11-30,16508,2021,498742,0,0,0,0,0,0,0
+0,0,0,1,Sub,Leeds,Leicester,1,1,2021-11-07,16482,2021,494625,0,0,0,0,0,0,0
+0,0,0,90,DC,Leeds,West Ham,1,2,2021-09-25,16429,2021,484730,0,0,0,0,0,0.023834163323044777,0.023834163323044777

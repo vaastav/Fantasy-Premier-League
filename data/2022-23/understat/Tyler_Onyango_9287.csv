@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.03171619772911072,21,Sub,Everton,Aston Villa,0,1,2022-01-22,16600,2021,509470,0,0,0,0,0.03171619772911072,0.03171619772911072,0
+0,0,0,1,Sub,Chelsea,Everton,1,1,2021-12-16,16543,2021,503354,0,0,0,0,0,0,0
+0,0,0,1,Sub,Manchester City,Everton,3,0,2021-11-21,16490,2021,496382,0,0,0,0,0,0,0

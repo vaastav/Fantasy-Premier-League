@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Brentford,Manchester City,0,1,2021-12-29,16567,2021,505380,0,0,0,0,0,0,0
+0,0,0,3,Sub,West Ham,Brentford,1,2,2021-10-03,16444,2021,487069,0,0,0,0,0,0,0
+0,0,0,1,Sub,Crystal Palace,Brentford,0,0,2021-08-21,16389,2021,476981,0,0,0,0,0,0,0
+0,0,0,9,Sub,Brentford,Arsenal,2,0,2021-08-13,16376,2021,475183,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Liverpool,2,2,2022-01-02,16578,2021,505718,0,0,0,0,0,0.11612968146800995,0.11612968146800995
+0,0,0,90,GK,Watford,Liverpool,0,5,2021-10-16,16455,2021,487846,0,0,0,0,0,0.21654973924160004,0.21654973924160004
+0,0,0,90,GK,Liverpool,Brighton,0,1,2021-02-03,14654,2020,447185,0,0,0,0,0,0.44792696833610535,0.44792696833610535
+0,0,0,90,GK,Liverpool,Wolverhampton Wanderers,4,0,2020-12-06,14539,2020,432287,0,0,0,0,0,0,0

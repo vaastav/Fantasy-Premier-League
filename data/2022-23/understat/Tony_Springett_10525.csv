@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,28,Sub,Norwich,Tottenham,0,5,2022-05-22,16755,2021,537953,0,0,0,0,0,0,0
+0,1,0.5181649327278137,69,MR,Leicester,Norwich,3,0,2022-05-11,16582,2021,534846,0.514015793800354,0,2,0,0.5181649327278137,1.0925263166427612,0.06034556403756142
+0,0,0,41,Sub,Norwich,West Ham,0,4,2022-05-08,16726,2021,533377,0,0,0,0,0,0,0

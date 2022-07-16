@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.016889039427042007,64,DMC,Leeds,Chelsea,0,3,2022-05-11,16703,2021,534747,0,0,0,0,0.016889039427042007,0,0
+0,0,0,40,Sub,Arsenal,Leeds,2,1,2022-05-08,16735,2021,533479,0,0,0,0,0,0,0
+0,0,0,48,Sub,West Ham,Leeds,2,3,2022-01-16,16594,2021,508466,0,0,0,0,0,0.3578285872936249,0.3578285872936249

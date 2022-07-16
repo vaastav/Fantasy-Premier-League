@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22,16753,2021,537901,0,0,0,0,0,0.10180550068616867,0.10180550068616867
+0,1,0.0366181954741478,90,DC,Wolverhampton Wanderers,Norwich,1,1,2022-05-15,16736,2021,536028,0,0,0,0,0.0366181954741478,0.06479302048683167,0.06479302048683167
+0,0,0,90,DC,Brentford,Wolverhampton Wanderers,1,2,2022-01-22,16597,2021,509802,0,0,0,0,0,0.1259562373161316,0.1259562373161316
+0,0,0,90,DC,Wolverhampton Wanderers,Southampton,3,1,2022-01-15,16595,2021,508139,0,0,0,0,0,0,0

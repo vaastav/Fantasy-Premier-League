@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Leeds,Arsenal,1,4,2021-12-18,16548,2021,503845,0,0,0,0,0,0.28623709082603455,0.28623709082603455
+0,0,0,14,Sub,Manchester City,Leeds,7,0,2021-12-14,16545,2021,503090,0.02329360693693161,0,1,0,0,0.02329360693693161,0
+0,0,0,18,Sub,Norwich,Leeds,1,2,2021-10-31,16472,2021,492839,0,0,0,0,0,0.033236313611269,0.033236313611269

@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Crystal Palace,Manchester United,1,0,2022-05-22,16751,2021,537825,0,0,0,0,0,0,0
+0,0,0,1,Sub,Manchester United,Chelsea,1,1,2022-04-28,16742,2021,530000,0,0,0,0,0,0,0

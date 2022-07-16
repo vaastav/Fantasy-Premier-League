@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,27,Sub,Chelsea,Everton,1,1,2021-12-16,16543,2021,503355,0,0,0,0,0,0,0
+0,0,0,1,Sub,Manchester United,Everton,1,1,2021-10-02,16442,2021,486216,0,0,0,0,0,0,0
+0,0,0,1,Sub,Everton,Norwich,2,0,2021-09-25,16428,2021,484712,0,0,0,0,0,0,0
