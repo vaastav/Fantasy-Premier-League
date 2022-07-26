@@ -14,9 +14,10 @@ class MatchData:
 
 class PlayerData:
     def __init__(self) -> None:
-        self.data = {}
+        self.data = []
         self.base_url = ""
         self.matches_links = []
+        self.matches = []
 
 def get_data(url):
     response = requests.get(url)
@@ -83,6 +84,9 @@ def get_epl_players():
     players = {}
     stat_names = set()
     for row in table.tbody.find_all('tr'):
+        class_name = row.get('class')
+        if class_name != None and len(class_name) > 0:
+            continue
         columns = row.find_all('td')
         base_url = ""
         matches_link = ""
@@ -104,6 +108,12 @@ def get_epl_players():
                 a = a_html.find_all('a')
                 stats[data_stat] = a[0].contents[0]
                 stat_names.add(data_stat)
+            elif data_stat == 'minutes':
+                mins = c.contents[0]
+                if ',' in mins:
+                    mins = int(mins.replace(',', ''))
+                stats[data_stat] = mins
+                stat_names.add(data_stat)
             elif data_stat == "matches":
                 a_html = BeautifulSoup(str(c.contents[0]), 'html.parser')
                 a = a_html.find_all('a')
@@ -117,8 +127,9 @@ def get_epl_players():
         if player_id in players:
             player = players[player_id]
         player.base_url = base_url
-        player.matches_links += [matches_link]
-        player.data = stats
+        if len(player.matches_links) == 0:
+            player.matches_links += [matches_link]
+        player.data += [stats]
         players[player_id] = player
     return players, stat_names
             
@@ -133,7 +144,8 @@ def main():
         writer = csv.DictWriter(outf, fieldnames=list(stats))
         writer.writeheader()
         for id, player in players.items():
-            writer.writerow(player.data)
+            for data in player.data:
+                writer.writerow(data)
 
 if __name__ == '__main__':
     main()
