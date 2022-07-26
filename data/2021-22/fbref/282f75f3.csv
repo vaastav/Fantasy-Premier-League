@@ -1,0 +1,33 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,63,0,1,Sat,0,Premier League,0,0,87,0.0,CB,2,2021-08-14,0,72,Y*,Brighton,0,0,0.0,0.0,92.3,0,78,,90,0,W 2–1,0,,0,0,Away,0,Matchweek 1,Burnley,0
+0,0,45,0,2,Sat,0,Premier League,0,0,68,0.0,CB,5,2021-08-21,0,59,Y*,Brighton,0,0,0.0,0.0,96.7,0,61,,90,0,W 2–0,0,,0,1,Home,0,Matchweek 2,Watford,1
+0,0,64,0,0,Sat,0,Premier League,0,1,91,0.0,CB,6,2021-08-28,0,79,Y*,Brighton,0,0,0.0,0.0,96.3,0,82,,90,0,L 0–2,0,,4,1,Home,0,Matchweek 3,Everton,1
+0,0,32,0,0,Sat,0,Premier League,0,2,56,0.0,CB,4,2021-09-11,0,42,Y*,Brighton,0,0,0.0,0.0,82.4,0,51,,90,0,W 1–0,0,,0,1,Away,0,Matchweek 4,Brentford,0
+0,1,19,0,2,Sun,0,Premier League,0,0,42,0.0,CB,5,2021-09-19,0,30,Y*,Brighton,0,1,0.0,0.0,85.7,0,35,,90,1,W 2–1,0,,0,0,Home,0,Matchweek 5,Leicester City,3
+0,1,70,0,2,Mon,0,Premier League,0,3,95,0.0,CB,4,2021-09-27,1,81,Y*,Brighton,1,0,0.0,0.0,92.0,0,88,,90,0,D 1–1,0,,2,0,Away,0,Matchweek 6,Crystal Palace,3
+0,1,50,0,0,Sat,0,Premier League,0,2,76,0.1,CB,8,2021-10-02,0,67,Y*,Brighton,2,0,0.2,0.1,93.1,0,72,,90,0,D 0–0,0,,2,0,Home,0,Matchweek 7,Arsenal,3
+0,0,42,0,5,Sat,0,Premier League,0,2,74,0.1,CB,15,2021-10-16,1,54,Y*,Brighton,1,0,0.0,0.1,93.1,0,58,,90,0,D 0–0,0,,1,6,Away,0,Matchweek 8,Norwich City,3
+0,0,64,0,3,Sat,0,Premier League,0,4,95,0.0,CB,4,2021-10-23,0,74,Y*,Brighton,0,1,0.0,0.0,85.1,0,87,,90,1,L 1–4,0,,0,0,Home,0,Matchweek 9,Manchester City,1
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-10-27,0,,N,Brighton,0,,,,,0,,,28,,D 2 ,0,,,,Away,0,Fourth round,Leicester City,0
+0,0,36,0,3,Sat,0,Premier League,0,1,59,0.0,CB,5,2021-10-30,0,40,Y*,Brighton,0,0,0.0,0.0,85.1,0,47,,90,0,D 2–2,0,,1,0,Away,0,Matchweek 10,Liverpool,5
+0,1,86,0,2,Sat,0,Premier League,0,1,110,0.0,"CB,GK",4,2021-11-06,0,92,Y*,Brighton,0,0,0.0,0.0,94.8,0,97,,90,0,D 1–1,0,,7,1,Home,0,Matchweek 11,Newcastle Utd,1
+0,0,67,0,1,Sat,0,Premier League,0,3,98,0.0,CB,7,2021-11-20,0,88,Y*,Brighton,0,0,0.0,0.0,96.7,0,91,,90,0,L 0–2,0,,0,1,Away,0,Matchweek 12,Aston Villa,1
+0,1,55,0,0,Sat,0,Premier League,0,2,79,0.0,CB,3,2021-11-27,0,63,Y*,Brighton,0,0,0.0,0.0,82.9,0,76,,90,0,D 0–0,0,,4,0,Home,0,Matchweek 13,Leeds United,4
+0,0,53,0,1,Wed,0,Premier League,0,4,92,0.2,CB,8,2021-12-01,1,74,Y*,Brighton,2,0,0.0,0.2,92.5,0,80,,90,0,D 1–1,0,,3,2,Away,0,Matchweek 14,West Ham,0
+,,,,,Sun,,Premier League,,,,,,,2022-01-23,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 23,Leicester City,
+0,,,0,,Sat,,FA Cup,0,,,,CB,,2022-02-05,0,,Y*,Brighton,0,,,,,0,,,90,,L 1–3,0,,,,Away,0,Fourth round proper,Tottenham,0
+0,0,66,0,1,Sat,0,Premier League,0,2,91,0.0,CB,5,2022-02-12,0,76,Y*,Brighton,1,0,0.0,0.0,95.0,1,80,,90,0,W 2–0,0,,2,3,Away,0,Matchweek 25,Watford,1
+0,0,46,0,0,Tue,0,Premier League,0,2,62,0.0,CB,1,2022-02-15,0,54,Y*,Brighton,0,0,0.0,0.0,94.7,0,57,,53,0,L 0–2,1,,0,0,Away,0,Matchweek 18,Manchester Utd,1
+0,1,84,0,2,Sat,0,Premier League,0,3,124,0.0,CB,5,2022-02-26,0,107,Y*,Brighton,1,0,0.0,0.0,92.2,0,116,,90,0,L 0–2,0,,7,2,Home,0,Matchweek 27,Aston Villa,0
+0,1,65,0,2,Sat,0,Premier League,0,5,107,0.3,CB,6,2022-03-05,2,81,Y*,Brighton,4,1,0.0,0.3,90.0,0,90,,90,1,L 1–2,0,,6,1,Away,1,Matchweek 28,Newcastle Utd,1
+0,1,48,0,1,Sat,0,Premier League,0,1,68,0.0,CB,3,2022-03-12,0,54,Y*,Brighton,0,1,0.0,0.0,85.7,0,63,,90,1,L 0–2,0,,0,0,Home,0,Matchweek 29,Liverpool,4
+0,0,68,0,4,Wed,0,Premier League,0,2,80,0.0,CB,7,2022-03-16,0,66,Y*,Brighton,0,0,0.0,0.0,88.0,0,75,,90,0,L 0–2,0,,1,1,Home,0,Matchweek 16,Tottenham,2
+0,2,29,0,0,Sat,0,Premier League,0,3,54,0.2,CB,3,2022-04-02,0,40,Y*,Brighton,3,0,0.0,0.2,87.0,0,46,,90,0,D 0–0,0,,0,0,Home,0,Matchweek 31,Norwich City,0
+0,2,24,0,2,Sat,1,Premier League,0,0,46,0.0,CB,2,2022-04-09,1,28,Y*,Brighton,1,0,0.0,0.0,71.8,0,39,,90,0,W 2–1,0,,0,0,Away,0,Matchweek 32,Arsenal,0
+0,0,42,0,0,Sat,0,Premier League,0,0,59,0.0,CB,1,2022-04-16,1,45,Y*,Brighton,1,0,0.0,0.0,81.8,1,55,,90,0,W 1–0,0,,0,0,Away,0,Matchweek 33,Tottenham,3
+0,0,25,0,4,Wed,0,Premier League,0,1,51,0.0,CB,2,2022-04-20,0,34,Y*,Brighton,0,1,0.0,0.0,85.0,1,40,,90,0,L 0–3,0,,0,0,Away,0,Matchweek 30,Manchester City,1
+0,0,24,0,0,Sun,0,Premier League,0,1,51,0.0,CB,3,2022-04-24,0,27,Y*,Brighton,1,0,0.0,0.0,75.0,0,36,,90,0,D 2–2,0,,0,0,Home,0,Matchweek 34,Southampton,2
+0,2,34,0,1,Sat,1,Premier League,0,1,57,0.0,CB,1,2022-04-30,0,41,Y*,Brighton,0,1,0.0,0.0,82.0,0,50,,90,1,W 3–0,0,,1,0,Away,0,Matchweek 35,Wolves,2
+0,0,24,0,1,Sat,0,Premier League,0,5,51,0.2,CB,2,2022-05-07,0,36,Y*,Brighton,1,0,0.0,0.2,85.7,0,42,,90,0,W 4–0,0,,0,0,Home,0,Matchweek 36,Manchester Utd,1
+0,0,17,0,1,Sun,0,Premier League,0,3,41,0.0,CB,3,2022-05-15,0,31,Y*,Brighton,0,0,0.0,0.0,81.6,0,38,,90,0,D 1–1,0,,0,0,Away,0,Matchweek 37,Leeds United,1
+0,0,32,0,1,Sun,0,Premier League,0,0,59,0.0,CB,1,2022-05-22,0,41,Y*,Brighton,0,0,0.0,0.0,80.4,0,51,,90,0,W 3–1,0,,0,0,Home,0,Matchweek 38,West Ham,1

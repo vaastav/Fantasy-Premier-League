@@ -1,0 +1,27 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Tue,,EFL Cup,1,,,,,,2021-08-24,0,,N,Everton,0,,,,,1,,,34,,W 2–1,0,,,,Away,0,Second round,Huddersfield,0
+0,0,12,0,0,Sat,0,Premier League,0,1,19,0.0,AM,6,2021-08-28,1,12,N,Everton,2,0,0.0,0.0,85.7,0,14,,10,0,W 2–0,0,,2,0,Away,0,Matchweek 3,Brighton,1
+0,2,19,0,2,Mon,0,Premier League,0,5,28,0.3,CM,5,2021-09-13,0,20,N,Everton,2,1,0.1,0.3,95.2,0,21,,30,1,W 3–1,0,,1,0,Home,0,Matchweek 4,Burnley,1
+0,0,3,0,0,Sat,0,Premier League,0,0,11,0.1,"AM,DM",8,2021-09-18,0,6,N,Everton,1,0,0.0,0.1,85.7,0,7,,28,0,L 0–3,0,,1,1,Away,0,Matchweek 5,Aston Villa,0
+0,,,0,,Tue,,EFL Cup,0,,,,DM,,2021-09-21,0,,Y,Everton,2,,,,,0,,,57,,D 2 ,0,,,,Away,0,Third round,QPR,0
+0,3,12,0,0,Mon,2,Premier League,1,0,16,0.0,AM,10,2021-12-06,0,7,N,Everton,1,1,0.0,0.0,53.8,0,13,,25,1,W 2–1,0,,3,1,Home,0,Matchweek 15,Arsenal,1
+0,2,24,0,1,Sun,0,Premier League,0,0,36,0.1,"CM,DM",22,2021-12-12,1,17,Y,Everton,3,1,0.0,0.1,77.3,0,22,,90,1,L 1–3,0,,1,2,Away,0,Matchweek 16,Crystal Palace,1
+0,0,19,0,1,Thu,0,Premier League,0,0,25,0.0,DM,25,2021-12-16,0,11,Y,Everton,1,2,0.0,0.0,68.8,1,16,,69,2,D 1–1,0,,1,2,Away,0,Matchweek 17,Chelsea,0
+0,2,6,0,0,Sun,0,Premier League,0,2,9,0.0,DM,0,2022-01-02,0,7,N,Everton,0,0,0.1,0.0,87.5,0,8,,4,0,L 2–3,0,,0,0,Home,0,Matchweek 21,Brighton,0
+0,,,0,,Sat,,FA Cup,0,,,,CM,,2022-01-08,1,,Y,Everton,1,,,,,0,,,87,,W 3–2,0,,,,Away,1,Third round proper,Hull City,1
+0,1,49,0,1,Sat,0,Premier League,0,3,73,0.0,DM,29,2022-01-15,0,43,Y,Everton,1,5,0.0,0.0,74.1,0,58,,90,3,L 1–2,0,,1,3,Away,0,Matchweek 22,Norwich City,0
+0,0,18,0,1,Sat,0,Premier League,0,2,25,0.0,DM,20,2022-01-22,0,15,Y,Everton,0,1,0.0,0.0,78.9,1,19,,50,1,L 0–1,0,,1,2,Home,0,Matchweek 23,Aston Villa,2
+0,,,0,,Sat,,FA Cup,0,,,,CM,,2022-02-05,1,,Y,Everton,1,,,,,1,,,90,,W 4–1,0,,,,Home,0,Fourth round proper,Brentford,0
+0,1,30,0,1,Tue,0,Premier League,0,1,40,0.0,DM,10,2022-02-08,0,22,Y,Everton,0,1,0.0,0.0,71.0,1,31,,59,1,L 1–3,0,,0,1,Away,0,Matchweek 24,Newcastle Utd,0
+,,,,,Sat,,Premier League,,,,,,,2022-02-12,,,N,Everton,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 25,Leeds United,
+0,2,25,0,0,Sat,0,Premier League,0,5,40,0.0,DM,24,2022-02-19,0,28,N,Everton,1,0,0.0,0.0,75.7,0,37,,45,0,L 0–2,0,,0,2,Away,0,Matchweek 26,Southampton,0
+,,,,,Mon,,Premier League,,,,,,,2022-03-07,,,N,Everton,,,,,,,,,,,L 0–5,,"On matchday squad, but did not play",,,Away,,Matchweek 28,Tottenham,
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Everton,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 29,Wolves,
+0,0,4,0,0,Thu,0,Premier League,0,0,6,0.0,DM,5,2022-03-17,0,1,N,Everton,0,0,0.0,0.0,50.0,0,2,,3,0,W 1–0,0,,0,1,Home,0,Matchweek 20,Newcastle Utd,1
+0,,,0,,Sun,,FA Cup,0,,,,CM,,2022-03-20,0,,Y,Everton,1,,,,,1,,,90,,L 0–4,0,,,,Away,0,Quarter-finals,Crystal Palace,2
+,,,,,Sat,,Premier League,,,,,,,2022-04-09,,,N,Everton,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 32,Manchester Utd,
+,,,,,Wed,,Premier League,,,,,,,2022-04-20,,,N,Everton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 18,Leicester City,
+,,,,,Sun,,Premier League,,,,,,,2022-05-08,,,N,Everton,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Away,,Matchweek 36,Leicester City,
+,,,,,Wed,,Premier League,,,,,,,2022-05-11,,,N,Everton,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 30,Watford,
+0,0,16,0,4,Sun,0,Premier League,0,1,25,0.0,"CM,DM",17,2022-05-15,1,14,Y,Everton,1,2,0.0,0.0,77.8,0,18,,71,2,L 2–3,0,,4,0,Home,0,Matchweek 37,Brentford,1
+0,0,11,0,2,Thu,0,Premier League,0,1,19,0.0,DM,17,2022-05-19,1,10,Y,Everton,1,1,0.0,0.0,76.9,0,13,,45,0,W 3–2,0,,3,0,Home,0,Matchweek 33,Crystal Palace,3

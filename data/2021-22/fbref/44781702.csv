@@ -1,0 +1,62 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,date,pressures,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+,,,,,Sun,,Premier League,,,,,,2021-08-15,,,,N,Tottenham,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 1,Manchester City,
+0,,,0,,Thu,,Conf Lg,0,,,,LB,2021-08-19,,,,Y*,Tottenham,,,,,,1,,,90,,L 0–1,0,,,,Away,0,Play-off round,Paços,
+,,,,,Sun,,Premier League,,,,,,2021-08-22,,,,N,Tottenham,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 2,Wolves,
+0,,,0,,Thu,,Conf Lg,0,,,,LB,2021-08-26,,,,Y,Tottenham,,,,,,0,,,90,,W 3–0,0,,,,Home,0,Play-off round,Paços,
+,,,,,Sun,,Premier League,,,,,,2021-08-29,,,,N,Tottenham,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 3,Watford,
+0,,,0,,Wed,,Friendlies (M),0,,,,,2021-09-01,,,,N,Wales,,,,,,0,,,45,,D 0–0,0,,,,Away,0,Friendlies (M),Finland,
+0,,,0,,Sun,,WCQ,0,,,,LB,2021-09-05,,0,,Y,Wales,2,,,,,0,,,90,,W 3–2,0,,,,Away,0,First round,Belarus,3
+0,,,0,,Wed,,WCQ,0,,,,LB,2021-09-08,,0,,Y,Wales,2,,,,,0,,,90,,D 0–0,0,,,,Home,0,First round,Estonia,4
+0,0,4,0,1,Sat,0,Premier League,0,0,8,0.0,CB,2021-09-11,3,0,1,N,Tottenham,0,0,0.0,0.0,33.3,0,3,,31,0,L 0–3,0,,1,1,Away,0,Matchweek 4,Crystal Palace,0
+0,,,0,,Thu,,Conf Lg,0,,,,LB,2021-09-16,,,,Y,Tottenham,,,,,,0,,,90,,D 2–2,0,,,,Away,0,Group stage,Rennes,
+,,,,,Sun,,Premier League,,,,,,2021-09-19,,,,N,Tottenham,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Home,,Matchweek 5,Chelsea,
+0,,,0,,Wed,,EFL Cup,0,,,,LB,2021-09-22,,0,,Y,Tottenham,0,,,,,0,,,120,,D 2 ,0,,,,Away,0,Third round,Wolves,2
+,,,,,Sun,,Premier League,,,,,,2021-09-26,,,,N,Tottenham,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Arsenal,
+,,,,,Sun,,Premier League,,,,,,2021-10-17,,,,N,Tottenham,,,,,,,,,,,W 3–2,,"On matchday squad, but did not play",,,Away,,Matchweek 8,Newcastle Utd,
+0,,,0,,Thu,,Conf Lg,0,,,,LB,2021-10-21,,,,Y*,Tottenham,,,,,,0,,,90,,L 0–1,0,,,,Away,0,Group stage,Vitesse,
+,,,,,Sun,,Premier League,,,,,,2021-10-24,,,,N,Tottenham,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 9,West Ham,
+0,,,0,,Wed,,EFL Cup,0,,,,LB,2021-10-27,,0,,Y,Tottenham,0,,,,,0,,,90,,W 1–0,0,,,,Away,0,Fourth round,Burnley,0
+0,0,37,0,0,Sat,0,Premier League,0,2,54,0.2,LB,2021-10-30,12,0,35,Y,Tottenham,1,0,0.0,0.2,71.4,1,49,,90,0,L 0–3,0,,4,3,Home,0,Matchweek 10,Manchester Utd,1
+0,,,0,,Thu,,Conf Lg,0,,,,CB,2021-11-04,,,,Y,Tottenham,,,,,,0,,,90,,W 3–2,0,,,,Home,0,Group stage,Vitesse,
+0,1,68,0,0,Sun,0,Premier League,0,11,90,0.0,CB,2021-11-07,13,0,66,Y,Tottenham,1,0,0.0,0.0,83.5,0,79,,90,0,D 0–0,0,,8,4,Away,0,Matchweek 11,Everton,3
+0,,,0,,Sat,,WCQ,1,,,,CB,2021-11-13,,3,,Y,Wales,3,,,,,0,,,90,,W 5–1,0,,,,Home,1,First round,Belarus,1
+0,,,0,,Tue,,WCQ,0,,,,CB,2021-11-16,,0,,Y,Wales,0,,,,,0,,,90,,D 1–1,0,,,,Home,0,First round,Belgium,1
+0,0,13,0,1,Sun,0,Premier League,0,3,28,0.3,CB,2021-11-21,8,1,19,Y,Tottenham,1,0,0.0,0.3,82.6,0,23,,90,0,W 2–1,0,,2,0,Home,0,Matchweek 12,Leeds United,3
+0,,,0,,Thu,,Conf Lg,0,,,,,2021-11-25,,,,N,Tottenham,,,,,,0,,,37,,L 1–2,0,,,,Away,0,Group stage,NŠ Mura,
+0,0,39,0,1,Thu,0,Premier League,0,6,67,0.1,CB,2021-12-02,10,1,42,Y,Tottenham,1,1,0.0,0.1,68.9,0,61,,90,0,W 2–0,0,,6,0,Home,0,Matchweek 14,Brentford,0
+0,2,28,0,0,Sun,1,Premier League,1,3,54,0.5,CB,2021-12-05,9,0,39,Y,Tottenham,1,0,0.3,0.5,86.7,0,45,,90,0,W 3–0,0,,11,1,Home,0,Matchweek 15,Norwich City,2
+0,1,28,0,1,Sun,1,Premier League,0,1,46,0.0,CB,2021-12-19,14,0,27,Y,Tottenham,0,0,0.0,0.0,73.0,1,37,,90,0,D 2–2,0,,3,3,Home,0,Matchweek 18,Liverpool,2
+0,,,0,,Wed,,EFL Cup,0,,,,CB,2021-12-22,,0,,Y,Tottenham,0,,,,,0,,,90,,W 2–1,0,,,,Home,0,Quarter-finals,West Ham,2
+,,,,,Sun,,Premier League,,,,,,2021-12-26,,,,N,Tottenham,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 19,Crystal Palace,
+0,2,44,0,1,Tue,0,Premier League,0,5,62,0.0,CB,2021-12-28,11,0,45,Y,Tottenham,1,0,0.1,0.0,84.9,0,53,,90,0,D 1–1,0,,5,2,Away,0,Matchweek 20,Southampton,0
+0,2,69,0,1,Sat,0,Premier League,0,12,94,0.0,CB,2022-01-01,16,0,75,Y,Tottenham,2,0,0.0,0.0,93.8,0,80,,90,0,W 1–0,0,,20,3,Away,0,Matchweek 21,Watford,0
+0,,,0,,Wed,,EFL Cup,0,,,,CB,2022-01-05,,0,,Y,Tottenham,0,,,,,0,,,90,,L 0–2,0,,,,Away,0,Semi-finals,Chelsea,0
+0,,,0,,Sun,,FA Cup,0,,,,CB,2022-01-09,,0,,Y*,Tottenham,2,,,,,0,,,90,,W 3–1,0,,,,Home,0,Third round proper,Morecambe,0
+0,,,0,,Wed,,EFL Cup,0,,,,CB,2022-01-12,,0,,Y,Tottenham,1,,,,,0,,,90,,L 0–1,0,,,,Home,0,Semi-finals,Chelsea,3
+0,2,57,0,2,Wed,0,Premier League,0,6,79,0.0,"CB,LB",2022-01-19,12,0,67,Y,Tottenham,0,0,0.0,0.0,91.8,0,73,,90,0,W 3–2,0,,13,1,Away,0,Matchweek 17,Leicester City,2
+0,1,17,0,5,Sun,0,Premier League,0,2,50,0.0,LB,2022-01-23,14,0,22,Y,Tottenham,0,0,0.0,0.0,55.0,0,40,,90,0,L 0–2,0,,2,0,Away,0,Matchweek 23,Chelsea,0
+0,,,0,,Sat,,FA Cup,0,,,,CB,2022-02-05,,0,,Y,Tottenham,0,,,,,0,,,90,,W 3–1,0,,,,Home,0,Fourth round proper,Brighton,1
+0,0,32,0,2,Wed,0,Premier League,0,2,61,0.0,"CB,LB",2022-02-09,10,0,38,Y,Tottenham,1,0,0.0,0.0,84.4,0,45,,90,0,L 2–3,0,,1,4,Home,0,Matchweek 24,Southampton,2
+0,2,48,0,2,Sun,0,Premier League,0,3,82,0.0,"LB,CB",2022-02-13,18,0,65,Y,Tottenham,0,0,0.1,0.0,87.8,0,74,,90,0,L 0–2,0,,10,4,Home,0,Matchweek 25,Wolves,1
+0,1,25,0,2,Sat,0,Premier League,0,1,43,0.0,"CB,WB",2022-02-19,8,0,26,Y,Tottenham,0,0,0.0,0.0,81.3,0,32,,90,0,W 3–2,0,,3,1,Away,0,Matchweek 26,Manchester City,3
+0,0,76,0,1,Wed,0,Premier League,0,4,91,0.1,CB,2022-02-23,8,1,80,Y,Tottenham,1,1,0.0,0.1,93.0,0,86,,90,1,L 0–1,0,,8,0,Away,0,Matchweek 13,Burnley,2
+0,0,21,0,4,Sat,0,Premier League,0,1,45,0.0,CB,2022-02-26,10,1,26,Y,Tottenham,1,2,0.0,0.0,81.3,1,32,,90,2,W 4–0,0,,0,1,Away,0,Matchweek 27,Leeds United,5
+0,,,0,,Tue,,FA Cup,0,,,,CB,2022-03-01,,0,,Y,Tottenham,2,,,,,0,,,114,,L 0–1,0,,,,Away,0,Fifth round proper,Middlesbrough,3
+0,1,51,0,0,Mon,0,Premier League,0,4,86,0.0,CB,2022-03-07,8,0,68,Y,Tottenham,0,0,0.0,0.0,88.3,0,77,,90,0,W 5–0,0,,4,2,Home,0,Matchweek 28,Everton,0
+0,0,53,0,1,Sat,0,Premier League,0,4,70,0.0,CB,2022-03-12,6,0,62,Y,Tottenham,0,0,0.0,0.0,92.5,0,67,,86,0,L 2–3,0,,8,0,Away,0,Matchweek 29,Manchester Utd,1
+0,2,51,0,1,Wed,1,Premier League,0,2,74,0.0,CB,2022-03-16,13,0,56,Y,Tottenham,1,0,0.0,0.0,91.8,0,61,,90,0,W 2–0,0,,9,4,Away,0,Matchweek 16,Brighton,1
+0,0,35,0,0,Sun,0,Premier League,0,1,47,0.0,CB,2022-03-20,3,0,37,Y,Tottenham,0,0,0.0,0.0,88.1,0,42,,90,0,W 3–1,0,,2,0,Home,0,Matchweek 30,West Ham,1
+0,,,0,,Thu,,WCQ,1,,,,CB,2022-03-24,,0,,Y,Wales,0,,,,,0,,,90,,W 2–1,0,,,,Home,0,Semi-finals,Austria,0
+0,2,64,0,1,Sun,0,Premier League,0,4,79,0.3,"CB,LB",2022-04-03,5,1,69,Y,Tottenham,1,0,0.0,0.3,93.2,0,74,,90,0,W 5–1,0,,4,1,Home,1,Matchweek 31,Newcastle Utd,2
+0,0,32,0,0,Sat,0,Premier League,0,1,46,0.0,CB,2022-04-09,6,0,41,Y,Tottenham,0,2,0.0,0.0,93.2,0,44,,90,1,W 4–0,0,,2,0,Away,0,Matchweek 32,Aston Villa,0
+0,0,44,0,1,Sat,0,Premier League,0,2,70,0.0,CB,2022-04-16,7,0,51,Y,Tottenham,0,3,0.0,0.0,83.6,0,61,,90,2,L 0–1,0,,1,0,Home,0,Matchweek 33,Brighton,2
+0,1,53,0,0,Sat,0,Premier League,0,3,73,0.0,"CB,WB",2022-04-23,7,0,45,Y,Tottenham,1,0,0.0,0.0,83.3,0,54,,90,0,D 0–0,0,,9,0,Away,0,Matchweek 34,Brentford,4
+0,4,45,0,1,Sun,1,Premier League,0,6,65,0.0,CB,2022-05-01,9,0,50,Y,Tottenham,1,2,0.0,0.0,86.2,1,58,,90,2,W 3–1,0,,3,1,Home,0,Matchweek 35,Leicester City,1
+0,1,19,0,4,Sat,0,Premier League,0,2,44,0.0,"CB,WB",2022-05-07,13,0,18,Y,Tottenham,1,0,0.0,0.0,72.0,1,25,,90,0,D 1–1,0,,2,3,Away,0,Matchweek 36,Liverpool,2
+0,2,56,0,2,Thu,0,Premier League,0,5,76,0.0,CB,2022-05-12,5,0,60,Y,Tottenham,0,0,0.0,0.0,88.2,1,68,,81,0,W 3–0,0,,8,1,Home,0,Matchweek 22,Arsenal,2
+0,0,76,0,2,Sun,0,Premier League,0,11,88,0.1,"CB,WB",2022-05-15,7,1,78,Y,Tottenham,2,0,0.0,0.1,92.9,0,84,,90,0,W 1–0,0,,20,0,Home,0,Matchweek 37,Burnley,1
+0,2,55,0,2,Sun,0,Premier League,0,10,82,0.0,CB,2022-05-22,4,1,67,Y,Tottenham,1,0,0.0,0.0,91.8,0,73,,90,0,W 5–0,0,,4,0,Away,0,Matchweek 38,Norwich City,2
+0,,,0,,Sun,,WCQ,0,,,,CB,2022-06-05,,0,,Y,Wales,0,,,,,0,,,90,,W 1–0,0,,,,Home,0,Finals,Ukraine,0
+0,,,0,,Wed,,UEFA Nations League,0,,,,CB,2022-06-08,,0,,Y*,Wales,0,,,,,0,,,90,,L 1–2,0,,,,Home,0,League A,Netherlands,
+0,,,0,,Sat,,UEFA Nations League,0,,,,LB,2022-06-11,,0,,Y,Wales,0,,,,,0,,,72,,D 1–1,0,,,,Home,0,League A,Belgium,
+0,,,0,,Tue,,UEFA Nations League,0,,,,RB,2022-06-14,,0,,Y*,Wales,0,,,,,0,,,90,,L 2–3,0,,,,Away,0,League A,Netherlands,

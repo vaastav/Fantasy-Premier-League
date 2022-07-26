@@ -1,0 +1,41 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,14,0,0,Fri,0,Premier League,0,0,16,0.3,FW,12,2021-08-13,0,3,Y,Arsenal,3,1,0.0,0.3,60.0,0,5,,58,0,L 0–2,0,,1,0,Away,0,Matchweek 1,Brentford,0
+0,0,2,0,1,Sun,0,Premier League,0,0,7,0.0,FW,9,2021-08-22,0,1,N,Arsenal,0,1,0.0,0.0,33.3,0,3,,12,0,L 0–2,0,,0,0,Home,0,Matchweek 2,Chelsea,0
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,FW,,2021-09-11,,,Y,Arsenal,,,,,,0,,,90,,W 3–1,0,,,,Home,2,Matchweek 4,Manchester Utd,
+0,,,1,,Sun,,PL2 — Div. 1,1,,,,FW,,2021-09-19,,,Y*,Arsenal,,,,,,0,,,38,,W 6–1,0,,,,Away,2,Matchweek 5,Chelsea,
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-09-22,0,,N,Arsenal,0,,,,,0,,,8,,W 3–0,0,,,,Home,0,Third round,AFC Wimbledon,0
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,FW,,2021-09-25,,,Y*,Arsenal,,,,,,0,,,90,,D 2–2,0,,,,Away,0,Matchweek 6,Manchester City,
+1,,,2,,Fri,,PL2 — Div. 1,0,,,,FW,,2021-10-01,,,Y*,Arsenal,,,,,,0,,,90,,W 3–0,0,,,,Home,2,Matchweek 7,Brighton,
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,FW,,2021-10-16,,,Y*,Arsenal,,,,,,0,,,90,,L 0–3,0,,,,Away,0,Matchweek 8,Liverpool,
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,FW,,2021-10-22,,,Y*,Arsenal,,,,,,0,,,90,,W 4–0,0,,,,Home,1,Matchweek 9,Everton,
+,,,,,Tue,,EFL Cup,,,,,,,2021-10-26,,,N,Arsenal,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Fourth round,Leeds United,
+1,,,1,,Fri,,PL2 — Div. 1,1,,,,AM,,2021-10-29,,,Y*,Arsenal,,,,,,0,,,90,,W 4–2,0,,,,Away,2,Matchweek 10,Leeds Utd U23,
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,AM,,2021-11-06,,,Y,Arsenal,,,,,,0,,,90,,D 3–3,0,,,,Home,1,Matchweek 11,Leicester City,
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,FW,,2021-11-22,,,Y*,Arsenal,,,,,,0,,,90,,W 3–2,0,,,,Away,1,Matchweek 12,Blackburn,
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,FW,,2021-11-26,,,Y*,Arsenal,,,,,,0,,,90,,L 3–5,0,,,,Home,3,Matchweek 13,Derby County,
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,AM,,2021-12-06,,,Y*,Arsenal,,,,,,0,,,90,,L 0–2,0,,,,Away,0,Matchweek 14,Everton,
+0,,,0,,Tue,,EFL Cup,0,,,,LW,,2021-12-21,1,,Y,Arsenal,4,,,,,1,,,55,,W 5–1,0,,,,Home,0,Quarter-finals,Sunderland,0
+0,,,0,,Sat,,Championship,0,,,,,,2022-01-15,0,,N,Middlesbrough,0,,,,,0,,,24,,W 2–1,0,,,,Home,0,Matchweek 27,Reading,0
+0,,,0,,Mon,,Championship,0,,,,,,2022-01-24,0,,N,Middlesbrough,0,,,,,0,,,11,,L 0–1,0,,,,Away,0,Matchweek 28,Blackburn,0
+0,,,0,,Sat,,Championship,1,,,,,,2022-01-29,0,,N,Middlesbrough,0,,,,,0,,,35,,W 1–0,0,,,,Home,0,Matchweek 29,Coventry City,1
+0,,,0,,Fri,,FA Cup,0,,,,FW,,2022-02-04,0,,Y,Middlesbrough,1,,,,,0,,,61,,D 1 ,0,,,,Away,0,Fourth round proper,Manchester Utd,0
+0,,,0,,Wed,,Championship,0,,,,,,2022-02-09,0,,N,Middlesbrough,1,,,,,0,,,21,,D 2–2,0,,,,Away,0,Matchweek 31,QPR,0
+0,,,0,,Sat,,Championship,1,,,,FW,,2022-02-12,2,,Y,Middlesbrough,3,,,,,0,,,89,,W 4–1,0,,,,Home,0,Matchweek 32,Derby County,0
+0,,,0,,Sat,,Championship,0,,,,FW,,2022-02-19,3,,Y,Middlesbrough,4,,,,,0,,,90,,L 1–2,0,,,,Away,0,Matchweek 33,Bristol City,0
+0,,,0,,Tue,,Championship,0,,,,FW,,2022-02-22,0,,Y,Middlesbrough,0,,,,,0,,,54,,W 2–1,0,,,,Home,0,Matchweek 34,West Brom,0
+0,,,0,,Sat,,Championship,0,,,,,,2022-02-26,0,,N,Middlesbrough,2,,,,,0,,,45,,L 2–3,0,,,,Away,0,Matchweek 35,Barnsley,0
+0,,,0,,Tue,,FA Cup,0,,,,,,2022-03-01,1,,N,Middlesbrough,3,,,,,0,,,46,,W 1–0,0,,,,Home,0,Fifth round proper,Tottenham,0
+0,,,0,,Sat,,Championship,0,,,,FW,,2022-03-05,0,,Y,Middlesbrough,0,,,,,0,,,62,,W 2–1,0,,,,Home,0,Matchweek 36,Luton Town,0
+0,,,0,,Tue,,Championship,0,,,,,,2022-03-08,2,,N,Middlesbrough,2,,,,,0,,,31,,L 1–4,0,,,,Away,1,Matchweek 26,Sheffield Utd,0
+0,,,0,,Sat,,Championship,0,,,,FW,,2022-03-12,2,,Y,Middlesbrough,3,,,,,0,,,90,,D 0–0,0,,,,Away,0,Matchweek 37,Millwall,0
+0,,,0,,Tue,,Championship,0,,,,FW,,2022-03-15,1,,Y,Middlesbrough,2,,,,,0,,,80,,W 2–0,0,,,,Away,1,Matchweek 38,Birmingham City,0
+0,,,0,,Sat,,FA Cup,0,,,,FW,,2022-03-19,0,,Y,Middlesbrough,2,,,,,0,,,73,,L 0–2,0,,,,Home,0,Quarter-finals,Chelsea,1
+0,,,0,,Sat,,Championship,0,,,,FW,,2022-04-02,2,,Y,Middlesbrough,3,,,,,0,,,68,,W 4–0,0,,,,Away,1,Matchweek 40,P'borough Utd,0
+,,,,,Wed,,Championship,,,,,,,2022-04-06,,,N,Middlesbrough,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 30,Fulham,
+0,,,0,,Sat,,Championship,0,,,,FW,,2022-04-09,0,,Y,Middlesbrough,2,,,,,0,,,63,,L 0–1,0,,,,Home,0,Matchweek 41,Hull City,0
+0,,,0,,Fri,,Championship,0,,,,,,2022-04-15,0,,N,Middlesbrough,0,,,,,0,,,9,,D 0–0,0,,,,Away,0,Matchweek 42,Bournemouth,0
+0,,,0,,Mon,,Championship,0,,,,,,2022-04-18,1,,N,Middlesbrough,1,,,,,0,,,30,,L 0–2,0,,,,Home,0,Matchweek 43,Huddersfield,0
+,,,,,Sat,,Championship,,,,,,,2022-04-23,,,N,Middlesbrough,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 44,Swansea City,
+0,,,0,,Wed,,Championship,1,,,,FW,,2022-04-27,0,,Y,Middlesbrough,0,,,,,0,,,60,,W 2–0,0,,,,Home,0,Matchweek 39,Cardiff City,0
+,,,,,Sat,,Championship,,,,,,,2022-04-30,,,N,Middlesbrough,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Matchweek 45,Stoke City,
+0,,,0,,Sat,,Championship,0,,,,,,2022-05-07,1,,N,Middlesbrough,2,,,,,0,,,29,,L 1–4,0,,,,Away,0,Matchweek 46,Preston,0

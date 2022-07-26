@@ -1,0 +1,45 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,26,0,2,Sat,0,Premier League,0,1,52,0.0,CM,18,2021-08-14,0,28,Y,Southampton,1,0,0.0,0.0,68.3,0,41,,79,0,L 1–3,0,,2,3,Away,0,Matchweek 1,Everton,2
+0,0,33,0,1,Sun,0,Premier League,0,2,55,0.0,CM,34,2021-08-22,0,25,Y,Southampton,0,2,0.0,0.0,75.8,0,33,,90,0,D 1–1,0,,2,8,Home,0,Matchweek 2,Manchester Utd,4
+,,,,,Wed,,EFL Cup,,,,,,,2021-08-25,,,N,Southampton,,,,,,,,,,,W 8–0,,"On matchday squad, but did not play",,,Away,,Second round,Newport County,
+0,3,57,0,0,Sat,0,Premier League,0,4,85,0.0,DM,11,2021-08-28,0,69,Y,Southampton,1,2,0.0,0.0,92.0,0,75,,87,2,D 2–2,0,,9,3,Away,0,Matchweek 3,Newcastle Utd,1
+0,1,24,0,0,Sat,0,Premier League,0,1,30,0.0,DM,9,2021-09-11,0,22,Y,Southampton,0,1,0.0,0.0,81.5,1,27,,52,1,D 0–0,0,,5,1,Home,0,Matchweek 4,West Ham,0
+0,2,28,0,1,Sat,0,Premier League,0,3,45,0.0,DM,7,2021-09-18,0,34,Y,Southampton,0,0,0.0,0.0,87.2,0,39,,90,0,D 0–0,0,,1,3,Away,0,Matchweek 5,Manchester City,0
+0,,,0,,Tue,,EFL Cup,1,,,,DM,,2021-09-21,0,,Y*,Southampton,1,,,,,0,,,120,,D 2 ,0,,,,Away,0,Third round,Sheffield Utd,0
+0,5,74,0,1,Sun,0,Premier League,0,8,90,0.0,"DM,CB",15,2021-09-26,0,71,Y,Southampton,1,0,0.2,0.0,85.5,0,83,,90,0,L 0–1,0,,9,1,Home,0,Matchweek 6,Wolves,2
+0,1,21,0,5,Sat,0,Premier League,0,2,49,0.0,"CB,DM",21,2021-10-02,0,31,Y,Southampton,0,3,0.0,0.0,81.6,1,38,,90,3,L 1–3,0,,3,3,Away,0,Matchweek 7,Chelsea,2
+0,3,28,0,0,Sat,0,Premier League,0,4,48,0.0,DM,12,2021-10-16,0,37,Y*,Southampton,1,3,0.0,0.0,84.1,0,44,,90,1,W 1–0,0,,3,2,Home,0,Matchweek 8,Leeds United,1
+0,2,41,0,2,Sat,0,Premier League,0,6,70,0.0,DM,14,2021-10-23,0,54,Y*,Southampton,0,0,0.1,0.0,85.7,0,63,,90,0,D 2–2,0,,10,1,Home,0,Matchweek 9,Burnley,0
+0,,,0,,Tue,,EFL Cup,0,,,,,,2021-10-26,0,,N,Southampton,2,,,,,0,,,14,,D 1 ,0,,,,Away,0,Fourth round,Chelsea,0
+0,3,42,0,0,Sat,0,Premier League,0,4,68,0.1,DM,10,2021-10-30,0,48,Y,Southampton,1,0,0.1,0.1,81.4,0,59,,89,0,W 1–0,0,,5,0,Away,0,Matchweek 10,Watford,3
+0,1,41,0,2,Fri,0,Premier League,0,5,68,0.1,DM,9,2021-11-05,0,48,Y,Southampton,1,1,0.0,0.1,84.2,1,57,,90,1,W 1–0,0,,4,2,Home,0,Matchweek 11,Aston Villa,2
+0,2,40,0,1,Sat,1,Premier League,0,5,64,0.0,DM,8,2021-11-20,0,48,Y,Southampton,1,0,0.0,0.0,84.2,0,57,,72,0,L 1–2,0,,5,2,Away,0,Matchweek 12,Norwich City,1
+0,0,32,0,1,Sat,0,Premier League,0,2,56,0.0,DM,18,2021-11-27,0,37,Y,Southampton,0,3,0.0,0.0,82.2,0,45,,90,2,L 0–4,0,,4,0,Away,0,Matchweek 13,Liverpool,2
+0,3,33,0,2,Wed,0,Premier League,0,8,59,0.0,DM,19,2021-12-01,0,42,Y,Southampton,0,1,0.1,0.0,79.2,1,53,,90,1,D 2–2,0,,4,1,Home,0,Matchweek 14,Leicester City,2
+0,1,25,0,3,Sat,0,Premier League,0,6,48,0.0,DM,27,2021-12-04,0,28,Y,Southampton,0,4,0.2,0.0,75.7,1,37,,90,1,D 1–1,0,,3,3,Home,0,Matchweek 15,Brighton,1
+0,1,20,0,2,Wed,0,Premier League,0,4,54,0.0,DM,24,2021-12-15,0,27,Y,Southampton,2,0,0.0,0.0,65.9,0,41,,90,0,D 2–2,0,,2,5,Away,0,Matchweek 17,Crystal Palace,2
+0,1,37,0,0,Sun,0,Premier League,0,2,57,0.0,DM,14,2021-12-26,0,41,Y,Southampton,1,0,0.0,0.0,89.1,0,46,,89,0,W 3–2,0,,2,4,Away,0,Matchweek 19,West Ham,1
+,,,,,Tue,,Premier League,,,,,,,2021-12-28,,,N,Southampton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 20,Tottenham,
+0,,,0,,Sat,,FA Cup,0,,,,CM,,2022-01-08,1,,Y,Southampton,2,,,,,0,,,120,,W 3–2,0,,,,Away,0,Third round proper,Swansea City,0
+0,3,47,0,2,Tue,1,Premier League,1,6,73,0.3,DM,15,2022-01-11,0,48,Y,Southampton,2,0,0.5,0.3,77.4,0,62,,90,0,W 4–1,0,,7,2,Home,0,Matchweek 18,Brentford,3
+0,4,60,0,0,Sat,0,Premier League,0,6,69,0.0,DM,14,2022-01-15,1,55,Y,Southampton,1,2,0.3,0.0,83.3,0,66,,90,2,L 1–3,0,,5,1,Away,0,Matchweek 22,Wolves,2
+0,0,18,0,1,Sat,0,Premier League,0,1,31,0.0,DM,22,2022-01-22,0,19,Y,Southampton,0,2,0.0,0.0,79.2,0,24,,90,2,D 1–1,0,,2,3,Home,0,Matchweek 23,Manchester City,2
+0,,,0,,Sat,,FA Cup,0,,,,,,2022-02-05,0,,N,Southampton,0,,,,,0,,,31,,W 2–1,0,,,,Home,0,Fourth round proper,Coventry City,1
+0,2,60,0,1,Wed,0,Premier League,0,3,76,0.1,DM,23,2022-02-09,1,61,Y,Southampton,4,0,0.0,0.1,92.4,1,66,,90,0,W 3–2,0,,6,3,Away,0,Matchweek 24,Tottenham,3
+0,2,42,0,2,Sat,0,Premier League,0,2,65,0.0,DM,18,2022-02-12,0,46,Y,Southampton,1,1,0.2,0.0,92.0,0,50,,89,1,D 1–1,0,,5,4,Away,0,Matchweek 25,Manchester Utd,4
+0,5,53,0,4,Sat,1,Premier League,0,7,86,0.0,DM,22,2022-02-19,0,62,Y,Southampton,1,1,0.3,0.0,87.3,0,71,,90,1,W 2–0,0,,7,4,Home,0,Matchweek 26,Everton,4
+0,2,62,0,1,Fri,0,Premier League,0,2,85,0.0,DM,13,2022-02-25,1,69,Y,Southampton,1,0,0.0,0.0,89.6,0,77,,90,0,W 2–0,0,,2,2,Home,1,Matchweek 27,Norwich City,1
+0,,,0,,Wed,,FA Cup,0,,,,,,2022-03-02,0,,N,Southampton,0,,,,,0,,,1,,W 3–1,0,,,,Home,0,Fifth round proper,West Ham,2
+0,3,38,0,1,Sat,0,Premier League,0,3,54,0.0,DM,10,2022-03-05,0,46,Y,Southampton,0,1,0.1,0.0,92.0,1,50,,76,1,L 0–4,0,,4,2,Away,0,Matchweek 28,Aston Villa,1
+0,2,62,0,2,Thu,0,Premier League,0,7,73,0.0,DM,16,2022-03-10,0,57,Y,Southampton,1,2,0.0,0.0,86.4,0,66,,78,2,L 1–2,0,,6,2,Home,0,Matchweek 21,Newcastle Utd,1
+0,1,40,0,1,Sun,0,Premier League,0,1,58,0.0,"DM,CB",11,2022-03-13,0,45,Y,Southampton,0,0,0.0,0.0,93.8,1,48,,73,0,L 1–2,0,,5,1,Home,0,Matchweek 29,Watford,2
+0,,,0,,Sun,,FA Cup,0,,,,CM,,2022-03-20,1,,Y,Southampton,1,,,,,0,,,87,,L 1–4,0,,,,Home,0,Quarter-finals,Manchester City,0
+0,3,20,0,0,Sat,0,Premier League,0,3,41,0.0,DM,14,2022-04-02,0,26,Y,Southampton,0,1,0.4,0.0,78.8,0,33,,63,0,D 1–1,0,,2,2,Away,0,Matchweek 31,Leeds United,1
+0,0,8,0,0,Sat,0,Premier League,0,1,16,0.0,DM,7,2022-04-09,0,10,Y,Southampton,0,2,0.0,0.0,83.3,0,12,,35,1,L 0–6,0,,0,1,Home,0,Matchweek 32,Chelsea,0
+0,1,14,0,1,Sat,0,Premier League,0,1,24,0.0,DM,21,2022-04-16,0,16,Y,Southampton,0,2,0.0,0.0,80.0,0,20,,90,1,W 1–0,0,,3,1,Home,0,Matchweek 33,Arsenal,4
+0,2,39,0,0,Thu,0,Premier League,0,9,66,0.2,DM,17,2022-04-21,0,45,Y,Southampton,2,0,0.0,0.2,78.9,0,57,,90,0,L 0–2,0,,7,2,Away,0,Matchweek 30,Burnley,3
+0,2,24,0,3,Sun,1,Premier League,1,2,57,0.1,DM,28,2022-04-24,0,32,Y,Southampton,1,0,0.1,0.1,72.7,0,44,,90,0,D 2–2,0,,1,1,Away,0,Matchweek 34,Brighton,4
+0,4,28,0,1,Sat,0,Premier League,0,1,52,0.1,DM,23,2022-04-30,1,23,Y,Southampton,1,0,0.3,0.1,57.5,0,40,,90,0,L 1–2,0,,2,6,Home,1,Matchweek 35,Crystal Palace,3
+0,1,9,0,0,Sat,0,Premier League,0,0,13,0.0,DM,0,2022-05-07,0,9,N,Southampton,0,0,0.0,0.0,69.2,0,13,,8,0,L 0–3,0,,2,0,Away,0,Matchweek 36,Brentford,0
+0,0,5,0,0,Tue,0,Premier League,0,0,7,0.0,DM,4,2022-05-17,0,5,N,Southampton,0,0,0.0,0.0,71.4,0,7,,20,0,L 1–2,0,,0,0,Home,0,Matchweek 37,Liverpool,0
+0,1,36,0,2,Sun,0,Premier League,0,3,52,0.0,CM,16,2022-05-22,0,32,Y,Southampton,0,2,0.0,0.0,78.0,1,41,,89,1,L 1–4,0,,5,2,Away,0,Matchweek 38,Leicester City,3

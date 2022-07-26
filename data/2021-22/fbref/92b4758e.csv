@@ -1,0 +1,39 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Fri,,Coppa Italia,1,,,,CB,,2021-08-13,1,,Y,Udinese,1,,,,,0,,,90,,W 3–1,0,,,Home,0,First round,Ascoli,4
+0,2,40,0,2,Sun,0,Serie A,0,1,61,0.5,CB,7,2021-08-22,1,41,Y,Udinese,1,0,0.0,0.5,85.4,0,48,,89,0,D 2–2,0,6,4,Home,0,Matchweek 1,Juventus,1
+0,0,40,0,2,Fri,0,Serie A,0,0,62,0.0,CB,12,2021-08-27,0,34,Y,Udinese,1,1,0.0,0.0,77.3,1,44,,90,1,W 3–0,0,1,1,Home,0,Matchweek 2,Venezia,5
+0,1,34,0,2,Sun,0,Serie A,0,1,51,0.1,CB,11,2021-09-12,0,35,Y,Udinese,1,0,0.0,0.1,85.4,0,41,,90,0,W 1–0,0,4,2,Away,0,Matchweek 3,Spezia,6
+0,0,40,0,0,Mon,0,Serie A,0,4,57,0.0,CB,11,2021-09-20,0,46,Y,Udinese,1,0,0.0,0.0,92.0,1,50,,90,0,L 0–4,0,5,2,Home,0,Matchweek 4,Napoli,1
+0,1,42,0,2,Thu,0,Serie A,0,3,65,0.0,CB,11,2021-09-23,0,49,Y,Udinese,0,1,0.0,0.0,84.5,0,58,,90,1,L 0–1,0,1,2,Away,0,Matchweek 5,Roma,0
+0,1,38,0,2,Sun,0,Serie A,0,3,63,0.0,"CB,LB",18,2021-09-26,0,41,Y,Udinese,0,1,0.0,0.0,83.7,0,49,,90,1,L 0–1,0,3,5,Home,0,Matchweek 6,Fiorentina,6
+0,2,20,0,3,Sun,1,Serie A,0,2,46,0.5,CB,15,2021-10-03,1,25,Y,Udinese,2,0,0.0,0.5,80.6,1,31,,78,0,D 3–3,0,0,5,Away,0,Matchweek 7,Sampdoria,3
+0,0,28,0,1,Sun,0,Serie A,0,1,50,0.0,CB,18,2021-10-17,0,28,Y,Udinese,0,0,0.0,0.0,66.7,0,42,,90,0,D 1–1,0,5,1,Home,0,Matchweek 8,Bologna,2
+0,0,14,0,4,Sun,0,Serie A,0,1,41,0.0,CB,21,2021-10-24,1,22,Y,Udinese,1,0,0.0,0.0,81.5,1,27,,90,0,D 1–1,0,0,4,Away,0,Matchweek 9,Atalanta,4
+0,0,15,0,2,Wed,0,Serie A,0,0,43,0.0,CB,9,2021-10-27,0,22,Y,Udinese,0,0,0.0,0.0,62.9,0,35,,90,0,D 1–1,0,3,0,Home,0,Matchweek 10,Hellas Verona,6
+0,1,25,0,2,Sun,0,Serie A,0,0,57,0.0,CB,21,2021-10-31,0,32,Y,Udinese,0,0,0.0,0.0,82.1,0,39,,90,0,L 0–2,0,1,6,Away,0,Matchweek 11,Inter,1
+0,0,12,0,0,Sun,0,Serie A,0,1,23,0.0,LB,5,2021-11-07,0,14,Y,Udinese,0,0,0.0,0.0,77.8,0,18,,35,0,W 3–2,0,0,2,Home,0,Matchweek 12,Sassuolo,1
+0,1,29,0,2,Mon,1,Serie A,0,1,63,0.0,CB,15,2021-11-22,0,34,Y,Udinese,0,0,0.0,0.0,69.4,0,49,,90,0,L 1–2,0,1,2,Away,0,Matchweek 13,Torino,3
+0,0,31,0,2,Sun,0,Serie A,0,3,60,0.0,CB,17,2021-11-28,0,36,Y,Udinese,0,1,0.0,0.0,80.0,0,45,,90,1,D 0–0,0,1,2,Home,0,Matchweek 14,Genoa,7
+0,0,25,0,2,Thu,0,Serie A,0,1,42,0.2,CB,8,2021-12-02,0,28,Y*,Udinese,1,1,0.0,0.2,82.4,0,34,,85,1,D 4–4,0,1,2,Away,0,Matchweek 15,Lazio,1
+0,1,5,0,2,Mon,0,Serie A,0,0,25,0.0,CB,7,2021-12-06,0,13,Y*,Udinese,0,0,0.0,0.0,81.3,1,16,,54,0,L 1–3,0,0,1,Away,0,Matchweek 16,Empoli,2
+0,,,0,,Tue,,Coppa Italia,0,,,,CB,,2021-12-14,0,,Y*,Udinese,0,,,,,0,,,57,,W 4–0,0,,,Home,0,Second round,Crotone,2
+0,0,39,0,2,Sat,0,Serie A,0,4,69,0.0,CB,9,2021-12-18,0,51,Y,Udinese,0,1,0.0,0.0,83.6,0,61,,90,0,W 4–0,0,1,2,Away,0,Matchweek 18,Cagliari,2
+0,0,27,0,0,Sat,0,Premier League,0,0,53,0.1,CB,10,2022-01-15,1,35,Y,Watford,1,0,0.0,0.1,87.5,1,40,,90,0,D 1–1,0,0,2,Away,0,Matchweek 22,Newcastle Utd,6
+0,0,50,0,1,Fri,0,Premier League,0,4,82,0.0,CB,14,2022-01-21,1,58,Y,Watford,1,1,0.0,0.0,87.9,0,66,,90,0,L 0–3,0,4,6,Home,0,Matchweek 23,Norwich City,4
+0,0,21,0,0,Sat,0,Premier League,0,0,49,0.0,CB,11,2022-02-05,0,24,Y,Watford,0,0,0.0,0.0,72.7,0,33,,90,0,D 0–0,0,1,1,Away,0,Matchweek 17,Burnley,7
+0,0,16,0,2,Tue,0,Premier League,0,2,34,0.0,CB,8,2022-02-08,0,18,Y,Watford,0,0,0.0,0.0,81.8,0,22,,90,0,L 0–1,0,0,2,Away,0,Matchweek 24,West Ham,3
+0,0,19,0,0,Sat,0,Premier League,0,2,42,0.0,CB,7,2022-02-12,0,27,Y,Watford,0,0,0.0,0.0,81.8,0,33,,90,0,L 0–2,0,1,2,Home,0,Matchweek 25,Brighton,7
+0,0,24,0,2,Sat,0,Premier League,0,0,51,0.0,CB,5,2022-02-19,0,28,Y,Watford,0,0,0.0,0.0,80.0,0,35,,89,0,W 1–0,0,0,3,Away,0,Matchweek 26,Aston Villa,4
+0,1,57,0,0,Wed,0,Premier League,0,3,78,0.0,CB,5,2022-02-23,0,61,Y,Watford,1,0,0.0,0.0,88.4,1,69,,90,0,L 1–4,0,3,2,Home,0,Matchweek 18,Crystal Palace,2
+0,0,26,0,5,Sat,0,Premier League,0,1,50,0.1,CB,11,2022-02-26,0,26,Y,Watford,1,0,0.0,0.1,74.3,0,35,,90,0,D 0–0,0,0,5,Away,0,Matchweek 27,Manchester Utd,0
+0,0,36,0,0,Sun,0,Premier League,0,1,47,0.0,CB,6,2022-03-06,0,38,Y,Watford,0,0,0.0,0.0,92.7,0,41,,90,0,L 2–3,0,0,1,Home,0,Matchweek 28,Arsenal,0
+0,0,24,0,2,Thu,0,Premier League,0,1,40,0.0,CB,9,2022-03-10,0,28,Y,Watford,1,0,0.0,0.0,82.4,1,34,,90,0,L 0–4,0,2,0,Away,0,Matchweek 19,Wolves,3
+0,0,17,0,4,Sun,0,Premier League,0,1,39,0.0,CB,8,2022-03-13,0,17,Y,Watford,0,0,0.0,0.0,65.4,0,26,,90,0,W 2–1,0,0,1,Away,0,Matchweek 29,Southampton,4
+0,1,14,0,1,Sat,0,Premier League,0,0,27,0.0,CB,3,2022-04-02,0,20,Y,Watford,0,0,0.1,0.0,87.0,0,23,,90,0,L 0–2,0,0,0,Away,0,Matchweek 31,Liverpool,2
+0,0,19,0,3,Sat,0,Premier League,0,0,41,0.0,CB,7,2022-04-09,0,22,Y,Watford,0,0,0.0,0.0,71.0,0,31,,90,0,L 0–3,0,0,1,Home,0,Matchweek 32,Leeds United,3
+0,2,26,0,4,Sat,0,Premier League,0,1,46,0.1,CB,5,2022-04-16,0,29,Y,Watford,2,0,0.0,0.1,82.9,0,35,,90,0,L 1–2,0,1,2,Home,0,Matchweek 33,Brentford,2
+0,0,15,0,0,Sat,0,Premier League,0,0,30,0.0,CB,5,2022-04-23,0,22,Y,Watford,0,0,0.0,0.0,84.6,0,26,,67,0,L 1–5,0,0,0,Away,0,Matchweek 34,Manchester City,2
+0,0,17,0,1,Sat,0,Premier League,0,1,43,0.0,CB,5,2022-04-30,0,22,Y,Watford,0,0,0.0,0.0,75.9,0,29,,90,0,L 1–2,0,2,1,Home,0,Matchweek 35,Burnley,0
+0,0,7,0,1,Sat,0,Premier League,0,2,25,0.1,CB,7,2022-05-07,0,9,Y,Watford,1,0,0.0,0.1,56.3,0,16,,77,0,L 0–1,0,0,1,Away,0,Matchweek 36,Crystal Palace,3
+0,0,28,0,1,Wed,0,Premier League,0,3,49,0.0,CB,5,2022-05-11,0,38,Y,Watford,0,0,0.0,0.0,92.7,1,41,,90,0,D 0–0,0,1,1,Home,0,Matchweek 30,Everton,1
+0,0,12,0,1,Sun,0,Premier League,0,0,30,0.0,CB,12,2022-05-22,0,15,Y,Watford,0,0,0.0,0.0,62.5,0,24,,90,0,L 1–2,0,1,1,Away,0,Matchweek 38,Chelsea,1

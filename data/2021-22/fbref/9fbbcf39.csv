@@ -1,0 +1,51 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,36,0,0,Sat,0,Premier League,0,7,68,0.0,CB,7,2021-08-14,0,50,Y,Wolves,0,0,0.1,0.0,87.7,0,57,,90,0,L 0–1,0,,3,2,Away,0,Matchweek 1,Leicester City,3
+0,1,40,0,1,Sun,0,Premier League,0,6,65,0.0,CB,10,2021-08-22,0,42,Y,Wolves,1,0,0.0,0.0,82.4,0,51,,83,0,L 0–1,0,,5,3,Home,0,Matchweek 2,Tottenham,2
+0,,,0,,Tue,,EFL Cup,0,,,,CB,,2021-08-24,3,,Y,Wolves,5,,,,,0,,,90,,W 4–0,0,,,,Away,1,Second round,Nott'ham Forest,1
+0,1,28,0,0,Sun,0,Premier League,0,2,56,0.6,CB,10,2021-08-29,2,35,Y,Wolves,2,0,0.0,0.6,85.4,1,41,,90,0,L 0–1,0,,1,2,Home,0,Matchweek 3,Manchester Utd,1
+0,,,0,,Thu,,WCQ,0,,,,CB,,2021-09-02,,,Y*,Morocco,,,,,,0,,,90,,W 2–0,0,,,,Home,0,Second round,Sudan,
+0,0,52,0,1,Sat,0,Premier League,0,5,70,0.1,CB,8,2021-09-11,1,54,Y,Wolves,1,1,0.0,0.1,91.5,0,59,,90,1,W 2–0,0,,3,2,Away,0,Matchweek 4,Watford,0
+0,0,32,0,0,Sat,0,Premier League,0,2,46,0.0,CB,9,2021-09-18,0,35,Y,Wolves,1,0,0.0,0.0,87.5,1,40,,45,0,L 0–2,0,,2,1,Home,0,Matchweek 5,Brentford,0
+0,0,31,0,4,Sun,0,Premier League,0,5,61,0.0,CB,7,2021-09-26,0,37,Y,Wolves,0,0,0.0,0.0,80.4,0,46,,90,0,W 1–0,0,,3,1,Away,0,Matchweek 6,Southampton,1
+0,1,43,0,3,Sat,0,Premier League,0,3,79,0.0,CB,5,2021-10-02,0,53,Y,Wolves,0,0,0.0,0.0,85.5,0,62,,90,0,W 2–1,0,,1,1,Home,0,Matchweek 7,Newcastle Utd,2
+0,,,0,,Wed,,WCQ,0,,,,CB,,2021-10-06,,,Y*,Morocco,,,,,,0,,,90,,W 5–0,0,,,,Home,0,Second round,Guinea-Bissau,
+0,,,0,,Sat,,WCQ,0,,,,CB,,2021-10-09,,,Y*,Morocco,,,,,,0,,,90,,W 3–0,0,,,,Away,0,Second round,Guinea-Bissau,
+0,,,0,,Tue,,WCQ,0,,,,CB,,2021-10-12,,,Y*,Morocco,,,,,,0,,,90,,W 4–1,0,,,,Away,0,Second round,Guinea,
+0,0,30,0,1,Sat,0,Premier League,0,2,64,0.8,CB,10,2021-10-16,1,36,Y,Wolves,1,0,0.0,0.8,75.0,0,48,,90,0,W 3–2,0,,1,2,Away,1,Matchweek 8,Aston Villa,5
+0,0,17,0,3,Sat,0,Premier League,0,2,45,0.0,CB,5,2021-10-23,0,20,Y,Wolves,0,0,0.0,0.0,66.7,1,30,,90,0,D 1–1,0,,1,1,Away,0,Matchweek 9,Leeds United,6
+0,0,51,0,1,Mon,0,Premier League,0,6,90,0.0,CB,16,2021-11-01,0,70,Y,Wolves,0,0,0.0,0.0,87.5,0,80,,90,0,W 2–1,0,,8,4,Home,0,Matchweek 10,Everton,0
+0,1,39,0,3,Sat,0,Premier League,0,5,65,0.0,CB,6,2021-11-06,0,44,Y,Wolves,0,0,0.0,0.0,81.5,0,54,,90,0,L 0–2,0,,2,2,Away,0,Matchweek 11,Crystal Palace,2
+0,,,0,,Fri,,WCQ,0,,,,CB,,2021-11-12,,,Y*,Morocco,,,,,,1,,,90,,W 3–0,0,,,,Away,0,Second round,Sudan,
+,,,,,Tue,,WCQ,,,,,,,2021-11-16,,,N,Morocco,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Second round,Guinea,
+0,1,37,0,2,Sat,0,Premier League,0,6,73,0.0,CB,4,2021-11-20,0,53,Y,Wolves,1,0,0.0,0.0,85.5,0,62,,90,0,W 1–0,0,,1,1,Home,0,Matchweek 12,West Ham,1
+0,0,59,0,1,Sat,0,Premier League,0,4,89,0.0,CB,7,2021-11-27,0,67,Y,Wolves,0,0,0.0,0.0,84.8,0,79,,90,0,D 0–0,0,,1,2,Away,0,Matchweek 13,Norwich City,2
+0,0,41,0,0,Wed,0,Premier League,0,12,76,0.0,CB,5,2021-12-01,0,54,Y,Wolves,1,0,0.0,0.0,81.8,0,66,,90,0,D 0–0,0,,5,2,Home,0,Matchweek 14,Burnley,2
+0,0,21,0,2,Sat,0,Premier League,0,2,46,0.0,CB,17,2021-12-04,0,20,Y,Wolves,0,0,0.0,0.0,64.5,0,31,,90,0,L 0–1,0,,1,2,Home,0,Matchweek 15,Liverpool,1
+0,0,19,0,2,Sat,0,Premier League,0,0,45,0.0,CB,9,2021-12-11,0,28,Y,Wolves,0,0,0.0,0.0,80.0,0,35,,90,0,L 0–1,0,,0,0,Away,0,Matchweek 16,Manchester City,4
+0,0,29,0,1,Wed,0,Premier League,0,1,64,0.4,CB,5,2021-12-15,1,38,Y,Wolves,2,0,0.0,0.4,80.9,0,47,,90,0,W 1–0,0,,0,1,Away,1,Matchweek 17,Brighton,5
+0,1,40,0,3,Sun,0,Premier League,0,4,65,0.0,CB,16,2021-12-19,0,36,Y,Wolves,0,1,0.0,0.0,78.3,0,46,,90,0,D 0–0,0,,0,4,Home,0,Matchweek 18,Chelsea,5
+0,1,49,0,2,Mon,0,Premier League,0,4,74,0.1,CB,13,2022-01-03,0,55,Y,Wolves,3,0,0.0,0.1,84.6,0,65,,90,0,W 1–0,0,,2,1,Away,0,Matchweek 21,Manchester Utd,2
+0,,,0,,Mon,,Africa Cup of Nations,0,,,,CB,,2022-01-10,0,,Y*,Morocco,3,,,,,0,,,90,,W 1–0,0,,,,Neutral,0,Group stage,Ghana,0
+0,,,0,,Fri,,Africa Cup of Nations,0,,,,CB,,2022-01-14,1,,Y*,Morocco,1,,,,,0,,,90,,W 2–0,0,,,,Neutral,0,Group stage,Comoros,1
+0,,,0,,Tue,,Africa Cup of Nations,0,,,,,,2022-01-18,0,,N,Morocco,0,,,,,0,,,2,,D 2–2,0,,,,Neutral,0,Group stage,Gabon,0
+0,,,0,,Tue,,Africa Cup of Nations,0,,,,CB,,2022-01-25,0,,Y*,Morocco,1,,,,,0,,,90,,W 2–1,0,,,,Neutral,0,Round of 16,Malawi,1
+0,,,0,,Sun,,Africa Cup of Nations,0,,,,CB,,2022-01-30,0,,Y*,Morocco,2,,,,,0,,,120,,L 1–2,0,,,,Neutral,0,Quarter-finals,Egypt,1
+0,1,48,0,0,Thu,0,Premier League,0,4,70,0.1,CB,15,2022-02-10,1,45,Y,Wolves,1,0,0.0,0.1,76.3,1,59,,90,0,L 0–1,0,,5,2,Home,0,Matchweek 24,Arsenal,3
+0,0,40,0,5,Sun,0,Premier League,0,2,71,0.0,CB,12,2022-02-13,0,36,Y,Wolves,0,1,0.0,0.0,67.9,0,53,,90,1,W 2–0,0,,1,4,Away,0,Matchweek 25,Tottenham,5
+0,1,25,0,5,Sun,0,Premier League,0,0,56,0.1,CB,13,2022-02-20,0,22,Y,Wolves,1,0,0.1,0.1,64.7,0,34,,90,0,W 2–1,0,,0,3,Home,0,Matchweek 26,Leicester City,4
+0,0,36,0,5,Thu,0,Premier League,0,0,73,0.0,CB,7,2022-02-24,0,43,Y,Wolves,0,1,0.0,0.0,71.7,0,60,,90,1,L 1–2,0,,1,1,Away,0,Matchweek 20,Arsenal,4
+0,2,34,0,0,Sun,0,Premier League,0,8,73,0.0,"CB,LB",6,2022-02-27,0,59,Y,Wolves,0,0,0.0,0.0,93.7,0,63,,90,0,L 0–1,0,,3,1,Away,0,Matchweek 27,West Ham,2
+0,0,46,0,1,Sat,0,Premier League,0,5,80,0.0,CB,5,2022-03-05,0,59,Y,Wolves,0,1,0.0,0.0,88.1,0,67,,90,1,L 0–2,0,,11,2,Home,0,Matchweek 28,Crystal Palace,1
+0,0,80,0,3,Thu,0,Premier League,0,5,115,0.0,CB,7,2022-03-10,0,91,Y,Wolves,0,0,0.0,0.0,87.5,1,104,,90,0,W 4–0,0,,2,3,Home,0,Matchweek 19,Watford,2
+0,0,57,0,2,Sun,0,Premier League,0,2,73,0.0,CB,7,2022-03-13,0,51,Y,Wolves,0,0,0.0,0.0,79.7,0,64,,90,0,W 1–0,0,,1,2,Away,0,Matchweek 29,Everton,4
+0,1,41,0,4,Fri,0,Premier League,0,4,61,0.0,CB,10,2022-03-18,0,45,Y,Wolves,0,2,0.0,0.0,93.8,0,48,,90,1,L 2–3,0,,1,1,Home,0,Matchweek 30,Leeds United,3
+0,,,0,,Fri,,WCQ,0,,,,CB,,2022-03-25,,,Y*,Morocco,,,,,,0,,,90,,D 1–1,0,,,,Away,0,Third round,Congo DR,
+0,,,0,,Tue,,WCQ,0,,,,CB,,2022-03-29,,,Y*,Morocco,,,,,,0,,,90,,W 4–1,0,,,,Home,0,Third round,Congo DR,
+,,,,,Sat,,Premier League,,,,,,,2022-04-02,,,N,Wolves,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Matchweek 31,Aston Villa,
+,,,,,Fri,,Premier League,,,,,,,2022-04-08,,,N,Wolves,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 32,Newcastle Utd,
+0,1,58,0,1,Sun,0,Premier League,0,6,84,0.0,CB,8,2022-04-24,0,65,Y,Wolves,0,0,0.1,0.0,85.5,0,76,,78,0,L 0–1,0,,5,2,Away,0,Matchweek 34,Burnley,3
+0,1,43,0,2,Sat,0,Premier League,0,6,79,0.0,CB,11,2022-04-30,0,54,Y,Wolves,0,0,0.0,0.0,77.1,0,70,,90,0,L 0–3,0,,2,4,Home,0,Matchweek 35,Brighton,2
+0,0,15,0,3,Sat,0,Premier League,0,0,35,0.4,CB,13,2022-05-07,0,18,Y,Wolves,3,1,0.0,0.4,85.7,1,21,,69,0,D 2–2,0,,1,1,Away,0,Matchweek 36,Chelsea,4
+0,,,0,,Wed,,Friendlies (M),0,,,,CB,,2022-06-01,,,Y*,Morocco,,,,,,1,,,90,,L 0–3,0,,,,Away,0,Friendlies (M),United States,
+0,,,0,,Thu,,Africa Cup of Nations qualification,1,,,,CB,,2022-06-09,,,Y*,Morocco,,,,,,0,,,90,,W 2–1,0,,,,Home,0,Group stage,South Africa,
+0,,,0,,Mon,,Africa Cup of Nations qualification,0,,,,CB,,2022-06-13,,,Y*,Morocco,,,,,,0,,,45,,W 2–0,0,,,,Neutral,0,Group stage,Liberia,

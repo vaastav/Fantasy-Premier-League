@@ -1,0 +1,41 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,25,0,5,Sat,0,Premier League,0,0,35,0.0,LM,16,2021-08-14,0,14,Y,Burnley,0,3,0.1,0.0,58.3,0,24,,78,2,L 1–2,0,4,0,Home,0,Matchweek 1,Brighton,3
+0,1,36,0,3,Sat,0,Premier League,0,0,41,0.1,LM,18,2021-08-21,1,19,Y,Burnley,2,6,0.0,0.1,65.5,0,29,,90,5,L 0–2,0,4,1,Away,0,Matchweek 2,Liverpool,2
+0,,,0,,Wed,,EFL Cup,0,,,,LM,,2021-08-25,0,,Y,Burnley,2,,,,,1,,,90,,D 0 ,0,,,Away,0,Second round,Newcastle Utd,0
+0,5,32,0,3,Sun,0,Premier League,0,3,44,0.0,LM,25,2021-08-29,0,18,Y,Burnley,2,4,0.3,0.0,60.0,0,30,,90,2,D 1–1,0,9,7,Home,0,Matchweek 3,Leeds United,1
+0,2,36,0,2,Mon,0,Premier League,0,1,44,0.0,LM,27,2021-09-13,3,24,Y,Burnley,3,3,0.3,0.0,72.7,0,33,,90,1,L 1–3,0,11,2,Away,0,Matchweek 4,Everton,0
+0,6,45,0,2,Sat,0,Premier League,0,1,54,0.1,"LM,RM",24,2021-09-18,0,26,Y,Burnley,2,2,0.2,0.1,57.8,0,45,,90,1,L 0–1,0,8,1,Home,0,Matchweek 5,Arsenal,1
+0,0,23,0,3,Sat,0,Premier League,0,1,38,0.0,"RM,LM",27,2021-09-25,0,17,Y,Burnley,0,5,0.0,0.0,70.8,0,24,,86,0,D 2–2,0,4,3,Away,0,Matchweek 6,Leicester City,3
+0,5,53,0,2,Sat,0,Premier League,0,3,69,0.0,LM,8,2021-10-02,2,42,Y,Burnley,2,5,0.0,0.0,75.0,0,56,,90,2,D 0–0,0,9,0,Home,0,Matchweek 7,Norwich City,0
+0,2,42,0,4,Sat,0,Premier League,0,1,54,0.0,LM,19,2021-10-16,0,29,Y,Burnley,0,5,0.4,0.0,74.4,0,39,,90,2,L 0–2,0,3,2,Away,0,Matchweek 8,Manchester City,5
+0,3,30,0,5,Sat,1,Premier League,0,3,44,0.1,"RM,LM",18,2021-10-23,0,17,Y,Burnley,2,2,0.3,0.1,58.6,0,29,,90,2,D 2–2,0,5,1,Away,0,Matchweek 9,Southampton,2
+0,,,0,,Wed,,EFL Cup,0,,,,LM,,2021-10-27,0,,Y,Burnley,0,,,,,0,,,74,,L 0–1,0,,,Home,0,Fourth round,Tottenham,3
+0,3,34,0,3,Sat,1,Premier League,1,3,45,0.1,LM,18,2021-10-30,0,20,Y,Burnley,2,5,0.1,0.1,74.1,1,27,,90,5,W 3–1,0,6,2,Home,0,Matchweek 10,Brentford,4
+0,0,24,0,2,Sat,0,Premier League,0,1,37,0.0,"LM,RM",38,2021-11-06,0,22,Y,Burnley,0,0,0.0,0.0,75.9,0,29,,90,0,D 1–1,0,2,3,Away,0,Matchweek 11,Chelsea,1
+0,6,40,0,3,Sat,1,Premier League,0,4,49,0.0,LM,15,2021-11-20,0,26,Y,Burnley,0,4,0.2,0.0,70.3,0,37,,90,3,D 3–3,0,2,2,Home,0,Matchweek 12,Crystal Palace,1
+0,0,31,0,1,Wed,0,Premier League,0,1,45,0.1,"LM,RM",26,2021-12-01,1,24,Y,Burnley,2,5,0.0,0.1,85.7,0,28,,90,0,D 0–0,0,8,5,Away,0,Matchweek 14,Wolves,3
+0,1,30,0,2,Sat,0,Premier League,0,0,41,0.0,LM,14,2021-12-04,0,23,Y,Burnley,1,0,0.0,0.0,71.9,0,32,,90,0,L 0–1,0,1,4,Away,0,Matchweek 15,Newcastle Utd,2
+0,3,39,0,2,Sun,0,Premier League,0,4,51,0.0,LM,13,2021-12-12,0,28,Y,Burnley,1,3,0.2,0.0,70.0,0,40,,87,3,D 0–0,0,7,1,Home,0,Matchweek 16,West Ham,5
+0,2,32,0,2,Thu,0,Premier League,0,4,46,0.0,"RM,LM",25,2021-12-30,0,26,Y,Burnley,1,1,0.0,0.0,78.8,0,33,,83,0,L 1–3,0,5,3,Away,0,Matchweek 20,Manchester Utd,5
+0,1,19,0,0,Sun,0,Premier League,0,1,31,0.0,"RM,LM",17,2022-01-02,0,17,Y,Burnley,0,2,0.0,0.0,73.9,0,23,,90,1,L 1–3,0,3,3,Away,0,Matchweek 21,Leeds United,0
+0,5,26,0,1,Sun,0,Premier League,0,0,31,0.1,LM,15,2022-01-23,1,12,Y,Burnley,4,6,0.1,0.1,66.7,0,18,,90,4,D 0–0,0,5,1,Away,0,Matchweek 23,Arsenal,0
+0,1,35,0,2,Sat,0,Premier League,0,0,40,0.0,"LM,RM",13,2022-02-05,0,19,Y,Burnley,1,7,0.0,0.0,73.1,0,26,,90,3,D 0–0,0,3,1,Home,0,Matchweek 17,Watford,1
+0,2,22,0,1,Tue,0,Premier League,0,3,29,0.0,"RM,LM",25,2022-02-08,1,14,Y,Burnley,1,4,0.2,0.0,77.8,0,18,,90,1,D 1–1,0,5,4,Home,0,Matchweek 24,Manchester Utd,0
+0,0,12,0,0,Sun,0,Premier League,0,0,15,0.0,LM,7,2022-02-13,0,5,N,Burnley,0,2,0.0,0.0,55.6,0,9,,29,1,L 0–1,0,3,1,Home,0,Matchweek 25,Liverpool,0
+0,1,36,0,3,Sat,0,Premier League,0,1,50,0.0,LM,25,2022-02-19,1,20,Y,Burnley,2,2,0.0,0.0,58.8,0,34,,90,2,W 3–0,0,3,0,Away,0,Matchweek 26,Brighton,1
+0,7,54,0,6,Wed,0,Premier League,0,3,66,0.0,LM,28,2022-02-23,0,37,Y,Burnley,2,6,0.1,0.0,74.0,0,50,,90,5,W 1–0,0,9,2,Home,0,Matchweek 13,Tottenham,4
+0,0,29,0,1,Sat,0,Premier League,0,1,44,0.0,LM,10,2022-02-26,0,19,Y,Burnley,0,3,0.0,0.0,57.6,0,33,,90,3,D 1–1,0,3,1,Away,0,Matchweek 27,Crystal Palace,4
+0,2,33,0,4,Tue,0,Premier League,0,2,45,0.0,"LM,DM",11,2022-03-01,0,18,Y,Burnley,0,9,0.3,0.0,56.3,0,32,,90,7,L 0–2,0,6,0,Home,0,Matchweek 22,Leicester City,4
+0,1,37,0,3,Sat,0,Premier League,0,0,50,0.5,LM,30,2022-03-05,0,25,Y,Burnley,2,3,0.1,0.5,67.6,0,37,,90,2,L 0–4,0,6,3,Home,0,Matchweek 28,Chelsea,1
+0,1,28,0,0,Sat,0,Premier League,0,5,39,0.3,LM,7,2022-03-12,0,15,Y,Burnley,2,3,0.1,0.3,50.0,0,30,,90,1,L 0–2,0,10,0,Away,0,Matchweek 29,Brentford,0
+0,0,7,0,1,Sat,0,Premier League,0,0,15,0.0,LM,6,2022-04-02,0,6,Y,Burnley,0,1,0.0,0.0,60.0,0,10,,45,1,L 0–2,0,1,2,Home,0,Matchweek 31,Manchester City,2
+0,1,2,0,0,Wed,0,Premier League,0,0,4,0.0,RM,2,2022-04-06,0,1,N,Burnley,1,1,0.0,0.0,100.0,0,1,,6,0,W 3–2,0,1,0,Home,0,Matchweek 19,Everton,1
+0,3,20,0,0,Sun,0,Premier League,0,2,18,0.0,LM,1,2022-04-10,0,12,N,Burnley,1,3,0.7,0.0,85.7,0,14,,27,2,L 0–2,0,4,1,Away,0,Matchweek 32,Norwich City,0
+0,0,25,0,3,Sun,0,Premier League,0,2,35,0.0,RM,26,2022-04-17,0,21,Y,Burnley,0,0,0.0,0.0,77.8,0,27,,78,0,D 1–1,0,5,2,Away,0,Matchweek 33,West Ham,1
+0,2,40,0,2,Thu,0,Premier League,0,1,48,0.1,RM,13,2022-04-21,1,24,Y,Burnley,4,4,0.1,0.1,70.6,0,34,,86,2,W 2–0,0,4,1,Home,0,Matchweek 30,Southampton,2
+0,6,35,0,2,Sun,1,Premier League,0,6,50,0.1,RM,24,2022-04-24,1,27,Y,Burnley,2,7,0.2,0.1,77.1,0,35,,84,2,W 1–0,0,10,3,Home,0,Matchweek 34,Wolves,3
+0,5,41,0,0,Sat,0,Premier League,0,3,56,0.1,"RM,LM",19,2022-04-30,0,27,Y,Burnley,2,4,0.2,0.1,62.8,0,43,,90,1,W 2–1,0,8,2,Away,0,Matchweek 35,Watford,1
+0,6,43,0,2,Sat,0,Premier League,0,5,52,0.2,RM,16,2022-05-07,2,26,Y,Burnley,3,6,0.2,0.2,76.5,0,34,,90,5,L 1–3,0,6,3,Home,0,Matchweek 36,Aston Villa,1
+0,4,26,0,2,Sun,0,Premier League,0,2,41,0.0,"CM,LM",20,2022-05-15,0,27,Y,Burnley,1,2,0.2,0.0,87.1,0,31,,90,1,L 0–1,0,6,0,Away,0,Matchweek 37,Tottenham,1
+0,3,22,0,1,Thu,1,Premier League,0,0,30,0.0,CM,17,2022-05-19,0,19,Y,Burnley,1,0,0.0,0.0,76.0,0,25,,78,0,D 1–1,0,2,1,Away,0,Matchweek 18,Aston Villa,0
+0,5,41,0,4,Sun,0,Premier League,0,4,71,0.1,"LM,RM,DM",17,2022-05-22,1,32,Y,Burnley,3,9,0.0,0.1,62.7,0,51,,90,3,L 1–2,0,8,0,Home,0,Matchweek 38,Newcastle Utd,2

@@ -1,0 +1,23 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,21,0,1,Sat,0,Premier League,0,1,30,0.1,"RM,LM",11,2021-08-14,0,13,Y,Burnley,2,3,0.0,0.1,68.4,1,19,,90,3,L 1–2,0,,2,2,Home,0,Matchweek 1,Brighton,0
+0,1,23,0,1,Sat,0,Premier League,0,0,32,0.0,RM,7,2021-08-21,0,17,Y,Burnley,0,0,0.0,0.0,70.8,0,24,,78,0,L 0–2,0,,1,0,Away,0,Matchweek 2,Liverpool,0
+0,0,17,0,0,Sun,0,Premier League,0,2,28,0.3,RM,8,2021-08-29,0,15,Y,Burnley,1,2,0.0,0.3,68.2,0,22,,62,1,D 1–1,0,,2,0,Home,0,Matchweek 3,Leeds United,2
+0,,,0,,Thu,,WCQ,0,,,,FW,,2021-09-02,0,,Y*,Iceland,1,,,,,0,,,90,,L 0–2,0,,,,Home,0,First round,Romania,0
+0,,,0,,Wed,,WCQ,0,,,,FW,,2021-09-08,1,,Y*,Iceland,2,,,,,0,,,70,,L 0–4,0,,,,Home,0,First round,Germany,1
+0,1,17,0,5,Mon,1,Premier League,1,0,33,0.0,RM,9,2021-09-13,0,8,Y,Burnley,0,0,0.2,0.0,38.1,0,21,,75,0,L 1–3,0,,1,2,Away,0,Matchweek 4,Everton,2
+0,1,18,0,1,Sat,0,Premier League,0,1,27,0.1,RM,12,2021-09-18,1,10,Y,Burnley,3,0,0.0,0.1,52.6,0,19,,56,0,L 0–1,0,,1,0,Home,0,Matchweek 5,Arsenal,0
+,,,,,Tue,,EFL Cup,,,,,,,2021-09-21,,,N,Burnley,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Home,,Third round,Rochdale,
+0,1,17,0,2,Sat,0,Premier League,0,1,19,0.0,RM,4,2021-09-25,0,9,N,Burnley,0,2,0.0,0.0,75.0,1,12,,46,1,D 2–2,0,,2,1,Away,0,Matchweek 6,Leicester City,0
+0,1,11,0,0,Sat,0,Premier League,0,0,15,0.0,RM,3,2021-10-02,0,9,N,Burnley,0,0,0.0,0.0,69.2,0,13,,31,0,D 0–0,0,,4,1,Home,0,Matchweek 7,Norwich City,0
+0,0,10,0,0,Sat,0,Premier League,0,0,10,0.0,CM,5,2021-10-16,0,3,N,Burnley,0,2,0.0,0.0,42.9,0,7,,19,1,L 0–2,0,,1,0,Away,0,Matchweek 8,Manchester City,1
+0,0,1,0,1,Sat,0,Premier League,0,0,1,0.0,RM,2,2021-10-23,0,0,N,Burnley,1,0,0.0,0.0,,0,0,,13,0,D 2–2,0,,1,0,Away,0,Matchweek 9,Southampton,0
+0,,,0,,Wed,,EFL Cup,0,,,,RM,,2021-10-27,0,,Y,Burnley,0,,,,,0,,,74,,L 0–1,0,,,,Home,0,Fourth round,Tottenham,0
+0,3,28,0,0,Sat,0,Premier League,0,1,39,0.7,RM,4,2021-10-30,1,20,Y,Burnley,2,1,0.0,0.7,60.6,0,33,,90,1,W 3–1,0,,7,0,Home,0,Matchweek 10,Brentford,0
+0,1,16,0,1,Sat,0,Premier League,0,2,27,0.0,RM,12,2021-11-06,0,15,Y,Burnley,0,0,0.0,0.0,65.2,0,23,,69,0,D 1–1,0,,1,1,Away,0,Matchweek 11,Chelsea,2
+0,1,34,0,4,Sat,1,Premier League,0,0,52,0.2,RM,14,2021-11-20,2,27,Y,Burnley,4,1,0.0,0.2,73.0,0,37,,90,1,D 3–3,0,,2,1,Home,0,Matchweek 12,Crystal Palace,1
+0,0,23,0,0,Wed,0,Premier League,0,1,33,0.0,RM,16,2021-12-01,0,13,Y,Burnley,0,3,0.0,0.0,56.5,0,23,,71,2,D 0–0,0,,4,2,Away,0,Matchweek 14,Wolves,2
+0,3,33,0,1,Sat,0,Premier League,0,2,46,0.2,RM,22,2021-12-04,0,21,Y,Burnley,3,3,0.0,0.2,72.4,0,29,,79,2,L 0–1,0,,2,7,Away,0,Matchweek 15,Newcastle Utd,1
+0,2,21,0,0,Sun,0,Premier League,0,1,32,0.0,RM,20,2021-12-12,0,18,Y,Burnley,0,2,0.0,0.0,78.3,0,23,,90,1,D 0–0,0,,2,1,Home,0,Matchweek 16,West Ham,1
+0,1,22,0,1,Thu,0,Premier League,0,1,37,0.1,"LM,RM",13,2021-12-30,0,10,Y,Burnley,1,0,0.0,0.1,41.7,0,24,,90,0,L 1–3,0,,3,1,Away,0,Matchweek 20,Manchester Utd,3
+0,2,17,0,0,Sun,0,Premier League,0,0,26,0.0,LM,7,2022-01-02,0,9,Y,Burnley,1,3,0.0,0.0,60.0,0,15,,45,1,L 1–3,0,,1,0,Away,0,Matchweek 21,Leeds United,2
+0,0,2,0,0,Sun,0,Premier League,0,0,5,0.0,RM,1,2022-01-23,0,1,N,Burnley,1,0,0.0,0.0,100.0,0,1,,8,0,D 0–0,0,,0,0,Away,0,Matchweek 23,Arsenal,0

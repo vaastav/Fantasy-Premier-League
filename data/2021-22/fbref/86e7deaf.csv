@@ -1,0 +1,69 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,22,0,1,Fri,0,Copa América,0,2,39,0.0,CB,5,2021-07-02,0,31,Y*,Brazil,0,0,0.0,0.0,91.2,0,34,,90,0,W 1–0,0,,0,0,Neutral,0,Quarter-finals,Chile,3
+0,1,37,0,2,Mon,0,Copa América,0,3,56,0.0,CB,3,2021-07-05,0,45,Y*,Brazil,0,0,0.0,0.0,95.7,0,47,,90,0,W 1–0,0,,3,2,Home,0,Semi-finals,Peru,1
+0,3,52,0,2,Sat,0,Copa América,0,6,85,0.1,CB,8,2021-07-10,0,73,Y*,Brazil,1,0,0.0,0.1,96.1,0,76,,90,0,L 0–1,0,,4,2,Neutral,0,Final,Argentina,2
+,,,,,Wed,,Super Cup,,,,,,,2021-08-11,,,N,Chelsea,,,,,,,,,,,D 1 ,,"On matchday squad, but did not play",,,Home,,UEFA Super Cup,Villarreal,
+,,,,,Sat,,Premier League,,,,,,,2021-08-14,,,N,Chelsea,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 1,Crystal Palace,
+,,,,,Sun,,Premier League,,,,,,,2021-08-22,,,N,Chelsea,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 2,Arsenal,
+0,0,10,0,4,Sat,0,Premier League,0,0,30,0.0,CB,5,2021-08-28,0,12,N,Chelsea,0,0,0.0,0.0,85.7,0,14,,45,0,D 1–1,0,,1,1,Away,0,Matchweek 3,Liverpool,3
+0,1,46,0,5,Sat,0,Premier League,0,4,82,0.0,CB,5,2021-09-11,0,58,Y,Chelsea,0,0,0.1,0.0,86.6,0,67,,90,0,W 3–0,0,,2,1,Home,0,Matchweek 4,Aston Villa,3
+0,0,9,0,0,Tue,0,Champions Lg,0,1,13,0.0,CB,0,2021-09-14,0,11,N,Chelsea,0,0,0.0,0.0,91.7,0,12,,8,0,W 1–0,0,,2,0,Home,0,Group stage,Zenit,0
+0,1,43,0,2,Sun,0,Premier League,0,1,77,0.1,CB,8,2021-09-19,2,52,Y,Chelsea,2,0,0.0,0.1,86.7,0,60,,90,0,W 3–0,0,,1,2,Away,1,Matchweek 5,Tottenham,7
+,,,,,Wed,,EFL Cup,,,,,,,2021-09-22,,,N,Chelsea,,,,,,,,,,,D 1 ,,"On matchday squad, but did not play",,,Home,,Third round,Aston Villa,
+0,1,23,0,4,Sat,0,Premier League,0,0,41,0.0,CB,10,2021-09-25,0,28,N,Chelsea,0,0,0.0,0.0,96.6,0,29,,62,0,L 0–1,0,,2,3,Home,0,Matchweek 6,Manchester City,2
+0,1,63,0,0,Wed,0,Champions Lg,0,7,87,0.1,CB,6,2021-09-29,0,80,Y,Chelsea,3,0,0.0,0.1,96.4,0,83,,90,0,L 0–1,0,,8,0,Away,0,Group stage,Juventus,1
+0,1,51,0,2,Sat,0,Premier League,0,5,85,0.0,CB,6,2021-10-02,0,69,Y,Chelsea,0,2,0.0,0.0,92.0,1,75,,90,2,W 3–1,0,,7,0,Home,0,Matchweek 7,Southampton,2
+0,,,0,,Thu,,WCQ,0,,,,CB,,2021-10-07,0,,Y*,Brazil,0,,,,,0,,,90,,W 3–1,0,,,,Away,0,WCQ — CONMEBOL (M),Venezuela,1
+0,,,0,,Sun,,WCQ,0,,,,,,2021-10-10,0,,N,Brazil,0,,,,,0,,,20,,D 0–0,0,,,,Away,0,WCQ — CONMEBOL (M),Colombia,0
+0,,,0,,Thu,,WCQ,0,,,,CB,,2021-10-14,0,,Y*,Brazil,1,,,,,0,,,90,,W 4–1,0,,,,Home,0,WCQ — CONMEBOL (M),Uruguay,1
+0,3,81,0,1,Wed,1,Champions Lg,1,8,103,0.1,CB,1,2021-10-20,0,89,Y,Chelsea,1,0,0.1,0.1,91.8,0,97,,90,0,W 4–0,0,,10,0,Home,0,Group stage,Malmö,1
+0,1,61,0,1,Sat,0,Premier League,0,3,94,0.0,CB,7,2021-10-23,0,85,Y,Chelsea,0,0,0.0,0.0,94.4,0,90,,90,0,W 7–0,0,,7,1,Home,0,Matchweek 9,Norwich City,1
+,,,,,Tue,,EFL Cup,,,,,,,2021-10-26,,,N,Chelsea,,,,,,,,,,,D 1 ,,"On matchday squad, but did not play",,,Home,,Fourth round,Southampton,
+0,0,61,0,0,Sat,0,Premier League,0,5,96,0.0,CB,1,2021-10-30,0,85,Y,Chelsea,0,0,0.0,0.0,97.7,0,87,,90,0,W 3–0,0,,19,0,Away,0,Matchweek 10,Newcastle Utd,2
+0,1,62,0,1,Tue,0,Champions Lg,0,3,90,0.1,CB,5,2021-11-02,0,83,Y,Chelsea,1,0,0.0,0.1,96.5,1,86,,90,0,W 1–0,0,,8,0,Away,0,Group stage,Malmö,0
+0,1,67,0,0,Sat,0,Premier League,0,6,91,0.2,CB,4,2021-11-06,0,74,Y,Chelsea,4,0,0.0,0.2,92.5,0,80,,90,0,D 1–1,0,,4,4,Home,0,Matchweek 11,Burnley,0
+0,,,0,,Thu,,WCQ,0,,,,CB,,2021-11-11,0,,Y*,Brazil,0,,,,,0,,,90,,W 1–0,0,,,,Home,0,WCQ — CONMEBOL (M),Colombia,0
+,,,,,Tue,,WCQ,,,,,,,2021-11-16,,,N,Brazil,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,WCQ — CONMEBOL (M),Argentina,
+0,0,70,0,0,Sat,0,Premier League,0,4,100,0.0,CB,3,2021-11-20,0,91,Y,Chelsea,0,0,0.0,0.0,98.9,0,92,,90,0,W 3–0,0,,2,1,Away,0,Matchweek 12,Leicester City,2
+0,1,42,0,1,Tue,0,Champions Lg,0,1,60,0.0,CB,3,2021-11-23,1,48,Y,Chelsea,1,0,0.0,0.0,92.3,0,52,,90,0,W 4–0,0,,2,0,Home,0,Group stage,Juventus,1
+0,3,72,0,0,Sun,1,Premier League,0,4,93,0.0,CB,5,2021-11-28,0,76,Y,Chelsea,1,0,0.0,0.0,91.6,0,83,,90,0,D 1–1,0,,2,2,Home,0,Matchweek 13,Manchester Utd,2
+0,0,15,0,1,Wed,0,Premier League,0,0,31,0.0,CB,3,2021-12-01,0,17,N,Chelsea,0,0,0.0,0.0,70.8,0,24,,45,0,W 2–1,0,,1,0,Away,0,Matchweek 14,Watford,1
+0,2,35,0,4,Sat,0,Premier League,0,0,65,0.1,CB,7,2021-12-04,1,47,Y,Chelsea,1,0,0.0,0.1,83.9,0,56,,90,0,L 2–3,0,,5,0,Away,1,Matchweek 15,West Ham,1
+,,,,,Wed,,Champions Lg,,,,,,,2021-12-08,,,N,Chelsea,,,,,,,,,,,D 3–3,,"On matchday squad, but did not play",,,Away,,Group stage,Zenit,
+0,0,55,0,5,Sat,0,Premier League,0,9,76,0.1,CB,6,2021-12-11,0,58,Y,Chelsea,1,0,0.0,0.1,87.9,0,66,,90,0,W 3–2,0,,17,0,Home,0,Matchweek 16,Leeds United,1
+0,2,123,0,2,Thu,0,Premier League,0,9,155,0.0,CB,6,2021-12-16,1,138,Y,Chelsea,1,2,0.0,0.0,96.5,0,143,,90,1,D 1–1,0,,25,3,Home,0,Matchweek 17,Everton,1
+0,1,92,0,2,Sun,0,Premier League,0,6,129,0.0,CB,7,2021-12-19,0,117,Y,Chelsea,0,1,0.0,0.0,95.9,0,122,,90,1,D 0–0,0,,14,1,Away,0,Matchweek 18,Wolves,2
+0,0,63,0,3,Sun,0,Premier League,0,7,80,0.0,CB,2,2021-12-26,0,69,Y,Chelsea,0,0,0.0,0.0,94.5,0,73,,51,0,W 3–1,0,,4,1,Away,0,Matchweek 19,Aston Villa,2
+0,0,55,0,3,Sun,0,Premier League,0,6,87,0.0,CB,4,2022-01-02,0,70,Y,Chelsea,0,0,0.0,0.0,88.6,0,79,,90,0,D 2–2,0,,2,0,Home,0,Matchweek 21,Liverpool,0
+0,,,0,,Wed,,EFL Cup,0,,,,,,2022-01-12,0,,N,Chelsea,0,,,,,0,,,25,,W 1–0,0,,,,Away,0,Semi-finals,Tottenham,3
+0,0,38,0,5,Sat,0,Premier League,0,0,55,0.0,CB,14,2022-01-15,0,38,Y,Chelsea,0,0,0.0,0.0,88.4,0,43,,90,0,L 0–1,0,,1,0,Away,0,Matchweek 22,Manchester City,4
+0,2,66,0,2,Tue,0,Premier League,0,7,102,0.0,CB,7,2022-01-18,0,79,Y,Chelsea,0,0,0.0,0.0,90.8,0,87,,90,0,D 1–1,0,,4,2,Away,0,Matchweek 24,Brighton,0
+0,0,56,0,0,Sun,0,Premier League,0,0,76,0.1,CB,10,2022-01-23,1,67,Y,Chelsea,3,0,0.0,0.1,94.4,1,71,,90,0,W 2–0,0,,1,0,Home,1,Matchweek 23,Tottenham,3
+0,,,0,,Thu,,WCQ,0,,,,CB,,2022-01-27,0,,Y,Brazil,0,,,,,0,,,90,,D 1–1,0,,,,Away,0,WCQ — CONMEBOL (M),Ecuador,2
+0,,,0,,Tue,,WCQ,0,,,,CB,,2022-02-01,1,,Y,Brazil,2,,,,,0,,,90,,W 4–0,0,,,,Home,0,WCQ — CONMEBOL (M),Paraguay,0
+0,0,45,0,2,Sat,0,Premier League,0,5,79,0.0,CB,3,2022-02-19,0,63,Y,Chelsea,0,0,0.0,0.0,90.0,0,70,,90,0,W 1–0,0,,2,3,Away,0,Matchweek 26,Crystal Palace,1
+0,2,56,0,4,Tue,1,Champions Lg,0,1,96,0.0,CB,6,2022-02-22,0,74,Y,Chelsea,0,0,0.0,0.0,92.5,0,80,,90,0,W 2–0,0,,0,2,Home,0,Round of 16,Lille,6
+0,,,0,,Sun,,EFL Cup,0,,,,CB,,2022-02-27,0,,Y,Chelsea,0,,,,,0,,,120,,D 0 ,0,,,,Home,0,Final,Liverpool,3
+0,1,85,0,4,Sat,0,Premier League,0,5,115,0.0,CB,1,2022-03-05,0,101,Y,Chelsea,0,0,0.0,0.0,94.4,0,107,,90,0,W 4–0,0,,11,0,Away,0,Matchweek 28,Burnley,0
+0,0,108,0,3,Thu,0,Premier League,0,4,130,0.0,CB,0,2022-03-10,0,115,Y,Chelsea,0,0,0.0,0.0,93.5,0,123,,90,0,W 3–1,0,,8,0,Away,0,Matchweek 30,Norwich City,5
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Chelsea,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 29,Newcastle Utd,
+0,0,48,0,1,Wed,0,Champions Lg,0,2,69,0.0,CB,2,2022-03-16,0,60,Y,Chelsea,0,0,0.0,0.0,93.8,0,64,,90,0,W 2–1,0,,0,1,Away,0,Round of 16,Lille,1
+0,,,0,,Sat,,FA Cup,0,,,,CB,,2022-03-19,0,,Y,Chelsea,1,,,,,0,,,90,,W 2–0,0,,,,Away,0,Quarter-finals,Middlesbrough,1
+0,,,0,,Thu,,WCQ,0,,,,CB,,2022-03-24,1,,Y*,Brazil,1,,,,,0,,,90,,W 4–0,0,,,,Home,0,WCQ — CONMEBOL (M),Chile,3
+,,,,,Tue,,WCQ,,,,,,,2022-03-29,,,N,Brazil,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Away,,WCQ — CONMEBOL (M),Bolivia,
+0,1,63,0,1,Sat,0,Premier League,0,6,86,0.0,CB,8,2022-04-02,0,80,Y,Chelsea,0,0,0.0,0.0,96.4,0,83,,90,0,L 1–4,0,,3,1,Home,0,Matchweek 31,Brentford,2
+0,2,50,0,0,Wed,0,Champions Lg,0,6,70,0.0,CB,7,2022-04-06,0,62,Y,Chelsea,1,0,0.0,0.0,95.4,0,65,,90,0,L 1–3,0,,10,1,Home,0,Quarter-finals,Real Madrid,0
+0,0,45,0,1,Sat,0,Premier League,0,1,69,0.0,CB,2,2022-04-09,0,63,Y,Chelsea,0,0,0.0,0.0,96.9,0,65,,62,0,W 6–0,0,,3,0,Away,0,Matchweek 32,Southampton,2
+0,2,50,0,2,Tue,0,Champions Lg,0,3,83,0.0,CB,16,2022-04-12,0,71,Y,Chelsea,0,0,0.0,0.0,94.7,0,75,,120,0,W 3–2,0,,4,3,Away,0,Quarter-finals,Real Madrid,1
+0,,,0,,Sun,,FA Cup,0,,,,,,2022-04-17,0,,N,Chelsea,0,,,,,0,,,9,,W 2–0,0,,,,Home,0,Semi-finals,Crystal Palace,0
+0,0,46,0,2,Wed,0,Premier League,0,1,61,0.0,CB,7,2022-04-20,0,54,N,Chelsea,0,0,0.0,0.0,96.4,0,56,,45,0,L 2–4,0,,4,2,Home,0,Matchweek 25,Arsenal,1
+0,2,89,0,1,Sun,0,Premier League,0,6,117,0.1,CB,4,2022-04-24,0,98,Y,Chelsea,1,0,0.0,0.1,89.9,0,109,,90,0,W 1–0,0,,8,0,Home,0,Matchweek 34,West Ham,3
+0,1,41,0,3,Thu,0,Premier League,0,4,74,0.0,CB,8,2022-04-28,0,66,Y,Chelsea,0,0,0.0,0.0,97.1,0,68,,90,0,D 1–1,0,,2,1,Away,0,Matchweek 37,Manchester Utd,0
+0,1,79,0,1,Sun,0,Premier League,0,4,99,0.0,CB,5,2022-05-01,0,88,Y,Chelsea,0,0,0.0,0.0,92.6,0,95,,90,0,L 0–1,0,,6,1,Away,0,Matchweek 35,Everton,1
+0,1,50,0,2,Sat,0,Premier League,0,6,91,0.1,CB,5,2022-05-07,0,65,Y,Chelsea,3,1,0.0,0.1,86.7,0,75,,90,0,D 2–2,0,,7,2,Home,0,Matchweek 36,Wolves,5
+,,,,,Wed,,Premier League,,,,,,,2022-05-11,,,N,Chelsea,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Away,,Matchweek 33,Leeds United,
+0,,,0,,Sat,,FA Cup,0,,,,CB,,2022-05-14,0,,Y,Chelsea,1,,,,,0,,,120,,D 0 ,0,,,,Home,0,Final,Liverpool,2
+0,3,117,0,0,Thu,0,Premier League,0,10,145,0.1,CB,4,2022-05-19,0,131,Y,Chelsea,1,0,0.0,0.1,94.2,0,139,,90,0,D 1–1,0,,27,1,Home,0,Matchweek 27,Leicester City,4
+0,0,74,0,0,Sun,0,Premier League,0,6,102,0.0,CB,6,2022-05-22,0,91,Y,Chelsea,0,0,0.0,0.0,97.8,0,93,,90,0,W 2–1,0,,3,3,Home,0,Matchweek 38,Watford,2
+0,,,0,,Thu,,Friendlies (M),0,,,,CB,,2022-06-02,,,Y,Brazil,,,,,,0,,,90,,W 5–1,0,,,,Away,0,Friendlies (M),Korea Republic,
+0,,,0,,Mon,,Friendlies (M),0,,,,,,2022-06-06,,,N,Brazil,,,,,,0,,,21,,W 1–0,0,,,,Away,0,Friendlies (M),Japan,

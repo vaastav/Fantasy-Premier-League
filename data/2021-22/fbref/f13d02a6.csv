@@ -1,0 +1,49 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,2,0,0,Sat,0,Premier League,0,0,6,0.0,RM,9,2021-08-14,0,4,N,Leeds United,1,0,0.0,0.0,100.0,0,4,,22,0,L 1–5,0,,0,0,Away,0,Matchweek 1,Manchester Utd,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Leeds United,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 2,Everton,
+0,,,0,,Tue,,EFL Cup,0,,,,AM,,2021-08-24,0,,Y,Leeds United,2,,,,,0,,,90,,W 3–0,0,,,,Home,0,Second round,Crewe Alexandra,0
+,,,,,Sun,,Premier League,,,,,,,2021-08-29,,,N,Leeds United,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 3,Burnley,
+,,,,,Sun,,La Liga,,,,,,,2021-09-12,,,N,Valencia,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Away,,Matchweek 4,Osasuna,
+0,0,1,0,0,Sun,0,La Liga,0,0,6,0.0,LM,3,2021-09-19,0,2,N,Valencia,0,0,0.0,0.0,66.7,0,3,,12,0,L 1–2,0,,1,0,Home,0,Matchweek 5,Real Madrid,1
+,,,,,Wed,,La Liga,,,,,,,2021-09-22,,,N,Valencia,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Sevilla,
+,,,,,Sat,,La Liga,,,,,,,2021-09-25,,,N,Valencia,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 7,Athletic Club,
+0,2,5,0,0,Sat,0,La Liga,0,0,9,0.0,RM,2,2021-10-02,0,5,N,Valencia,0,0,0.2,0.0,71.4,0,7,,6,0,D 0–0,0,,1,0,Away,0,Matchweek 8,Cádiz,0
+0,0,2,0,0,Sun,0,La Liga,0,1,2,0.0,RM,2,2021-10-17,0,2,N,Valencia,0,0,0.0,0.0,100.0,0,2,,5,0,L 1–3,0,,1,0,Away,0,Matchweek 9,Barcelona,0
+0,4,40,0,0,Sat,1,La Liga,0,2,43,0.1,RM,8,2021-10-23,0,23,Y,Valencia,1,4,0.1,0.1,63.9,0,36,,90,3,D 2–2,0,,5,2,Home,0,Matchweek 10,Mallorca,1
+0,0,9,0,0,Wed,0,La Liga,0,0,14,0.0,LM,8,2021-10-27,0,6,N,Valencia,0,4,0.0,0.0,66.7,0,9,,31,2,L 1–4,0,,1,1,Away,0,Matchweek 11,Betis,2
+0,1,24,0,2,Sat,0,La Liga,0,0,31,0.0,"RM,LM",36,2021-10-30,0,9,Y,Valencia,1,8,0.0,0.0,64.3,0,14,,90,3,W 2–0,0,,2,2,Home,0,Matchweek 12,Villarreal,1
+0,2,32,0,1,Sun,0,La Liga,0,2,36,0.0,LM,14,2021-11-07,0,16,Y,Valencia,1,9,0.0,0.0,69.6,0,23,,84,6,D 3–3,0,,6,1,Home,0,Matchweek 13,Atlético Madrid,1
+0,,,0,,Fri,,WCQ,0,,,,AM,,2021-11-12,,,Y,Angola,,,,,,0,,,87,,D 2–2,0,,,,Home,1,Second round,Egypt,
+0,,,0,,Tue,,WCQ,0,,,,AM,,2021-11-16,,,Y,Angola,,,,,,0,,,90,,D 1–1,0,,,,Away,0,Second round,Libya,
+0,2,23,0,1,Sun,0,La Liga,0,5,34,0.0,"RW,LW",33,2021-11-21,0,14,Y,Valencia,0,3,0.2,0.0,60.9,1,23,,90,2,D 0–0,0,,4,4,Away,0,Matchweek 14,Real Sociedad,1
+0,0,13,0,5,Sat,0,La Liga,0,0,21,0.0,"LM,RW",23,2021-11-27,0,3,Y,Valencia,1,2,0.0,0.0,42.9,0,7,,81,1,D 1–1,0,,2,0,Home,0,Matchweek 15,Rayo Vallecano,0
+0,,,0,,Thu,,Copa del Rey,0,,,,,,2021-12-02,0,,N,Valencia,0,,,,,0,,,13,,W 3–0,0,,,,Away,0,First round,CD Utrillas,1
+0,1,15,0,0,Sun,0,La Liga,0,0,25,0.0,RM,27,2021-12-05,1,9,Y,Valencia,1,2,0.1,0.0,69.2,0,13,,82,1,W 2–1,0,,3,0,Away,0,Matchweek 16,Celta Vigo,1
+0,6,28,0,2,Sat,0,La Liga,0,1,41,0.1,RM,33,2021-12-11,1,15,Y,Valencia,3,6,0.3,0.1,65.2,0,23,,81,2,W 2–1,0,,7,3,Home,0,Matchweek 17,Elche,0
+0,,,0,,Thu,,Copa del Rey,1,,,,,,2021-12-16,1,,N,Valencia,2,,,,,0,,,33,,W 3–1,0,,,,Away,0,Second round,CD Arenteiro,0
+0,4,31,0,1,Mon,0,La Liga,0,6,39,0.0,RM,20,2021-12-20,0,19,Y,Valencia,0,0,0.2,0.0,61.3,1,31,,90,0,W 4–3,0,,6,1,Away,0,Matchweek 18,Levante,2
+0,4,29,0,0,Fri,1,La Liga,1,1,35,0.0,"RM,LM",20,2021-12-31,0,17,Y,Valencia,0,4,0.4,0.0,65.4,0,26,,83,4,L 1–2,0,,4,3,Home,0,Matchweek 19,Espanyol,0
+0,,,0,,Wed,,Copa del Rey,0,,,,FW,,2022-01-05,1,,Y,Valencia,1,,,,,0,,,58,,W 2–1,0,,,,Away,0,Round of 32,Cartagena,0
+0,3,14,0,3,Sat,0,La Liga,0,0,23,0.0,RM,28,2022-01-08,0,9,Y,Valencia,0,1,0.0,0.0,50.0,0,18,,65,1,L 1–4,0,,3,2,Away,0,Matchweek 20,Real Madrid,0
+,,,,,Wed,,La Liga,,,,,,,2022-01-19,,,N,Valencia,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 21,Sevilla,
+,,,,,Sat,,La Liga,,,,,,,2022-01-22,,,N,Valencia,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Away,,Matchweek 22,Atlético Madrid,
+0,,,0,,Wed,,Copa del Rey,0,,,,,,2022-02-02,0,,N,Valencia,0,,,,,0,,,3,,W 2–1,0,,,,Home,0,Quarter-finals,Cádiz,1
+,,,,,Sun,,La Liga,,,,,,,2022-02-06,,,N,Valencia,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 23,Real Sociedad,
+0,,,0,,Thu,,Copa del Rey,0,,,,,,2022-02-10,0,,N,Valencia,0,,,,,0,,,7,,D 1–1,0,,,,Away,0,Semi-finals,Athletic Club,1
+0,1,7,0,1,Sun,0,La Liga,0,1,12,0.0,RM,5,2022-02-13,0,6,Y,Valencia,1,0,0.2,0.0,66.7,0,9,,45,0,L 1–2,0,,2,0,Away,0,Matchweek 24,Alavés,0
+,,,,,Sun,,La Liga,,,,,,,2022-02-20,,,N,Valencia,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Home,,Matchweek 25,Barcelona,
+0,0,5,0,0,Sat,0,La Liga,0,0,7,0.0,"WB,CM",4,2022-02-26,0,3,N,Valencia,0,2,0.0,0.0,100.0,0,3,,13,1,W 1–0,0,,1,1,Away,0,Matchweek 26,Mallorca,0
+,,,,,Wed,,Copa del Rey,,,,,,,2022-03-02,,,N,Valencia,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Semi-finals,Athletic Club,
+0,0,3,0,0,Sat,0,La Liga,0,0,4,0.0,RW,1,2022-03-05,0,2,N,Valencia,0,2,0.0,0.0,100.0,0,2,,5,0,W 3–1,0,,0,0,Home,0,Matchweek 27,Granada,0
+0,1,1,0,0,Sat,0,La Liga,0,1,4,0.0,WB,4,2022-03-12,0,3,N,Valencia,0,0,0.0,0.0,100.0,1,3,,1,0,D 0–0,0,,0,0,Away,0,Matchweek 28,Getafe,0
+0,0,1,0,1,Sat,0,La Liga,0,0,4,0.0,RW,3,2022-03-19,0,1,N,Valencia,0,0,0.0,0.0,50.0,0,2,,5,0,W 1–0,0,,0,1,Away,0,Matchweek 29,Elche,0
+0,0,2,0,0,Sun,0,La Liga,0,0,6,0.0,"DM,RW",4,2022-04-03,0,0,N,Valencia,0,0,0.0,0.0,0.0,0,2,,5,0,D 0–0,0,,1,1,Home,0,Matchweek 30,Cádiz,1
+,,,,,Mon,,La Liga,,,,,,,2022-04-11,,,N,Valencia,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 31,Rayo Vallecano,
+0,1,13,0,1,Sat,0,La Liga,0,0,27,0.0,"RM,LM",17,2022-04-16,0,8,Y,Valencia,0,1,0.0,0.0,61.5,0,13,,64,0,L 1–2,0,,3,2,Home,0,Matchweek 32,Osasuna,0
+0,1,31,0,0,Tue,0,La Liga,0,1,36,0.0,"AM,WB",33,2022-04-19,0,16,Y,Valencia,0,6,0.0,0.0,66.7,0,24,,90,2,L 0–2,0,,1,1,Away,0,Matchweek 33,Villarreal,2
+,,,,,Sat,,Copa del Rey,,,,,,,2022-04-23,,,N,Valencia,,,,,,,,,,,D 1 ,,"On matchday squad, but did not play",,,Away,,Final,Betis,
+,,,,,Sat,,La Liga,,,,,,,2022-04-30,,,N,Valencia,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 34,Levante,
+,,,,,Sat,,La Liga,,,,,,,2022-05-07,,,N,Valencia,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 35,Athletic Club,
+,,,,,Tue,,La Liga,,,,,,,2022-05-10,,,N,Valencia,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Home,,Matchweek 36,Betis,
+0,,,0,,Wed,,Africa Cup of Nations qualification,1,,,,FW,,2022-06-01,,,Y,Angola,,,,,,0,,,90,,W 2–1,0,,,,Home,0,Group stage,Central African Republic,
+0,,,0,,Sun,,Africa Cup of Nations qualification,0,,,,AM,,2022-06-05,,,Y,Angola,,,,,,0,,,81,,D 1–1,0,,,,Away,0,Group stage,Madagascar,

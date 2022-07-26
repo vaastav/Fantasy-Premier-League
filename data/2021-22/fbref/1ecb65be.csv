@@ -1,0 +1,28 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,12,0,0,Sat,0,Premier League,0,1,23,0.0,RM,10,2021-08-14,0,12,Y,Southampton,0,0,0.0,0.0,60.0,0,20,,79,0,L 1–3,0,,4,1,Away,0,Matchweek 1,Everton,0
+0,0,9,0,0,Sun,0,Premier League,0,0,10,0.0,RM,18,2021-08-22,0,2,Y,Southampton,0,2,0.0,0.0,66.7,0,3,,45,1,D 1–1,0,,1,3,Home,0,Matchweek 2,Manchester Utd,1
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-08-25,0,,N,Southampton,1,,,,,0,,,21,,W 8–0,0,,,,Away,0,Second round,Newport County,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-28,,,N,Southampton,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,Matchweek 3,Newcastle Utd,
+0,2,8,0,2,Sat,0,Premier League,0,0,17,0.4,RM,10,2021-10-02,0,9,Y,Southampton,2,0,0.0,0.4,90.0,0,10,,45,0,L 1–3,0,,0,0,Away,0,Matchweek 7,Chelsea,0
+0,0,3,0,2,Sat,0,Premier League,0,0,7,0.0,FW,11,2021-10-16,0,3,N,Southampton,0,0,0.0,0.0,75.0,0,4,,10,0,W 1–0,0,,0,0,Home,0,Matchweek 8,Leeds United,0
+0,1,14,0,0,Sat,1,Premier League,0,1,21,0.1,RM,6,2021-10-23,0,11,Y,Southampton,2,0,0.0,0.1,64.7,0,17,,73,0,D 2–2,0,,2,0,Home,0,Matchweek 9,Burnley,1
+0,,,0,,Tue,,EFL Cup,0,,,,,,2021-10-26,0,,N,Southampton,0,,,,,0,,,24,,D 1 ,0,,,,Away,0,Fourth round,Chelsea,0
+,,,,,Sat,,Premier League,,,,,,,2021-10-30,,,N,Southampton,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 10,Watford,
+,,,,,Fri,,Premier League,,,,,,,2021-11-05,,,N,Southampton,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 11,Aston Villa,
+0,0,11,0,0,Sat,0,Premier League,0,1,13,0.2,"AM,FW",3,2021-11-20,0,7,N,Southampton,1,0,0.0,0.2,70.0,0,10,,29,0,L 1–2,0,,0,0,Away,0,Matchweek 12,Norwich City,0
+,,,,,Sat,,Premier League,,,,,,,2021-11-27,,,N,Southampton,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Away,,Matchweek 13,Liverpool,
+,,,,,Sat,,Premier League,,,,,,,2021-12-04,,,N,Southampton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 15,Brighton,
+,,,,,Sat,,Premier League,,,,,,,2021-12-11,,,N,Southampton,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Away,,Matchweek 16,Arsenal,
+0,0,2,0,0,Wed,0,Premier League,0,0,4,0.0,FW,3,2021-12-15,0,1,N,Southampton,0,0,0.0,0.0,100.0,0,1,,9,0,D 2–2,0,,0,0,Away,0,Matchweek 17,Crystal Palace,1
+0,1,19,0,1,Sun,0,Premier League,0,0,33,0.0,LM,16,2021-12-26,0,15,Y,Southampton,1,0,0.0,0.0,78.9,0,19,,88,0,W 3–2,0,,1,1,Away,0,Matchweek 19,West Ham,4
+,,,,,Tue,,Premier League,,,,,,,2021-12-28,,,N,Southampton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 20,Tottenham,
+,,,,,Sat,,Premier League,,,,,,,2022-01-22,,,N,Southampton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 23,Manchester City,
+0,,,0,,Sat,,FA Cup,0,,,,FW,,2022-02-05,1,,Y,Southampton,1,,,,,0,,,63,,W 2–1,0,,,,Home,0,Fourth round proper,Coventry City,0
+0,0,0,0,0,Wed,0,Premier League,0,0,2,0.0,FW,2,2022-02-09,0,1,N,Southampton,0,0,0.0,0.0,50.0,0,2,,1,0,W 3–2,0,,0,0,Away,0,Matchweek 24,Tottenham,0
+,,,,,Sat,,Premier League,,,,,,,2022-02-19,,,N,Southampton,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 26,Everton,
+,,,,,Fri,,Premier League,,,,,,,2022-02-25,,,N,Southampton,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 27,Norwich City,
+,,,,,Wed,,FA Cup,,,,,,,2022-03-02,,,N,Southampton,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Fifth round proper,West Ham,
+,,,,,Sat,,Premier League,,,,,,,2022-03-05,,,N,Southampton,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Away,,Matchweek 28,Aston Villa,
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Southampton,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 29,Watford,
+,,,,,Sat,,Premier League,,,,,,,2022-04-09,,,N,Southampton,,,,,,,,,,,L 0–6,,"On matchday squad, but did not play",,,Home,,Matchweek 32,Chelsea,
+,,,,,Sun,,Premier League,,,,,,,2022-05-22,,,N,Southampton,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Away,,Matchweek 38,Leicester City,

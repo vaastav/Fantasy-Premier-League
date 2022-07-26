@@ -1,0 +1,48 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Sat,,Community Shield,,,,,AM,,2021-08-07,1,,Y,Leicester City,1,,,,,0,,,70,,W 1–0,0,,,,Neutral,0,FA Community Shield,Manchester City,1
+0,3,21,0,2,Sat,0,Premier League,0,3,29,0.0,RW,15,2021-08-14,0,19,Y,Leicester City,0,1,0.2,0.0,86.4,0,22,,61,0,W 1–0,0,,4,0,Home,0,Matchweek 1,Wolves,1
+0,1,16,0,0,Mon,0,Premier League,0,1,21,0.1,"AM,RW,RM",6,2021-08-23,0,11,Y,Leicester City,1,1,0.1,0.1,73.3,0,15,,39,0,L 1–4,1,,2,1,Away,0,Matchweek 2,West Ham,0
+0,3,20,0,1,Thu,0,Europa Lg,0,1,37,0.1,CM,18,2021-09-16,1,20,Y,Leicester City,2,2,0.0,0.1,74.1,0,27,,45,1,D 2–2,0,,2,1,Home,1,Group stage,Napoli,1
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Leicester City,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 6,Burnley,
+0,4,21,0,1,Thu,0,Europa Lg,0,2,34,0.5,FW,10,2021-09-30,0,19,Y,Leicester City,2,3,0.3,0.5,86.4,0,22,,66,1,L 0–1,0,,3,1,Away,0,Group stage,Legia Warsaw,1
+,,,,,Sun,,Premier League,,,,,,,2021-10-03,,,N,Leicester City,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,Matchweek 7,Crystal Palace,
+0,3,4,0,0,Sat,1,Premier League,2,2,14,0.5,AM,3,2021-10-16,1,9,N,Leicester City,1,0,0.2,0.5,100.0,0,9,,18,0,W 4–2,0,,1,0,Home,0,Matchweek 8,Manchester Utd,1
+0,1,7,0,0,Sun,0,Premier League,0,0,11,0.2,AM,7,2021-10-24,1,2,N,Leicester City,1,2,0.0,0.2,50.0,0,4,,13,0,W 2–1,0,,0,2,Away,0,Matchweek 9,Brentford,0
+0,2,41,0,3,Thu,1,Europa Lg,1,3,54,0.1,CM,17,2021-11-04,0,35,Y,Leicester City,1,1,0.2,0.1,87.5,0,40,,57,1,D 1–1,0,,7,2,Home,0,Group stage,Spartak Moscow,0
+,,,,,Sun,,Premier League,,,,,,,2021-11-07,,,N,Leicester City,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 11,Leeds United,
+,,,,,Sat,,Premier League,,,,,,,2021-11-20,,,N,Leicester City,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Home,,Matchweek 12,Chelsea,
+0,3,17,0,0,Thu,0,Europa Lg,0,2,22,0.0,AM,1,2021-11-25,0,15,N,Leicester City,0,0,0.2,0.0,75.0,0,20,,29,0,W 3–1,0,,2,0,Home,0,Group stage,Legia Warsaw,2
+,,,,,Sun,,Premier League,,,,,,,2021-11-28,,,N,Leicester City,,,,,,,,,,,W 4–2,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Watford,
+0,1,10,0,0,Wed,0,Premier League,0,2,15,0.1,RW,7,2021-12-01,1,8,N,Leicester City,1,1,0.2,0.1,61.5,0,13,,30,1,D 2–2,0,,2,0,Away,0,Matchweek 14,Southampton,0
+0,0,5,0,1,Sun,0,Premier League,0,1,8,0.0,RW,5,2021-12-05,0,3,N,Leicester City,1,1,0.0,0.0,100.0,0,3,,13,0,L 1–2,0,,1,0,Away,0,Matchweek 15,Aston Villa,0
+,,,,,Wed,,EFL Cup,,,,,,,2021-12-22,,,N,Leicester City,,,,,,,,,,,D 3 ,,"On matchday squad, but did not play",,,Away,,Quarter-finals,Liverpool,
+0,1,5,0,1,Sun,0,Premier League,0,2,10,0.1,RM,11,2021-12-26,1,6,Y,Leicester City,1,0,0.0,0.1,100.0,0,6,,45,0,L 3–6,0,,2,0,Away,0,Matchweek 19,Manchester City,0
+,,,,,Tue,,Premier League,,,,,,,2021-12-28,,,N,Leicester City,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 20,Liverpool,
+0,,,0,,Sat,,FA Cup,0,,,,AM,,2022-01-08,0,,Y,Leicester City,0,,,,,0,,,73,,W 4–1,0,,,,Home,0,Third round proper,Watford,0
+,,,,,Wed,,Premier League,,,,,,,2022-01-19,,,N,Leicester City,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Home,,Matchweek 17,Tottenham,
+0,0,0,0,0,Sun,0,Premier League,0,0,0,0.0,FW,2,2022-01-23,0,0,N,Leicester City,0,0,0.0,0.0,,0,0,,1,0,D 1–1,0,,0,0,Home,0,Matchweek 23,Brighton,0
+,,,,,Sun,,FA Cup,,,,,,,2022-02-06,,,N,Leicester City,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Away,,Fourth round proper,Nott'ham Forest,
+,,,,,Thu,,Premier League,,,,,,,2022-02-10,,,N,Leicester City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 24,Liverpool,
+,,,,,Sun,,Premier League,,,,,,,2022-02-13,,,N,Leicester City,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 25,West Ham,
+0,,,0,,Thu,,Conf Lg,0,,,,,,2022-02-17,,,N,Leicester City,,,,,,0,,,8,,W 4–1,0,,,,Home,0,Knockout round play-offs,Randers,
+,,,,,Sun,,Premier League,,,,,,,2022-02-20,,,N,Leicester City,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 26,Wolves,
+0,,,0,,Thu,,Conf Lg,0,,,,,,2022-02-24,,,N,Leicester City,,,,,,0,,,31,,W 3–1,0,,,,Away,0,Knockout round play-offs,Randers,
+,,,,,Tue,,Premier League,,,,,,,2022-03-01,,,N,Leicester City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 22,Burnley,
+,,,,,Sat,,Premier League,,,,,,,2022-03-05,,,N,Leicester City,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 28,Leeds United,
+,,,,,Thu,,Conf Lg,,,,,,,2022-03-10,,,N,Leicester City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Round of 16,Rennes,
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Leicester City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 29,Arsenal,
+,,,,,Thu,,Conf Lg,,,,,,,2022-03-17,,,N,Leicester City,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Round of 16,Rennes,
+,,,,,Sun,,Premier League,,,,,,,2022-03-20,,,N,Leicester City,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Matchweek 30,Brentford,
+,,,,,Sat,,Premier League,,,,,,,2022-04-02,,,N,Leicester City,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 31,Manchester Utd,
+0,,,0,,Thu,,Conf Lg,1,,,,,,2022-04-14,,,N,Leicester City,,,,,,0,,,26,,W 2–1,0,,,,Away,0,Quarter-finals,PSV Eindhoven,
+0,1,15,0,2,Sun,1,Premier League,1,2,29,0.0,RM,14,2022-04-17,0,13,Y,Leicester City,1,2,0.2,0.0,76.5,0,17,,59,0,L 1–2,0,,2,1,Away,0,Matchweek 33,Newcastle Utd,1
+,,,,,Wed,,Premier League,,,,,,,2022-04-20,,,N,Leicester City,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 18,Everton,
+0,0,6,0,1,Sat,0,Premier League,0,1,10,0.0,RW,6,2022-04-23,0,4,N,Leicester City,0,0,0.0,0.0,100.0,0,4,,5,0,D 0–0,0,,0,0,Home,0,Matchweek 34,Aston Villa,2
+0,,,0,,Thu,,Conf Lg,0,,,,,,2022-04-28,,,N,Leicester City,,,,,,0,,,8,,D 1–1,0,,,,Home,0,Semi-finals,Roma,
+0,3,38,0,2,Sun,0,Premier League,0,2,44,0.0,CM,18,2022-05-01,0,20,Y,Leicester City,2,4,0.0,0.0,83.3,0,24,,75,3,L 1–3,0,,8,2,Away,0,Matchweek 35,Tottenham,3
+0,,,0,,Thu,,Conf Lg,0,,,,,,2022-05-05,,,N,Leicester City,,,,,,0,,,14,,L 0–1,0,,,,Away,0,Semi-finals,Roma,
+0,3,17,0,1,Sun,0,Premier League,0,1,26,0.0,CM,18,2022-05-08,0,13,Y,Leicester City,0,1,0.0,0.0,65.0,0,20,,45,1,L 1–2,0,,2,0,Home,0,Matchweek 36,Everton,1
+,,,,,Wed,,Premier League,,,,,,,2022-05-11,,,N,Leicester City,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 21,Norwich City,
+,,,,,Sun,,Premier League,,,,,,,2022-05-15,,,N,Leicester City,,,,,,,,,,,W 5–1,,"On matchday squad, but did not play",,,Away,,Matchweek 37,Watford,
+0,0,10,0,0,Thu,0,Premier League,0,1,10,0.0,FW,8,2022-05-19,0,6,N,Leicester City,0,1,0.0,0.0,75.0,0,8,,13,1,D 1–1,0,,2,0,Away,0,Matchweek 27,Chelsea,0
+0,1,12,0,1,Sun,0,Premier League,0,2,17,0.4,RW,8,2022-05-22,2,7,N,Leicester City,2,2,0.1,0.4,70.0,0,10,,28,2,W 4–1,0,,2,2,Home,2,Matchweek 38,Southampton,0

@@ -1,0 +1,48 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,14,0,3,Fri,0,Premier League,0,0,22,0.1,LW,13,2021-08-13,0,10,Y,Arsenal,1,1,0.1,0.1,71.4,0,14,,70,0,L 0–2,0,,1,1,Away,0,Matchweek 1,Brentford,0
+0,1,5,0,0,Sun,0,Premier League,0,0,13,0.0,FW,29,2021-08-22,0,5,Y,Arsenal,0,0,0.0,0.0,62.5,0,8,,78,0,L 0–2,0,,1,2,Home,0,Matchweek 2,Chelsea,0
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-08-25,0,,N,Arsenal,0,,,,,0,,,15,,W 6–0,0,,,,Away,0,Second round,West Brom,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-28,,,N,Arsenal,,,,,,,,,,,L 0–5,,"On matchday squad, but did not play",,,Away,,Matchweek 3,Manchester City,
+,,,,,Sat,,Premier League,,,,,,,2021-09-11,,,N,Arsenal,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 4,Norwich City,
+,,,,,Sat,,Premier League,,,,,,,2021-09-18,,,N,Arsenal,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 5,Burnley,
+0,,,0,,Wed,,EFL Cup,0,,,,AM,,2021-09-22,0,,Y,Arsenal,0,,,,,0,,,75,,W 3–0,0,,,,Home,0,Third round,AFC Wimbledon,0
+,,,,,Sun,,Premier League,,,,,,,2021-09-26,,,N,Arsenal,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Matchweek 6,Tottenham,
+,,,,,Sat,,Premier League,,,,,,,2021-10-02,,,N,Arsenal,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 7,Brighton,
+0,1,8,0,1,Mon,1,Premier League,0,1,10,0.1,LM,0,2021-10-18,1,5,N,Arsenal,1,2,0.0,0.1,71.4,0,7,,10,0,D 2–2,0,,2,0,Home,0,Matchweek 8,Crystal Palace,0
+0,0,0,0,0,Fri,0,Premier League,0,0,1,0.0,FW,0,2021-10-22,0,0,N,Arsenal,0,0,0.0,0.0,0.0,0,1,,1,0,W 3–1,0,,0,0,Home,0,Matchweek 9,Aston Villa,0
+0,,,0,,Tue,,EFL Cup,0,,,,AM,,2021-10-26,0,,Y,Arsenal,2,,,,,0,,,90,,W 2–0,0,,,,Home,0,Fourth round,Leeds United,0
+,,,,,Sat,,Premier League,,,,,,,2021-10-30,,,N,Arsenal,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 10,Leicester City,
+0,0,5,0,0,Sun,0,Premier League,0,0,5,0.0,RM,0,2021-11-07,0,2,N,Arsenal,0,1,0.0,0.0,66.7,0,3,,1,1,W 1–0,0,,2,0,Home,0,Matchweek 11,Watford,0
+,,,,,Sat,,Premier League,,,,,,,2021-11-20,,,N,Arsenal,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Away,,Matchweek 12,Liverpool,
+0,2,14,0,1,Sat,0,Premier League,0,2,18,0.2,RM,6,2021-11-27,1,11,N,Arsenal,1,2,0.1,0.2,91.7,0,12,,27,1,W 2–0,0,,2,0,Home,1,Matchweek 13,Newcastle Utd,0
+0,3,27,0,0,Thu,1,Premier League,1,0,40,0.4,"RM,LM",16,2021-12-02,0,21,Y,Arsenal,4,3,0.2,0.4,84.0,0,25,,90,1,L 2–3,0,,3,1,Away,0,Matchweek 14,Manchester Utd,1
+0,0,18,0,0,Mon,0,Premier League,0,0,26,0.1,LW,9,2021-12-06,0,10,Y,Arsenal,1,0,0.0,0.1,55.6,0,18,,70,0,L 1–2,0,,1,2,Away,0,Matchweek 15,Everton,2
+0,4,24,0,1,Sat,1,Premier League,1,1,37,0.0,"LM,FW",16,2021-12-11,0,16,Y,Arsenal,1,3,0.3,0.0,64.0,0,25,,90,0,W 3–0,0,,6,2,Home,0,Matchweek 16,Southampton,0
+0,2,26,0,1,Wed,0,Premier League,0,1,41,0.7,LM,12,2021-12-15,1,18,Y,Arsenal,4,1,0.1,0.7,69.2,1,26,,81,1,W 2–0,0,,5,3,Home,1,Matchweek 17,West Ham,3
+0,5,25,0,4,Sat,0,Premier League,0,0,50,0.7,"LW,RW",20,2021-12-18,2,17,Y,Arsenal,2,0,0.3,0.7,60.7,0,28,,90,0,W 4–1,0,,7,4,Away,2,Matchweek 18,Leeds United,1
+0,,,0,,Tue,,EFL Cup,0,,,,,,2021-12-21,0,,N,Arsenal,0,,,,,0,,,18,,W 5–1,0,,,,Home,0,Quarter-finals,Sunderland,0
+0,4,33,0,2,Sun,2,Premier League,0,2,44,0.1,LW,15,2021-12-26,1,21,Y,Arsenal,3,4,0.0,0.1,75.0,0,28,,81,2,W 5–0,0,,12,4,Away,0,Matchweek 19,Norwich City,0
+0,2,16,0,2,Sat,0,Premier League,0,0,28,0.8,"LW,FW",15,2022-01-01,1,6,Y,Arsenal,5,5,0.0,0.8,50.0,0,12,,90,4,L 1–2,0,,6,1,Home,0,Matchweek 21,Manchester City,3
+0,,,0,,Sun,,FA Cup,0,,,,AM,,2022-01-09,0,,Y,Arsenal,1,,,,,1,,,90,,L 0–1,0,,,,Away,0,Third round proper,Nott'ham Forest,1
+0,,,0,,Thu,,EFL Cup,0,,,,AM,,2022-01-13,0,,Y,Arsenal,0,,,,,0,,,90,,D 0–0,0,,,,Away,0,Semi-finals,Liverpool,0
+0,,,0,,Thu,,EFL Cup,0,,,,LW,,2022-01-20,1,,Y,Arsenal,2,,,,,0,,,90,,L 0–2,0,,,,Home,0,Semi-finals,Liverpool,0
+0,3,43,0,1,Sun,0,Premier League,0,1,55,0.1,LM,6,2022-01-23,0,34,Y,Arsenal,2,0,0.1,0.1,73.9,0,46,,90,0,D 0–0,0,,13,1,Home,0,Matchweek 23,Burnley,1
+0,2,24,0,0,Thu,0,Premier League,0,2,32,0.0,LW,23,2022-02-10,0,14,Y,Arsenal,0,3,0.0,0.0,60.9,2,23,,68,1,W 1–0,1,,6,1,Away,0,Matchweek 24,Wolves,0
+0,5,21,0,1,Thu,0,Premier League,0,2,37,0.5,LW,12,2022-02-24,1,20,Y,Arsenal,4,2,0.2,0.5,80.0,0,25,,70,0,W 2–1,0,,6,1,Home,0,Matchweek 20,Wolves,1
+0,1,21,0,2,Sun,0,Premier League,0,0,27,0.2,LW,12,2022-03-06,1,13,Y,Arsenal,3,2,0.1,0.2,72.2,0,18,,72,1,W 3–2,0,,4,1,Away,1,Matchweek 28,Watford,1
+0,4,24,0,4,Sun,1,Premier League,1,1,29,0.2,LW,14,2022-03-13,1,13,Y,Arsenal,2,3,0.2,0.2,81.3,0,16,,77,2,W 2–0,0,,7,0,Home,0,Matchweek 29,Leicester City,0
+0,1,40,0,3,Wed,0,Premier League,0,1,52,0.1,LW,9,2022-03-16,0,24,Y,Arsenal,1,5,0.0,0.1,66.7,0,36,,90,4,L 0–2,0,,6,0,Home,0,Matchweek 27,Liverpool,1
+0,,,0,,Thu,,WCQ,0,,,,,,2022-03-24,0,,N,Brazil,0,,,,,0,,,16,,W 4–0,0,,,,Home,0,WCQ — CONMEBOL (M),Chile,0
+0,,,0,,Tue,,WCQ,0,,,,,,2022-03-29,1,,N,Brazil,4,,,,,0,,,37,,W 4–0,0,,,,Away,0,WCQ — CONMEBOL (M),Bolivia,0
+0,1,29,0,3,Mon,0,Premier League,0,2,39,0.0,"WB,LM",9,2022-04-04,0,25,N,Arsenal,0,2,0.1,0.0,86.2,0,29,,45,2,L 0–3,0,,9,1,Away,0,Matchweek 31,Crystal Palace,0
+0,1,26,0,2,Sat,0,Premier League,0,4,35,0.4,"LW,LM",11,2022-04-09,1,17,Y,Arsenal,2,2,0.0,0.4,70.8,0,24,,73,1,L 1–2,0,,8,0,Home,0,Matchweek 32,Brighton,1
+0,4,37,0,4,Sat,0,Premier League,0,4,56,0.3,"RW,WB,LW,FW",10,2022-04-16,1,32,Y,Arsenal,5,2,0.4,0.3,80.0,0,40,,90,1,L 0–1,0,,5,0,Away,0,Matchweek 33,Southampton,1
+0,0,3,0,0,Wed,0,Premier League,0,0,6,0.0,FW,2,2022-04-20,0,0,N,Arsenal,0,1,0.0,0.0,0.0,0,1,,21,0,W 4–2,0,,0,0,Away,0,Matchweek 25,Chelsea,0
+0,0,4,0,0,Sat,0,Premier League,0,0,7,0.0,"AM,LW",5,2022-04-23,0,6,N,Arsenal,0,0,0.0,0.0,100.0,0,6,,27,0,W 3–1,0,,1,0,Home,0,Matchweek 34,Manchester Utd,0
+0,4,23,0,2,Sun,1,Premier League,1,2,32,0.0,"LW,RW",13,2022-05-01,0,16,Y,Arsenal,1,2,0.2,0.0,80.0,0,20,,90,1,W 2–1,0,,5,1,Away,0,Matchweek 35,West Ham,2
+0,7,45,0,0,Sun,2,Premier League,1,0,49,0.6,LW,20,2022-05-08,2,32,Y,Arsenal,4,4,0.6,0.6,84.2,0,38,,77,3,W 2–1,0,,11,1,Home,0,Matchweek 36,Leeds United,0
+0,3,25,0,0,Thu,0,Premier League,0,0,30,0.0,"LW,WB",16,2022-05-12,0,16,Y,Arsenal,0,3,0.2,0.0,76.2,0,21,,63,2,L 0–3,0,,7,1,Away,0,Matchweek 22,Tottenham,1
+0,0,20,0,0,Mon,0,Premier League,0,0,23,0.0,"WB,LW",8,2022-05-16,0,10,N,Arsenal,0,2,0.0,0.0,66.7,0,15,,38,0,L 0–2,0,,4,0,Away,0,Matchweek 37,Newcastle Utd,1
+1,8,49,1,4,Sun,2,Premier League,1,5,67,1.7,LW,20,2022-05-22,1,39,Y,Arsenal,3,5,0.3,1.0,83.0,0,47,,90,3,W 5–1,0,,5,2,Home,1,Matchweek 38,Everton,1
+,,,,,Thu,,Friendlies (M),,,,,,,2022-06-02,,,N,Brazil,,,,,,,,,,,W 5–1,,"On matchday squad, but did not play",,,Away,,Friendlies (M),Korea Republic,
+0,,,0,,Mon,,Friendlies (M),0,,,,,,2022-06-06,,,N,Brazil,,,,,,0,,,28,,W 1–0,0,,,,Away,0,Friendlies (M),Japan,

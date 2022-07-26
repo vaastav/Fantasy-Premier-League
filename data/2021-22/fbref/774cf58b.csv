@@ -1,0 +1,39 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,52,0,4,Sat,0,Premier League,0,3,80,0.0,RB,10,2021-08-14,0,58,Y,Norwich City,1,3,0.0,0.0,89.2,0,65,,90,3,L 0–3,0,,6,2,Home,0,Matchweek 1,Liverpool,3
+0,0,26,0,2,Sat,0,Premier League,0,0,45,0.0,RB,4,2021-08-21,0,27,Y,Norwich City,0,3,0.0,0.0,77.1,0,35,,90,2,L 0–5,0,,5,1,Away,0,Matchweek 2,Manchester City,1
+0,6,33,0,6,Sat,1,Premier League,0,4,63,0.0,RB,19,2021-08-28,0,34,Y,Norwich City,1,2,0.3,0.0,73.9,0,46,,90,1,L 1–2,0,,5,4,Home,0,Matchweek 3,Leicester City,0
+0,1,43,0,2,Sat,0,Premier League,0,1,55,0.1,RB,15,2021-09-11,1,30,Y,Norwich City,2,5,0.1,0.1,69.8,1,43,,90,3,L 0–1,0,,7,2,Away,0,Matchweek 4,Arsenal,2
+0,3,36,0,2,Sat,1,Premier League,0,6,59,0.0,RB,15,2021-09-18,0,38,Y,Norwich City,0,6,0.0,0.0,80.9,0,47,,90,4,L 1–3,0,,4,1,Home,0,Matchweek 5,Watford,1
+0,1,36,0,3,Sat,0,Premier League,0,4,64,0.0,"WB,CB,RB",13,2021-09-25,0,46,Y,Norwich City,1,3,0.0,0.0,85.2,0,54,,90,1,L 0–2,0,,5,1,Away,0,Matchweek 6,Everton,0
+0,1,34,0,3,Sat,0,Premier League,0,5,52,0.1,WB,11,2021-10-02,0,25,Y,Norwich City,2,2,0.1,0.1,67.6,1,37,,90,0,D 0–0,0,,8,1,Away,0,Matchweek 7,Burnley,0
+0,1,24,0,0,Sat,0,Premier League,0,1,39,0.0,WB,11,2021-10-16,0,22,Y,Norwich City,0,3,0.2,0.0,73.3,0,30,,90,0,D 0–0,0,,5,0,Home,0,Matchweek 8,Brighton,1
+0,0,21,0,3,Sat,0,Premier League,0,2,44,0.0,WB,9,2021-10-23,0,22,Y,Norwich City,0,3,0.0,0.0,71.0,0,31,,90,1,L 0–7,0,,1,0,Away,0,Matchweek 9,Chelsea,0
+0,0,22,0,0,Sun,0,Premier League,0,1,32,0.1,"WB,RB",12,2021-10-31,0,19,Y,Norwich City,1,5,0.0,0.1,82.6,0,23,,90,2,L 1–2,0,,4,2,Home,0,Matchweek 10,Leeds United,2
+0,0,23,0,5,Sat,0,Premier League,0,2,51,0.0,"RB,WB",14,2021-11-06,0,19,Y,Norwich City,0,1,0.0,0.0,59.4,1,32,,90,0,W 2–1,0,,2,1,Away,0,Matchweek 11,Brentford,2
+0,1,25,0,1,Sat,1,Premier League,1,2,53,0.0,RB,13,2021-11-20,0,29,Y,Norwich City,0,1,0.1,0.0,65.9,0,44,,90,0,W 2–1,0,,2,2,Home,0,Matchweek 12,Southampton,6
+0,3,34,0,2,Sat,0,Premier League,0,5,54,0.3,RB,8,2021-11-27,1,35,Y,Norwich City,1,4,0.0,0.3,83.3,0,42,,90,2,D 0–0,0,,7,2,Home,0,Matchweek 13,Wolves,0
+0,3,77,0,1,Tue,1,Premier League,0,11,94,0.0,RB,9,2021-11-30,0,69,Y,Norwich City,0,2,0.1,0.0,84.1,0,82,,90,1,D 1–1,0,,21,4,Away,0,Matchweek 14,Newcastle Utd,1
+0,1,50,0,2,Sun,0,Premier League,0,4,68,0.0,WB,12,2021-12-05,0,43,Y,Norwich City,0,2,0.0,0.0,76.8,0,56,,90,2,L 0–3,0,,6,5,Away,0,Matchweek 15,Tottenham,2
+0,0,40,0,1,Sat,0,Premier League,0,6,70,0.0,RB,13,2021-12-11,0,48,Y,Norwich City,0,4,0.0,0.0,81.4,0,59,,90,2,L 0–1,0,,8,2,Home,0,Matchweek 16,Manchester Utd,3
+0,0,50,0,6,Tue,0,Premier League,0,6,85,0.0,RB,7,2021-12-14,0,52,Y,Norwich City,0,1,0.0,0.0,77.6,1,67,,90,0,L 0–2,0,,7,5,Home,0,Matchweek 17,Aston Villa,1
+0,0,21,0,2,Sun,0,Premier League,0,2,47,0.0,RB,13,2021-12-26,0,28,Y,Norwich City,0,2,0.0,0.0,77.8,0,36,,90,0,L 0–5,0,,2,2,Home,0,Matchweek 19,Arsenal,1
+0,,,0,,Sun,,FA Cup,0,,,,,,2022-01-09,0,,N,Norwich City,0,,,,,0,,,20,,W 1–0,0,,,,Away,0,Third round proper,Charlton Ath,0
+0,0,27,0,2,Wed,0,Premier League,0,0,49,0.0,RB,19,2022-01-12,0,23,Y,Norwich City,0,2,0.0,0.0,60.5,0,38,,90,1,L 0–2,0,,2,5,Away,0,Matchweek 18,West Ham,2
+0,1,28,0,0,Sat,0,Premier League,0,3,46,0.0,RB,9,2022-01-15,0,28,Y,Norwich City,0,0,0.0,0.0,68.3,1,41,,79,0,W 2–1,0,,9,0,Home,0,Matchweek 22,Everton,1
+0,1,20,0,6,Fri,0,Premier League,0,4,58,0.0,RB,10,2022-01-21,0,24,Y,Norwich City,0,1,0.0,0.0,54.5,0,44,,90,0,W 3–0,0,,2,6,Away,0,Matchweek 23,Watford,1
+,,,,,Sat,,FA Cup,,,,,,,2022-02-05,,,N,Norwich City,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Fourth round proper,Wolves,
+0,0,19,0,2,Wed,0,Premier League,0,0,45,0.0,RB,18,2022-02-09,0,15,Y,Norwich City,0,1,0.0,0.0,53.6,0,28,,90,0,D 1–1,0,,0,2,Home,0,Matchweek 24,Crystal Palace,6
+0,1,12,0,7,Sat,0,Premier League,0,0,37,0.1,RB,13,2022-02-12,0,21,Y,Norwich City,1,1,0.0,0.1,87.5,0,24,,62,1,L 0–4,0,,2,1,Home,0,Matchweek 25,Manchester City,1
+0,2,17,0,5,Sat,0,Premier League,0,1,41,0.0,RB,20,2022-02-19,0,15,Y,Norwich City,0,2,0.0,0.0,62.5,0,24,,90,1,L 1–3,0,,3,3,Away,0,Matchweek 26,Liverpool,1
+0,0,31,0,4,Fri,0,Premier League,0,5,62,0.0,RB,14,2022-02-25,0,37,Y,Norwich City,0,2,0.0,0.0,78.7,0,47,,90,0,L 0–2,0,,4,3,Away,0,Matchweek 27,Southampton,3
+0,1,13,0,0,Sat,0,Premier League,0,1,24,0.0,RB,5,2022-03-05,0,18,N,Norwich City,0,0,0.0,0.0,90.0,0,20,,10,0,L 1–3,0,,0,0,Home,0,Matchweek 28,Brentford,1
+0,1,44,0,2,Thu,0,Premier League,0,1,66,0.0,"RB,WB",16,2022-03-10,0,37,Y,Norwich City,0,4,0.0,0.0,74.0,0,50,,90,1,L 1–3,0,,4,1,Home,0,Matchweek 30,Chelsea,1
+0,2,40,0,1,Sun,0,Premier League,0,2,74,0.0,RB,20,2022-03-13,0,41,Y,Norwich City,1,4,0.0,0.0,69.5,1,59,,87,1,L 1–2,0,,6,3,Away,0,Matchweek 29,Leeds United,1
+,,,,,Sun,,Premier League,,,,,,,2022-04-10,,,N,Norwich City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 32,Burnley,
+,,,,,Sat,,Premier League,,,,,,,2022-04-16,,,N,Norwich City,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Away,,Matchweek 33,Manchester Utd,
+0,1,19,0,1,Sat,0,Premier League,0,1,27,0.0,RB,8,2022-04-23,0,19,N,Norwich City,0,1,0.1,0.0,79.2,0,24,,33,0,L 0–3,0,,4,0,Home,0,Matchweek 34,Newcastle Utd,0
+0,1,45,0,3,Sat,0,Premier League,0,2,78,0.0,RB,7,2022-04-30,0,51,Y,Norwich City,1,3,0.1,0.0,79.7,1,64,,90,1,L 0–2,0,,10,1,Away,0,Matchweek 35,Aston Villa,2
+0,0,23,0,3,Sun,0,Premier League,0,2,49,0.0,RB,19,2022-05-08,0,29,Y,Norwich City,0,0,0.0,0.0,72.5,0,40,,90,0,L 0–4,0,,6,1,Home,0,Matchweek 36,West Ham,1
+0,1,31,0,4,Wed,0,Premier League,0,3,56,0.0,RB,22,2022-05-11,0,31,Y,Norwich City,0,2,0.1,0.0,79.5,0,39,,90,1,L 0–3,0,,1,3,Away,0,Matchweek 21,Leicester City,5
+0,2,20,0,0,Sun,1,Premier League,1,2,26,0.0,WB,22,2022-05-15,0,10,Y,Norwich City,0,1,0.1,0.0,62.5,1,16,,90,0,D 1–1,0,,3,2,Away,0,Matchweek 37,Wolves,2
+0,1,48,0,1,Sun,0,Premier League,0,2,62,0.0,WB,4,2022-05-22,0,44,Y,Norwich City,1,2,0.0,0.0,83.0,0,53,,90,2,L 0–5,0,,13,1,Home,0,Matchweek 38,Tottenham,2

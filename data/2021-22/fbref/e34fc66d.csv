@@ -1,0 +1,53 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,3,0,1,Sat,0,UEFA Euro,0,1,6,0.0,CB,5,2021-07-03,0,3,N,Denmark,0,0,0.0,0.0,100.0,0,3,,10,0,W 2–1,0,,0,0,Away,0,Quarter-finals,Czech Republic,0
+0,0,25,0,1,Wed,0,UEFA Euro,0,4,36,0.0,CB,13,2021-07-07,0,30,N,Denmark,0,0,0.0,0.0,93.8,0,32,,42,0,L 1–2,0,,4,0,Away,0,Semi-finals,England,0
+0,1,29,0,2,Sat,0,Premier League,0,2,40,0.0,CB,0,2021-08-14,0,30,N,Crystal Palace,0,1,0.0,0.0,85.7,0,35,,34,1,L 0–3,0,,3,0,Away,0,Matchweek 1,Chelsea,2
+0,0,42,0,1,Sat,0,Premier League,0,2,71,0.0,CB,5,2021-08-21,0,49,Y,Crystal Palace,1,0,0.0,0.0,81.7,1,60,,90,0,D 0–0,0,,0,0,Home,0,Matchweek 2,Brentford,3
+0,,,0,,Tue,,EFL Cup,0,,,,CB,,2021-08-24,0,,Y,Crystal Palace,0,,,,,0,,,90,,L 0–1,0,,,,Away,0,Second round,Watford,1
+0,2,50,0,3,Sat,0,Premier League,0,3,77,0.0,CB,6,2021-08-28,0,53,Y,Crystal Palace,0,0,0.1,0.0,88.3,0,60,,90,0,D 2–2,0,,3,1,Away,0,Matchweek 3,West Ham,0
+0,,,0,,Wed,,WCQ,0,,,,CB,,2021-09-01,0,,Y,Denmark,1,,,,,0,,,90,,W 2–0,0,,,,Home,0,First round,Scotland,1
+0,,,0,,Tue,,WCQ,0,,,,CB,,2021-09-07,0,,Y,Denmark,0,,,,,0,,,90,,W 5–0,0,,,,Home,0,First round,Israel,0
+0,1,39,0,1,Sat,0,Premier League,0,2,60,0.0,CB,5,2021-09-11,0,46,Y,Crystal Palace,0,0,0.0,0.0,93.9,0,49,,90,0,W 3–0,0,,5,3,Home,0,Matchweek 4,Tottenham,1
+0,1,31,0,1,Sat,0,Premier League,0,1,54,0.0,CB,1,2021-09-18,0,37,Y,Crystal Palace,0,0,0.0,0.0,80.4,0,46,,90,0,L 0–3,0,,2,0,Away,0,Matchweek 5,Liverpool,2
+0,0,47,0,0,Mon,0,Premier League,0,3,72,0.0,CB,7,2021-09-27,0,53,Y,Crystal Palace,0,0,0.0,0.0,81.5,0,65,,90,0,D 1–1,0,,1,1,Home,0,Matchweek 6,Brighton,5
+0,3,64,0,0,Sun,0,Premier League,0,5,95,0.0,CB,4,2021-10-03,0,66,Y,Crystal Palace,0,1,0.0,0.0,84.6,1,78,,90,0,D 2–2,0,,2,1,Home,0,Matchweek 7,Leicester City,5
+0,,,0,,Sat,,WCQ,0,,,,,,2021-10-09,0,,N,Denmark,0,,,,,0,,,26,,W 4–0,0,,,,Away,0,First round,Moldova,1
+,,,,,Tue,,WCQ,,,,,,,2021-10-12,,,N,Denmark,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,First round,Austria,
+0,0,45,0,2,Mon,0,Premier League,0,1,76,0.0,CB,5,2021-10-18,0,59,Y,Crystal Palace,0,0,0.0,0.0,90.8,0,65,,90,0,D 2–2,0,,3,2,Away,0,Matchweek 8,Arsenal,2
+0,0,80,0,0,Sat,0,Premier League,0,1,108,0.0,CB,1,2021-10-23,0,96,Y,Crystal Palace,0,0,0.0,0.0,93.2,1,103,,90,0,D 1–1,0,,3,0,Home,0,Matchweek 9,Newcastle Utd,0
+0,0,21,0,1,Sat,0,Premier League,0,0,46,0.0,CB,11,2021-10-30,0,26,Y,Crystal Palace,0,1,0.0,0.0,76.5,0,34,,90,0,W 2–0,0,,0,3,Away,0,Matchweek 10,Manchester City,4
+0,1,67,0,0,Sat,0,Premier League,0,5,96,0.0,CB,4,2021-11-06,0,77,Y,Crystal Palace,0,0,0.0,0.0,87.5,0,88,,90,0,W 2–0,0,,2,1,Home,0,Matchweek 11,Wolves,2
+0,2,46,0,0,Sat,2,Premier League,1,4,84,0.2,CB,4,2021-11-20,1,58,Y,Crystal Palace,1,0,0.1,0.2,79.5,0,73,,90,0,D 3–3,0,,1,1,Away,0,Matchweek 12,Burnley,3
+0,0,5,0,1,Wed,0,Premier League,0,0,10,0.0,CB,0,2021-12-15,0,9,N,Crystal Palace,0,0,0.0,0.0,100.0,0,9,,10,0,D 2–2,0,,0,0,Home,0,Matchweek 17,Southampton,0
+0,0,33,0,5,Sun,0,Premier League,0,0,62,0.0,CB,6,2021-12-26,0,43,Y,Crystal Palace,0,0,0.0,0.0,86.0,0,50,,90,0,L 0–3,0,,0,2,Away,0,Matchweek 19,Tottenham,4
+0,0,36,0,1,Tue,0,Premier League,0,2,58,0.0,CB,3,2021-12-28,0,39,Y,Crystal Palace,1,1,0.0,0.0,78.0,0,50,,82,1,W 3–0,0,,1,0,Home,0,Matchweek 20,Norwich City,1
+0,2,66,0,0,Sat,1,Premier League,0,7,102,0.0,CB,8,2022-01-01,0,88,Y,Crystal Palace,0,0,0.0,0.0,89.8,0,98,,90,0,L 2–3,0,,4,1,Home,0,Matchweek 21,West Ham,1
+0,,,0,,Sat,,FA Cup,0,,,,CB,,2022-01-08,0,,Y,Crystal Palace,0,,,,,0,,,90,,W 2–1,0,,,,Away,0,Third round proper,Millwall,0
+0,0,15,0,2,Fri,0,Premier League,0,0,43,0.0,CB,5,2022-01-14,0,24,Y,Crystal Palace,0,0,0.0,0.0,85.7,0,28,,90,0,D 1–1,0,,0,0,Away,0,Matchweek 22,Brighton,1
+0,2,52,0,1,Sun,0,Premier League,0,3,87,0.0,CB,5,2022-01-23,0,59,Y,Crystal Palace,1,0,0.2,0.0,80.8,0,73,,90,0,L 1–3,0,,2,3,Home,0,Matchweek 23,Liverpool,1
+,,,,,Sat,,FA Cup,,,,,,,2022-02-05,,,N,Crystal Palace,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Fourth round proper,Hartlepool Utd,
+0,1,80,0,0,Wed,0,Premier League,0,4,104,0.0,CB,3,2022-02-09,0,83,Y,Crystal Palace,0,0,0.0,0.0,85.6,0,97,,90,0,D 1–1,0,,4,1,Away,0,Matchweek 24,Norwich City,4
+0,2,49,0,2,Sat,0,Premier League,0,4,84,0.1,CB,4,2022-02-12,1,64,Y,Crystal Palace,1,1,0.0,0.1,85.3,0,75,,90,1,D 0–0,0,,4,1,Away,0,Matchweek 25,Brentford,1
+0,1,35,0,2,Sat,0,Premier League,0,3,63,0.0,CB,5,2022-02-19,0,40,Y,Crystal Palace,0,0,0.0,0.0,75.5,0,53,,90,0,L 0–1,0,,1,0,Home,0,Matchweek 26,Chelsea,3
+0,0,82,0,1,Wed,0,Premier League,0,4,112,0.0,CB,4,2022-02-23,0,85,Y,Crystal Palace,0,0,0.0,0.0,82.5,0,103,,90,0,W 4–1,0,,4,3,Away,0,Matchweek 18,Watford,1
+0,0,55,0,1,Sat,0,Premier League,0,1,83,0.0,CB,3,2022-02-26,0,52,Y,Crystal Palace,0,1,0.0,0.0,65.8,0,79,,90,1,D 1–1,0,,2,0,Home,0,Matchweek 27,Burnley,1
+0,,,0,,Tue,,FA Cup,0,,,,CB,,2022-03-01,0,,Y,Crystal Palace,0,,,,,0,,,90,,W 2–1,0,,,,Home,0,Fifth round proper,Stoke City,1
+0,2,26,0,1,Sat,0,Premier League,0,2,52,0.0,CB,5,2022-03-05,0,27,Y,Crystal Palace,0,0,0.3,0.0,67.5,0,40,,90,0,W 2–0,0,,0,1,Away,0,Matchweek 28,Wolves,1
+0,1,22,0,2,Mon,0,Premier League,0,2,48,0.0,CB,3,2022-03-14,0,27,Y,Crystal Palace,0,0,0.0,0.0,71.1,0,38,,90,0,D 0–0,0,,0,0,Home,0,Matchweek 29,Manchester City,1
+0,,,0,,Sun,,FA Cup,0,,,,CB,,2022-03-20,0,,Y,Crystal Palace,0,,,,,0,,,90,,W 4–0,0,,,,Home,0,Quarter-finals,Everton,2
+0,,,0,,Sat,,Friendlies (M),0,,,,CB,,2022-03-26,,,Y,Denmark,,,,,,0,,,90,,L 2–4,0,,,,Away,0,Friendlies (M),Netherlands,
+0,,,0,,Tue,,Friendlies (M),0,,,,CB,,2022-03-29,,,Y,Denmark,,,,,,0,,,66,,W 3–0,0,,,,Home,0,Friendlies (M),Serbia,
+0,2,19,0,1,Mon,2,Premier League,2,1,44,0.1,CB,7,2022-04-04,1,25,Y,Crystal Palace,1,0,0.6,0.1,78.1,0,32,,90,0,W 3–0,0,,0,3,Home,0,Matchweek 31,Arsenal,2
+0,1,79,0,1,Sun,0,Premier League,0,5,109,0.0,CB,9,2022-04-10,0,83,Y,Crystal Palace,1,0,0.1,0.0,83.0,0,100,,90,0,L 1–2,0,,1,1,Away,0,Matchweek 32,Leicester City,2
+0,,,0,,Sun,,FA Cup,0,,,,CB,,2022-04-17,0,,Y,Crystal Palace,1,,,,,0,,,90,,L 0–2,0,,,,Away,0,Semi-finals,Chelsea,3
+0,1,74,0,2,Wed,0,Premier League,0,5,105,0.0,CB,12,2022-04-20,0,85,Y,Crystal Palace,0,0,0.0,0.0,85.9,0,99,,90,0,L 0–1,0,,5,2,Away,0,Matchweek 30,Newcastle Utd,0
+0,0,44,0,2,Mon,0,Premier League,0,4,70,0.0,CB,3,2022-04-25,0,48,Y,Crystal Palace,0,1,0.0,0.0,75.0,1,64,,90,1,D 0–0,0,,0,1,Home,0,Matchweek 34,Leeds United,2
+0,1,57,0,0,Sat,0,Premier League,0,1,87,0.0,CB,5,2022-04-30,0,66,Y,Crystal Palace,0,1,0.0,0.0,82.5,0,80,,90,1,W 2–1,0,,0,2,Away,0,Matchweek 35,Southampton,2
+0,1,71,0,0,Sat,0,Premier League,0,5,95,0.0,CB,2,2022-05-07,0,72,Y,Crystal Palace,0,0,0.1,0.0,83.7,0,86,,90,0,W 1–0,0,,8,0,Home,0,Matchweek 36,Watford,1
+0,4,48,0,3,Sun,0,Premier League,0,6,82,0.0,CB,4,2022-05-15,0,59,Y,Crystal Palace,1,0,0.2,0.0,80.8,0,73,,90,0,D 1–1,0,,2,0,Away,0,Matchweek 37,Aston Villa,1
+0,0,46,0,0,Thu,0,Premier League,0,3,76,0.0,CB,2,2022-05-19,0,51,Y,Crystal Palace,0,0,0.0,0.0,75.0,0,68,,90,0,L 2–3,0,,1,1,Away,0,Matchweek 33,Everton,1
+0,1,27,0,2,Sun,0,Premier League,0,2,53,0.0,CB,6,2022-05-22,0,34,Y,Crystal Palace,0,0,0.0,0.0,73.9,0,46,,90,0,W 1–0,0,,0,1,Home,0,Matchweek 38,Manchester Utd,0
+0,,,0,,Fri,,UEFA Nations League,0,,,,RB,,2022-06-03,0,,Y,Denmark,0,,,,,0,,,90,,W 2–1,0,,,,Away,0,League A,France,
+0,,,0,,Mon,,UEFA Nations League,0,,,,RB,,2022-06-06,0,,Y,Denmark,0,,,,,0,,,90,,W 2–1,0,,,,Away,0,League A,Austria,
+0,,,0,,Fri,,UEFA Nations League,0,,,,CB,,2022-06-10,0,,Y,Denmark,0,,,,,1,,,90,,L 0–1,0,,,,Home,0,League A,Croatia,
+0,,,0,,Mon,,UEFA Nations League,0,,,,CB,,2022-06-13,0,,Y,Denmark,0,,,,,0,,,62,,W 2–0,0,,,,Home,0,League A,Austria,

@@ -1,0 +1,35 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,2,0,1,Sat,0,Premier League,0,0,6,0.3,FW,5,2021-08-14,1,3,N,Norwich City,1,0,0.0,0.3,60.0,0,5,,14,0,L 0–3,0,,0,0,Home,0,Matchweek 1,Liverpool,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Norwich City,,,,,,,,,,,L 0–5,,"On matchday squad, but did not play",,,Away,,Matchweek 2,Manchester City,
+0,,,0,,Tue,,EFL Cup,0,,,,,,2021-08-24,0,,N,Norwich City,0,,,,,0,,,14,,W 6–0,0,,,,Home,0,Second round,Bournemouth,0
+0,0,5,0,0,Sat,0,Premier League,0,0,6,0.2,FW,2,2021-08-28,0,4,N,Norwich City,1,1,0.0,0.2,100.0,0,4,,12,0,L 1–2,0,,0,0,Home,0,Matchweek 3,Leicester City,0
+0,,,0,,Wed,,WCQ,0,,,,FW,,2021-09-01,0,,Y,Republic of Ireland,0,,,,,0,,,89,,L 1–2,0,,,,Away,0,First round,Portugal,0
+0,,,0,,Sat,,WCQ,0,,,,FW,,2021-09-04,0,,Y,Republic of Ireland,4,,,,,0,,,90,,D 1–1,0,,,,Home,0,First round,Azerbaijan,0
+0,,,0,,Tue,,WCQ,0,,,,FW,,2021-09-07,0,,Y,Republic of Ireland,0,,,,,1,,,77,,D 1–1,0,,,,Home,0,First round,Serbia,0
+0,1,2,0,0,Sat,0,Premier League,0,0,3,0.0,FW,2,2021-09-11,0,1,N,Norwich City,0,0,0.2,0.0,50.0,0,2,,11,0,L 0–1,0,,1,0,Away,0,Matchweek 4,Arsenal,0
+0,0,3,0,0,Sat,0,Premier League,0,1,3,0.0,LW,0,2021-09-18,0,2,N,Norwich City,0,1,0.0,0.0,66.7,0,3,,3,1,L 1–3,0,,1,0,Home,0,Matchweek 5,Watford,0
+0,,,0,,Tue,,EFL Cup,0,,,,FW,,2021-09-21,3,,Y,Norwich City,4,,,,,0,,,90,,L 0–3,0,,,,Home,0,Third round,Liverpool,0
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Norwich City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Everton,
+0,0,3,0,0,Sat,0,Premier League,0,0,5,0.0,FW,1,2021-10-02,0,1,N,Norwich City,0,0,0.0,0.0,50.0,0,2,,1,0,D 0–0,0,,0,1,Away,0,Matchweek 7,Burnley,0
+0,,,0,,Sat,,WCQ,0,,,,FW,,2021-10-09,0,,Y,Republic of Ireland,0,,,,,0,,,58,,W 3–0,0,,,,Away,0,First round,Azerbaijan,0
+,,,,,Tue,,Friendlies (M),,,,,,,2021-10-12,,,N,Republic of Ireland,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,Friendlies (M),Qatar,
+0,1,3,0,0,Sat,0,Premier League,0,1,2,0.0,FW,0,2021-10-16,0,2,N,Norwich City,0,0,0.0,0.0,100.0,0,2,,1,0,D 0–0,0,,3,0,Home,0,Matchweek 8,Brighton,0
+,,,,,Sat,,Premier League,,,,,,,2021-10-23,,,N,Norwich City,,,,,,,,,,,L 0–7,,"On matchday squad, but did not play",,,Away,,Matchweek 9,Chelsea,
+0,0,2,0,0,Sun,0,Premier League,0,0,3,0.0,FW,4,2021-10-31,0,3,N,Norwich City,0,0,0.0,0.0,100.0,0,3,,14,0,L 1–2,0,,0,0,Home,0,Matchweek 10,Leeds United,0
+0,0,3,0,0,Sat,0,Premier League,0,0,3,0.0,FW,0,2021-11-06,0,1,N,Norwich City,0,1,0.0,0.0,100.0,0,1,,1,1,W 2–1,0,,0,0,Away,0,Matchweek 11,Brentford,0
+0,,,0,,Thu,,WCQ,0,,,,,,2021-11-11,0,,N,Republic of Ireland,1,,,,,0,,,30,,D 0–0,0,,,,Home,0,First round,Portugal,1
+0,,,0,,Sun,,WCQ,0,,,,FW,,2021-11-14,0,,Y,Republic of Ireland,2,,,,,0,,,61,,W 3–0,0,,,,Away,0,First round,Luxembourg,0
+,,,,,Sat,,Premier League,,,,,,,2021-11-20,,,N,Norwich City,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Matchweek 12,Southampton,
+,,,,,Sat,,Premier League,,,,,,,2021-11-27,,,N,Norwich City,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Wolves,
+0,0,8,0,0,Tue,0,Premier League,0,0,10,0.1,FW,2,2021-11-30,0,4,N,Norwich City,1,0,0.0,0.1,66.7,0,6,,24,0,D 1–1,0,,1,1,Away,0,Matchweek 14,Newcastle Utd,0
+0,1,17,0,0,Sun,0,Premier League,0,0,22,0.6,FW,12,2021-12-05,0,8,Y,Norwich City,1,0,0.2,0.6,66.7,0,12,,68,0,L 0–3,0,,0,1,Away,0,Matchweek 15,Tottenham,0
+,,,,,Sat,,Premier League,,,,,,,2021-12-11,,,N,Norwich City,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 16,Manchester Utd,
+0,0,10,0,0,Tue,0,Premier League,0,1,19,0.1,LW,4,2021-12-14,1,9,N,Norwich City,1,0,0.0,0.1,75.0,0,12,,30,0,L 0–2,0,,2,3,Home,0,Matchweek 17,Aston Villa,0
+0,0,6,0,2,Sun,0,Premier League,0,1,10,0.0,LM,8,2021-12-26,0,4,N,Norwich City,0,1,0.0,0.0,57.1,0,7,,19,1,L 0–5,0,,0,1,Home,0,Matchweek 19,Arsenal,0
+0,1,20,0,0,Tue,0,Premier League,0,0,30,0.0,FW,15,2021-12-28,0,11,Y,Norwich City,0,3,0.0,0.0,68.8,0,16,,90,3,L 0–3,0,,1,1,Away,0,Matchweek 20,Crystal Palace,1
+0,,,0,,Sun,,FA Cup,0,,,,,,2022-01-09,0,,N,Norwich City,0,,,,,0,,,6,,W 1–0,0,,,,Away,0,Third round proper,Charlton Ath,0
+0,3,25,0,0,Wed,0,Premier League,0,0,25,0.1,AM,9,2022-01-12,1,14,Y,Norwich City,2,3,0.1,0.1,63.6,0,22,,74,3,L 0–2,0,,4,0,Away,0,Matchweek 18,West Ham,0
+0,3,29,0,1,Sat,0,Premier League,0,3,42,0.4,"FW,AM",6,2022-01-15,1,15,Y,Norwich City,4,6,0.0,0.4,68.2,0,22,,90,3,W 2–1,0,,5,2,Home,1,Matchweek 22,Everton,1
+0,1,19,0,0,Fri,0,Premier League,0,0,25,0.0,FW,12,2022-01-21,0,7,Y,Norwich City,1,0,0.0,0.0,63.6,0,11,,90,0,W 3–0,0,,1,1,Away,0,Matchweek 23,Watford,1
+0,,,0,,Sat,,FA Cup,0,,,,FW,,2022-02-05,2,,Y,Norwich City,2,,,,,0,,,65,,W 1–0,0,,,,Away,0,Fourth round proper,Wolves,0
+0,1,13,0,0,Wed,1,Premier League,1,0,21,0.2,"FW,RM",11,2022-02-09,0,7,Y,Norwich City,2,0,0.1,0.2,58.3,0,12,,83,0,D 1–1,0,,0,0,Home,0,Matchweek 24,Crystal Palace,1

@@ -1,0 +1,53 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,3,0,0,Fri,0,Premier League,0,0,5,0.0,FW,2,2021-08-13,0,2,N,Brentford,0,2,0.0,0.0,66.7,0,3,,5,1,W 2–0,0,,1,0,Home,0,Matchweek 1,Arsenal,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Brentford,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 2,Crystal Palace,
+0,,,0,,Tue,,EFL Cup,0,,,,FW,,2021-08-24,1,,Y,Brentford,2,,,,,0,,,90,,W 3–1,0,,,,Home,1,Second round,FG Rovers,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-28,,,N,Brentford,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 3,Aston Villa,
+0,,,0,,Wed,,Friendlies (M),0,,,,FW,,2021-09-01,,,Y,Finland,,,,,,0,,,72,,D 0–0,0,,,,Home,0,Friendlies (M),Wales,
+0,,,0,,Sat,,WCQ,0,,,,,,2021-09-04,0,,N,Finland,0,,,,,0,,,1,,W 1–0,0,,,,Home,0,First round,Kazakhstan,0
+,,,,,Tue,,WCQ,,,,,,,2021-09-07,,,N,Finland,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,First round,France,
+,,,,,Sat,,Premier League,,,,,,,2021-09-11,,,N,Brentford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 4,Brighton,
+,,,,,Sat,,Premier League,,,,,,,2021-09-18,,,N,Brentford,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 5,Wolves,
+1,,,1,,Tue,,EFL Cup,0,,,,FW,,2021-09-21,4,,Y,Brentford,5,,,,,0,,,90,,W 7–0,0,,,,Home,4,Third round,Oldham Athletic,1
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Brentford,,,,,,,,,,,D 3–3,,"On matchday squad, but did not play",,,Home,,Matchweek 6,Liverpool,
+,,,,,Sun,,Premier League,,,,,,,2021-10-03,,,N,Brentford,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Away,,Matchweek 7,West Ham,
+0,1,4,0,0,Sat,0,Premier League,0,2,9,0.1,CM,3,2021-10-16,0,4,N,Brentford,2,0,0.0,0.1,57.1,0,7,,24,0,L 0–1,0,,0,0,Home,0,Matchweek 8,Chelsea,0
+0,0,2,0,1,Sun,0,Premier League,0,0,9,0.0,FW,10,2021-10-24,0,2,N,Brentford,0,0,0.0,0.0,40.0,0,5,,34,0,L 1–2,0,,0,0,Home,0,Matchweek 9,Leicester City,0
+0,,,0,,Wed,,EFL Cup,1,,,,FW,,2021-10-27,0,,Y,Brentford,1,,,,,0,,,71,,W 2–1,0,,,,Away,0,Fourth round,Stoke City,0
+0,0,10,0,2,Sat,0,Premier League,0,2,25,0.1,FW,39,2021-10-30,0,8,Y,Brentford,1,1,0.0,0.1,66.7,0,12,,90,0,L 1–3,0,,1,2,Away,0,Matchweek 10,Burnley,1
+0,0,4,0,0,Sat,0,Premier League,0,0,7,0.0,FW,6,2021-11-06,0,4,N,Brentford,0,1,0.0,0.0,66.7,0,6,,22,1,L 1–2,0,,1,1,Home,0,Matchweek 11,Norwich City,0
+0,,,0,,Sat,,WCQ,0,,,,CB,,2021-11-13,2,,Y,Finland,2,,,,,0,,,45,,W 3–1,0,,,,Away,1,First round,Bosnia and Herzegovina,0
+0,,,0,,Tue,,WCQ,0,,,,,,2021-11-16,0,,N,Finland,0,,,,,0,,,27,,L 0–2,0,,,,Home,0,First round,France,0
+,,,,,Sat,,Premier League,,,,,,,2021-11-20,,,N,Brentford,,,,,,,,,,,D 3–3,,"On matchday squad, but did not play",,,Away,,Matchweek 12,Newcastle Utd,
+,,,,,Sun,,Premier League,,,,,,,2021-11-28,,,N,Brentford,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Everton,
+,,,,,Thu,,Premier League,,,,,,,2021-12-02,,,N,Brentford,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 14,Tottenham,
+,,,,,Sun,,Premier League,,,,,,,2021-12-05,,,N,Brentford,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,Matchweek 15,Leeds United,
+0,1,2,0,0,Fri,1,Premier League,1,0,5,0.0,FW,5,2021-12-10,0,0,N,Brentford,1,0,0.0,0.0,0.0,0,2,,22,0,W 2–1,0,,0,0,Home,0,Matchweek 16,Watford,1
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-12-22,0,,N,Brentford,0,,,,,0,,,10,,L 0–2,0,,,,Home,0,Quarter-finals,Chelsea,1
+,,,,,Sun,,Premier League,,,,,,,2021-12-26,,,N,Brentford,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 19,Brighton,
+,,,,,Wed,,Premier League,,,,,,,2021-12-29,,,N,Brentford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 20,Manchester City,
+,,,,,Sun,,Premier League,,,,,,,2022-01-02,,,N,Brentford,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Matchweek 21,Aston Villa,
+0,,,0,,Sat,,FA Cup,0,,,,FW,,2022-01-08,2,,Y,Brentford,2,,,,,0,,,90,,W 4–1,0,,,,Away,1,Third round proper,Port Vale,0
+,,,,,Tue,,Premier League,,,,,,,2022-01-11,,,N,Brentford,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Away,,Matchweek 18,Southampton,
+,,,,,Sun,,Premier League,,,,,,,2022-01-16,,,N,Brentford,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Away,,Matchweek 22,Liverpool,
+,,,,,Wed,,Premier League,,,,,,,2022-01-19,,,N,Brentford,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Home,,Matchweek 17,Manchester Utd,
+0,0,2,0,0,Sat,0,Premier League,0,1,9,0.0,RW,5,2022-01-22,0,4,N,Brentford,1,0,0.0,0.0,66.7,0,6,,12,0,L 1–2,0,,0,1,Home,0,Matchweek 23,Wolves,0
+0,,,0,,Sat,,Championship,0,,,,,,2022-02-05,0,,N,Hull City,1,,,,,0,,,37,,L 0–1,0,,,,Home,0,Matchweek 30,Preston,0
+0,,,0,,Tue,,Championship,0,,,,FW,,2022-02-08,1,,Y,Hull City,2,,,,,0,,,90,,L 1–3,0,,,,Away,0,Matchweek 31,Derby County,0
+0,,,0,,Sat,,Championship,0,,,,FW,,2022-02-12,0,,Y,Hull City,2,,,,,0,,,71,,L 0–1,0,,,,Home,0,Matchweek 32,Fulham,0
+0,,,0,,Tue,,Championship,0,,,,FW,,2022-02-15,0,,Y,Hull City,1,,,,,0,,,55,,D 0–0,0,,,,Away,0,Matchweek 25,Sheffield Utd,0
+0,,,0,,Sat,,Championship,0,,,,FW,,2022-02-19,1,,Y,Hull City,1,,,,,1,,,80,,D 1–1,0,,,,Away,1,Matchweek 33,QPR,0
+0,,,0,,Tue,,Championship,0,,,,FW,,2022-02-22,0,,Y,Hull City,0,,,,,0,,,59,,L 0–2,0,,,,Home,0,Matchweek 34,Barnsley,0
+0,,,0,,Sat,,Championship,0,,,,,,2022-03-12,0,,N,Hull City,1,,,,,0,,,25,,D 0–0,0,,,,Away,0,Matchweek 37,Birmingham City,0
+,,,,,Wed,,Championship,,,,,,,2022-03-16,,,N,Hull City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 38,Coventry City,
+0,,,0,,Sat,,Championship,1,,,,,,2022-03-19,0,,N,Hull City,1,,,,,0,,,16,,L 1–3,0,,,,Home,0,Matchweek 39,Luton Town,0
+,,,,,Sat,,Friendlies (M),,,,,,,2022-03-26,,,N,Finland,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Friendlies (M),Iceland,
+0,,,0,,Tue,,Friendlies (M),0,,,,FW,,2022-03-29,,,Y,Finland,,,,,,0,,,84,,L 0–2,0,,,,Neutral,0,Friendlies (M),Slovakia,
+,,,,,Sat,,Championship,,,,,,,2022-04-09,,,N,Hull City,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 41,Middlesbrough,
+0,,,0,,Fri,,Championship,0,,,,,,2022-04-15,0,,N,Hull City,0,,,,,0,,,21,,W 2–1,0,,,,Home,0,Matchweek 42,Cardiff City,0
+0,,,0,,Mon,,Championship,0,,,,,,2022-04-18,0,,N,Hull City,0,,,,,0,,,19,,L 1–2,0,,,,Away,0,Matchweek 43,Millwall,0
+,,,,,Sat,,Championship,,,,,,,2022-04-23,,,N,Hull City,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 44,Reading,
+0,,,0,,Sat,,Championship,0,,,,,,2022-04-30,0,,N,Hull City,0,,,,,0,,,17,,L 0–5,0,,,,Away,0,Matchweek 45,Bristol City,0
+,,,,,Sat,,Championship,,,,,,,2022-05-07,,,N,Hull City,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 46,Nott'ham Forest,
+0,,,0,,Sat,,UEFA Nations League,0,,,,,,2022-06-04,0,,N,Finland,0,,,,,0,,,13,,D 1–1,0,,,,Home,0,League B,Bosnia and Herzegovina,
+0,,,0,,Tue,,UEFA Nations League,0,,,,,,2022-06-07,0,,N,Finland,0,,,,,0,,,24,,W 2–0,0,,,,Home,0,League B,Montenegro,

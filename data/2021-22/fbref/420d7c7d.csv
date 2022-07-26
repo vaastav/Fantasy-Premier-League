@@ -1,0 +1,30 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,52,0,2,Sat,0,Premier League,0,6,86,0.1,RB,22,2021-08-14,1,57,Y,Leeds United,2,2,0.0,0.1,82.6,0,69,,90,1,L 1–5,0,5,4,Away,1,Matchweek 1,Manchester Utd,1
+0,4,82,0,1,Sat,0,Premier League,0,18,119,0.0,CB,12,2021-08-21,0,103,Y,Leeds United,1,1,0.0,0.0,92.0,0,112,,90,1,D 2–2,0,14,3,Home,0,Matchweek 2,Everton,2
+0,,,0,,Tue,,EFL Cup,0,,,,,,2021-08-24,0,,N,Leeds United,0,,,,,0,,,45,,W 3–0,0,,,Home,0,Second round,Crewe Alexandra,0
+0,0,62,0,0,Sun,0,Premier League,0,7,80,0.0,"WB,CB",12,2021-08-29,0,58,Y,Leeds United,0,6,0.0,0.0,81.7,0,71,,90,4,D 1–1,0,7,0,Away,0,Matchweek 3,Burnley,0
+0,1,46,0,5,Sun,0,Premier League,0,2,77,0.1,"RB,CB",15,2021-09-12,0,47,Y,Leeds United,1,1,0.0,0.1,75.8,0,62,,90,1,L 0–3,0,0,2,Home,0,Matchweek 4,Liverpool,0
+0,0,61,0,3,Fri,0,Premier League,0,5,93,0.0,CB,10,2021-09-17,0,73,Y,Leeds United,0,0,0.0,0.0,89.0,0,82,,88,0,D 1–1,0,9,4,Away,0,Matchweek 5,Newcastle Utd,2
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,RB,,2021-11-29,,,Y,Leeds Utd U23,,,,,,0,,,45,,L 2–3,0,,,Away,0,Matchweek 13,Manchester City,
+0,2,61,0,2,Sun,1,Premier League,1,8,91,0.2,CB,9,2021-12-05,1,57,Y,Leeds United,3,0,0.0,0.2,73.1,0,78,,90,0,D 2–2,0,6,3,Home,0,Matchweek 15,Brentford,3
+0,0,32,0,2,Sat,0,Premier League,0,2,51,0.0,CB,15,2021-12-11,0,30,Y*,Leeds United,0,0,0.0,0.0,75.0,0,40,,90,0,L 2–3,0,0,2,Away,0,Matchweek 16,Chelsea,1
+0,1,39,0,5,Tue,0,Premier League,0,1,61,0.0,CB,11,2021-12-14,0,43,Y*,Leeds United,0,1,0.0,0.0,81.1,0,53,,90,1,L 0–7,0,1,1,Away,0,Matchweek 17,Manchester City,1
+0,1,45,0,3,Sat,0,Premier League,0,1,68,0.0,CB,5,2021-12-18,0,50,Y*,Leeds United,0,0,0.0,0.0,83.3,0,60,,90,0,L 1–4,0,1,1,Home,0,Matchweek 18,Arsenal,4
+0,1,32,0,3,Sun,0,Premier League,0,4,69,0.0,CB,9,2022-01-02,0,42,Y*,Leeds United,0,2,0.2,0.0,71.2,0,59,,90,1,W 3–1,0,3,0,Home,0,Matchweek 21,Burnley,3
+0,,,0,,Sun,,FA Cup,0,,,,RB,,2022-01-09,0,,Y*,Leeds United,0,,,,,0,,,59,,L 0–2,0,,,Away,0,Third round proper,West Ham,1
+0,2,45,0,1,Sun,1,Premier League,1,1,66,0.1,CB,16,2022-01-16,0,40,Y*,Leeds United,2,3,0.0,0.1,70.2,0,57,,90,3,W 3–2,0,3,4,Away,0,Matchweek 22,West Ham,1
+0,1,36,0,5,Sat,0,Premier League,0,5,73,0.0,RB,14,2022-01-22,0,47,Y*,Leeds United,0,0,0.0,0.0,81.0,0,58,,90,0,L 0–1,0,4,4,Home,0,Matchweek 23,Newcastle Utd,1
+0,1,42,0,1,Wed,0,Premier League,0,4,71,0.0,RB,17,2022-02-09,0,47,Y*,Leeds United,1,4,0.0,0.0,79.7,0,59,,90,2,D 3–3,0,4,2,Away,0,Matchweek 24,Aston Villa,3
+0,0,43,0,2,Sat,0,Premier League,0,2,82,0.0,WB,22,2022-02-12,0,46,Y*,Leeds United,0,5,0.0,0.0,75.4,0,61,,90,0,L 0–3,0,3,5,Away,0,Matchweek 25,Everton,5
+0,0,40,0,0,Sun,0,Premier League,0,4,63,0.0,"CB,RB",7,2022-02-20,0,44,Y*,Leeds United,0,2,0.0,0.0,80.0,1,55,,90,0,L 2–4,0,7,2,Home,0,Matchweek 26,Manchester Utd,2
+0,0,35,0,2,Wed,0,Premier League,0,1,66,0.0,CB,23,2022-02-23,0,42,Y*,Leeds United,0,2,0.0,0.0,85.7,1,49,,90,1,L 0–6,0,0,3,Away,0,Matchweek 19,Liverpool,3
+0,2,40,0,0,Sat,0,Premier League,0,4,69,0.0,RB,15,2022-02-26,0,53,Y*,Leeds United,1,0,0.0,0.0,84.1,0,63,,90,0,L 0–4,0,2,4,Home,0,Matchweek 27,Tottenham,2
+0,0,51,0,1,Sat,0,Premier League,0,10,76,0.1,CB,9,2022-03-05,0,52,Y*,Leeds United,2,1,0.0,0.1,78.8,0,66,,90,1,L 0–1,0,11,1,Away,0,Matchweek 28,Leicester City,2
+0,0,34,0,2,Thu,0,Premier League,0,4,49,0.0,CB,13,2022-03-10,0,42,Y*,Leeds United,0,2,0.0,0.0,100.0,0,42,,90,2,L 0–3,0,2,2,Home,0,Matchweek 20,Aston Villa,4
+0,0,36,0,0,Sun,0,Premier League,0,8,58,0.0,RB,21,2022-03-13,0,34,Y*,Leeds United,0,2,0.0,0.0,68.0,1,50,,90,2,W 2–1,0,3,6,Home,0,Matchweek 29,Norwich City,3
+0,3,44,0,1,Fri,1,Premier League,0,8,66,0.8,RB,12,2022-03-18,1,36,Y*,Leeds United,3,2,0.3,0.8,63.2,0,57,,90,2,W 3–2,0,7,2,Away,1,Matchweek 30,Wolves,2
+0,1,33,0,5,Sat,0,Premier League,0,6,84,0.0,RB,26,2022-04-02,0,45,Y,Leeds United,0,1,0.1,0.0,66.2,1,68,,88,0,D 1–1,0,5,6,Home,0,Matchweek 31,Southampton,2
+0,1,39,0,0,Sat,0,Premier League,0,4,91,0.1,RB,27,2022-04-09,0,41,Y,Leeds United,3,1,0.1,0.1,61.2,0,67,,90,0,W 3–0,0,4,7,Away,0,Matchweek 32,Watford,1
+0,1,33,0,2,Mon,0,Premier League,0,9,71,0.0,RB,24,2022-04-25,0,42,Y,Leeds United,0,3,0.0,0.0,76.4,0,55,,90,3,D 0–0,0,2,6,Away,0,Matchweek 34,Crystal Palace,5
+0,0,36,0,1,Sat,0,Premier League,0,1,58,0.0,CB,17,2022-04-30,0,30,Y*,Leeds United,0,0,0.0,0.0,66.7,0,45,,90,0,L 0–4,0,2,4,Home,0,Matchweek 35,Manchester City,0
+0,0,15,0,0,Sun,0,Premier League,0,0,23,0.0,RB,9,2022-05-08,0,17,Y*,Leeds United,0,0,0.0,0.0,85.0,0,20,,26,0,L 1–2,1,0,1,Away,0,Matchweek 36,Arsenal,1

@@ -1,0 +1,28 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,4,15,0,0,Sat,2,Premier League,0,4,14,0.0,RM,3,2021-08-14,0,8,N,Aston Villa,1,4,0.0,0.0,88.9,0,9,,19,2,L 2–3,0,,5,1,Away,0,Matchweek 1,Watford,0
+0,2,14,0,0,Sat,0,Premier League,0,2,13,0.0,AM,5,2021-09-11,0,7,N,Aston Villa,1,4,0.0,0.0,87.5,0,8,,22,4,L 0–3,0,,1,0,Away,0,Matchweek 4,Chelsea,0
+0,0,7,0,0,Sat,0,Premier League,0,0,11,0.1,RM,0,2021-09-18,0,2,N,Aston Villa,2,3,0.0,0.1,40.0,0,5,,5,1,W 3–0,0,,0,0,Home,0,Matchweek 5,Everton,0
+0,,,0,,Wed,,EFL Cup,0,,,,AM,,2021-09-22,2,,Y,Aston Villa,2,,,,,0,,,63,,D 1 ,0,,,,Away,0,Third round,Chelsea,3
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Aston Villa,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Manchester Utd,
+0,0,3,0,0,Sun,0,Premier League,0,0,4,0.0,"CB,RM",1,2021-10-03,0,1,N,Aston Villa,0,0,0.0,0.0,33.3,0,3,,11,0,L 1–2,0,,1,0,Away,0,Matchweek 7,Tottenham,0
+0,0,12,0,0,Sun,0,Premier League,0,1,13,0.0,AM,2,2021-12-26,0,6,N,Aston Villa,0,4,0.0,0.0,85.7,0,7,,18,0,L 1–3,0,,2,0,Home,0,Matchweek 19,Chelsea,0
+0,3,29,0,0,Sun,0,Premier League,0,2,33,0.0,RW,3,2022-01-02,0,19,Y,Aston Villa,0,6,0.0,0.0,79.2,0,24,,79,3,L 1–2,0,,3,0,Away,0,Matchweek 21,Brentford,0
+0,,,0,,Sun,,Africa Cup of Nations,1,,,,AM,,2022-01-09,2,,Y*,Burkina Faso,4,,,,,0,,,85,,L 1–2,0,,,,Neutral,0,Group stage,Cameroon,0
+0,,,0,,Mon,,Africa Cup of Nations,0,,,,FW,,2022-01-17,0,,Y*,Burkina Faso,1,,,,,0,,,90,,D 1–1,0,,,,Neutral,0,Group stage,Ethiopia,1
+0,,,1,,Sun,,Africa Cup of Nations,0,,,,FW,,2022-01-23,2,,Y*,Burkina Faso,5,,,,,0,,,80,,D 1 ,0,,,,Neutral,1,Round of 16,Gabon,0
+,,,,,Sat,,Africa Cup of Nations,,,,,,,2022-01-29,,,N,Burkina Faso,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Neutral,,Quarter-finals,Tunisia,
+0,,,0,,Wed,,Africa Cup of Nations,0,,,,AM,,2022-02-02,1,,Y*,Burkina Faso,4,,,,,0,,,90,,L 1–3,0,,,,Neutral,0,Semi-finals,Senegal,0
+0,,,0,,Sat,,Africa Cup of Nations,1,,,,AM,,2022-02-05,0,,Y*,Burkina Faso,0,,,,,0,,,85,,D 3 ,0,,,,Neutral,0,Third-place match,Cameroon,0
+,,,,,Sat,,Premier League,,,,,,,2022-03-05,,,N,Aston Villa,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,Matchweek 28,Southampton,
+,,,,,Thu,,Premier League,,,,,,,2022-03-10,,,N,Aston Villa,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Away,,Matchweek 20,Leeds United,
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Aston Villa,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 29,West Ham,
+0,0,7,0,0,Sat,0,Premier League,0,1,11,0.1,RW,6,2022-03-19,0,7,N,Aston Villa,2,0,0.0,0.1,77.8,0,9,,22,0,L 0–1,0,,2,0,Home,0,Matchweek 30,Arsenal,0
+0,,,0,,Tue,,Friendlies (M),0,,,,AM,,2022-03-29,,,Y*,Burkina Faso,,,,,,0,,,78,,L 0–3,0,,,,Away,0,Friendlies (M),Belgium,
+,,,,,Sat,,Premier League,,,,,,,2022-04-02,,,N,Aston Villa,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 31,Wolves,
+,,,,,Sat,,Premier League,,,,,,,2022-04-09,,,N,Aston Villa,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Home,,Matchweek 32,Tottenham,
+,,,,,Sat,,Premier League,,,,,,,2022-04-30,,,N,Aston Villa,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 35,Norwich City,
+,,,,,Sat,,Premier League,,,,,,,2022-05-07,,,N,Aston Villa,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Away,,Matchweek 36,Burnley,
+0,1,3,0,0,Tue,0,Premier League,0,0,3,0.0,FW,2,2022-05-10,0,1,N,Aston Villa,0,0,0.0,0.0,50.0,0,2,,10,0,L 1–2,0,,1,0,Home,0,Matchweek 33,Liverpool,0
+,,,,,Sun,,Premier League,,,,,,,2022-05-15,,,N,Aston Villa,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 37,Crystal Palace,
+0,1,16,0,0,Thu,0,Premier League,0,0,23,0.1,AM,5,2022-05-19,1,11,N,Aston Villa,2,0,0.0,0.1,68.8,0,16,,34,0,D 1–1,0,,2,1,Home,0,Matchweek 18,Burnley,0
+,,,,,Sun,,Premier League,,,,,,,2022-05-22,,,N,Aston Villa,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Away,,Matchweek 38,Manchester City,

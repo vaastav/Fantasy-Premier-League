@@ -1,0 +1,36 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,5,34,0,1,Sat,1,Premier League,0,5,42,0.1,"RM,RW",14,2021-08-14,2,18,Y,Watford,3,3,0.2,0.1,72.0,0,25,,90,3,W 3–2,0,10,0,Home,1,Matchweek 1,Aston Villa,0
+0,4,45,0,0,Sat,0,Premier League,0,10,50,0.2,"RM,RB",11,2021-08-21,0,30,Y,Watford,2,3,0.2,0.2,78.9,0,38,,90,1,L 0–2,0,9,0,Away,0,Matchweek 2,Brighton,2
+0,3,41,0,0,Sun,0,Premier League,0,0,43,0.3,RM,6,2021-08-29,1,18,Y,Watford,3,4,0.2,0.3,75.0,0,24,,90,2,L 0–1,0,7,0,Away,0,Matchweek 3,Tottenham,1
+0,,,0,,Wed,,WCQ,0,,,,FW,,2021-09-01,,,Y,Senegal,,,,,,0,,,86,,W 2–0,0,,,Home,0,Second round,Togo,
+0,,,0,,Tue,,WCQ,0,,,,AM,,2021-09-07,,,Y,Senegal,,,,,,0,,,90,,W 3–1,0,,,Away,1,Second round,Congo,
+0,2,35,0,1,Sat,0,Premier League,0,3,39,0.0,RM,20,2021-09-11,0,18,Y,Watford,0,3,0.1,0.0,66.7,0,27,,90,1,L 0–2,0,13,0,Home,0,Matchweek 4,Wolves,1
+0,1,39,0,0,Sat,0,Premier League,0,1,45,1.1,RW,7,2021-09-18,5,28,Y,Watford,5,6,0.0,1.1,84.8,0,33,,90,6,W 3–1,0,10,0,Away,2,Matchweek 5,Norwich City,1
+0,2,23,0,0,Sat,0,Premier League,0,1,33,0.2,RW,16,2021-09-25,2,10,Y,Watford,3,3,0.0,0.2,58.8,0,17,,90,2,D 1–1,0,5,3,Home,1,Matchweek 6,Newcastle Utd,0
+0,0,20,0,3,Sat,0,Premier League,0,1,31,0.0,RW,18,2021-10-02,0,12,Y,Watford,1,2,0.0,0.0,70.6,1,17,,90,0,L 0–1,0,4,1,Away,0,Matchweek 7,Leeds United,0
+0,,,0,,Sat,,WCQ,1,,,,AM,,2021-10-09,,,Y,Senegal,,,,,,1,,,88,,W 4–1,0,,,Home,0,Second round,Namibia,
+0,,,0,,Tue,,WCQ,0,,,,AM,,2021-10-12,,,Y,Senegal,,,,,,0,,,90,,W 3–1,0,,,Away,0,Second round,Namibia,
+0,1,17,0,0,Sat,0,Premier League,0,1,26,0.4,"FW,RM",33,2021-10-16,1,13,Y,Watford,3,3,0.0,0.4,76.5,0,17,,90,2,L 0–5,0,4,0,Home,0,Matchweek 8,Liverpool,0
+0,1,24,0,1,Sat,0,Premier League,0,1,35,0.0,RM,20,2021-10-23,0,12,Y,Watford,2,1,0.6,0.0,60.0,0,20,,63,0,W 5–2,0,4,0,Away,0,Matchweek 9,Everton,1
+0,1,31,0,1,Sat,0,Premier League,0,0,45,0.1,"RM,CM",30,2021-10-30,1,12,Y,Watford,2,4,0.0,0.1,50.0,0,24,,90,1,L 0–1,0,6,2,Home,0,Matchweek 10,Southampton,2
+0,0,22,0,0,Sun,0,Premier League,0,1,27,0.0,"RM,CM",12,2021-11-07,0,11,Y,Watford,0,2,0.0,0.0,78.6,0,14,,90,2,L 0–1,0,4,0,Away,0,Matchweek 11,Arsenal,1
+0,,,0,,Thu,,WCQ,0,,,,AM,,2021-11-11,,,Y,Senegal,,,,,,0,,,90,,D 1–1,0,,,Away,0,Second round,Togo,
+0,,,0,,Sun,,WCQ,0,,,,LW,,2021-11-14,,,Y,Senegal,,,,,,0,,,90,,W 2–0,0,,,Home,2,Second round,Congo,
+0,5,18,1,1,Sat,0,Premier League,0,3,29,0.9,RM,10,2021-11-20,1,13,Y,Watford,2,1,0.0,0.1,65.0,0,20,,67,0,W 4–1,0,3,0,Home,1,Matchweek 12,Manchester Utd,2
+0,,,0,,Sun,,Africa Cup of Nations,0,,,,,,2022-01-30,1,,N,Senegal,2,,,,,0,,,33,,W 3–1,0,,,Neutral,1,Quarter-finals,Equatorial Guinea,1
+0,,,0,,Wed,,Africa Cup of Nations,0,,,,,,2022-02-02,0,,N,Senegal,1,,,,,0,,,26,,W 3–1,0,,,Neutral,0,Semi-finals,Burkina Faso,0
+0,,,0,,Sun,,Africa Cup of Nations,0,,,,FW,,2022-02-06,1,,Y,Senegal,1,,,,,0,,,76,,D 0 ,0,,,Neutral,0,Final,Egypt,0
+0,0,19,0,1,Sat,0,Premier League,0,1,25,0.1,RW,8,2022-02-12,1,8,N,Watford,3,1,0.0,0.1,66.7,0,12,,45,0,L 0–2,0,7,0,Home,0,Matchweek 25,Brighton,1
+0,5,21,0,1,Sat,1,Premier League,1,3,28,0.0,RW,21,2022-02-19,0,14,Y,Watford,1,5,0.9,0.0,77.8,1,18,,89,4,W 1–0,0,1,0,Away,0,Matchweek 26,Aston Villa,1
+0,1,34,0,0,Wed,0,Premier League,0,3,43,0.0,RW,22,2022-02-23,0,23,Y,Watford,1,8,0.0,0.0,82.1,0,28,,90,3,L 1–4,0,4,3,Home,0,Matchweek 18,Crystal Palace,0
+0,2,25,0,1,Sat,0,Premier League,0,1,32,0.1,RW,28,2022-02-26,0,17,Y,Watford,2,2,0.1,0.1,81.0,0,21,,90,1,D 0–0,0,7,0,Away,0,Matchweek 27,Manchester Utd,0
+0,,,0,,Fri,,WCQ,0,,,,FW,,2022-03-25,,,Y,Senegal,,,,,,0,,,90,,L 0–1,0,,,Away,0,Third round,Egypt,
+0,,,0,,Tue,,WCQ,0,,,,AM,,2022-03-29,,,Y,Senegal,,,,,,0,,,120,,W 1 ,0,,,Home,0,Third round,Egypt,
+0,1,18,0,4,Sat,0,Premier League,0,1,24,0.1,RM,28,2022-04-02,0,8,Y,Watford,1,5,0.3,0.1,72.7,0,11,,90,2,L 0–2,0,5,1,Away,0,Matchweek 31,Liverpool,0
+0,1,37,0,1,Sat,0,Premier League,0,2,40,0.4,RW,14,2022-04-09,0,13,Y,Watford,1,10,0.0,0.4,65.0,0,20,,90,4,L 0–3,0,5,0,Home,0,Matchweek 32,Leeds United,0
+0,4,35,0,0,Sat,1,Premier League,1,2,40,0.2,RW,17,2022-04-16,1,16,Y,Watford,2,1,0.0,0.2,61.5,0,26,,90,0,L 1–2,0,6,0,Home,0,Matchweek 33,Brentford,0
+0,0,12,0,0,Sat,0,Premier League,0,1,18,0.0,RW,15,2022-04-23,0,8,Y,Watford,1,0,0.0,0.0,72.7,0,11,,67,0,L 1–5,0,3,1,Away,0,Matchweek 34,Manchester City,2
+0,4,33,0,4,Sat,0,Premier League,0,4,45,0.0,RW,12,2022-04-30,0,21,Y,Watford,0,1,0.0,0.0,65.6,0,32,,90,1,L 1–2,0,8,1,Home,0,Matchweek 35,Burnley,0
+0,1,9,0,1,Sat,0,Premier League,0,0,19,0.0,"RW,RM",36,2022-05-07,0,7,Y,Watford,0,0,0.0,0.0,58.3,0,12,,90,0,L 0–1,0,1,2,Away,0,Matchweek 36,Crystal Palace,1
+0,,,0,,Sat,,Africa Cup of Nations qualification,0,,,,FW,,2022-06-04,,,Y,Senegal,,,,,,0,,,90,,W 3–1,0,,,Home,0,Group stage,Benin,
+0,,,0,,Tue,,Africa Cup of Nations qualification,0,,,,FW,,2022-06-07,,,Y,Senegal,,,,,,0,,,90,,W 1–0,0,,,Away,0,Group stage,Rwanda,

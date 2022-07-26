@@ -1,0 +1,31 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,39,0,0,Sat,0,Premier League,0,5,57,0.0,DM,20,2021-08-14,0,42,Y,Aston Villa,0,1,0.0,0.0,87.5,0,48,,90,1,L 2–3,0,,3,2,Away,0,Matchweek 1,Watford,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Aston Villa,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 2,Newcastle Utd,
+0,,,0,,Tue,,EFL Cup,0,,,,DM,,2021-08-24,0,,Y,Aston Villa,0,,,,,1,,,90,,W 6–0,0,,,,Away,0,Second round,Barrow,0
+0,0,6,0,0,Sat,0,Premier League,0,2,9,0.0,DM,1,2021-08-28,0,9,N,Aston Villa,0,0,0.0,0.0,100.0,0,9,,28,0,D 1–1,0,,0,0,Home,0,Matchweek 3,Brentford,0
+0,0,11,0,0,Sat,0,Premier League,0,2,14,0.0,DM,6,2021-09-11,0,12,N,Aston Villa,0,1,0.0,0.0,92.3,0,13,,11,1,L 0–3,0,,1,0,Away,0,Matchweek 4,Chelsea,0
+0,0,17,0,1,Sat,0,Premier League,0,3,25,0.0,"DM,CM",2,2021-09-18,0,19,N,Aston Villa,0,0,0.0,0.0,100.0,0,19,,51,0,W 3–0,0,,0,0,Home,0,Matchweek 5,Everton,2
+0,,,0,,Wed,,EFL Cup,0,,,,DM,,2021-09-22,0,,Y,Aston Villa,0,,,,,0,,,90,,D 1 ,0,,,,Away,0,Third round,Chelsea,2
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Aston Villa,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Manchester Utd,
+,,,,,Sun,,Premier League,,,,,,,2021-10-03,,,N,Aston Villa,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 7,Tottenham,
+0,,,0,,Sat,,WCQ,0,,,,AM,,2021-10-09,,,Y,Zimbabwe,,,,,,0,,,74,,L 1–3,0,,,,Away,0,Second round,Ghana,
+0,,,0,,Tue,,WCQ,0,,,,DM,,2021-10-12,,,Y,Zimbabwe,,,,,,0,,,90,,L 0–1,0,,,,Home,0,Second round,Ghana,
+0,0,4,0,0,Sat,0,Premier League,0,0,7,0.0,DM,6,2021-10-16,0,6,N,Aston Villa,0,0,0.0,0.0,100.0,0,6,,24,0,L 2–3,0,,1,0,Home,0,Matchweek 8,Wolves,1
+,,,,,Fri,,Premier League,,,,,,,2021-10-22,,,N,Aston Villa,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Away,,Matchweek 9,Arsenal,
+0,1,32,0,3,Sun,0,Premier League,0,2,48,0.0,DM,18,2021-10-31,0,31,Y,Aston Villa,0,0,0.0,0.0,77.5,0,40,,90,0,L 1–4,0,,4,3,Home,0,Matchweek 10,West Ham,0
+0,1,11,0,2,Fri,0,Premier League,0,4,33,0.0,DM,15,2021-11-05,0,18,Y,Aston Villa,0,0,0.0,0.0,75.0,0,24,,62,0,L 0–1,0,,1,2,Away,0,Matchweek 11,Southampton,3
+0,,,0,,Thu,,WCQ,0,,,,DM,,2021-11-11,,,Y,Zimbabwe,,,,,,1,,,84,,L 0–1,0,,,,Away,0,Second round,South Africa,
+0,0,21,0,2,Sat,0,Premier League,0,2,38,0.0,DM,22,2021-11-20,0,27,Y,Aston Villa,0,1,0.0,0.0,96.4,1,28,,90,0,W 2–0,0,,1,4,Home,0,Matchweek 12,Brighton,1
+0,1,26,0,2,Sat,0,Premier League,0,2,47,0.0,DM,15,2021-11-27,0,32,Y,Aston Villa,0,0,0.0,0.0,84.2,1,38,,90,0,W 2–1,0,,0,5,Away,0,Matchweek 13,Crystal Palace,3
+0,1,21,0,1,Wed,0,Premier League,0,0,34,0.0,DM,19,2021-12-01,0,19,Y,Aston Villa,0,1,0.0,0.0,82.6,0,23,,76,0,L 1–2,0,,2,5,Home,0,Matchweek 14,Manchester City,1
+0,1,31,0,1,Sun,0,Premier League,0,3,51,0.0,DM,18,2021-12-05,0,37,Y,Aston Villa,0,1,0.0,0.0,90.2,1,41,,90,1,W 2–1,0,,1,2,Home,0,Matchweek 15,Leicester City,2
+0,0,12,0,2,Sat,0,Premier League,0,0,34,0.0,DM,13,2021-12-11,0,18,Y,Aston Villa,0,0,0.0,0.0,75.0,1,24,,56,0,L 0–1,0,,0,0,Away,0,Matchweek 16,Liverpool,5
+0,,,0,,Fri,,PL2 — Div. 2,0,,,,CM,,2022-04-01,,,Y,Aston Villa,,,,,,0,,,59,,L 1–4,0,,,,Home,0,Matchweek 24,Stoke City,
+,,,,,Sat,,Premier League,,,,,,,2022-04-09,,,N,Aston Villa,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Home,,Matchweek 32,Tottenham,
+0,0,0,0,1,Sat,0,Premier League,0,0,1,0.0,CM,4,2022-04-23,0,0,N,Aston Villa,0,0,0.0,0.0,,0,0,,1,0,D 0–0,0,,0,0,Away,0,Matchweek 34,Leicester City,0
+,,,,,Sat,,Premier League,,,,,,,2022-04-30,,,N,Aston Villa,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 35,Norwich City,
+,,,,,Sat,,Premier League,,,,,,,2022-05-07,,,N,Aston Villa,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Away,,Matchweek 36,Burnley,
+0,0,13,0,1,Tue,0,Premier League,0,1,30,0.0,DM,20,2022-05-10,0,19,Y,Aston Villa,0,1,0.0,0.0,82.6,0,23,,61,1,L 1–2,0,,0,2,Home,0,Matchweek 33,Liverpool,2
+0,0,24,0,0,Sun,0,Premier League,0,0,38,0.0,DM,19,2022-05-15,0,28,Y,Aston Villa,0,4,0.0,0.0,82.4,0,34,,65,3,D 1–1,0,,1,3,Home,0,Matchweek 37,Crystal Palace,2
+,,,,,Thu,,Premier League,,,,,,,2022-05-19,,,N,Aston Villa,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 18,Burnley,
+0,0,1,0,0,Sun,0,Premier League,0,1,10,0.0,DM,11,2022-05-22,0,2,N,Aston Villa,0,0,0.0,0.0,50.0,1,4,,19,0,L 2–3,0,,0,3,Away,0,Matchweek 38,Manchester City,1

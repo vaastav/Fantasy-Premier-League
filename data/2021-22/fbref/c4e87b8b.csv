@@ -1,0 +1,58 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Sun,,DFB-Pokal,0,,,,FW,,2021-08-08,2,,Y,Wolfsburg,5,,,,,0,,,120,,L 0–2,0,,,,Away,1,Round of 64,Preußen Münster,0
+0,4,16,1,0,Sat,0,Bundesliga,0,0,34,1.7,FW,19,2021-08-14,5,12,Y,Wolfsburg,6,1,0.5,1.0,57.1,0,21,,90,1,W 1–0,0,,2,0,Home,1,Matchweek 1,Bochum,0
+0,2,16,0,0,Sat,1,Bundesliga,0,1,24,0.4,FW,15,2021-08-21,1,14,Y,Wolfsburg,2,1,0.0,0.4,70.0,0,20,,90,1,W 2–1,0,,1,0,Away,0,Matchweek 2,Hertha BSC,0
+0,2,24,0,0,Sun,0,Bundesliga,0,2,38,0.5,FW,16,2021-08-29,0,16,Y,Wolfsburg,2,1,0.1,0.5,66.7,0,24,,90,0,W 1–0,0,,4,1,Home,0,Matchweek 3,RB Leipzig,1
+,,,,,Wed,,WCQ,,,,,,,2021-09-01,,,N,Netherlands,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,First round,Norway,
+,,,,,Sat,,WCQ,,,,,,,2021-09-04,,,N,Netherlands,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,First round,Montenegro,
+,,,,,Tue,,WCQ,,,,,,,2021-09-07,,,N,Netherlands,,,,,,,,,,,W 6–1,,"On matchday squad, but did not play",,,Home,,First round,Turkey,
+1,1,31,1,1,Sat,1,Bundesliga,1,2,43,0.8,FW,16,2021-09-11,0,25,Y,Wolfsburg,0,0,0.3,0.0,78.1,1,32,,90,0,W 2–0,0,,2,3,Away,1,Matchweek 4,Greuther Fürth,0
+0,0,10,0,3,Tue,0,Champions Lg,0,0,22,0.0,FW,24,2021-09-14,0,7,Y,Wolfsburg,0,3,0.0,0.0,63.6,0,11,,65,1,D 0–0,0,,0,2,Away,0,Group stage,Lille,0
+0,1,24,0,0,Sun,0,Bundesliga,0,0,43,1.0,FW,21,2021-09-19,1,17,Y,Wolfsburg,5,2,0.0,1.0,68.0,0,25,,90,1,D 1–1,0,,0,0,Home,1,Matchweek 5,Eint Frankfurt,0
+0,2,18,0,3,Sat,0,Bundesliga,0,1,35,0.2,FW,25,2021-09-25,0,19,Y,Wolfsburg,1,0,0.1,0.2,73.1,0,26,,90,0,L 1–3,0,,1,1,Away,0,Matchweek 6,Hoffenheim,0
+0,1,16,0,1,Wed,1,Champions Lg,0,2,35,0.7,FW,27,2021-09-29,1,14,Y,Wolfsburg,3,1,0.0,0.7,63.6,1,22,,89,1,D 1–1,0,,2,2,Home,0,Group stage,Sevilla,0
+0,2,28,0,1,Sat,0,Bundesliga,0,1,48,0.2,FW,30,2021-10-02,0,25,Y,Wolfsburg,2,1,0.0,0.2,75.8,1,33,,90,0,L 1–3,0,,1,2,Home,0,Matchweek 7,M'Gladbach,0
+0,,,0,,Fri,,WCQ,0,,,,,,2021-10-08,0,,N,Netherlands,1,,,,,0,,,15,,W 1–0,0,,,,Away,0,First round,Latvia,0
+0,,,0,,Mon,,WCQ,1,,,,,,2021-10-11,1,,N,Netherlands,1,,,,,0,,,31,,W 6–0,0,,,,Home,0,First round,Gibraltar,0
+0,1,2,0,0,Sat,0,Bundesliga,0,0,11,0.6,FW,3,2021-10-16,4,4,N,Wolfsburg,4,0,0.0,0.6,80.0,0,5,,23,0,L 0–2,0,,0,0,Away,0,Matchweek 8,Union Berlin,0
+0,2,12,0,0,Tue,0,Champions Lg,0,1,28,0.3,FW,16,2021-11-02,0,15,Y,Wolfsburg,1,1,0.1,0.3,65.2,1,23,,62,0,W 2–1,0,,0,0,Home,0,Group stage,RB Salzburg,0
+0,3,20,0,2,Sat,0,Bundesliga,0,1,32,0.0,FW,29,2021-11-06,0,17,Y,Wolfsburg,0,0,0.1,0.0,73.9,0,23,,90,0,W 1–0,0,,3,0,Home,0,Matchweek 11,Augsburg,0
+,,,,,Sat,,WCQ,,,,,,,2021-11-13,,,N,Netherlands,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,First round,Montenegro,
+,,,,,Tue,,WCQ,,,,,,,2021-11-16,,,N,Netherlands,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,First round,Norway,
+0,3,24,0,0,Sat,1,Bundesliga,0,5,43,0.9,FW,23,2021-11-20,1,26,Y,Wolfsburg,1,0,0.0,0.9,74.3,0,35,,90,0,D 2–2,0,,1,1,Away,1,Matchweek 12,Arminia,0
+0,2,13,0,3,Tue,0,Champions Lg,0,1,30,0.0,FW,20,2021-11-23,0,18,Y,Wolfsburg,0,1,0.1,0.0,85.7,0,21,,90,0,L 0–2,0,,3,0,Away,0,Group stage,Sevilla,0
+0,3,20,0,2,Sat,0,Bundesliga,0,1,41,0.5,FW,34,2021-11-27,2,19,Y,Wolfsburg,2,0,0.1,0.5,70.4,0,27,,90,0,L 1–3,0,,2,1,Home,1,Matchweek 13,Dortmund,0
+0,3,13,0,0,Sat,0,Bundesliga,0,2,23,0.0,FW,23,2021-12-04,0,11,Y,Wolfsburg,0,0,0.2,0.0,61.1,0,18,,90,0,L 0–3,0,,0,1,Away,0,Matchweek 14,Mainz 05,1
+0,2,19,0,0,Wed,0,Champions Lg,0,1,35,0.4,FW,15,2021-12-08,1,23,Y,Wolfsburg,4,0,0.0,0.4,88.5,0,26,,90,0,L 1–3,0,,0,1,Home,0,Group stage,Lille,0
+0,2,13,0,1,Sat,0,Bundesliga,0,2,25,0.1,FW,30,2021-12-11,0,14,Y,Wolfsburg,3,0,0.0,0.1,73.7,0,19,,90,0,L 0–2,0,,2,0,Home,0,Matchweek 15,Stuttgart,0
+0,4,17,0,0,Tue,0,Bundesliga,0,1,35,1.1,FW,22,2021-12-14,2,17,Y,Wolfsburg,6,3,0.0,1.1,68.0,0,25,,90,2,L 2–3,0,,3,0,Home,1,Matchweek 16,Köln,0
+0,2,26,0,1,Fri,0,Bundesliga,0,0,49,0.8,FW,39,2021-12-17,2,24,Y,Wolfsburg,3,1,0.0,0.8,77.4,0,31,,90,1,L 0–4,0,,1,3,Away,0,Matchweek 17,Bayern Munich,0
+0,0,30,0,0,Sun,0,Bundesliga,0,1,40,0.0,FW,24,2022-01-09,0,20,Y,Wolfsburg,0,1,0.0,0.0,62.5,0,32,,90,1,L 0–1,0,,0,0,Away,0,Matchweek 18,Bochum,0
+0,1,11,0,2,Sat,0,Bundesliga,0,2,27,0.2,FW,11,2022-01-15,1,18,Y,Wolfsburg,1,0,0.2,0.2,81.8,0,22,,90,0,D 0–0,0,,0,0,Home,0,Matchweek 19,Hertha BSC,1
+0,1,28,0,3,Sun,0,Bundesliga,0,2,44,0.0,FW,23,2022-01-23,0,24,Y,Wolfsburg,0,2,0.0,0.0,68.6,0,35,,90,1,L 0–2,0,,3,0,Away,0,Matchweek 20,RB Leipzig,0
+0,2,17,0,0,Sat,0,Premier League,0,0,40,0.4,FW,35,2022-02-05,0,15,Y,Burnley,2,3,0.0,0.4,60.0,0,25,,90,1,D 0–0,0,,0,0,Home,0,Matchweek 17,Watford,1
+0,2,28,0,4,Tue,2,Premier League,1,5,45,0.2,FW,25,2022-02-08,1,22,Y,Burnley,3,3,0.4,0.2,78.6,0,28,,90,3,D 1–1,0,,1,2,Home,0,Matchweek 24,Manchester Utd,1
+0,3,18,0,2,Sun,0,Premier League,0,1,36,0.4,FW,30,2022-02-13,1,11,Y,Burnley,3,0,0.0,0.4,42.3,0,26,,74,0,L 0–1,0,,5,0,Home,0,Matchweek 25,Liverpool,0
+0,3,24,0,2,Sat,2,Premier League,1,1,33,0.1,FW,26,2022-02-19,1,14,Y,Burnley,1,1,0.1,0.1,63.6,0,22,,87,1,W 3–0,0,,0,1,Away,1,Matchweek 26,Brighton,1
+0,0,21,0,3,Wed,0,Premier League,0,1,43,0.0,FW,32,2022-02-23,0,16,Y,Burnley,1,3,0.0,0.0,69.6,0,23,,88,2,W 1–0,0,,0,4,Home,0,Matchweek 13,Tottenham,0
+0,0,21,0,1,Sat,0,Premier League,0,0,40,0.1,FW,31,2022-02-26,1,23,Y,Burnley,1,0,0.0,0.1,71.9,0,32,,90,0,D 1–1,0,,0,1,Away,0,Matchweek 27,Crystal Palace,1
+0,0,19,0,3,Tue,0,Premier League,0,0,45,0.3,FW,33,2022-03-01,0,18,Y,Burnley,1,1,0.0,0.3,64.3,1,28,,90,1,L 0–2,0,,0,0,Home,0,Matchweek 22,Leicester City,0
+0,1,15,0,2,Sat,0,Premier League,0,2,21,0.1,FW,38,2022-03-05,0,9,Y,Burnley,1,2,0.0,0.1,56.3,0,16,,77,2,L 0–4,0,,0,0,Home,0,Matchweek 28,Chelsea,0
+0,0,17,0,2,Sat,0,Premier League,0,3,26,0.0,FW,14,2022-03-12,0,15,Y,Burnley,0,0,0.0,0.0,78.9,0,19,,66,0,L 0–2,0,,1,1,Away,0,Matchweek 29,Brentford,0
+,,,,,Sat,,Friendlies (M),,,,,,,2022-03-26,,,N,Netherlands,,,,,,,,,,,W 4–2,,"On matchday squad, but did not play",,,Home,,Friendlies (M),Denmark,
+,,,,,Tue,,Friendlies (M),,,,,,,2022-03-29,,,N,Netherlands,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Friendlies (M),Germany,
+0,0,9,0,0,Sat,0,Premier League,0,0,28,0.0,FW,39,2022-04-02,0,13,Y,Burnley,0,0,0.0,0.0,61.9,1,21,,80,0,L 0–2,0,,0,0,Home,0,Matchweek 31,Manchester City,0
+0,1,13,0,0,Wed,0,Premier League,0,0,24,0.0,FW,18,2022-04-06,0,9,Y,Burnley,1,2,0.0,0.0,52.9,0,17,,79,1,W 3–2,0,,0,1,Home,0,Matchweek 19,Everton,0
+0,2,14,0,1,Sun,0,Premier League,0,1,22,0.1,FW,13,2022-04-10,0,9,Y,Burnley,1,0,0.0,0.1,64.3,0,14,,55,0,L 0–2,0,,0,1,Away,0,Matchweek 32,Norwich City,2
+0,1,30,0,1,Sun,0,Premier League,0,1,45,0.3,FW,29,2022-04-17,1,23,Y,Burnley,1,1,0.1,0.3,76.7,1,30,,90,1,D 1–1,0,,3,2,Away,1,Matchweek 33,West Ham,1
+0,2,24,0,1,Thu,0,Premier League,0,0,36,0.4,FW,31,2022-04-21,1,20,Y,Burnley,2,2,0.1,0.4,76.9,0,26,,77,1,W 2–0,0,,1,0,Home,0,Matchweek 30,Southampton,1
+0,3,26,0,2,Sun,1,Premier League,1,3,45,0.2,FW,55,2022-04-24,1,19,Y,Burnley,5,0,0.6,0.2,86.4,0,22,,90,0,W 1–0,0,,3,1,Home,0,Matchweek 34,Wolves,0
+0,3,14,0,0,Sat,0,Premier League,0,0,24,0.1,FW,12,2022-04-30,0,14,Y,Burnley,1,0,0.0,0.1,63.6,0,22,,59,0,W 2–1,0,,0,0,Away,0,Matchweek 35,Watford,0
+0,3,33,0,4,Sat,0,Premier League,0,1,48,0.2,FW,31,2022-05-07,0,20,Y,Burnley,3,0,0.1,0.2,60.6,0,33,,90,0,L 1–3,0,,4,1,Home,0,Matchweek 36,Aston Villa,0
+0,1,5,0,2,Sun,0,Premier League,0,0,10,0.0,FW,9,2022-05-15,0,3,N,Burnley,0,0,0.1,0.0,50.0,0,6,,13,0,L 0–1,0,,0,0,Away,0,Matchweek 37,Tottenham,0
+0,1,6,0,0,Thu,0,Premier League,0,0,12,0.5,FW,8,2022-05-19,0,4,N,Burnley,1,0,0.0,0.5,50.0,0,8,,20,0,D 1–1,0,,0,2,Away,0,Matchweek 18,Aston Villa,0
+0,0,9,0,0,Sun,0,Premier League,0,0,17,0.8,FW,9,2022-05-22,0,11,N,Burnley,2,1,0.0,0.8,78.6,0,14,,45,1,L 1–2,0,,1,0,Home,0,Matchweek 38,Newcastle Utd,0
+,,,,,Fri,,UEFA Nations League,,,,,,,2022-06-03,,,N,Netherlands,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Away,,League A,Belgium,
+0,,,0,,Wed,,UEFA Nations League,0,,,,FW,,2022-06-08,0,,Y,Netherlands,0,,,,,0,,,90,,W 2–1,0,,,,Away,1,League A,Wales,
+0,,,0,,Sat,,UEFA Nations League,0,,,,,,2022-06-11,0,,N,Netherlands,0,,,,,0,,,14,,D 2–2,0,,,,Home,0,League A,Poland,
+,,,,,Tue,,UEFA Nations League,,,,,,,2022-06-14,,,N,Netherlands,,,,,,,,,,,W 3–2,,"On matchday squad, but did not play",,,Home,,League A,Wales,

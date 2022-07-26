@@ -1,0 +1,39 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,22,0,1,Sat,0,Premier League,0,4,33,0.0,LB,10,2021-08-14,0,25,Y,Aston Villa,0,0,0.0,0.0,83.3,0,30,,45,0,L 2–3,0,,2,0,Away,0,Matchweek 1,Watford,1
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Aston Villa,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 2,Newcastle Utd,
+0,,,0,,Tue,,EFL Cup,0,,,,LB,,2021-08-24,0,,Y,Aston Villa,0,,,,,0,,,90,,W 6–0,0,,,,Away,0,Second round,Barrow,1
+0,0,55,0,5,Sat,0,Premier League,0,3,87,0.0,LB,6,2021-08-28,0,49,Y,Aston Villa,0,1,0.0,0.0,63.6,0,77,,90,0,D 1–1,0,,3,0,Home,0,Matchweek 3,Brentford,4
+0,1,16,0,2,Sat,0,Premier League,0,5,36,0.0,WB,15,2021-09-11,0,21,Y,Aston Villa,0,0,0.0,0.0,77.8,1,27,,90,0,L 0–3,0,,0,0,Away,0,Matchweek 4,Chelsea,4
+0,1,32,0,1,Sat,0,Premier League,0,8,48,0.0,WB,12,2021-09-18,0,28,Y,Aston Villa,0,0,0.1,0.0,68.3,0,41,,60,0,W 3–0,0,,4,2,Home,0,Matchweek 5,Everton,0
+0,0,26,0,1,Sat,0,Premier League,0,3,49,0.3,WB,11,2021-09-25,0,27,Y,Aston Villa,1,0,0.0,0.3,64.3,0,42,,90,0,W 1–0,0,,1,0,Away,0,Matchweek 6,Manchester Utd,3
+0,3,28,0,2,Sun,1,Premier League,1,9,54,0.1,"WB,LB",17,2021-10-03,0,25,Y,Aston Villa,1,1,0.6,0.1,65.8,0,38,,90,0,L 1–2,0,,1,3,Away,0,Matchweek 7,Tottenham,3
+0,1,35,0,2,Sat,0,Premier League,0,5,64,0.0,WB,5,2021-10-16,0,42,Y,Aston Villa,0,0,0.0,0.0,77.8,0,54,,90,0,L 2–3,0,,2,1,Home,0,Matchweek 8,Wolves,4
+0,5,22,0,2,Fri,0,Premier League,0,8,49,0.0,"LB,WB",15,2021-10-22,0,35,Y,Aston Villa,0,0,0.9,0.0,83.3,1,42,,90,0,L 1–3,0,,3,1,Away,0,Matchweek 9,Arsenal,1
+0,3,41,0,3,Sun,0,Premier League,0,9,79,0.0,LB,11,2021-10-31,0,47,Y,Aston Villa,0,0,0.1,0.0,70.1,0,67,,90,0,L 1–4,0,,1,1,Home,0,Matchweek 10,West Ham,0
+0,2,36,0,2,Fri,0,Premier League,0,10,68,0.0,LB,4,2021-11-05,0,47,Y,Aston Villa,0,1,0.0,0.0,77.0,0,61,,90,1,L 0–1,0,,5,1,Away,0,Matchweek 11,Southampton,1
+0,3,30,0,5,Sat,0,Premier League,0,7,66,0.0,LB,13,2021-11-20,0,40,Y,Aston Villa,0,0,0.2,0.0,78.4,0,51,,90,0,W 2–0,0,,1,7,Home,0,Matchweek 12,Brighton,0
+0,1,27,0,6,Sat,0,Premier League,0,3,63,0.0,LB,16,2021-11-27,1,42,Y,Aston Villa,1,0,0.0,0.0,84.0,0,50,,90,0,W 2–1,0,,2,2,Away,1,Matchweek 13,Crystal Palace,1
+0,0,18,0,3,Wed,0,Premier League,0,1,39,0.0,LB,8,2021-12-01,0,27,Y,Aston Villa,0,0,0.0,0.0,84.4,0,32,,66,0,L 1–2,0,,0,2,Home,0,Matchweek 14,Manchester City,1
+0,0,19,0,3,Sat,0,Premier League,0,6,45,0.0,LB,14,2021-12-11,0,25,Y,Aston Villa,0,0,0.0,0.0,67.6,0,37,,90,0,L 0–1,0,,3,3,Away,0,Matchweek 16,Liverpool,3
+0,1,29,0,2,Tue,0,Premier League,0,4,56,0.1,LB,11,2021-12-14,0,34,Y,Aston Villa,2,1,0.0,0.1,75.6,0,45,,90,0,W 2–0,0,,2,4,Away,0,Matchweek 17,Norwich City,3
+0,2,23,0,3,Sun,0,Premier League,0,5,50,0.0,LB,13,2021-12-26,0,30,Y,Aston Villa,0,0,0.1,0.0,71.4,0,42,,90,0,L 1–3,0,,1,2,Home,0,Matchweek 19,Chelsea,3
+0,3,49,0,1,Sun,0,Premier League,0,4,79,0.0,LB,10,2022-01-02,1,55,Y,Aston Villa,2,1,0.1,0.0,79.7,0,69,,90,0,L 1–2,0,,5,2,Away,0,Matchweek 21,Brentford,3
+0,,,0,,Mon,,FA Cup,0,,,,LB,,2022-01-10,0,,Y,Aston Villa,0,,,,,0,,,90,,L 0–1,0,,,,Away,0,Third round proper,Manchester Utd,0
+,,,,,Sat,,Premier League,,,,,,,2022-01-15,,,N,Aston Villa,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 22,Manchester Utd,
+,,,,,Sat,,Premier League,,,,,,,2022-01-22,,,N,Aston Villa,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 23,Everton,
+0,1,20,0,2,Tue,0,Premier League,0,4,61,0.0,LB,9,2022-02-08,0,36,Y,Newcastle Utd,0,2,0.1,0.0,73.5,0,49,,90,0,W 3–1,0,,1,1,Home,0,Matchweek 24,Everton,5
+0,5,40,0,3,Sat,0,Premier League,0,4,79,0.0,LB,8,2022-02-19,0,45,Y,Newcastle Utd,0,1,0.2,0.0,68.2,0,66,,90,1,D 1–1,0,,4,3,Away,0,Matchweek 26,West Ham,1
+0,9,55,0,1,Sat,0,Premier League,0,8,89,0.1,"LB,WB",10,2022-02-26,2,60,Y,Newcastle Utd,2,1,0.3,0.1,77.9,0,77,,90,1,W 2–0,0,,4,1,Away,0,Matchweek 27,Brentford,3
+0,1,14,0,0,Sat,0,Premier League,0,2,45,0.0,LB,13,2022-03-05,0,27,Y,Newcastle Utd,1,0,0.1,0.0,71.1,0,38,,90,0,W 2–1,0,,0,3,Home,0,Matchweek 28,Brighton,0
+0,2,28,0,1,Thu,1,Premier League,0,0,61,0.1,LB,7,2022-03-10,0,33,Y,Newcastle Utd,1,0,0.0,0.1,66.0,0,50,,90,0,W 2–1,0,,3,3,Away,0,Matchweek 21,Southampton,1
+0,4,16,0,2,Sun,0,Premier League,0,3,42,0.0,WB,23,2022-03-13,0,25,Y,Newcastle Utd,0,1,0.0,0.0,73.5,0,34,,90,1,L 0–1,0,,2,2,Away,0,Matchweek 29,Chelsea,0
+0,2,34,0,0,Thu,0,Premier League,0,4,70,0.0,LB,8,2022-03-17,0,45,Y,Newcastle Utd,0,0,0.1,0.0,71.4,0,63,,90,0,L 0–1,0,,3,2,Away,0,Matchweek 20,Everton,0
+0,0,12,0,0,Sun,0,Premier League,0,3,40,0.0,"LB,WB",9,2022-04-03,0,28,Y,Newcastle Utd,0,0,0.0,0.0,80.0,0,35,,90,0,L 1–5,0,,0,1,Away,0,Matchweek 31,Tottenham,1
+0,0,40,0,0,Fri,0,Premier League,0,3,67,0.0,LB,13,2022-04-08,0,42,Y,Newcastle Utd,1,1,0.0,0.0,76.4,0,55,,90,0,W 1–0,0,,1,2,Home,0,Matchweek 32,Wolves,4
+0,3,13,0,2,Sun,0,Premier League,0,2,50,0.0,LB,14,2022-04-17,1,27,Y,Newcastle Utd,1,1,0.2,0.0,75.0,0,36,,90,0,W 2–1,0,,0,4,Home,0,Matchweek 33,Leicester City,5
+0,2,32,0,3,Wed,0,Premier League,0,6,68,0.0,LB,10,2022-04-20,0,43,Y,Newcastle Utd,0,2,0.1,0.0,79.6,0,54,,90,1,W 1–0,0,,2,3,Home,0,Matchweek 30,Crystal Palace,2
+0,0,39,0,0,Sat,0,Premier League,0,4,58,0.0,LB,5,2022-04-23,0,34,Y,Newcastle Utd,0,4,0.0,0.0,75.6,0,45,,90,2,W 3–0,0,,1,2,Away,0,Matchweek 34,Norwich City,4
+0,0,17,0,1,Sat,0,Premier League,0,4,57,0.0,LB,13,2022-04-30,0,33,Y,Newcastle Utd,0,1,0.0,0.0,71.7,0,46,,90,1,L 0–1,0,,1,5,Home,0,Matchweek 35,Liverpool,3
+0,2,13,0,2,Sun,0,Premier League,0,1,33,0.0,LB,15,2022-05-08,0,20,Y,Newcastle Utd,0,0,0.2,0.0,74.1,1,27,,90,0,L 0–5,0,,1,2,Away,0,Matchweek 36,Manchester City,2
+0,2,29,0,0,Mon,0,Premier League,0,1,61,0.0,LB,11,2022-05-16,0,36,Y,Newcastle Utd,0,1,0.1,0.0,65.5,0,55,,90,1,W 2–0,0,,2,2,Home,0,Matchweek 37,Arsenal,1
+0,1,27,0,1,Sun,0,Premier League,0,3,57,0.0,LB,7,2022-05-22,0,34,Y,Newcastle Utd,0,1,0.2,0.0,72.3,0,47,,90,1,W 2–1,0,,2,4,Away,0,Matchweek 38,Burnley,3

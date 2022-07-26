@@ -1,0 +1,30 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,0,0,0,Fri,0,Premier League,0,0,4,0.0,CB,4,2021-08-13,0,0,N,Brentford,0,0,0.0,0.0,0.0,0,2,,20,0,W 2–0,0,,0,1,Home,0,Matchweek 1,Arsenal,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Brentford,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 2,Crystal Palace,
+0,,,0,,Tue,,EFL Cup,0,,,,CB,,2021-08-24,0,,Y,Brentford,1,,,,,0,,,44,,W 3–1,0,,,,Home,0,Second round,FG Rovers,0
+,,,,,Sun,,Premier League,,,,,,,2021-11-28,,,N,Brentford,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Everton,
+,,,,,Fri,,Premier League,,,,,,,2021-12-10,,,N,Brentford,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Matchweek 16,Watford,
+0,,,0,,Wed,,EFL Cup,0,,,,CB,,2021-12-22,0,,Y,Brentford,0,,,,,0,,,90,,L 0–2,0,,,,Home,0,Quarter-finals,Chelsea,1
+0,2,44,0,0,Sun,0,Premier League,0,0,78,0.0,CB,6,2021-12-26,0,59,Y,Brentford,0,0,0.0,0.0,83.1,1,71,,90,0,L 0–2,0,,7,2,Away,0,Matchweek 19,Brighton,4
+0,0,30,0,0,Wed,0,Premier League,0,1,53,0.0,CB,3,2021-12-29,0,26,Y,Brentford,0,0,0.0,0.0,56.5,0,46,,90,0,L 0–1,0,,0,0,Home,0,Matchweek 20,Manchester City,2
+0,2,37,0,1,Sun,0,Premier League,0,1,66,0.0,CB,7,2022-01-02,0,51,Y,Brentford,0,0,0.0,0.0,85.0,0,60,,90,0,W 2–1,0,,2,0,Home,0,Matchweek 21,Aston Villa,2
+0,,,0,,Sat,,FA Cup,0,,,,CB,,2022-01-08,0,,Y,Brentford,0,,,,,0,,,90,,W 4–1,0,,,,Away,0,Third round proper,Port Vale,0
+,,,,,Tue,,Premier League,,,,,,,2022-01-11,,,N,Brentford,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Away,,Matchweek 18,Southampton,
+,,,,,Sun,,Premier League,,,,,,,2022-01-16,,,N,Brentford,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Away,,Matchweek 22,Liverpool,
+0,1,32,0,1,Wed,0,Premier League,0,3,67,0.0,CB,9,2022-01-19,0,43,Y,Brentford,1,0,0.1,0.0,70.5,0,61,,90,0,L 1–3,0,,4,2,Home,0,Matchweek 17,Manchester Utd,0
+,,,,,Sat,,Premier League,,,,,,,2022-01-22,,,N,Brentford,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 23,Wolves,
+0,,,0,,Sat,,FA Cup,0,,,,CB,,2022-02-05,0,,Y,Brentford,0,,,,,0,,,90,,L 1–4,0,,,,Away,0,Fourth round proper,Everton,1
+,,,,,Wed,,Premier League,,,,,,,2022-02-09,,,N,Brentford,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 24,Manchester City,
+,,,,,Sat,,Premier League,,,,,,,2022-02-12,,,N,Brentford,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 25,Crystal Palace,
+,,,,,Sat,,Premier League,,,,,,,2022-02-19,,,N,Brentford,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 26,Arsenal,
+,,,,,Sat,,Premier League,,,,,,,2022-03-05,,,N,Brentford,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Away,,Matchweek 28,Norwich City,
+,,,,,Sat,,Premier League,,,,,,,2022-03-12,,,N,Brentford,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 29,Burnley,
+,,,,,Sun,,Premier League,,,,,,,2022-03-20,,,N,Brentford,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 30,Leicester City,
+,,,,,Sat,,Premier League,,,,,,,2022-04-02,,,N,Brentford,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Away,,Matchweek 31,Chelsea,
+,,,,,Sun,,Premier League,,,,,,,2022-04-10,,,N,Brentford,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 32,West Ham,
+0,2,26,0,2,Sat,0,Premier League,0,0,46,0.0,CB,3,2022-04-16,0,34,N,Brentford,0,0,0.2,0.0,81.0,0,42,,70,0,W 2–1,0,,0,0,Away,0,Matchweek 33,Watford,0
+0,0,33,0,3,Sat,0,Premier League,0,3,62,0.0,CB,13,2022-04-23,0,42,Y,Brentford,0,0,0.0,0.0,75.0,1,56,,90,0,D 0–0,0,,1,2,Home,0,Matchweek 34,Tottenham,0
+0,0,31,0,1,Mon,0,Premier League,0,2,57,0.0,CB,8,2022-05-02,0,41,Y,Brentford,1,0,0.0,0.0,80.4,0,51,,90,0,L 0–3,0,,3,0,Away,0,Matchweek 35,Manchester Utd,0
+0,0,11,0,1,Sat,0,Premier League,0,0,42,0.0,CB,7,2022-05-07,0,24,Y,Brentford,0,0,0.0,0.0,70.6,0,34,,90,0,W 3–0,0,,0,3,Home,0,Matchweek 36,Southampton,0
+0,0,23,0,1,Sun,0,Premier League,0,2,32,0.0,CB,5,2022-05-15,0,25,Y,Brentford,0,0,0.0,0.0,92.6,1,27,,45,0,W 3–2,0,,2,0,Away,0,Matchweek 37,Everton,0
+0,2,30,0,0,Sun,0,Premier League,0,3,55,0.0,CB,8,2022-05-22,0,42,Y,Brentford,0,0,0.1,0.0,84.0,0,50,,70,0,L 1–2,0,,1,2,Home,0,Matchweek 38,Leeds United,1

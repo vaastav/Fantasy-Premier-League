@@ -1,0 +1,48 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,20,0,0,Sat,0,Premier League,0,0,32,0.0,GK,0,2021-08-14,0,21,Y,Watford,0,0,0.0,0.0,65.6,0,32,,90,0,W 3–2,0,,0,0,Home,0,Matchweek 1,Aston Villa,0
+0,0,14,0,0,Sat,0,Premier League,0,0,28,0.0,GK,0,2021-08-21,0,21,Y,Watford,0,0,0.0,0.0,80.8,0,26,,90,0,L 0–2,0,,0,0,Away,0,Matchweek 2,Brighton,0
+0,0,20,0,0,Sun,0,Premier League,0,0,43,0.0,GK,0,2021-08-29,0,26,Y,Watford,0,0,0.0,0.0,68.4,0,38,,90,0,L 0–1,0,,0,0,Away,0,Matchweek 3,Tottenham,0
+0,,,0,,Wed,,WCQ,0,,,,GK,,2021-09-01,0,,Y,Austria,0,,,,,0,,,90,,W 2–0,0,,,,Away,0,First round,Moldova,0
+0,,,0,,Sat,,WCQ,0,,,,GK,,2021-09-04,0,,Y,Austria,0,,,,,1,,,90,,L 2–5,0,,,,Away,0,First round,Israel,0
+0,,,0,,Tue,,WCQ,0,,,,GK,,2021-09-07,0,,Y,Austria,0,,,,,0,,,90,,L 0–1,0,,,,Home,0,First round,Scotland,0
+0,0,15,0,0,Sat,0,Premier League,0,0,37,0.0,GK,0,2021-09-11,0,32,Y,Watford,0,0,0.0,0.0,94.1,0,34,,90,0,L 0–2,0,,0,0,Home,0,Matchweek 4,Wolves,0
+,,,,,Sat,,Premier League,,,,,,,2021-09-18,,,N,Watford,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Away,,Matchweek 5,Norwich City,
+,,,,,Sat,,Premier League,,,,,,,2021-10-02,,,N,Watford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 7,Leeds United,
+0,,,0,,Sat,,WCQ,0,,,,GK,,2021-10-09,0,,Y,Austria,0,,,,,0,,,90,,W 2–0,0,,,,Away,0,First round,Faroe Islands,0
+0,,,0,,Tue,,WCQ,0,,,,GK,,2021-10-12,0,,Y,Austria,0,,,,,0,,,90,,L 0–1,0,,,,Away,0,First round,Denmark,0
+,,,,,Sat,,Premier League,,,,,,,2021-10-16,,,N,Watford,,,,,,,,,,,L 0–5,,"On matchday squad, but did not play",,,Home,,Matchweek 8,Liverpool,
+,,,,,Sat,,Premier League,,,,,,,2021-10-23,,,N,Watford,,,,,,,,,,,W 5–2,,"On matchday squad, but did not play",,,Away,,Matchweek 9,Everton,
+,,,,,Sat,,Premier League,,,,,,,2021-10-30,,,N,Watford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 10,Southampton,
+,,,,,Sun,,Premier League,,,,,,,2021-11-07,,,N,Watford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 11,Arsenal,
+0,,,0,,Fri,,WCQ,0,,,,GK,,2021-11-12,0,,Y,Austria,0,,,,,0,,,90,,W 4–2,0,,,,Home,0,First round,Israel,0
+,,,,,Mon,,WCQ,,,,,,,2021-11-15,,,N,Austria,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Home,,First round,Moldova,
+,,,,,Sat,,Premier League,,,,,,,2021-11-20,,,N,Watford,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Home,,Matchweek 12,Manchester Utd,
+0,0,16,0,0,Sun,0,Premier League,0,0,31,0.0,GK,0,2021-11-28,0,7,Y,Watford,0,1,0.0,0.0,25.9,0,27,,90,1,L 2–4,0,,0,0,Away,0,Matchweek 13,Leicester City,0
+0,0,15,0,0,Wed,0,Premier League,0,0,30,0.0,GK,0,2021-12-01,0,14,Y,Watford,0,0,0.0,0.0,48.3,0,29,,90,0,L 1–2,0,,0,0,Home,0,Matchweek 14,Chelsea,0
+0,0,15,0,0,Sat,0,Premier League,0,0,44,0.0,GK,0,2021-12-04,0,17,Y,Watford,0,0,0.0,0.0,47.2,0,36,,90,0,L 1–3,0,,0,0,Home,0,Matchweek 15,Manchester City,0
+0,0,8,0,0,Fri,0,Premier League,0,0,26,0.0,GK,0,2021-12-10,0,6,Y,Watford,0,0,0.0,0.0,28.6,0,21,,90,0,L 1–2,0,,0,0,Away,0,Matchweek 16,Brentford,0
+0,0,13,0,0,Tue,0,Premier League,0,0,26,0.0,GK,0,2021-12-28,0,15,Y,Watford,0,0,0.0,0.0,62.5,0,24,,90,0,L 1–4,0,,0,0,Home,0,Matchweek 20,West Ham,0
+0,0,17,0,0,Sat,0,Premier League,0,0,44,0.0,GK,0,2022-01-01,0,23,Y,Watford,0,0,0.0,0.0,57.5,0,40,,90,0,L 0–1,0,,0,0,Home,0,Matchweek 21,Tottenham,0
+0,,,0,,Sat,,FA Cup,0,,,,GK,,2022-01-08,0,,Y,Watford,0,,,,,0,,,90,,L 1–4,0,,,,Away,0,Third round proper,Leicester City,0
+,,,,,Sat,,Premier League,,,,,,,2022-01-15,,,N,Watford,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 22,Newcastle Utd,
+0,0,10,0,0,Fri,0,Premier League,0,0,21,0.0,GK,0,2022-01-21,0,12,Y,Watford,0,0,0.0,0.0,57.1,0,21,,90,0,L 0–3,0,,0,0,Home,0,Matchweek 23,Norwich City,0
+,,,,,Sat,,Premier League,,,,,,,2022-02-05,,,N,Watford,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 17,Burnley,
+,,,,,Tue,,Premier League,,,,,,,2022-02-08,,,N,Watford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 24,West Ham,
+,,,,,Sat,,Premier League,,,,,,,2022-02-12,,,N,Watford,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Home,,Matchweek 25,Brighton,
+,,,,,Sat,,Premier League,,,,,,,2022-02-19,,,N,Watford,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 26,Aston Villa,
+,,,,,Wed,,Premier League,,,,,,,2022-02-23,,,N,Watford,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Home,,Matchweek 18,Crystal Palace,
+,,,,,Sat,,Premier League,,,,,,,2022-02-26,,,N,Watford,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 27,Manchester Utd,
+,,,,,Sun,,Premier League,,,,,,,2022-03-06,,,N,Watford,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Home,,Matchweek 28,Arsenal,
+,,,,,Thu,,Premier League,,,,,,,2022-03-10,,,N,Watford,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Away,,Matchweek 19,Wolves,
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Watford,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Away,,Matchweek 29,Southampton,
+,,,,,Thu,,WCQ,,,,,,,2022-03-24,,,N,Austria,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Semi-finals,Wales,
+0,,,0,,Tue,,Friendlies (M),0,,,,GK,,2022-03-29,,,Y,Austria,,,,,,0,,,86,,D 2–2,0,,,,Home,0,Friendlies (M),Scotland,
+,,,,,Sat,,Premier League,,,,,,,2022-04-02,,,N,Watford,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 31,Liverpool,
+,,,,,Sat,,Premier League,,,,,,,2022-04-09,,,N,Watford,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Home,,Matchweek 32,Leeds United,
+,,,,,Sat,,Premier League,,,,,,,2022-04-16,,,N,Watford,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 33,Brentford,
+,,,,,Sat,,Premier League,,,,,,,2022-04-23,,,N,Watford,,,,,,,,,,,L 1–5,,"On matchday squad, but did not play",,,Away,,Matchweek 34,Manchester City,
+,,,,,Sat,,Premier League,,,,,,,2022-04-30,,,N,Watford,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 35,Burnley,
+,,,,,Sat,,Premier League,,,,,,,2022-05-07,,,N,Watford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 36,Crystal Palace,
+,,,,,Wed,,Premier League,,,,,,,2022-05-11,,,N,Watford,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 30,Everton,
+,,,,,Sun,,Premier League,,,,,,,2022-05-15,,,N,Watford,,,,,,,,,,,L 1–5,,"On matchday squad, but did not play",,,Home,,Matchweek 37,Leicester City,
+0,0,7,0,0,Sun,0,Premier League,0,0,32,0.0,GK,0,2022-05-22,0,17,Y,Watford,0,0,0.0,0.0,58.6,0,29,,90,0,L 1–2,0,,0,0,Away,0,Matchweek 38,Chelsea,0

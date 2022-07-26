@@ -1,0 +1,61 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,6,0,0,Sun,0,Serie A,0,2,13,0.0,CM,5,2021-08-22,0,4,N,Juventus,0,1,0.0,0.0,66.7,1,6,,31,0,D 2–2,0,,1,0,Away,0,Matchweek 1,Udinese,0
+0,2,18,0,1,Sat,0,Serie A,0,1,17,0.0,CM,4,2021-08-28,0,9,N,Juventus,0,3,0.4,0.0,69.2,0,13,,25,1,L 0–1,0,,4,0,Home,0,Matchweek 2,Empoli,0
+0,,,0,,Thu,,WCQ,1,,,,FW,,2021-09-02,1,,Y,Sweden,1,,,,,1,,,84,,W 2–1,0,,,,Home,0,First round,Spain,0
+,,,,,Sun,,Friendlies (M),,,,,,,2021-09-05,,,N,Sweden,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Friendlies (M),Uzbekistan,
+0,,,0,,Wed,,WCQ,0,,,,FW,,2021-09-08,0,,Y,Sweden,1,,,,,0,,,87,,L 1–2,0,,,,Away,0,First round,Greece,0
+0,4,28,0,1,Sat,0,Serie A,0,2,39,0.7,"LW,FW",34,2021-09-11,2,17,Y,Juventus,4,2,0.0,0.7,81.0,0,21,,90,0,L 1–2,0,,4,2,Away,0,Matchweek 3,Napoli,2
+0,1,6,0,0,Tue,0,Champions Lg,0,1,6,0.0,"RM,FW",2,2021-09-14,0,4,N,Juventus,0,1,0.4,0.0,100.0,0,4,,9,0,W 3–0,0,,0,0,Away,0,Group stage,Malmö,0
+0,0,4,0,0,Sun,0,Serie A,0,1,7,0.0,FW,7,2021-09-19,0,3,N,Juventus,0,0,0.0,0.0,100.0,0,3,,12,0,D 1–1,0,,0,0,Home,0,Matchweek 4,Milan,0
+0,0,3,0,0,Wed,0,Serie A,0,1,7,0.0,RM,2,2021-09-22,0,1,N,Juventus,0,0,0.0,0.0,20.0,0,5,,7,0,W 3–2,0,,0,0,Away,0,Matchweek 5,Spezia,0
+0,4,27,0,0,Sun,2,Serie A,1,1,32,0.2,FW,22,2021-09-26,0,14,N,Juventus,2,2,0.5,0.2,82.4,0,17,,70,1,W 3–2,0,,4,1,Home,0,Matchweek 6,Sampdoria,0
+0,1,4,0,1,Wed,0,Champions Lg,0,0,8,0.0,"FW,LW",18,2021-09-29,0,2,N,Juventus,0,0,0.1,0.0,66.7,0,3,,26,0,W 1–0,0,,0,0,Home,0,Group stage,Chelsea,0
+0,0,7,0,0,Sat,0,Serie A,0,0,8,0.0,FW,6,2021-10-02,0,4,N,Juventus,1,1,0.0,0.0,100.0,0,4,,11,0,W 1–0,0,,2,0,Away,0,Matchweek 7,Torino,0
+0,,,0,,Sat,,WCQ,0,,,,FW,,2021-10-09,1,,Y,Sweden,3,,,,,1,,,89,,W 3–0,0,,,,Home,0,First round,Kosovo,0
+0,0,10,0,1,Sun,0,Serie A,0,2,10,0.0,FW,6,2021-10-17,0,6,N,Juventus,0,1,0.0,0.0,100.0,0,6,,20,1,W 1–0,0,,3,1,Home,0,Matchweek 8,Roma,0
+0,1,12,0,0,Wed,0,Champions Lg,0,2,14,0.2,RW,7,2021-10-20,1,7,N,Juventus,1,1,0.1,0.2,87.5,0,8,,33,0,W 1–0,0,,1,1,Away,1,Group stage,Zenit,0
+0,1,16,0,0,Sun,0,Serie A,0,2,17,0.0,FW,24,2021-10-24,0,6,Y,Juventus,1,1,0.0,0.0,60.0,0,10,,64,1,D 1–1,0,,2,3,Away,0,Matchweek 9,Inter,1
+0,0,5,0,0,Wed,0,Serie A,0,0,7,0.0,RM,5,2021-10-27,0,3,N,Juventus,0,1,0.0,0.0,60.0,0,5,,11,1,L 1–2,0,,1,1,Home,0,Matchweek 10,Sassuolo,1
+0,0,6,0,1,Sat,0,Serie A,0,0,11,0.0,"RM,FW",4,2021-10-30,0,5,N,Juventus,0,0,0.0,0.0,100.0,0,5,,22,0,L 1–2,0,,0,0,Away,0,Matchweek 11,Hellas Verona,1
+0,0,2,0,0,Tue,0,Champions Lg,0,0,2,0.0,RW,1,2021-11-02,0,0,N,Juventus,0,1,0.0,0.0,0.0,1,1,,6,0,W 4–2,0,,0,0,Home,0,Group stage,Zenit,0
+,,,,,Sat,,Serie A,,,,,,,2021-11-06,,,N,Juventus,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 12,Fiorentina,
+0,,,0,,Thu,,WCQ,0,,,,,,2021-11-11,0,,N,Sweden,2,,,,,0,,,17,,L 0–2,0,,,,Away,0,First round,Georgia,1
+0,,,0,,Sun,,WCQ,0,,,,RM,,2021-11-14,0,,Y,Sweden,0,,,,,0,,,62,,L 0–1,0,,,,Away,0,First round,Spain,1
+0,3,28,0,2,Sat,0,Serie A,0,3,39,0.1,RW,19,2021-11-20,1,18,N,Juventus,2,4,0.1,0.1,81.8,0,22,,76,2,W 2–0,0,,5,4,Away,0,Matchweek 13,Lazio,1
+0,0,7,0,0,Tue,0,Champions Lg,0,0,8,0.0,FW,3,2021-11-23,0,4,N,Juventus,0,0,0.0,0.0,80.0,0,5,,11,0,L 0–4,0,,0,0,Away,0,Group stage,Chelsea,0
+,,,,,Sat,,Serie A,,,,,,,2021-11-27,,,N,Juventus,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 14,Atalanta,
+0,2,39,0,0,Tue,1,Serie A,1,4,55,0.3,RW,16,2021-11-30,1,34,Y,Juventus,3,3,0.1,0.3,85.0,0,40,,89,1,W 2–0,0,,4,2,Away,0,Matchweek 15,Salernitana,1
+0,4,40,0,2,Sun,0,Serie A,0,2,49,0.2,"RW,RM",22,2021-12-05,0,33,Y,Juventus,1,3,0.1,0.2,86.8,0,38,,90,1,W 2–0,0,,6,1,Home,0,Matchweek 16,Genoa,4
+0,0,5,0,0,Sat,0,Serie A,0,0,6,0.0,LW,6,2021-12-18,1,3,N,Juventus,1,0,0.0,0.0,75.0,0,4,,20,0,W 2–0,0,,0,0,Away,0,Matchweek 18,Bologna,1
+0,2,9,0,0,Tue,2,Serie A,1,1,11,0.0,"RW,LW",7,2021-12-21,0,6,N,Juventus,0,1,0.0,0.0,75.0,0,8,,19,1,W 2–0,0,,1,1,Home,0,Matchweek 19,Cagliari,0
+0,0,2,0,1,Thu,0,Serie A,0,0,4,0.0,RM,1,2022-01-06,0,3,N,Juventus,0,0,0.0,0.0,100.0,0,3,,10,0,D 1–1,0,,0,0,Home,0,Matchweek 20,Napoli,0
+0,1,17,0,2,Sun,0,Serie A,0,0,30,0.3,RM,20,2022-01-09,1,10,N,Juventus,2,3,0.0,0.3,76.9,0,13,,59,1,W 4–3,0,,0,0,Away,1,Matchweek 21,Roma,2
+0,,,0,,Wed,,Supercoppa Italiana,0,,,,AM,,2022-01-12,1,,Y,Juventus,1,,,,,0,,,73,,L 1–2,0,,,,Away,0,Supercoppa Italiana,Inter,0
+0,0,22,0,0,Sat,0,Serie A,0,0,24,0.0,RM,15,2022-01-15,0,16,Y,Juventus,1,1,0.0,0.0,84.2,0,19,,45,1,W 2–0,0,,2,1,Home,0,Matchweek 22,Udinese,1
+0,,,0,,Tue,,Coppa Italia,0,,,,AM,,2022-01-18,2,,Y,Juventus,2,,,,,0,,,61,,W 4–1,0,,,,Home,0,Round of 16,Sampdoria,0
+0,0,2,0,0,Sun,0,Serie A,0,0,3,0.0,FW,2,2022-01-23,0,1,N,Juventus,0,0,0.0,0.0,50.0,0,2,,1,0,D 0–0,0,,0,0,Away,0,Matchweek 23,Milan,0
+0,,,0,,Sat,,FA Cup,0,,,,,,2022-02-05,0,,N,Tottenham,1,,,,,0,,,23,,W 3–1,0,,,,Home,0,Fourth round proper,Brighton,0
+0,1,8,0,0,Wed,0,Premier League,0,1,11,0.0,"RW,AM",6,2022-02-09,0,6,N,Tottenham,0,0,0.0,0.0,85.7,0,7,,15,0,L 2–3,0,,2,0,Home,0,Matchweek 24,Southampton,0
+0,2,27,0,1,Sun,0,Premier League,0,3,41,0.2,AM,16,2022-02-13,0,21,N,Tottenham,2,3,0.0,0.2,72.4,1,29,,63,1,L 0–2,0,,6,1,Home,0,Matchweek 25,Wolves,2
+0,1,21,0,1,Sat,1,Premier League,1,1,34,0.7,RW,22,2022-02-19,1,19,Y,Tottenham,1,1,0.2,0.7,90.5,0,21,,90,0,W 3–2,0,,2,2,Away,1,Matchweek 26,Manchester City,3
+0,4,42,0,0,Wed,0,Premier League,0,3,50,0.3,"RW,WB",27,2022-02-23,0,28,Y,Tottenham,3,2,0.2,0.3,73.7,0,38,,90,2,L 0–1,0,,7,0,Away,0,Matchweek 13,Burnley,1
+0,3,42,0,0,Sat,1,Premier League,0,1,48,0.5,AM,7,2022-02-26,2,31,Y,Tottenham,4,8,0.1,0.5,93.9,0,33,,77,6,W 4–0,0,,3,0,Away,1,Matchweek 27,Leeds United,1
+0,,,0,,Tue,,FA Cup,0,,,,AM,,2022-03-01,0,,Y,Tottenham,1,,,,,0,,,104,,L 0–1,0,,,,Away,0,Fifth round proper,Middlesbrough,1
+0,4,41,0,1,Mon,3,Premier League,2,3,61,0.1,AM,30,2022-03-07,0,38,Y,Tottenham,2,9,0.9,0.1,88.4,0,43,,90,3,W 5–0,0,,8,3,Home,0,Matchweek 28,Everton,5
+0,3,28,0,0,Sat,1,Premier League,0,3,31,0.0,AM,13,2022-03-12,0,23,Y,Tottenham,0,3,0.2,0.0,82.1,0,28,,77,3,L 2–3,0,,8,0,Away,0,Matchweek 29,Manchester Utd,1
+0,4,40,0,2,Wed,1,Premier League,1,3,51,0.6,AM,29,2022-03-16,2,29,Y,Tottenham,3,4,0.0,0.6,82.9,0,35,,89,1,W 2–0,0,,6,2,Away,0,Matchweek 16,Brighton,2
+0,3,45,0,0,Sun,0,Premier League,0,4,49,0.1,RW,22,2022-03-20,0,39,Y,Tottenham,4,2,0.6,0.1,92.9,0,42,,89,2,W 3–1,0,,17,0,Home,0,Matchweek 30,West Ham,1
+0,,,0,,Thu,,WCQ,0,,,,FW,,2022-03-24,0,,Y,Sweden,2,,,,,0,,,120,,W 1–0,0,,,,Home,0,Semi-finals,Czech Republic,0
+0,,,0,,Tue,,WCQ,0,,,,RM,,2022-03-29,1,,Y,Sweden,2,,,,,1,,,90,,L 0–2,0,,,,Away,0,Finals,Poland,1
+0,7,31,0,2,Sun,3,Premier League,1,6,40,0.0,AM,10,2022-04-03,0,28,Y,Tottenham,0,1,0.6,0.0,87.5,0,32,,75,0,W 5–1,0,,9,2,Home,0,Matchweek 31,Newcastle Utd,1
+0,1,16,0,1,Sat,1,Premier League,1,0,22,0.0,RW,18,2022-04-09,1,14,Y,Tottenham,1,1,0.1,0.0,77.8,0,18,,83,0,W 4–0,0,,5,1,Away,1,Matchweek 32,Aston Villa,2
+0,0,13,0,0,Sat,0,Premier League,0,0,18,0.0,RW,19,2022-04-16,0,9,Y,Tottenham,0,3,0.0,0.0,90.0,1,10,,63,0,L 0–1,0,,0,2,Home,0,Matchweek 33,Brighton,0
+0,2,36,0,1,Sat,0,Premier League,0,2,52,0.1,"RW,AM,WB",29,2022-04-23,0,29,Y,Tottenham,2,3,0.1,0.1,78.4,0,37,,90,1,D 0–0,0,,6,2,Away,0,Matchweek 34,Brentford,3
+0,4,15,0,0,Sun,2,Premier League,2,5,14,0.0,RW,7,2022-05-01,0,10,N,Tottenham,0,3,0.3,0.0,100.0,0,10,,36,2,W 3–1,0,,3,2,Home,0,Matchweek 35,Leicester City,0
+0,2,32,0,0,Sat,0,Premier League,0,1,36,0.0,RW,16,2022-05-07,1,17,Y,Tottenham,1,6,0.0,0.0,73.9,0,23,,84,2,D 1–1,0,,3,0,Away,0,Matchweek 36,Liverpool,1
+0,0,20,0,0,Thu,0,Premier League,0,0,29,0.0,AM,20,2022-05-12,0,21,Y,Tottenham,0,1,0.0,0.0,87.5,0,24,,71,0,W 3–0,0,,4,2,Home,0,Matchweek 22,Arsenal,2
+0,0,2,0,0,Sun,0,Premier League,0,0,2,0.0,"AM,RW",4,2022-05-15,0,1,N,Tottenham,0,0,0.0,0.0,50.0,1,2,,12,0,W 1–0,0,,1,0,Home,0,Matchweek 37,Burnley,0
+0,6,36,0,2,Sun,1,Premier League,0,1,45,0.8,AM,15,2022-05-22,2,26,Y,Tottenham,3,6,0.1,0.8,81.3,0,32,,67,5,W 5–0,0,,4,1,Away,2,Matchweek 38,Norwich City,1
+0,,,0,,Thu,,UEFA Nations League,0,,,,FW,,2022-06-02,0,,Y,Sweden,0,,,,,1,,,90,,W 2–0,0,,,,Away,1,League B,Slovenia,
+0,,,0,,Sun,,UEFA Nations League,1,,,,FW,,2022-06-05,0,,Y,Sweden,0,,,,,1,,,90,,L 1–2,0,,,,Home,0,League B,Norway,
+0,,,0,,Sun,,UEFA Nations League,1,,,,FW,,2022-06-12,0,,Y,Sweden,0,,,,,1,,,90,,L 2–3,0,,,,Away,0,League B,Norway,

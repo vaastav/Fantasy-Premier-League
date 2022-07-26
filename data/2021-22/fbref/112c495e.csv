@@ -1,0 +1,53 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,59,0,3,Sat,0,Premier League,0,5,80,0.0,LB,11,2021-08-14,1,55,Y,Norwich City,1,5,0.1,0.0,83.3,0,66,,90,4,L 0–3,0,,7,3,Home,0,Matchweek 1,Liverpool,6
+0,0,19,0,1,Sat,0,Premier League,0,0,27,0.0,LB,3,2021-08-21,0,19,Y,Norwich City,0,4,0.0,0.0,82.6,0,23,,45,3,L 0–5,0,,2,1,Away,0,Matchweek 2,Manchester City,2
+0,,,0,,Tue,,EFL Cup,0,,,,,,2021-08-24,0,,N,Norwich City,0,,,,,0,,,15,,W 6–0,0,,,,Home,0,Second round,Bournemouth,1
+,,,,,Sat,,Premier League,,,,,,,2021-08-28,,,N,Norwich City,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 3,Leicester City,
+0,,,0,,Wed,,Friendlies (M),0,,,,,,2021-09-01,,,N,Greece,,,,,,0,,,45,,L 1–2,0,,,,Away,0,Friendlies (M),Switzerland,
+0,,,0,,Sun,,WCQ,0,,,,FW,,2021-09-05,0,,Y,Greece,0,,,,,0,,,90,,D 1–1,0,,,,Away,0,First round,Kosovo,1
+,,,,,Sat,,Premier League,,,,,,,2021-09-18,,,N,Norwich City,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Home,,Matchweek 5,Watford,
+0,,,0,,Tue,,EFL Cup,0,,,,LW,,2021-09-21,0,,Y,Norwich City,0,,,,,0,,,90,,L 0–3,0,,,,Home,0,Third round,Liverpool,0
+0,0,7,0,0,Sat,0,Premier League,0,0,7,0.0,LB,2,2021-09-25,0,3,N,Norwich City,0,2,0.0,0.0,75.0,0,4,,5,1,L 0–2,0,,0,0,Away,0,Matchweek 6,Everton,0
+0,0,47,0,5,Sat,0,Premier League,0,3,74,0.0,WB,10,2021-10-02,0,38,Y,Norwich City,1,8,0.0,0.0,70.4,0,54,,90,4,D 0–0,0,,5,3,Away,0,Matchweek 7,Burnley,1
+,,,,,Sat,,WCQ,,,,,,,2021-10-09,,,N,Greece,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,First round,Georgia,
+0,,,0,,Tue,,WCQ,0,,,,LM,,2021-10-12,0,,Y,Greece,2,,,,,0,,,83,,L 0–2,0,,,,Away,0,First round,Sweden,1
+0,3,32,0,6,Sat,0,Premier League,0,3,67,0.0,WB,23,2021-10-16,0,36,Y,Norwich City,0,2,0.1,0.0,72.0,1,50,,90,1,D 0–0,0,,4,3,Home,0,Matchweek 8,Brighton,1
+0,0,20,0,0,Sat,0,Premier League,0,1,25,0.0,WB,11,2021-10-23,0,14,Y,Norwich City,0,1,0.0,0.0,73.7,0,19,,45,0,L 0–7,0,,1,1,Away,0,Matchweek 9,Chelsea,1
+,,,,,Sun,,Premier League,,,,,,,2021-10-31,,,N,Norwich City,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 10,Leeds United,
+0,0,6,0,2,Sat,0,Premier League,0,0,12,0.0,WB,3,2021-11-06,0,6,N,Norwich City,0,0,0.0,0.0,75.0,0,8,,17,0,W 2–1,0,,1,0,Away,0,Matchweek 11,Brentford,0
+0,,,0,,Thu,,WCQ,0,,,,LB,,2021-11-11,0,,Y,Greece,0,,,,,0,,,66,,L 0–1,0,,,,Home,0,First round,Spain,3
+,,,,,Sun,,WCQ,,,,,,,2021-11-14,,,N,Greece,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,First round,Kosovo,
+,,,,,Sat,,Premier League,,,,,,,2021-11-20,,,N,Norwich City,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Matchweek 12,Southampton,
+,,,,,Sat,,Premier League,,,,,,,2021-11-27,,,N,Norwich City,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Wolves,
+0,1,20,0,1,Tue,1,Premier League,1,2,30,0.0,LB,6,2021-11-30,0,20,N,Norwich City,0,1,0.1,0.0,76.9,0,26,,18,0,D 1–1,0,,2,1,Away,0,Matchweek 14,Newcastle Utd,1
+,,,,,Sun,,Premier League,,,,,,,2021-12-05,,,N,Norwich City,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Away,,Matchweek 15,Tottenham,
+0,1,50,0,0,Sat,0,Premier League,0,2,70,0.0,LB,11,2021-12-11,0,44,Y,Norwich City,0,4,0.1,0.0,72.1,0,61,,90,3,L 0–1,0,,6,2,Home,0,Matchweek 16,Manchester Utd,4
+,,,,,Tue,,Premier League,,,,,,,2021-12-14,,,N,Norwich City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Home,,Matchweek 17,Aston Villa,
+,,,,,Sun,,Premier League,,,,,,,2021-12-26,,,N,Norwich City,,,,,,,,,,,L 0–5,,"On matchday squad, but did not play",,,Home,,Matchweek 19,Arsenal,
+0,1,13,0,3,Tue,0,Premier League,0,0,25,0.0,LB,10,2021-12-28,0,12,Y,Norwich City,0,1,0.0,0.0,75.0,0,16,,45,0,L 0–3,0,,0,1,Away,0,Matchweek 20,Crystal Palace,2
+0,,,0,,Sun,,FA Cup,0,,,,CB,,2022-01-09,0,,Y,Norwich City,0,,,,,0,,,45,,W 1–0,0,,,,Away,0,Third round proper,Charlton Ath,0
+,,,,,Wed,,Premier League,,,,,,,2022-01-12,,,N,Norwich City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 18,West Ham,
+0,0,1,0,1,Sat,0,Premier League,0,0,3,0.0,LB,1,2022-01-15,0,1,N,Norwich City,0,0,0.0,0.0,100.0,0,1,,11,0,W 2–1,0,,0,1,Home,0,Matchweek 22,Everton,0
+,,,,,Fri,,Premier League,,,,,,,2022-01-21,,,N,Norwich City,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Away,,Matchweek 23,Watford,
+,,,,,Sat,,FA Cup,,,,,,,2022-02-05,,,N,Norwich City,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Fourth round proper,Wolves,
+,,,,,Wed,,Premier League,,,,,,,2022-02-09,,,N,Norwich City,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 24,Crystal Palace,
+,,,,,Sat,,Premier League,,,,,,,2022-02-12,,,N,Norwich City,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Home,,Matchweek 25,Manchester City,
+,,,,,Sat,,Premier League,,,,,,,2022-02-19,,,N,Norwich City,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Away,,Matchweek 26,Liverpool,
+,,,,,Fri,,Premier League,,,,,,,2022-02-25,,,N,Norwich City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 27,Southampton,
+0,,,0,,Wed,,FA Cup,0,,,,LB,,2022-03-02,0,,Y,Norwich City,0,,,,,0,,,90,,L 1–2,0,,,,Away,0,Fifth round proper,Liverpool,3
+,,,,,Sat,,Premier League,,,,,,,2022-03-05,,,N,Norwich City,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Home,,Matchweek 28,Brentford,
+,,,,,Thu,,Premier League,,,,,,,2022-03-10,,,N,Norwich City,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Home,,Matchweek 30,Chelsea,
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Norwich City,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 29,Leeds United,
+0,1,37,0,2,Sat,0,Premier League,0,4,60,0.0,LB,6,2022-04-02,0,34,Y,Norwich City,0,1,0.0,0.0,68.0,0,50,,90,0,D 0–0,0,,4,1,Away,0,Matchweek 31,Brighton,2
+0,3,29,0,5,Sun,0,Premier League,0,1,64,0.0,LB,3,2022-04-10,0,34,Y,Norwich City,0,1,0.0,0.0,65.4,0,52,,83,1,W 2–0,0,,4,1,Home,0,Matchweek 32,Burnley,0
+0,2,37,0,1,Sat,1,Premier League,0,3,56,0.0,LB,23,2022-04-16,0,30,Y,Norwich City,0,6,0.1,0.0,68.2,0,44,,90,5,L 2–3,0,,11,8,Away,0,Matchweek 33,Manchester Utd,3
+0,0,41,0,3,Sat,0,Premier League,0,4,72,0.0,LB,21,2022-04-23,0,46,Y,Norwich City,0,1,0.0,0.0,70.8,0,65,,90,1,L 0–3,0,,5,1,Home,0,Matchweek 34,Newcastle Utd,2
+,,,,,Sat,,Premier League,,,,,,,2022-04-30,,,N,Norwich City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 35,Aston Villa,
+,,,,,Sun,,Premier League,,,,,,,2022-05-08,,,N,Norwich City,,,,,,,,,,,L 0–4,,"On matchday squad, but did not play",,,Home,,Matchweek 36,West Ham,
+0,1,45,0,2,Wed,0,Premier League,0,5,76,0.1,LB,21,2022-05-11,1,47,Y,Norwich City,1,3,0.0,0.1,87.0,0,54,,90,1,L 0–3,0,,4,6,Away,0,Matchweek 21,Leicester City,4
+0,3,38,0,3,Sun,0,Premier League,0,4,68,0.0,WB,26,2022-05-15,0,40,Y,Norwich City,0,2,0.0,0.0,75.5,1,53,,90,2,D 1–1,0,,4,6,Away,0,Matchweek 37,Wolves,4
+0,0,45,0,0,Sun,0,Premier League,0,6,65,0.0,WB,13,2022-05-22,0,40,Y,Norwich City,0,2,0.0,0.0,67.8,0,59,,90,1,L 0–5,0,,6,1,Home,0,Matchweek 38,Tottenham,3
+,,,,,Thu,,UEFA Nations League,,,,,,,2022-06-02,,,N,Greece,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,League C,Northern Ireland,
+,,,,,Sun,,UEFA Nations League,,,,,,,2022-06-05,,,N,Greece,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,League C,Kosovo,
+,,,,,Thu,,UEFA Nations League,,,,,,,2022-06-09,,,N,Greece,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,League C,Cyprus,
+0,,,0,,Sun,,UEFA Nations League,0,,,,,,2022-06-12,0,,N,Greece,0,,,,,0,,,6,,W 2–0,0,,,,Home,0,League C,Kosovo,

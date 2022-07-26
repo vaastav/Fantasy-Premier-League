@@ -1,0 +1,18 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,22,0,0,Sat,0,Premier League,0,2,34,0.0,CM,6,2022-02-26,0,15,N,Brentford,0,3,0.1,0.0,50.0,0,30,,39,1,L 0–2,0,0,1,Home,0,Matchweek 27,Newcastle Utd,0
+0,3,30,0,2,Sat,1,Premier League,0,4,64,0.0,CM,14,2022-03-05,0,42,Y,Brentford,1,1,0.1,0.0,77.8,1,54,,90,1,W 3–1,0,5,1,Away,0,Matchweek 28,Norwich City,2
+0,4,45,0,0,Sat,2,Premier League,1,5,69,0.1,CM,9,2022-03-12,1,47,Y,Brentford,2,1,0.4,0.1,75.8,0,62,,90,1,W 2–0,0,8,0,Home,0,Matchweek 29,Burnley,0
+0,,,0,,Sat,,Friendlies (M),0,,,,,,2022-03-26,,,N,Denmark,,,,,,0,,,45,,L 2–4,0,,,Away,1,Friendlies (M),Netherlands,
+0,,,0,,Tue,,Friendlies (M),0,,,,CM,,2022-03-29,,,Y*,Denmark,,,,,,0,,,79,,W 3–0,0,,,Home,1,Friendlies (M),Serbia,
+0,5,24,0,1,Sat,0,Premier League,0,5,58,0.6,CM,29,2022-04-02,1,33,Y,Brentford,2,1,0.2,0.6,78.6,0,42,,90,0,W 4–1,0,1,4,Away,1,Matchweek 31,Chelsea,0
+0,3,54,0,3,Sun,0,Premier League,0,6,86,0.1,CM,19,2022-04-10,2,60,Y,Brentford,2,3,0.1,0.1,82.2,0,73,,90,1,W 2–0,0,4,4,Home,0,Matchweek 32,West Ham,1
+0,6,46,0,2,Sat,1,Premier League,1,5,73,0.1,CM,16,2022-04-16,1,44,Y,Brentford,3,2,0.5,0.1,72.1,0,61,,90,1,W 2–1,0,9,3,Away,0,Matchweek 33,Watford,1
+0,7,40,0,0,Sat,0,Premier League,0,5,72,0.1,CM,4,2022-04-23,1,40,Y,Brentford,3,1,0.2,0.1,65.6,0,61,,90,0,D 0–0,0,3,1,Home,0,Matchweek 34,Tottenham,1
+0,3,42,0,0,Mon,0,Premier League,0,6,74,0.1,CM,12,2022-05-02,2,45,Y,Brentford,3,1,0.3,0.1,72.6,0,62,,90,1,L 0–3,0,4,4,Away,0,Matchweek 35,Manchester Utd,1
+0,8,38,0,2,Sat,2,Premier League,1,9,62,0.1,CM,13,2022-05-07,0,41,Y,Brentford,2,0,0.6,0.1,75.9,0,54,,90,0,W 3–0,0,4,0,Home,0,Matchweek 36,Southampton,2
+0,6,69,0,2,Sun,1,Premier League,1,12,90,0.2,CM,5,2022-05-15,0,68,Y,Brentford,3,1,0.7,0.2,81.0,0,84,,90,0,W 3–2,0,11,0,Away,0,Matchweek 37,Everton,0
+0,6,32,0,1,Sun,0,Premier League,0,6,61,0.0,"CM,DM",23,2022-05-22,0,37,Y,Brentford,1,3,0.3,0.0,72.5,0,51,,90,1,L 1–2,0,4,0,Home,0,Matchweek 38,Leeds United,2
+0,,,0,,Fri,,UEFA Nations League,0,,,,AM,,2022-06-03,0,,Y,Denmark,0,,,,,0,,,90,,W 2–1,0,,,Away,0,League A,France,
+0,,,0,,Mon,,UEFA Nations League,1,,,,AM,,2022-06-06,0,,Y,Denmark,0,,,,,0,,,90,,W 2–1,0,,,Away,0,League A,Austria,
+0,,,0,,Fri,,UEFA Nations League,0,,,,DM,,2022-06-10,0,,Y*,Denmark,0,,,,,0,,,90,,L 0–1,0,,,Home,0,League A,Croatia,
+0,,,0,,Mon,,UEFA Nations League,0,,,,,,2022-06-13,0,,N,Denmark,0,,,,,0,,,15,,W 2–0,0,,,Home,0,League A,Austria,

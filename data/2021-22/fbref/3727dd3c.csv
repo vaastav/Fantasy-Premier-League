@@ -1,0 +1,28 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,22,0,0,Sun,1,Premier League,0,6,41,0.0,DM,13,2021-08-15,0,30,Y,Newcastle Utd,0,0,0.1,0.0,83.3,1,36,,69,0,L 2–4,0,,5,3,Home,0,Matchweek 1,West Ham,0
+0,0,10,0,0,Sun,0,Premier League,0,0,12,0.0,DM,8,2021-10-17,0,9,N,Newcastle Utd,0,0,0.0,0.0,81.8,2,11,,23,0,L 2–3,1,,0,1,Home,0,Matchweek 8,Tottenham,0
+0,,,0,,Mon,,PL2 — Div. 2,2,,,,DM,,2021-10-25,,,Y,Newcastle Utd,,,,,,0,,,90,,L 2–3,0,,,,Home,0,Matchweek 9,Wolves,
+0,1,2,0,0,Sat,0,Premier League,0,2,4,0.0,DM,1,2021-10-30,0,3,N,Newcastle Utd,0,0,0.0,0.0,75.0,0,4,,10,0,L 0–3,0,,1,0,Home,0,Matchweek 10,Chelsea,0
+0,0,27,0,1,Sat,0,Premier League,0,4,54,0.0,DM,9,2021-11-06,0,36,Y,Newcastle Utd,0,0,0.0,0.0,75.0,1,48,,90,0,D 1–1,0,,0,1,Away,0,Matchweek 11,Brighton,1
+0,10,29,0,0,Sat,0,Premier League,0,7,64,0.0,DM,7,2021-11-20,0,41,Y,Newcastle Utd,1,1,0.2,0.0,74.5,0,55,,90,0,D 3–3,0,,1,1,Home,0,Matchweek 12,Brentford,3
+0,1,35,0,1,Sat,0,Premier League,0,1,52,0.1,DM,15,2021-11-27,3,38,Y,Newcastle Utd,4,0,0.0,0.1,92.7,0,41,,87,0,L 0–2,0,,2,0,Away,0,Matchweek 13,Arsenal,2
+0,3,33,0,1,Tue,0,Premier League,0,3,51,0.0,DM,12,2021-11-30,0,31,Y,Newcastle Utd,1,0,0.0,0.0,68.9,0,45,,90,0,D 1–1,0,,0,0,Home,0,Matchweek 14,Norwich City,3
+0,5,33,0,0,Sat,0,Premier League,0,6,61,0.0,DM,5,2021-12-04,1,38,Y,Newcastle Utd,2,0,0.0,0.0,71.7,0,53,,90,0,W 1–0,0,,1,0,Home,0,Matchweek 15,Burnley,1
+0,1,39,0,2,Sun,0,Premier League,0,2,68,0.1,DM,16,2021-12-12,0,48,Y,Newcastle Utd,1,0,0.0,0.1,82.8,0,58,,84,0,L 0–4,0,,3,2,Away,0,Matchweek 16,Leicester City,1
+0,0,25,0,3,Thu,0,Premier League,0,1,43,0.1,DM,10,2021-12-16,1,23,Y,Newcastle Utd,2,2,0.0,0.1,69.7,0,33,,90,2,L 1–3,0,,0,0,Away,1,Matchweek 17,Liverpool,3
+0,3,25,0,2,Mon,0,Premier League,0,1,45,0.0,DM,16,2021-12-27,2,26,Y,Newcastle Utd,2,2,0.0,0.0,78.8,0,33,,90,2,D 1–1,0,,1,2,Home,0,Matchweek 19,Manchester Utd,0
+0,,,0,,Sat,,FA Cup,0,,,,CM,,2022-01-08,0,,Y,Newcastle Utd,1,,,,,0,,,90,,L 0–1,0,,,,Home,0,Third round proper,Cambridge Utd,0
+0,1,43,0,1,Sat,0,Premier League,0,5,59,0.0,DM,10,2022-01-15,0,43,Y,Newcastle Utd,2,1,0.0,0.0,79.6,1,54,,90,1,D 1–1,0,,2,0,Home,0,Matchweek 22,Watford,1
+0,0,17,0,1,Sat,0,Premier League,0,1,34,0.1,DM,13,2022-01-22,2,19,Y,Newcastle Utd,2,1,0.0,0.1,79.2,0,24,,90,1,W 1–0,0,,0,1,Away,1,Matchweek 23,Leeds United,2
+0,3,21,0,0,Tue,0,Premier League,0,5,45,0.1,DM,10,2022-02-08,1,33,Y,Newcastle Utd,2,1,0.1,0.1,89.2,1,37,,90,0,W 3–1,0,,2,1,Home,0,Matchweek 24,Everton,4
+0,0,16,0,3,Sun,0,Premier League,0,2,32,0.0,DM,19,2022-02-13,0,17,Y,Newcastle Utd,1,0,0.0,0.0,77.3,1,22,,90,0,W 1–0,0,,1,1,Home,0,Matchweek 25,Aston Villa,2
+0,0,38,0,2,Sat,0,Premier League,0,5,56,0.0,DM,14,2022-02-19,0,45,Y*,Newcastle Utd,0,0,0.0,0.0,93.8,0,48,,90,0,D 1–1,0,,4,1,Away,0,Matchweek 26,West Ham,3
+0,4,59,0,1,Sat,0,Premier League,0,2,74,0.2,DM,10,2022-02-26,2,58,Y*,Newcastle Utd,3,0,0.0,0.2,86.6,0,67,,90,0,W 2–0,0,,3,1,Away,0,Matchweek 27,Brentford,0
+0,1,16,0,2,Sat,0,Premier League,0,2,39,0.0,DM,12,2022-03-05,0,23,Y*,Newcastle Utd,1,0,0.1,0.0,74.2,0,31,,90,0,W 2–1,0,,1,1,Home,0,Matchweek 28,Brighton,0
+0,1,23,0,1,Thu,1,Premier League,1,3,40,0.0,DM,12,2022-03-10,0,25,Y*,Newcastle Utd,0,2,0.1,0.0,83.3,0,30,,90,1,W 2–1,0,,0,2,Away,0,Matchweek 21,Southampton,2
+0,1,33,0,1,Sun,0,Premier League,0,3,58,0.0,"DM,CB",9,2022-04-03,0,42,Y*,Newcastle Utd,2,0,0.1,0.0,85.7,0,49,,90,0,L 1–5,0,,1,3,Away,0,Matchweek 31,Tottenham,2
+0,3,29,0,1,Fri,0,Premier League,0,5,45,0.0,DM,9,2022-04-08,0,36,Y*,Newcastle Utd,0,0,0.0,0.0,92.3,0,39,,90,0,W 1–0,0,,2,0,Home,0,Matchweek 32,Wolves,3
+0,2,23,0,1,Sun,0,Premier League,0,2,48,0.0,"DM,CM",18,2022-04-17,1,26,Y*,Newcastle Utd,1,0,0.0,0.0,74.3,0,35,,90,0,W 2–1,0,,1,4,Home,0,Matchweek 33,Leicester City,1
+0,0,19,0,2,Wed,0,Premier League,0,0,32,0.0,"DM,CM",26,2022-04-20,0,21,Y*,Newcastle Utd,0,0,0.0,0.0,75.0,0,28,,90,0,W 1–0,0,,1,1,Home,0,Matchweek 30,Crystal Palace,0
+,,,,,Sat,,Premier League,,,,,,,2022-04-23,,,N,Newcastle Utd,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Away,,Matchweek 34,Norwich City,
+0,0,27,0,2,Sat,0,Premier League,0,2,41,0.1,DM,13,2022-04-30,1,22,Y*,Newcastle Utd,2,2,0.0,0.1,66.7,0,33,,90,2,L 0–1,0,,0,2,Home,0,Matchweek 35,Liverpool,1

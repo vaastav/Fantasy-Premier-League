@@ -1,0 +1,27 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,date,pressures,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+,,,,,Sat,,Premier League,,,,,,2021-09-11,,,,N,Brighton,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 4,Brentford,
+0,,,0,,Wed,,EFL Cup,0,,,,,2021-09-22,,0,,N,Brighton,0,,,,,0,,,15,,W 2–0,0,,,,Home,0,Third round,Swansea City,0
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,AM,2021-09-24,,,,Y,Brighton,,,,,,0,,,60,,W 2–1,0,,,,Home,0,Matchweek 6,Leicester City,
+,,,,,Sat,,Premier League,,,,,,2021-10-02,,,,N,Brighton,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 7,Arsenal,
+,,,,,Sat,,Premier League,,,,,,2021-10-16,,,,N,Brighton,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 8,Norwich City,
+0,,,0,,Wed,,EFL Cup,0,,,,FW,2021-10-27,,0,,Y,Brighton,0,,,,,0,,,90,,D 2 ,0,,,,Away,0,Fourth round,Leicester City,0
+,,,,,Sat,,Premier League,,,,,,2021-10-30,,,,N,Brighton,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,Matchweek 10,Liverpool,
+,,,,,Sat,,Premier League,,,,,,2021-11-06,,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 11,Newcastle Utd,
+,,,,,Sat,,Premier League,,,,,,2021-11-20,,,,N,Brighton,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 12,Aston Villa,
+0,0,5,0,0,Sat,0,Premier League,0,0,6,0.1,FW,2021-11-27,4,0,2,N,Brighton,1,1,0.0,0.1,66.7,0,3,,23,1,D 0–0,0,,0,1,Home,0,Matchweek 13,Leeds United,0
+,,,,,Wed,,Premier League,,,,,,2021-12-01,,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 14,West Ham,
+,,,,,Sat,,Premier League,,,,,,2021-12-04,,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 15,Southampton,
+,,,,,Sun,,Bundesliga,,,,,,2022-01-09,,,,N,Bochum,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 18,Wolfsburg,
+0,1,3,0,0,Sat,0,Bundesliga,0,0,4,0.1,CM,2022-01-15,6,1,0,N,Bochum,2,0,0.0,0.1,,0,0,,11,0,L 0–1,0,,0,0,Away,0,Matchweek 19,Mainz 05,0
+0,,,0,,Tue,,DFB-Pokal,0,,,,FW,2022-01-18,,1,,Y,Bochum,4,,,,,0,,,72,,W 3–1,0,,,,Home,0,Round of 16,Mainz 05,0
+0,3,22,0,0,Sat,1,Bundesliga,1,4,32,0.1,FW,2022-01-22,7,2,23,Y,Bochum,2,1,0.4,0.1,95.8,0,24,,55,1,D 2–2,0,,5,1,Home,0,Matchweek 20,Köln,0
+0,4,22,0,0,Fri,1,Bundesliga,0,1,39,0.4,FW,2022-02-04,21,2,17,Y,Bochum,4,1,0.0,0.4,73.9,0,23,,87,1,D 1–1,0,,2,0,Away,0,Matchweek 21,Hertha BSC,1
+1,5,14,1,0,Sat,1,Bundesliga,0,2,26,0.8,FW,2022-02-12,30,0,12,Y,Bochum,1,0,0.1,0.0,75.0,0,16,,79,0,W 4–2,0,,3,1,Home,1,Matchweek 22,Bayern Munich,1
+0,0,9,0,0,Sat,0,Bundesliga,0,1,13,0.0,FW,2022-02-19,16,0,6,Y,Bochum,0,0,0.0,0.0,75.0,0,8,,61,0,D 1–1,0,,1,1,Away,0,Matchweek 23,Stuttgart,1
+0,1,5,0,0,Sun,0,Bundesliga,0,1,8,0.1,FW,2022-02-27,2,0,5,N,Bochum,1,0,0.0,0.1,83.3,0,6,,20,0,L 0–1,0,,0,0,Home,0,Matchweek 24,RB Leipzig,0
+0,,,0,,Wed,,DFB-Pokal,0,,,,FW,2022-03-02,,0,,Y,Bochum,1,,,,,0,,,45,,L 1–2,0,,,,Home,0,Quarter-finals,Freiburg,0
+0,1,11,0,0,Sun,0,Bundesliga,0,1,17,0.0,LM,2022-03-13,5,1,10,N,Bochum,1,0,0.0,0.0,83.3,0,12,,30,0,L 1–2,0,,1,1,Away,0,Matchweek 26,Eint Frankfurt,0
+0,1,7,0,0,Sat,0,Bundesliga,0,0,12,0.0,AM,2022-04-16,3,0,6,N,Bochum,1,0,0.0,0.0,66.7,0,9,,25,0,L 0–3,0,,1,0,Away,0,Matchweek 30,Freiburg,0
+0,2,13,0,0,Sun,0,Bundesliga,0,1,22,0.3,FW,2022-04-24,5,0,10,N,Bochum,4,0,0.0,0.3,76.9,0,13,,34,0,L 0–2,0,,1,1,Home,0,Matchweek 31,Augsburg,1
+0,1,10,0,0,Sat,1,Bundesliga,0,0,11,0.2,FW,2022-04-30,12,1,3,N,Bochum,1,1,0.0,0.2,75.0,0,4,,19,0,W 4–3,0,,0,0,Away,1,Matchweek 32,Dortmund,0
+0,1,8,0,0,Fri,0,Bundesliga,0,0,10,0.0,FW,2022-05-06,1,0,5,N,Bochum,0,1,0.1,0.0,62.5,0,8,,23,0,W 2–1,0,,0,0,Home,0,Matchweek 33,Arminia,0

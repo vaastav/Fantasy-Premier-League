@@ -1,0 +1,28 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,43,0,1,Fri,0,Premier League,0,5,70,0.3,CB,4,2021-08-13,0,50,Y,Arsenal,1,1,0.0,0.3,89.3,0,56,,90,1,L 0–2,0,,3,1,Away,0,Matchweek 1,Brentford,4
+0,1,16,0,5,Sun,0,Premier League,0,3,44,0.0,CB,15,2021-08-22,0,28,Y,Arsenal,0,0,0.1,0.0,93.3,1,30,,90,0,L 0–2,0,,1,5,Home,0,Matchweek 2,Chelsea,2
+,,,,,Wed,,EFL Cup,,,,,,,2021-08-25,,,N,Arsenal,,,,,,,,,,,W 6–0,,"On matchday squad, but did not play",,,Away,,Second round,West Brom,
+,,,,,Sat,,Premier League,,,,,,,2021-08-28,,,N,Arsenal,,,,,,,,,,,L 0–5,,"On matchday squad, but did not play",,,Away,,Matchweek 3,Manchester City,
+,,,,,Sat,,Premier League,,,,,,,2021-09-11,,,N,Arsenal,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 4,Norwich City,
+,,,,,Sat,,Premier League,,,,,,,2021-09-18,,,N,Arsenal,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 5,Burnley,
+0,,,0,,Wed,,EFL Cup,0,,,,CB,,2021-09-22,0,,Y,Arsenal,0,,,,,0,,,90,,W 3–0,0,,,,Home,0,Third round,AFC Wimbledon,3
+,,,,,Sun,,Premier League,,,,,,,2021-12-26,,,N,Arsenal,,,,,,,,,,,W 5–0,,"On matchday squad, but did not play",,,Away,,Matchweek 19,Norwich City,
+,,,,,Sun,,FA Cup,,,,,,,2022-01-09,,,N,Arsenal,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Third round proper,Nott'ham Forest,
+,,,,,Thu,,EFL Cup,,,,,,,2022-01-13,,,N,Arsenal,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Semi-finals,Liverpool,
+,,,,,Sat,,Serie A,,,,,,,2022-01-22,,,N,Udinese,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 23,Genoa,
+0,0,11,0,0,Sun,0,Serie A,0,0,51,0.0,CB,5,2022-02-06,0,19,Y,Udinese,0,0,0.0,0.0,45.2,0,42,,90,0,W 2–0,0,,1,1,Home,0,Matchweek 24,Torino,4
+0,0,28,0,1,Sun,0,Serie A,0,2,70,0.0,CB,15,2022-02-13,0,41,Y,Udinese,0,0,0.0,0.0,66.1,0,62,,90,0,L 0–4,0,,1,2,Away,0,Matchweek 25,Hellas Verona,4
+0,0,41,0,1,Sun,0,Serie A,0,1,64,0.0,CB,13,2022-02-20,0,45,Y,Udinese,0,0,0.0,0.0,78.9,0,57,,90,0,D 1–1,0,,0,1,Home,0,Matchweek 26,Lazio,3
+0,0,12,0,0,Fri,0,Serie A,0,1,46,0.0,CB,7,2022-02-25,0,20,Y,Udinese,0,0,0.0,0.0,60.6,0,33,,90,0,D 1–1,0,,0,0,Away,0,Matchweek 27,Milan,4
+0,0,23,0,2,Sat,0,Serie A,0,3,56,0.0,CB,13,2022-03-05,0,26,Y,Udinese,0,0,0.0,0.0,63.4,0,41,,90,0,W 2–1,0,,1,1,Home,0,Matchweek 28,Sampdoria,3
+0,0,13,0,2,Sun,0,Serie A,0,0,37,0.1,CB,3,2022-03-13,1,17,Y,Udinese,2,0,0.0,0.1,56.7,0,30,,90,0,D 1–1,0,,1,0,Home,0,Matchweek 29,Roma,1
+0,0,18,0,4,Sat,0,Serie A,0,1,46,0.0,CB,10,2022-03-19,1,16,Y,Udinese,1,0,0.0,0.0,57.1,0,28,,81,0,L 1–2,1,,0,3,Away,0,Matchweek 30,Napoli,3
+0,0,19,0,1,Sun,0,Serie A,0,0,59,0.0,CB,7,2022-04-10,0,25,Y,Udinese,1,1,0.0,0.0,56.8,0,44,,90,1,W 2–1,0,,0,1,Away,0,Matchweek 32,Venezia,3
+0,1,15,0,1,Sat,0,Serie A,0,2,38,0.0,CB,8,2022-04-16,0,24,Y,Udinese,0,0,0.1,0.0,82.8,0,29,,90,0,W 4–1,0,,0,0,Home,0,Matchweek 33,Empoli,3
+0,0,21,0,3,Wed,0,Serie A,0,2,44,0.0,CB,5,2022-04-20,0,32,Y,Udinese,0,0,0.0,0.0,80.0,1,40,,90,0,L 0–1,0,,1,0,Home,0,Matchweek 19,Salernitana,0
+0,1,24,0,4,Sun,0,Serie A,0,3,55,0.1,CB,9,2022-04-24,0,30,Y,Udinese,1,1,0.0,0.1,78.9,0,38,,90,1,D 2–2,0,,2,2,Away,0,Matchweek 34,Bologna,2
+0,1,11,0,2,Wed,0,Serie A,0,0,38,0.0,CB,4,2022-04-27,1,15,Y,Udinese,1,0,0.2,0.0,68.2,0,22,,90,0,W 4–0,0,,1,2,Away,1,Matchweek 20,Fiorentina,1
+0,0,32,0,3,Sun,0,Serie A,0,3,60,0.0,CB,7,2022-05-01,0,48,Y,Udinese,0,1,0.0,0.0,94.1,1,51,,90,0,L 1–2,0,,0,0,Home,0,Matchweek 35,Inter,1
+0,1,21,0,5,Sat,0,Serie A,0,0,56,0.1,CB,14,2022-05-07,0,31,Y,Udinese,1,0,0.5,0.1,77.5,0,40,,90,0,D 1–1,0,,0,3,Away,0,Matchweek 36,Sassuolo,2
+0,1,35,0,1,Sat,0,Serie A,0,2,65,0.3,CB,19,2022-05-14,2,40,Y,Udinese,3,0,0.0,0.3,87.0,0,46,,90,0,L 2–3,0,,1,2,Home,1,Matchweek 37,Spezia,3
+,,,,,Sun,,Serie A,,,,,,,2022-05-22,,,N,Udinese,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Away,,Matchweek 38,Salernitana,

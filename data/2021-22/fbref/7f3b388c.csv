@@ -1,0 +1,63 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,date,pressures,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+,,,,,Fri,,Copa América,,,,,,2021-07-02,,,,N,Brazil,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Neutral,,Quarter-finals,Chile,
+0,0,2,0,0,Mon,0,Copa América,0,0,4,0.0,DM,2021-07-05,2,0,1,N,Brazil,0,0,0.0,0.0,100.0,0,1,,6,0,W 1–0,0,,0,1,Home,0,Semi-finals,Peru,0
+,,,,,Sat,,Copa América,,,,,,2021-07-10,,,,N,Brazil,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Neutral,,Final,Argentina,
+0,0,12,0,1,Sat,0,Premier League,0,2,23,0.0,CM,2021-08-14,6,0,19,N,Liverpool,0,0,0.0,0.0,82.6,0,23,,30,0,W 3–0,0,,1,0,Away,0,Matchweek 1,Norwich City,0
+0,2,52,0,1,Sat,0,Premier League,0,8,79,0.1,DM,2021-08-28,14,1,63,Y,Liverpool,2,0,0.0,0.1,88.7,0,71,,90,0,D 1–1,0,,9,2,Home,0,Matchweek 3,Chelsea,0
+0,1,35,0,4,Sun,1,Premier League,0,1,55,0.2,DM,2021-09-12,24,1,30,Y,Liverpool,3,2,0.0,0.2,81.1,1,37,,90,1,W 3–0,0,,4,2,Away,1,Matchweek 4,Leeds United,5
+0,2,41,0,1,Wed,0,Champions Lg,0,10,67,0.0,DM,2021-09-15,14,0,47,Y,Liverpool,0,0,0.1,0.0,87.0,0,54,,90,0,W 3–2,0,,4,6,Home,0,Group stage,Milan,4
+0,1,40,0,1,Sat,0,Premier League,0,3,68,0.1,DM,2021-09-18,16,0,49,Y,Liverpool,2,0,0.0,0.1,90.7,0,54,,90,0,W 3–0,0,,3,4,Home,0,Matchweek 5,Crystal Palace,1
+0,1,50,0,2,Sat,1,Premier League,1,5,63,0.0,DM,2021-09-25,12,0,54,Y,Liverpool,0,0,0.3,0.0,93.1,0,58,,90,0,D 3–3,0,,2,0,Away,0,Matchweek 6,Brentford,1
+0,3,32,0,3,Tue,1,Champions Lg,0,5,72,0.0,DM,2021-09-28,15,0,57,Y,Liverpool,0,0,0.0,0.0,93.4,0,61,,90,0,W 5–1,0,,0,4,Away,0,Group stage,Porto,0
+0,1,23,0,2,Sun,0,Premier League,0,1,42,0.4,DM,2021-10-03,19,0,32,Y,Liverpool,1,0,0.0,0.4,84.2,1,38,,90,0,D 2–2,0,,0,0,Home,0,Matchweek 7,Manchester City,1
+0,,,0,,Thu,,WCQ,0,,,,CM,2021-10-07,,0,,Y,Brazil,0,,,,,0,,,90,,W 3–1,0,,,,Away,0,WCQ — CONMEBOL (M),Venezuela,1
+0,,,0,,Sun,,WCQ,0,,,,DM,2021-10-10,,0,,Y,Brazil,1,,,,,0,,,90,,D 0–0,0,,,,Away,0,WCQ — CONMEBOL (M),Colombia,2
+0,,,0,,Thu,,WCQ,0,,,,DM,2021-10-14,,0,,Y,Brazil,1,,,,,1,,,70,,W 4–1,0,,,,Home,0,WCQ — CONMEBOL (M),Uruguay,0
+0,0,22,0,0,Tue,0,Champions Lg,0,1,42,0.0,CM,2021-10-19,5,0,35,N,Liverpool,0,1,0.0,0.0,97.2,0,36,,45,0,W 3–2,0,,1,3,Away,0,Group stage,Atlético Madrid,0
+0,3,36,0,0,Wed,0,Champions Lg,0,3,51,0.0,DM,2021-11-03,7,0,42,Y,Liverpool,0,0,0.1,0.0,91.3,0,46,,58,0,W 2–0,0,,3,3,Home,0,Group stage,Atlético Madrid,1
+0,2,63,0,1,Sun,0,Premier League,0,3,88,0.0,DM,2021-11-07,11,0,70,Y,Liverpool,0,0,0.0,0.0,92.1,0,76,,79,0,L 2–3,0,,16,3,Away,0,Matchweek 11,West Ham,2
+0,,,0,,Thu,,WCQ,0,,,,,2021-11-11,,0,,N,Brazil,0,,,,,0,,,5,,W 1–0,0,,,,Home,0,WCQ — CONMEBOL (M),Colombia,0
+0,,,0,,Tue,,WCQ,0,,,,DM,2021-11-16,,0,,Y,Brazil,0,,,,,1,,,90,,D 0–0,0,,,,Away,0,WCQ — CONMEBOL (M),Argentina,2
+0,1,49,0,1,Sat,0,Premier League,0,4,67,0.0,DM,2021-11-20,12,0,57,Y,Liverpool,0,1,0.1,0.0,96.6,1,59,,90,1,W 4–0,0,,2,2,Home,0,Matchweek 12,Arsenal,3
+0,0,6,0,0,Wed,0,Champions Lg,0,0,8,0.0,DM,2021-11-24,2,0,8,N,Liverpool,0,0,0.0,0.0,100.0,0,8,,20,0,W 2–0,0,,0,0,Home,0,Group stage,Porto,0
+0,2,50,0,3,Sat,0,Premier League,0,8,83,0.0,DM,2021-11-27,24,0,56,Y,Liverpool,0,1,0.1,0.0,82.4,0,68,,90,1,W 4–0,0,,3,3,Home,0,Matchweek 13,Southampton,4
+0,2,34,0,1,Wed,0,Premier League,0,3,69,0.0,DM,2021-12-01,17,0,53,Y,Liverpool,0,0,0.0,0.0,88.3,0,60,,90,0,W 4–1,0,,3,1,Away,0,Matchweek 14,Everton,4
+0,0,53,0,1,Sat,0,Premier League,0,4,78,0.0,DM,2021-12-04,15,0,59,Y,Liverpool,0,0,0.0,0.0,90.8,1,65,,90,0,W 1–0,0,,5,2,Away,0,Matchweek 15,Wolves,4
+0,0,4,0,1,Tue,0,Champions Lg,0,0,7,0.0,DM,2021-12-07,6,0,3,N,Liverpool,0,0,0.0,0.0,75.0,0,4,,11,0,W 2–1,0,,0,1,Away,0,Group stage,Milan,1
+0,3,38,0,2,Sat,0,Premier League,0,6,60,0.0,DM,2021-12-11,18,0,40,Y,Liverpool,0,0,0.1,0.0,88.9,0,45,,90,0,W 1–0,0,,4,3,Home,0,Matchweek 16,Aston Villa,4
+0,3,27,0,0,Tue,0,Premier League,0,2,50,0.0,DM,2021-12-28,14,0,33,Y,Liverpool,0,0,0.1,0.0,80.5,0,41,,63,0,L 0–1,0,,4,5,Away,0,Matchweek 20,Leicester City,3
+0,1,30,0,3,Sun,1,Premier League,0,7,56,0.0,DM,2022-01-02,15,0,42,Y,Liverpool,0,0,0.0,0.0,89.4,0,47,,90,0,D 2–2,0,,4,2,Away,0,Matchweek 21,Chelsea,2
+1,,,1,,Sun,,FA Cup,0,,,,CM,2022-01-09,,2,,Y,Liverpool,3,,,,,0,,,90,,W 4–1,0,,,,Home,2,Third round proper,Shrewsbury,1
+0,,,0,,Thu,,EFL Cup,0,,,,CM,2022-01-13,,0,,Y,Liverpool,0,,,,,0,,,74,,D 0–0,0,,,,Home,0,Semi-finals,Arsenal,0
+0,3,49,0,2,Sun,0,Premier League,0,5,83,0.0,DM,2022-01-16,9,2,69,Y,Liverpool,2,0,0.1,0.0,89.6,0,77,,90,0,W 3–0,0,,6,0,Home,1,Matchweek 22,Brentford,0
+0,,,0,,Thu,,EFL Cup,0,,,,CM,2022-01-20,,0,,Y,Liverpool,3,,,,,0,,,90,,W 2–0,0,,,,Away,0,Semi-finals,Arsenal,0
+1,0,35,1,2,Sun,0,Premier League,0,3,62,0.9,DM,2022-01-23,13,1,48,Y,Liverpool,2,0,0.0,0.1,88.9,0,54,,90,0,W 3–1,0,,3,1,Away,1,Matchweek 23,Crystal Palace,1
+0,,,0,,Tue,,WCQ,0,,,,CM,2022-02-01,,0,,Y,Brazil,0,,,,,0,,,90,,W 4–0,0,,,,Home,0,WCQ — CONMEBOL (M),Paraguay,1
+0,3,42,0,4,Thu,0,Premier League,0,2,70,0.0,DM,2022-02-10,13,0,45,Y,Liverpool,0,0,0.0,0.0,86.5,0,52,,90,0,W 2–0,0,,3,5,Home,0,Matchweek 24,Leicester City,5
+0,2,40,0,2,Sun,1,Premier League,0,6,67,0.6,DM,2022-02-13,7,2,50,Y,Liverpool,3,1,0.0,0.6,83.3,0,60,,90,1,W 1–0,0,,5,0,Away,1,Matchweek 25,Burnley,2
+0,2,14,0,3,Wed,0,Champions Lg,0,1,31,0.1,DM,2022-02-16,14,0,18,Y,Liverpool,2,1,0.0,0.1,81.8,0,22,,58,0,W 2–0,0,,2,0,Away,0,Round of 16,Inter,2
+,,,,,Sat,,Premier League,,,,,,2022-02-19,,,,N,Liverpool,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Matchweek 26,Norwich City,
+0,2,36,0,2,Wed,1,Premier League,0,4,57,0.2,DM,2022-02-23,21,0,37,Y,Liverpool,1,2,0.0,0.2,88.1,0,42,,90,1,W 6–0,0,,5,4,Home,0,Matchweek 19,Leeds United,2
+0,,,0,,Sun,,EFL Cup,0,,,,CM,2022-02-27,,0,,Y,Liverpool,1,,,,,0,,,120,,D 0 ,0,,,,Away,0,Final,Chelsea,2
+0,2,57,0,1,Sat,0,Premier League,0,5,71,0.0,DM,2022-03-05,14,0,59,Y,Liverpool,0,1,0.1,0.0,89.4,0,66,,90,1,W 1–0,0,,3,3,Home,0,Matchweek 28,West Ham,0
+0,1,46,0,3,Tue,0,Champions Lg,0,3,84,0.0,DM,2022-03-08,27,0,66,Y,Liverpool,0,0,0.0,0.0,95.7,0,69,,90,0,L 0–1,0,,3,5,Home,0,Round of 16,Inter,3
+0,0,18,0,1,Sat,0,Premier League,0,2,36,0.0,DM,2022-03-12,22,0,23,Y,Liverpool,0,0,0.0,0.0,82.1,1,28,,90,0,W 2–0,0,,0,3,Away,0,Matchweek 29,Brighton,2
+0,0,32,0,4,Wed,0,Premier League,0,2,58,0.0,DM,2022-03-16,21,0,39,Y,Liverpool,0,1,0.0,0.0,81.3,0,48,,90,1,W 2–0,0,,1,3,Away,0,Matchweek 27,Arsenal,0
+0,,,0,,Sun,,FA Cup,0,,,,CM,2022-03-20,,0,,Y,Liverpool,1,,,,,0,,,63,,W 1–0,0,,,,Away,0,Quarter-finals,Nott'ham Forest,0
+0,,,0,,Thu,,WCQ,0,,,,,2022-03-24,,0,,N,Brazil,0,,,,,0,,,9,,W 4–0,0,,,,Home,0,WCQ — CONMEBOL (M),Chile,0
+0,,,0,,Tue,,WCQ,0,,,,DM,2022-03-29,,0,,Y,Brazil,0,,,,,0,,,90,,W 4–0,0,,,,Away,0,WCQ — CONMEBOL (M),Bolivia,4
+1,2,31,1,0,Sat,0,Premier League,0,5,42,0.8,DM,2022-04-02,1,0,37,N,Liverpool,0,0,0.0,0.0,94.9,0,39,,29,0,W 2–0,0,,3,1,Home,1,Matchweek 31,Watford,0
+0,2,71,0,0,Tue,0,Champions Lg,0,8,95,0.0,DM,2022-04-05,17,0,74,Y,Liverpool,0,0,0.1,0.0,88.1,0,84,,90,0,W 3–1,0,,7,4,Away,0,Quarter-finals,Benfica,2
+0,0,29,0,2,Sun,0,Premier League,0,3,64,0.0,DM,2022-04-10,22,0,42,Y,Liverpool,0,0,0.0,0.0,76.4,1,55,,90,0,D 2–2,0,,0,3,Away,0,Matchweek 32,Manchester City,2
+0,1,30,0,0,Wed,0,Champions Lg,0,4,41,0.0,DM,2022-04-13,3,0,39,N,Liverpool,0,0,0.0,0.0,97.5,0,40,,34,0,D 3–3,0,,2,0,Home,0,Quarter-finals,Benfica,1
+0,,,0,,Sat,,FA Cup,0,,,,CM,2022-04-16,,0,,Y,Liverpool,0,,,,,1,,,90,,W 3–2,0,,,,Away,0,Semi-finals,Manchester City,0
+0,1,75,0,0,Tue,0,Premier League,0,5,102,0.1,DM,2022-04-19,8,0,89,Y,Liverpool,1,0,0.6,0.1,92.7,0,96,,85,0,W 4–0,0,,7,1,Home,0,Matchweek 30,Manchester Utd,4
+0,0,74,0,3,Sun,0,Premier League,0,2,93,0.0,DM,2022-04-24,18,0,77,Y,Liverpool,1,1,0.0,0.0,91.7,0,84,,90,1,W 2–0,0,,7,1,Home,0,Matchweek 34,Everton,0
+0,4,65,0,2,Wed,0,Champions Lg,0,5,84,0.0,DM,2022-04-27,11,0,63,Y,Liverpool,1,2,0.0,0.0,91.3,0,69,,90,1,W 2–0,0,,7,5,Home,0,Semi-finals,Villarreal,4
+0,1,10,0,0,Sat,0,Premier League,0,0,17,0.1,DM,2022-04-30,5,0,12,N,Liverpool,1,0,0.0,0.1,85.7,0,14,,22,0,W 1–0,0,,0,0,Away,0,Matchweek 35,Newcastle Utd,1
+0,1,12,0,4,Tue,1,Champions Lg,0,1,41,0.0,DM,2022-05-03,18,1,23,Y,Liverpool,1,0,0.0,0.0,69.7,0,33,,83,0,W 3–2,0,,1,3,Away,1,Semi-finals,Villarreal,0
+0,3,40,0,4,Sat,0,Premier League,0,6,70,0.0,DM,2022-05-07,16,0,50,Y,Liverpool,0,1,0.0,0.0,87.7,1,57,,87,0,D 1–1,0,,3,2,Home,0,Matchweek 36,Tottenham,3
+0,0,8,0,1,Tue,0,Premier League,0,0,13,0.0,DM,2022-05-10,6,0,7,Y,Liverpool,0,0,0.0,0.0,87.5,0,8,,29,0,W 2–1,0,,0,1,Away,0,Matchweek 33,Aston Villa,0
+0,1,73,0,1,Sat,0,Champions Lg,0,9,96,0.0,DM,2022-05-28,15,0,82,Y,Liverpool,2,0,0.4,0.0,94.3,1,87,,90,0,L 0–1,0,,15,1,Neutral,0,Final,Real Madrid,2
+0,,,0,,Thu,,Friendlies (M),0,,,,,2022-06-02,,,,N,Brazil,,,,,,0,,,20,,W 5–1,0,,,,Away,0,Friendlies (M),Korea Republic,
+0,,,0,,Mon,,Friendlies (M),0,,,,,2022-06-06,,,,N,Brazil,,,,,,0,,,6,,W 1–0,0,,,,Away,0,Friendlies (M),Japan,

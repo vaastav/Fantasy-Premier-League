@@ -1,0 +1,39 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,0,18,0,0,Sat,0,UEFA Euro,0,0,20,0.0,LW,8,2021-07-03,0,15,N,England,0,3,0.0,0.0,93.8,0,16,,26,1,W 4–0,0,,1,1,Away,0,Quarter-finals,Ukraine,1
+,,,,,Wed,,UEFA Euro,,,,,,,2021-07-07,,,N,England,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Semi-finals,Denmark,
+0,0,0,0,0,Sun,0,UEFA Euro,0,0,1,0.0,RB,1,2021-07-11,0,0,N,England,0,0,0.0,0.0,0.0,0,1,,1,0,D 1 ,0,,0,1,Neutral,0,Final,Italy,0
+0,0,11,0,0,Sat,0,Premier League,0,0,13,0.2,LW,0,2021-10-16,1,6,N,Manchester Utd,1,0,0.0,0.2,54.5,0,11,,26,0,L 2–4,0,,6,0,Away,1,Matchweek 8,Leicester City,0
+0,2,33,0,3,Wed,0,Champions Lg,0,5,52,0.5,LW,8,2021-10-20,1,32,Y,Manchester Utd,6,2,0.0,0.5,86.5,0,37,,65,0,W 3–2,0,,3,0,Home,1,Group stage,Atalanta,1
+0,2,26,0,1,Sun,0,Premier League,0,2,30,0.2,"LW,FW",8,2021-10-24,1,13,Y,Manchester Utd,3,4,0.0,0.2,61.9,0,21,,61,2,L 0–5,0,,5,0,Home,0,Matchweek 9,Liverpool,0
+0,0,10,0,0,Sat,0,Premier League,0,0,13,0.4,FW,7,2021-10-30,1,5,N,Manchester Utd,1,0,0.0,0.4,62.5,0,8,,20,0,W 3–0,0,,0,0,Away,1,Matchweek 10,Tottenham,0
+0,2,24,0,1,Tue,0,Champions Lg,0,1,42,0.1,"AM,LW",14,2021-11-02,0,22,Y,Manchester Utd,2,1,0.0,0.1,78.6,0,28,,68,0,D 2–2,0,,4,2,Away,0,Group stage,Atalanta,0
+0,0,4,0,0,Sat,0,Premier League,0,0,8,0.0,"LW,RW",13,2021-11-06,0,4,N,Manchester Utd,0,1,0.0,0.0,57.1,0,7,,24,0,L 0–2,0,,0,0,Home,0,Matchweek 11,Manchester City,0
+0,0,20,0,1,Sat,0,Premier League,0,1,28,0.2,"LW,RW",2,2021-11-20,1,11,Y,Manchester Utd,1,4,0.0,0.2,45.8,0,24,,45,2,L 1–4,0,,2,0,Away,0,Matchweek 12,Watford,0
+0,1,18,0,0,Tue,1,Champions Lg,0,1,23,0.1,"LW,RW",4,2021-11-23,1,16,N,Manchester Utd,1,0,0.0,0.1,88.9,0,18,,25,0,W 2–0,0,,3,1,Away,0,Group stage,Villarreal,0
+0,0,17,0,1,Sun,0,Premier League,0,1,27,0.0,FW,11,2021-11-28,0,15,Y,Manchester Utd,0,1,0.0,0.0,75.0,1,20,,76,1,D 1–1,0,,3,0,Away,0,Matchweek 13,Chelsea,1
+0,3,21,0,2,Thu,1,Premier League,1,1,34,0.0,RW,8,2021-12-02,1,22,Y,Manchester Utd,1,1,0.3,0.0,81.5,0,27,,78,0,W 3–2,0,,5,0,Home,0,Matchweek 14,Arsenal,0
+0,5,17,0,0,Sun,0,Premier League,0,1,30,0.0,FW,10,2021-12-05,0,21,Y,Manchester Utd,0,4,0.2,0.0,91.3,0,23,,75,1,W 1–0,0,,2,0,Home,0,Matchweek 15,Crystal Palace,0
+0,3,34,0,0,Sat,0,Premier League,0,3,47,0.1,FW,18,2021-12-11,0,23,Y,Manchester Utd,3,6,0.7,0.1,74.2,0,31,,90,4,W 1–0,0,,6,0,Away,0,Matchweek 16,Norwich City,1
+0,6,42,0,0,Mon,0,Premier League,0,7,59,0.1,AM,16,2021-12-27,1,34,Y,Manchester Utd,2,7,0.0,0.1,72.3,0,47,,90,3,D 1–1,0,,4,2,Away,0,Matchweek 19,Newcastle Utd,0
+,,,,,Thu,,Premier League,,,,,,,2021-12-30,,,N,Manchester Utd,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Matchweek 20,Burnley,
+0,0,5,0,0,Mon,0,Premier League,0,0,11,0.0,"RB,LM",3,2022-01-03,0,3,N,Manchester Utd,0,1,0.0,0.0,33.3,0,9,,15,1,L 0–1,0,,0,1,Home,0,Matchweek 21,Wolves,1
+0,,,0,,Mon,,FA Cup,0,,,,RW,,2022-01-10,0,,Y,Manchester Utd,4,,,,,0,,,85,,W 1–0,0,,,,Home,0,Third round proper,Aston Villa,0
+0,0,6,0,1,Wed,0,Premier League,0,0,10,0.1,RW,3,2022-01-19,1,2,N,Manchester Utd,1,2,0.0,0.1,66.7,0,3,,20,0,W 3–1,0,,0,0,Away,1,Matchweek 17,Brentford,1
+0,1,9,0,1,Sat,0,Premier League,0,0,13,0.9,"RW,RM,LW",2,2022-01-22,1,7,N,Manchester Utd,2,1,0.0,0.9,87.5,0,8,,29,0,W 1–0,0,,1,0,Home,1,Matchweek 23,West Ham,0
+0,,,0,,Fri,,FA Cup,0,,,,AM,,2022-02-04,2,,Y,Manchester Utd,6,,,,,0,,,81,,D 1 ,0,,,,Home,0,Fourth round proper,Middlesbrough,0
+0,5,28,0,1,Tue,1,Premier League,0,3,38,0.1,"RW,LW",19,2022-02-08,2,14,Y,Manchester Utd,3,7,0.2,0.1,70.0,0,20,,84,3,D 1–1,0,,5,2,Away,0,Matchweek 24,Burnley,1
+0,1,26,0,0,Sat,1,Premier League,1,1,35,0.0,"RW,LW,FW",22,2022-02-12,0,13,Y,Manchester Utd,1,3,0.5,0.0,52.0,1,25,,81,1,D 1–1,0,,6,0,Home,0,Matchweek 25,Southampton,0
+0,1,11,0,0,Tue,0,Premier League,0,1,16,0.0,RW,4,2022-02-15,0,10,N,Manchester Utd,0,0,0.1,0.0,71.4,0,14,,12,0,W 2–0,0,,3,0,Home,0,Matchweek 18,Brighton,0
+,,,,,Sun,,Premier League,,,,,,,2022-02-20,,,N,Manchester Utd,,,,,,,,,,,W 4–2,,"On matchday squad, but did not play",,,Away,,Matchweek 26,Leeds United,
+0,0,20,0,2,Wed,0,Champions Lg,0,0,40,0.0,RW,12,2022-02-23,0,20,Y,Manchester Utd,1,3,0.0,0.0,74.1,1,27,,74,1,D 1–1,0,,1,2,Away,0,Round of 16,Atlético Madrid,0
+0,0,7,0,0,Sat,0,Premier League,0,0,10,0.0,AM,8,2022-02-26,0,7,N,Manchester Utd,0,0,0.0,0.0,77.8,0,9,,17,0,D 0–0,0,,0,0,Home,0,Matchweek 27,Watford,0
+0,0,4,0,0,Sun,0,Premier League,0,0,8,0.0,FW,7,2022-03-06,0,3,N,Manchester Utd,0,1,0.0,0.0,50.0,0,6,,27,0,L 1–4,0,,1,0,Away,0,Matchweek 28,Manchester City,0
+0,1,16,0,0,Sat,0,Premier League,0,1,25,0.0,RW,18,2022-03-12,0,14,Y,Manchester Utd,0,0,0.0,0.0,70.0,0,20,,67,0,W 3–2,0,,3,1,Home,0,Matchweek 29,Tottenham,3
+0,1,10,0,0,Tue,0,Champions Lg,0,0,13,0.0,"WB,RW,CM",2,2022-03-15,0,4,N,Manchester Utd,0,1,0.0,0.0,36.4,0,11,,24,0,L 0–1,0,,2,0,Home,0,Round of 16,Atlético Madrid,0
+0,0,13,0,0,Sat,0,Premier League,0,0,16,0.0,FW,2,2022-04-02,0,10,N,Manchester Utd,0,1,0.0,0.0,90.9,0,11,,36,0,D 1–1,0,,0,0,Home,0,Matchweek 31,Leicester City,0
+0,0,20,0,1,Sat,0,Premier League,0,3,43,0.1,LW,19,2022-04-09,2,20,Y,Manchester Utd,3,3,0.0,0.1,74.1,0,27,,63,0,L 0–1,0,,1,1,Away,0,Matchweek 32,Everton,0
+0,0,19,0,1,Sat,0,Premier League,0,1,21,0.0,RW,1,2022-04-16,0,12,N,Manchester Utd,0,5,0.0,0.0,75.0,0,16,,17,2,W 3–2,0,,2,0,Home,0,Matchweek 33,Norwich City,0
+0,1,15,0,0,Tue,0,Premier League,0,0,23,0.0,FW,32,2022-04-19,0,11,Y,Manchester Utd,0,0,0.0,0.0,73.3,0,15,,90,0,L 0–4,0,,1,1,Away,0,Matchweek 30,Liverpool,0
+0,0,5,0,0,Sat,0,Premier League,0,0,6,0.0,LW,3,2022-04-23,0,5,N,Manchester Utd,0,0,0.0,0.0,83.3,0,6,,14,0,L 1–3,0,,1,0,Away,0,Matchweek 34,Arsenal,0
+0,0,21,0,1,Thu,0,Premier League,0,0,25,0.0,LW,18,2022-04-28,0,12,Y,Manchester Utd,0,0,0.0,0.0,85.7,0,14,,78,0,D 1–1,0,,1,0,Home,0,Matchweek 37,Chelsea,4
+,,,,,Mon,,Premier League,,,,,,,2022-05-02,,,N,Manchester Utd,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 35,Brentford,

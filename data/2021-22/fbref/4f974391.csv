@@ -1,0 +1,44 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,54,0,2,Sun,0,Premier League,0,7,90,0.1,"LB,CB",8,2021-08-15,1,67,Y,West Ham,2,1,0.1,0.1,84.8,0,79,,90,0,W 4–2,0,,4,4,Away,1,Matchweek 1,Newcastle Utd,0
+0,1,49,0,1,Mon,1,Premier League,0,7,81,0.0,LB,3,2021-08-23,0,65,Y,West Ham,1,0,0.0,0.0,85.5,0,76,,90,0,W 4–1,0,,4,1,Home,0,Matchweek 2,Leicester City,0
+0,2,31,0,1,Sat,0,Premier League,0,5,73,0.0,LB,12,2021-08-28,0,45,Y,West Ham,0,1,0.0,0.0,72.6,0,62,,90,0,D 2–2,0,,4,3,Home,0,Matchweek 3,Crystal Palace,2
+0,4,45,0,0,Sat,0,Premier League,0,5,74,0.1,LB,8,2021-09-11,0,60,Y,West Ham,2,0,0.1,0.1,87.0,0,69,,90,0,D 0–0,0,,0,0,Away,0,Matchweek 4,Southampton,0
+0,3,56,0,1,Thu,0,Europa Lg,0,9,94,0.0,LB,3,2021-09-16,0,75,Y,West Ham,0,1,0.0,0.0,86.2,0,87,,90,0,W 2–0,0,,7,1,Away,0,Group stage,Dinamo Zagreb,1
+0,2,38,0,2,Sun,0,Premier League,0,5,61,0.0,LB,8,2021-09-19,0,46,Y,West Ham,0,0,0.1,0.0,83.6,0,55,,90,0,L 1–2,0,,7,0,Home,0,Matchweek 5,Manchester Utd,0
+0,2,27,0,3,Sat,0,Premier League,0,6,61,0.1,"LB,WB",4,2021-09-25,1,35,Y,West Ham,2,0,0.1,0.1,68.6,0,51,,90,0,W 2–1,0,,5,1,Away,0,Matchweek 6,Leeds United,0
+0,3,61,0,1,Thu,0,Europa Lg,0,6,97,0.0,LB,7,2021-09-30,0,72,Y,West Ham,0,1,0.3,0.0,81.8,0,88,,90,0,W 2–0,0,,6,2,Home,0,Group stage,Rapid Wien,1
+0,4,58,0,1,Sun,0,Premier League,0,11,95,0.0,LB,2,2021-10-03,0,72,Y,West Ham,0,0,0.3,0.0,79.1,0,91,,90,0,L 1–2,0,,7,0,Home,0,Matchweek 7,Brentford,2
+0,0,76,0,2,Sun,0,Premier League,0,11,121,0.0,"LB,WB",5,2021-10-17,0,81,Y,West Ham,0,0,0.0,0.0,75.0,0,108,,90,0,W 1–0,0,,6,2,Away,0,Matchweek 8,Everton,1
+0,2,57,0,1,Thu,2,Europa Lg,2,7,82,0.1,LB,5,2021-10-21,0,56,Y,West Ham,1,1,0.2,0.1,75.7,0,74,,66,0,W 3–0,0,,9,0,Home,0,Group stage,Genk,2
+0,3,39,0,2,Sun,1,Premier League,1,5,69,0.0,LB,9,2021-10-24,0,45,Y,West Ham,0,0,0.3,0.0,71.4,0,63,,90,0,W 1–0,0,,3,1,Home,0,Matchweek 9,Tottenham,0
+0,,,0,,Wed,,EFL Cup,0,,,,LB,,2021-10-27,0,,Y,West Ham,0,,,,,0,,,120,,D 0 ,0,,,,Home,0,Fourth round,Manchester City,0
+0,3,53,0,0,Sun,0,Premier League,0,4,75,0.1,LB,8,2021-10-31,0,58,Y,West Ham,1,0,0.2,0.1,85.3,0,68,,90,0,W 4–1,0,,1,2,Away,0,Matchweek 10,Aston Villa,0
+0,6,53,0,1,Thu,1,Europa Lg,0,6,78,0.0,LB,2,2021-11-04,0,63,Y,West Ham,0,1,0.8,0.0,85.1,0,74,,90,1,D 2–2,0,,6,1,Away,0,Group stage,Genk,1
+0,0,31,0,0,Sun,0,Premier League,0,3,54,0.0,LB,7,2021-11-07,0,34,Y,West Ham,0,0,0.0,0.0,73.9,0,46,,90,0,W 3–2,0,,3,0,Home,0,Matchweek 11,Liverpool,3
+0,2,59,0,3,Sat,0,Premier League,0,11,88,0.0,LB,9,2021-11-20,0,64,Y,West Ham,0,2,0.1,0.0,83.1,0,77,,90,0,L 0–1,0,,7,1,Away,0,Matchweek 12,Wolves,4
+,,,,,Thu,,Europa Lg,,,,,,,2021-11-25,,,N,West Ham,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Group stage,Rapid Wien,
+0,1,15,0,1,Sun,0,Premier League,0,2,27,0.0,LB,4,2021-11-28,0,18,Y,West Ham,1,0,0.0,0.0,78.3,0,23,,60,0,L 1–2,0,,1,0,Away,0,Matchweek 13,Manchester City,0
+0,2,59,0,3,Wed,1,Premier League,0,6,102,0.0,LB,7,2022-01-12,0,71,Y,West Ham,0,4,0.1,0.0,77.2,0,92,,90,2,W 2–0,0,,3,0,Home,0,Matchweek 18,Norwich City,3
+0,6,32,0,0,Sun,1,Premier League,1,1,65,0.0,"LB,CB",8,2022-01-16,0,47,Y,West Ham,0,0,0.6,0.0,78.3,0,60,,90,0,L 2–3,0,,1,3,Home,0,Matchweek 22,Leeds United,5
+0,1,31,0,1,Sat,0,Premier League,0,4,56,0.0,LB,8,2022-01-22,0,40,Y,West Ham,0,2,0.1,0.0,80.0,0,50,,90,0,L 0–1,0,,0,0,Away,0,Matchweek 23,Manchester Utd,4
+0,,,0,,Sat,,FA Cup,1,,,,,,2022-02-05,0,,N,West Ham,1,,,,,0,,,58,,W 2–1,0,,,,Away,0,Fourth round proper,Kidderminster,2
+0,2,61,0,1,Tue,0,Premier League,0,8,98,0.0,LB,6,2022-02-08,0,70,Y,West Ham,0,0,0.0,0.0,79.5,0,88,,90,0,W 1–0,0,,6,2,Home,0,Matchweek 24,Watford,2
+0,1,38,0,4,Sun,0,Premier League,0,5,67,0.1,LB,9,2022-02-13,0,44,Y,West Ham,1,1,0.0,0.1,78.6,1,56,,90,0,D 2–2,0,,2,1,Away,0,Matchweek 25,Leicester City,1
+0,1,37,0,2,Sat,1,Premier League,1,6,65,0.0,LB,3,2022-02-19,0,50,Y,West Ham,1,0,0.1,0.0,82.0,0,61,,90,0,D 1–1,0,,1,0,Home,0,Matchweek 26,Newcastle Utd,2
+0,2,43,0,0,Sun,0,Premier League,0,1,78,0.1,LB,6,2022-02-27,0,51,Y,West Ham,1,0,0.1,0.1,76.1,0,67,,90,0,W 1–0,0,,4,4,Home,0,Matchweek 27,Wolves,1
+0,0,31,0,1,Sat,0,Premier League,0,4,58,0.0,LB,6,2022-03-05,0,32,Y*,West Ham,0,1,0.0,0.0,62.7,0,51,,90,0,L 0–1,0,,1,1,Away,0,Matchweek 28,Liverpool,3
+0,0,44,0,2,Thu,0,Europa Lg,0,2,65,0.0,LB,2,2022-03-10,0,48,Y,West Ham,0,1,0.0,0.0,82.8,0,58,,90,0,L 0–1,0,,3,1,Away,0,Round of 16,Sevilla,3
+0,2,42,0,1,Sun,0,Premier League,0,8,60,0.0,LB,3,2022-03-13,0,48,Y,West Ham,0,1,0.1,0.0,84.2,0,57,,56,1,W 2–1,0,,10,0,Home,0,Matchweek 29,Aston Villa,1
+0,3,62,0,2,Thu,0,Europa Lg,0,5,102,0.0,LB,11,2022-03-17,0,71,Y,West Ham,1,1,0.1,0.0,78.0,1,91,,120,0,W 2–0,0,,10,0,Home,0,Round of 16,Sevilla,4
+0,2,63,0,4,Sun,0,Premier League,0,2,85,0.0,"CB,LB",8,2022-03-20,0,71,Y,West Ham,0,0,0.2,0.0,89.9,0,79,,90,0,L 1–3,0,,4,0,Away,0,Matchweek 30,Tottenham,0
+0,0,60,0,0,Sun,0,Premier League,0,8,82,0.1,LB,5,2022-04-03,1,66,Y,West Ham,2,0,0.0,0.1,83.5,1,79,,90,0,W 2–1,0,,5,0,Home,1,Matchweek 31,Everton,0
+0,1,12,0,0,Thu,0,Europa Lg,0,1,21,0.0,LB,6,2022-04-07,0,14,Y,West Ham,0,0,0.0,0.0,66.7,0,21,,44,0,D 1–1,1,,0,0,Home,0,Quarter-finals,Lyon,0
+0,1,34,0,2,Sun,0,Premier League,0,3,62,0.1,LB,7,2022-04-10,0,46,Y,West Ham,1,0,0.0,0.1,88.5,0,52,,90,0,L 0–2,0,,3,1,Away,0,Matchweek 32,Brentford,4
+0,1,62,0,3,Sun,0,Premier League,0,7,98,0.0,LB,10,2022-04-17,0,66,Y,West Ham,1,0,0.1,0.0,76.7,0,86,,90,0,D 1–1,0,,7,1,Home,0,Matchweek 33,Burnley,2
+0,0,33,0,2,Sun,0,Premier League,0,1,55,0.0,CB,5,2022-04-24,0,37,Y,West Ham,0,0,0.0,0.0,77.1,0,48,,90,0,L 0–1,0,,2,1,Away,0,Matchweek 34,Chelsea,0
+0,2,62,0,0,Thu,0,Europa Lg,0,7,100,0.0,LB,6,2022-04-28,0,75,Y,West Ham,0,0,0.0,0.0,82.4,0,91,,90,0,L 1–2,0,,6,1,Home,0,Semi-finals,Eint Frankfurt,3
+0,0,75,0,2,Sun,0,Premier League,0,2,96,0.0,CB,6,2022-05-01,0,76,Y,West Ham,0,0,0.0,0.0,84.4,1,90,,90,0,L 1–2,0,,2,0,Home,0,Matchweek 35,Arsenal,1
+0,0,15,0,0,Thu,0,Europa Lg,0,3,22,0.0,LB,1,2022-05-05,0,17,Y,West Ham,0,0,0.0,0.0,81.0,0,21,,16,0,L 0–1,1,,0,0,Away,0,Semi-finals,Eint Frankfurt,0
+0,1,69,0,2,Sun,0,Premier League,0,3,92,0.0,LB,5,2022-05-08,0,77,Y,West Ham,0,0,0.4,0.0,90.6,0,85,,90,0,W 4–0,0,,4,0,Away,0,Matchweek 36,Norwich City,0
+0,0,12,0,1,Sun,0,Premier League,0,1,33,0.0,"LB,WB",14,2022-05-15,0,13,Y,West Ham,0,0,0.0,0.0,65.0,0,20,,90,0,D 2–2,0,,2,1,Home,0,Matchweek 37,Manchester City,2
+0,1,43,0,1,Sun,0,Premier League,0,3,70,0.1,LB,10,2022-05-22,0,46,Y,West Ham,2,0,0.0,0.1,79.3,0,58,,90,0,L 1–3,0,,1,0,Away,0,Matchweek 38,Brighton,0

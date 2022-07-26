@@ -1,0 +1,42 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,date,pressures,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+,,,,,Fri,,Premier League,,,,,,2021-08-13,,,,N,Brentford,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 1,Arsenal,
+0,0,4,0,0,Sat,0,Premier League,0,1,5,0.0,FW,2021-08-21,3,0,2,N,Brentford,0,1,0.0,0.0,66.7,0,3,,14,1,D 0–0,0,,1,0,Away,0,Matchweek 2,Crystal Palace,0
+0,,,0,,Tue,,EFL Cup,0,,,,AM,2021-08-24,,2,,Y,Brentford,2,,,,,0,,,90,,W 3–1,0,,,,Home,1,Second round,FG Rovers,0
+0,0,2,0,0,Sat,0,Premier League,0,0,3,0.0,"AM,FW",2021-08-28,11,0,2,N,Brentford,0,0,0.0,0.0,100.0,0,2,,25,0,D 1–1,0,,0,1,Away,0,Matchweek 3,Aston Villa,0
+,,,,,Sat,,Premier League,,,,,,2021-09-11,,,,N,Brentford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 4,Brighton,
+,,,,,Sat,,Premier League,,,,,,2021-09-18,,,,N,Brentford,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 5,Wolves,
+0,,,0,,Tue,,EFL Cup,0,,,,FW,2021-09-21,,3,,Y,Brentford,9,,,,,0,,,90,,W 7–0,0,,,,Home,2,Third round,Oldham Athletic,0
+0,1,3,0,0,Sat,1,Premier League,0,1,6,0.3,LW,2021-09-25,2,1,1,N,Brentford,2,0,0.0,0.3,33.3,0,3,,13,0,D 3–3,0,,0,0,Home,1,Matchweek 6,Liverpool,0
+0,1,3,0,0,Sun,0,Premier League,0,0,5,0.1,FW,2021-10-03,0,1,2,N,Brentford,1,0,0.0,0.1,100.0,0,2,,9,0,W 2–1,0,,0,0,Away,1,Matchweek 7,West Ham,0
+0,0,3,0,0,Sun,0,Premier League,0,0,4,0.1,FW,2021-11-28,0,1,0,N,Brentford,1,0,0.0,0.1,0.0,0,2,,4,0,W 1–0,0,,0,1,Home,0,Matchweek 13,Everton,0
+0,0,3,0,0,Thu,0,Premier League,0,0,4,0.0,FW,2021-12-02,4,0,2,N,Brentford,0,0,0.0,0.0,100.0,0,2,,21,0,L 0–2,0,,0,0,Away,0,Matchweek 14,Tottenham,0
+0,1,7,0,0,Sun,0,Premier League,0,0,13,0.0,FW,2021-12-05,1,0,5,N,Brentford,0,2,0.0,0.0,62.5,0,8,,19,2,D 2–2,0,,2,0,Away,0,Matchweek 15,Leeds United,0
+0,1,14,0,1,Fri,0,Premier League,0,0,25,0.0,FW,2021-12-10,9,0,11,Y,Brentford,0,0,0.0,0.0,61.1,0,18,,68,0,W 2–1,0,,4,0,Home,0,Matchweek 16,Watford,0
+0,,,0,,Wed,,EFL Cup,0,,,,FW,2021-12-22,,1,,Y,Brentford,1,,,,,0,,,64,,L 0–2,0,,,,Home,0,Quarter-finals,Chelsea,1
+0,2,15,0,1,Sun,0,Premier League,0,2,19,0.0,FW,2021-12-26,9,0,9,N,Brentford,1,2,0.1,0.0,64.3,0,14,,50,2,L 0–2,0,,4,2,Away,0,Matchweek 19,Brighton,0
+0,1,8,0,1,Wed,0,Premier League,0,0,14,0.2,FW,2021-12-29,13,1,7,Y,Brentford,1,0,0.0,0.2,87.5,0,8,,68,0,L 0–1,0,,1,2,Home,0,Matchweek 20,Manchester City,1
+0,0,13,0,1,Sun,0,Premier League,0,2,21,0.1,FW,2022-01-02,10,1,11,Y,Brentford,2,0,0.0,0.1,73.3,0,15,,90,0,W 2–1,0,,3,1,Home,1,Matchweek 21,Aston Villa,0
+0,,,0,,Sat,,FA Cup,0,,,,FW,2022-01-08,,1,,Y,Brentford,2,,,,,0,,,61,,W 4–1,0,,,,Away,0,Third round proper,Port Vale,0
+0,0,5,0,0,Tue,0,Premier League,0,1,12,0.0,"LW,CM",2022-01-11,2,0,4,N,Brentford,0,1,0.0,0.0,66.7,0,6,,35,1,L 1–4,0,,1,0,Away,0,Matchweek 18,Southampton,1
+0,1,1,0,0,Sun,0,Premier League,0,1,4,0.0,"FW,CM",2022-01-16,1,0,3,N,Brentford,0,0,0.1,0.0,75.0,0,4,,23,0,L 0–3,0,,0,0,Away,0,Matchweek 22,Liverpool,0
+0,0,14,0,1,Wed,0,Premier League,0,0,18,0.0,CM,2022-01-19,3,0,13,N,Brentford,0,0,0.0,0.0,86.7,0,15,,24,0,L 1–3,0,,3,0,Home,0,Matchweek 17,Manchester Utd,0
+0,0,6,0,0,Sat,0,Premier League,0,0,9,0.0,"FW,LW",2022-01-22,4,0,3,N,Brentford,1,0,0.0,0.0,50.0,0,6,,33,0,L 1–2,0,,0,0,Home,0,Matchweek 23,Wolves,0
+0,0,1,0,0,Wed,0,Premier League,0,0,3,0.1,FW,2022-02-09,2,0,1,N,Brentford,1,0,0.0,0.1,50.0,0,2,,21,0,L 0–2,0,,0,0,Away,0,Matchweek 24,Manchester City,0
+0,0,7,0,1,Sat,0,Premier League,0,0,16,0.9,FW,2022-02-12,12,0,5,Y,Brentford,2,0,0.0,0.9,55.6,0,9,,81,0,D 0–0,0,,0,0,Home,0,Matchweek 25,Crystal Palace,0
+0,0,18,0,3,Sat,0,Premier League,0,4,30,0.1,FW,2022-02-19,16,1,13,Y,Brentford,2,1,0.0,0.1,72.2,0,18,,90,1,L 1–2,0,,3,1,Away,0,Matchweek 26,Arsenal,0
+0,1,19,0,2,Sat,0,Premier League,0,4,24,0.0,"FW,LW",2022-02-26,3,0,11,Y,Brentford,1,1,0.0,0.0,68.8,0,16,,61,1,L 0–2,0,,4,1,Home,0,Matchweek 27,Newcastle Utd,2
+0,0,3,0,0,Sat,0,Premier League,0,0,6,0.0,LM,2022-03-05,3,0,5,N,Brentford,0,1,0.0,0.0,100.0,0,5,,9,1,W 3–1,0,,0,0,Away,0,Matchweek 28,Norwich City,0
+0,1,5,0,0,Sat,1,Premier League,0,0,7,0.0,"LM,RM",2022-03-12,1,0,4,N,Brentford,0,1,0.0,0.0,66.7,0,6,,16,1,W 2–0,0,,1,0,Home,0,Matchweek 29,Burnley,0
+0,2,21,0,2,Sun,0,Premier League,0,0,28,0.0,LM,2022-03-20,16,1,12,Y,Brentford,1,2,0.1,0.0,60.0,0,20,,90,2,L 1–2,0,,5,1,Away,1,Matchweek 30,Leicester City,1
+0,,,0,,Fri,,WCQ,0,,,,LW,2022-03-25,,,,Y,Congo DR,,,,,,0,,,74,,D 1–1,0,,,,Home,1,Third round,Morocco,
+0,,,0,,Tue,,WCQ,0,,,,FW,2022-03-29,,,,Y,Congo DR,,,,,,0,,,76,,L 1–4,0,,,,Away,0,Third round,Morocco,
+0,0,1,0,0,Sat,0,Premier League,0,0,3,0.1,FW,2022-04-02,3,1,2,N,Brentford,1,0,0.0,0.1,100.0,0,2,,6,0,W 4–1,0,,0,0,Away,1,Matchweek 31,Chelsea,0
+0,2,17,0,0,Sun,0,Premier League,0,2,24,0.1,"LW,RW",2022-04-10,17,0,9,Y,Brentford,1,4,0.1,0.1,69.2,0,13,,90,0,W 2–0,0,,4,0,Home,0,Matchweek 32,West Ham,2
+0,1,15,0,1,Sat,0,Premier League,0,1,20,0.1,LW,2022-04-16,10,1,9,Y,Brentford,4,1,0.0,0.1,75.0,0,12,,65,1,W 2–1,0,,4,1,Away,0,Matchweek 33,Watford,0
+0,0,1,0,0,Sat,0,Premier League,0,0,5,0.0,FW,2022-04-23,3,0,3,N,Brentford,0,0,0.0,0.0,75.0,0,4,,13,0,D 0–0,0,,0,1,Home,0,Matchweek 34,Tottenham,0
+0,0,4,0,0,Mon,0,Premier League,0,0,4,0.0,FW,2022-05-02,3,0,2,N,Brentford,0,1,0.0,0.0,100.0,0,2,,15,1,L 0–3,0,,1,0,Away,0,Matchweek 35,Manchester Utd,0
+0,1,19,0,1,Sat,0,Premier League,0,3,29,1.0,LW,2022-05-07,13,2,9,Y,Brentford,4,4,0.0,1.0,52.9,0,17,,67,2,W 3–0,0,,3,2,Home,1,Matchweek 36,Southampton,1
+0,0,22,0,0,Sun,0,Premier League,0,0,25,0.2,"LW,FW",2022-05-15,2,1,13,Y,Brentford,4,1,0.0,0.2,68.4,0,19,,74,1,W 3–2,0,,2,0,Away,1,Matchweek 37,Everton,1
+0,3,17,0,1,Sun,2,Premier League,1,3,41,0.3,"LW,FW,CM",2022-05-22,14,1,18,Y,Brentford,3,1,0.2,0.3,66.7,0,27,,90,0,L 1–2,0,,4,0,Home,0,Matchweek 38,Leeds United,0
+0,,,0,,Sat,,Africa Cup of Nations qualification,0,,,,LW,2022-06-04,,,,Y,Congo DR,,,,,,0,,,69,,L 0–1,0,,,,Home,0,Group stage,Gabon,
+0,,,0,,Wed,,Africa Cup of Nations qualification,0,,,,FW,2022-06-08,,,,Y,Congo DR,,,,,,0,,,57,,L 1–2,0,,,,Away,0,Group stage,Sudan,

@@ -1,0 +1,53 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,3,56,0,0,Sat,1,UEFA Euro,0,8,79,0.0,RB,12,2021-07-03,0,50,Y,Czech Republic,1,3,0.3,0.0,70.4,0,71,,90,3,L 1–2,0,,6,3,Home,0,Quarter-finals,Denmark,4
+0,1,42,0,0,Sun,0,Premier League,0,4,67,0.0,"RB,WB",11,2021-08-15,0,42,Y,West Ham,0,1,0.6,0.0,68.9,0,61,,90,1,W 4–2,0,,5,2,Away,0,Matchweek 1,Newcastle Utd,1
+0,5,50,0,2,Mon,1,Premier League,1,5,89,0.0,RB,12,2021-08-23,0,62,Y,West Ham,0,0,0.3,0.0,75.6,0,82,,90,0,W 4–1,0,,9,3,Home,0,Matchweek 2,Leicester City,2
+0,3,41,0,1,Sat,0,Premier League,0,5,78,0.0,RB,17,2021-08-28,0,42,Y,West Ham,0,0,0.1,0.0,59.2,0,71,,90,0,D 2–2,0,,2,1,Home,0,Matchweek 3,Crystal Palace,0
+0,,,0,,Thu,,WCQ,0,,,,RB,,2021-09-02,0,,Y,Czech Republic,0,,,,,0,,,90,,W 1–0,0,,,,Home,0,First round,Belarus,1
+0,,,0,,Sun,,WCQ,0,,,,RB,,2021-09-05,1,,Y,Czech Republic,2,,,,,0,,,90,,L 0–3,0,,,,Away,0,First round,Belgium,1
+0,,,0,,Wed,,Friendlies (M),0,,,,RB,,2021-09-08,,,Y,Czech Republic,,,,,,0,,,90,,D 1–1,0,,,,Home,0,Friendlies (M),Ukraine,
+0,1,26,0,3,Sat,0,Premier League,0,2,58,0.0,RB,16,2021-09-11,0,34,Y,West Ham,0,2,0.0,0.0,72.3,0,47,,90,1,D 0–0,0,,0,5,Away,0,Matchweek 4,Southampton,2
+,,,,,Thu,,Europa Lg,,,,,,,2021-09-16,,,N,West Ham,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Group stage,Dinamo Zagreb,
+0,3,37,0,2,Sun,1,Premier League,0,4,58,0.0,RB,18,2021-09-19,0,35,Y,West Ham,0,2,0.0,0.0,70.0,0,50,,90,2,L 1–2,0,,2,1,Home,0,Matchweek 5,Manchester Utd,1
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-09-22,0,,N,West Ham,0,,,,,0,,,74,,W 1–0,0,,,,Away,0,Third round,Manchester Utd,3
+0,4,24,0,2,Sat,0,Premier League,0,5,58,0.0,"RB,WB",7,2021-09-25,0,37,Y,West Ham,0,1,0.1,0.0,77.1,0,48,,90,1,W 2–1,0,,2,2,Away,0,Matchweek 6,Leeds United,0
+0,3,44,0,3,Sun,0,Premier League,0,7,72,0.1,RB,12,2021-10-03,1,30,Y,West Ham,3,0,0.2,0.1,50.8,0,59,,90,0,L 1–2,0,,7,3,Home,0,Matchweek 7,Brentford,1
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-10-27,0,,N,West Ham,0,,,,,0,,,39,,D 0 ,0,,,,Home,0,Fourth round,Manchester City,0
+0,0,2,0,0,Sun,0,Premier League,0,0,3,0.0,LW,2,2021-10-31,0,3,N,West Ham,0,0,0.0,0.0,100.0,0,3,,1,0,W 4–1,0,,0,0,Away,0,Matchweek 10,Aston Villa,0
+0,1,25,0,1,Thu,1,Europa Lg,1,1,49,0.3,RB,12,2021-11-04,1,26,Y,West Ham,2,1,0.1,0.3,63.4,0,41,,90,0,D 2–2,0,,2,1,Away,0,Group stage,Genk,0
+0,0,1,0,0,Sun,0,Premier League,0,0,1,0.0,RW,0,2021-11-07,0,0,N,West Ham,0,0,0.0,0.0,0.0,0,1,,7,0,W 3–2,0,,0,0,Home,0,Matchweek 11,Liverpool,0
+0,,,0,,Thu,,Friendlies (M),1,,,,RB,,2021-11-11,,,Y,Czech Republic,,,,,,0,,,90,,W 7–0,0,,,,Home,0,Friendlies (M),Kuwait,
+0,,,0,,Tue,,WCQ,0,,,,RB,,2021-11-16,0,,Y*,Czech Republic,3,,,,,0,,,90,,W 2–0,0,,,,Home,0,First round,Estonia,1
+,,,,,Sat,,Premier League,,,,,,,2021-11-20,,,N,West Ham,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 12,Wolves,
+0,3,53,0,3,Thu,0,Europa Lg,0,10,94,0.0,RB,6,2021-11-25,0,70,Y,West Ham,0,1,0.4,0.0,82.4,0,85,,90,1,W 2–0,0,,6,1,Away,0,Group stage,Rapid Wien,0
+0,2,9,0,0,Sun,0,Premier League,0,1,16,0.0,LB,2,2021-11-28,0,10,N,West Ham,0,0,0.0,0.0,71.4,0,14,,30,0,L 1–2,0,,1,0,Away,0,Matchweek 13,Manchester City,1
+0,3,20,0,4,Wed,0,Premier League,0,5,45,0.1,RB,9,2021-12-01,1,29,Y,West Ham,3,1,0.1,0.1,82.9,0,35,,90,1,D 1–1,0,,4,0,Home,0,Matchweek 14,Brighton,0
+0,1,20,0,4,Sat,1,Premier League,1,1,43,0.0,"WB,RB",18,2021-12-04,0,22,Y,West Ham,1,0,0.1,0.0,64.7,1,34,,90,0,W 3–2,0,,5,0,Home,0,Matchweek 15,Chelsea,0
+,,,,,Thu,,Europa Lg,,,,,,,2021-12-09,,,N,West Ham,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Group stage,Dinamo Zagreb,
+0,1,42,0,3,Sun,0,Premier League,0,6,92,0.0,RB,17,2021-12-12,0,54,Y,West Ham,0,0,0.0,0.0,65.9,0,82,,90,0,D 0–0,0,,2,1,Away,0,Matchweek 16,Burnley,1
+0,1,26,0,1,Wed,0,Premier League,0,2,47,0.0,RB,7,2021-12-15,0,32,Y,West Ham,0,0,0.0,0.0,78.0,2,41,,66,0,L 0–2,1,,3,1,Away,0,Matchweek 17,Arsenal,0
+0,1,23,0,0,Sun,0,Premier League,0,4,60,0.0,RB,8,2021-12-26,0,37,Y,West Ham,0,1,0.0,0.0,72.5,0,51,,90,0,L 2–3,0,,1,2,Home,0,Matchweek 19,Southampton,0
+0,2,33,0,0,Tue,1,Premier League,0,8,69,0.0,RB,20,2021-12-28,0,38,Y,West Ham,0,2,0.0,0.0,67.9,0,56,,90,1,W 4–1,0,,4,4,Away,0,Matchweek 20,Watford,1
+0,2,32,0,3,Sat,0,Premier League,0,4,83,0.0,RB,16,2022-01-01,0,39,Y,West Ham,1,1,0.2,0.0,67.2,0,58,,90,1,W 3–2,0,,8,5,Away,0,Matchweek 21,Crystal Palace,5
+0,3,34,0,1,Wed,1,Premier League,1,5,75,0.0,RB,8,2022-01-12,0,47,Y,West Ham,0,1,0.3,0.0,72.3,0,65,,90,1,W 2–0,0,,2,1,Home,0,Matchweek 18,Norwich City,5
+0,0,25,0,4,Sun,0,Premier League,0,4,67,0.2,RB,9,2022-01-16,2,30,Y,West Ham,2,2,0.0,0.2,55.6,0,54,,90,0,L 2–3,0,,2,1,Home,0,Matchweek 22,Leeds United,2
+0,1,23,0,3,Sat,0,Premier League,0,3,58,0.0,RB,11,2022-01-22,0,29,Y,West Ham,0,2,0.0,0.0,61.7,0,47,,69,0,L 0–1,0,,1,3,Away,0,Matchweek 23,Manchester Utd,2
+,,,,,Sat,,FA Cup,,,,,,,2022-02-05,,,N,West Ham,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Away,,Fourth round proper,Kidderminster,
+0,1,52,0,1,Tue,0,Premier League,0,3,107,0.1,RB,11,2022-02-08,0,63,Y,West Ham,1,5,0.1,0.1,69.2,1,91,,90,1,W 1–0,0,,4,1,Home,0,Matchweek 24,Watford,3
+0,0,15,0,1,Sun,0,Premier League,0,4,42,0.0,RB,10,2022-02-13,0,18,Y,West Ham,0,1,0.0,0.0,48.6,0,37,,66,0,D 2–2,0,,0,1,Away,0,Matchweek 25,Leicester City,0
+,,,,,Sun,,Premier League,,,,,,,2022-04-03,,,N,West Ham,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Matchweek 31,Everton,
+,,,,,Thu,,Europa Lg,,,,,,,2022-04-07,,,N,West Ham,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Quarter-finals,Lyon,
+0,1,56,0,1,Sun,0,Premier League,0,9,87,0.0,RB,6,2022-04-10,0,65,Y,West Ham,0,2,0.1,0.0,83.3,0,78,,90,2,L 0–2,0,,5,3,Away,0,Matchweek 32,Brentford,2
+0,0,22,0,1,Thu,0,Europa Lg,0,0,43,0.0,RB,17,2022-04-14,0,24,Y,West Ham,0,0,0.0,0.0,60.0,0,40,,90,0,W 3–0,0,,2,0,Away,0,Quarter-finals,Lyon,0
+,,,,,Sun,,Premier League,,,,,,,2022-04-17,,,N,West Ham,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 33,Burnley,
+0,1,24,0,1,Sun,0,Premier League,0,3,45,0.0,WB,11,2022-04-24,0,21,Y,West Ham,0,1,0.0,0.0,56.8,0,37,,90,1,L 0–1,0,,3,0,Away,0,Matchweek 34,Chelsea,3
+,,,,,Thu,,Europa Lg,,,,,,,2022-04-28,,,N,West Ham,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Semi-finals,Eint Frankfurt,
+0,2,47,0,0,Sun,1,Premier League,1,3,80,0.0,RB,12,2022-05-01,0,54,Y,West Ham,0,0,0.1,0.0,75.0,0,72,,90,0,L 1–2,0,,7,1,Home,0,Matchweek 35,Arsenal,1
+0,0,20,0,3,Thu,0,Europa Lg,0,1,44,0.0,RB,12,2022-05-05,0,22,Y,West Ham,0,2,0.0,0.0,64.7,0,34,,86,1,L 0–1,0,,2,2,Away,0,Semi-finals,Eint Frankfurt,4
+0,1,50,0,3,Sun,0,Premier League,0,7,69,0.0,RB,9,2022-05-08,0,56,Y,West Ham,0,1,0.0,0.0,90.3,0,62,,90,0,W 4–0,0,,8,1,Away,0,Matchweek 36,Norwich City,0
+0,0,5,0,4,Sun,0,Premier League,0,0,25,0.0,"RB,WB",15,2022-05-15,0,7,Y,West Ham,0,0,0.0,0.0,46.7,1,15,,90,0,D 2–2,0,,0,0,Home,0,Matchweek 37,Manchester City,1
+0,3,45,0,3,Sun,1,Premier League,0,1,74,0.0,RB,7,2022-05-22,0,46,Y,West Ham,0,2,0.2,0.0,69.7,0,66,,80,0,L 1–3,0,,6,2,Away,0,Matchweek 38,Brighton,0
+0,,,0,,Thu,,UEFA Nations League,0,,,,RM,,2022-06-02,0,,Y,Czech Republic,0,,,,,0,,,90,,W 2–1,0,,,,Home,0,League A,Switzerland,
+0,,,0,,Sun,,UEFA Nations League,0,,,,RM,,2022-06-05,0,,Y,Czech Republic,0,,,,,1,,,90,,D 2–2,0,,,,Home,0,League A,Spain,
+0,,,0,,Thu,,UEFA Nations League,0,,,,RM,,2022-06-09,0,,Y,Czech Republic,0,,,,,0,,,90,,L 0–2,0,,,,Away,0,League A,Portugal,
+0,,,0,,Sun,,UEFA Nations League,0,,,,RM,,2022-06-12,0,,Y,Czech Republic,0,,,,,0,,,90,,L 0–2,0,,,,Away,0,League A,Spain,

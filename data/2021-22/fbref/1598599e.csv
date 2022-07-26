@@ -1,0 +1,37 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,DM,,2021-10-01,,,Y,Leicester City,,,,,,0,,,60,,W 1–0,0,,,,Home,0,Matchweek 7,Leeds Utd U23,
+0,,,0,,Sat,,WCQ,0,,,,,,2021-10-09,,,N,Senegal,,,,,,0,,,20,,W 4–1,0,,,,Home,0,Second round,Namibia,
+0,,,0,,Tue,,WCQ,0,,,,,,2021-10-12,,,N,Senegal,,,,,,0,,,3,,W 3–1,0,,,,Away,0,Second round,Namibia,
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,CM,,2021-10-23,,,Y,Leicester City,,,,,,0,,,90,,D 1–1,0,,,,Home,0,Matchweek 9,Chelsea,
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-10-27,0,,N,Leicester City,1,,,,,1,,,32,,D 2 ,0,,,,Home,0,Fourth round,Brighton,1
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,DM,,2021-11-01,,,Y,Leicester City,,,,,,0,,,90,,W 2–1,0,,,,Home,0,Matchweek 10,West Ham,
+0,,,0,,Thu,,WCQ,0,,,,,,2021-11-11,,,N,Senegal,,,,,,0,,,20,,D 1–1,0,,,,Away,0,Second round,Togo,
+0,,,0,,Sun,,WCQ,0,,,,CM,,2021-11-14,,,Y,Senegal,,,,,,0,,,87,,W 2–0,0,,,,Home,0,Second round,Congo,
+,,,,,Wed,,EFL Cup,,,,,,,2021-12-22,,,N,Leicester City,,,,,,,,,,,D 3 ,,"On matchday squad, but did not play",,,Away,,Quarter-finals,Liverpool,
+,,,,,Fri,,Africa Cup of Nations,,,,,,,2022-01-14,,,N,Senegal,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Neutral,,Group stage,Guinea,
+0,,,0,,Tue,,Africa Cup of Nations,0,,,,DM,,2022-01-18,0,,Y,Senegal,0,,,,,0,,,71,,D 0–0,0,,,,Neutral,0,Group stage,Malawi,1
+0,,,0,,Tue,,Africa Cup of Nations,0,,,,DM,,2022-01-25,0,,Y,Senegal,1,,,,,1,,,90,,W 2–0,0,,,,Neutral,0,Round of 16,Cape Verde,1
+0,,,0,,Sun,,Africa Cup of Nations,0,,,,DM,,2022-01-30,1,,Y,Senegal,1,,,,,0,,,90,,W 3–1,0,,,,Neutral,0,Quarter-finals,Equatorial Guinea,0
+0,,,0,,Wed,,Africa Cup of Nations,0,,,,DM,,2022-02-02,1,,Y,Senegal,1,,,,,0,,,89,,W 3–1,0,,,,Neutral,0,Semi-finals,Burkina Faso,1
+0,,,0,,Sun,,Africa Cup of Nations,0,,,,DM,,2022-02-06,0,,Y,Senegal,0,,,,,1,,,120,,D 0 ,0,,,,Neutral,0,Final,Egypt,0
+,,,,,Sun,,Premier League,,,,,,,2022-02-13,,,N,Leicester City,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 25,West Ham,
+,,,,,Sun,,Premier League,,,,,,,2022-02-20,,,N,Leicester City,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 26,Wolves,
+,,,,,Tue,,Premier League,,,,,,,2022-03-01,,,N,Leicester City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 22,Burnley,
+0,0,5,0,0,Sat,0,Premier League,0,0,9,0.0,DM,3,2022-03-05,0,6,N,Leicester City,0,1,0.0,0.0,100.0,0,6,,15,0,W 1–0,0,,0,1,Home,0,Matchweek 28,Leeds United,2
+0,0,31,0,2,Sun,0,Premier League,0,0,36,0.0,DM,4,2022-03-13,0,28,Y,Leicester City,0,1,0.0,0.0,96.6,0,29,,60,0,L 0–2,0,,2,1,Away,0,Matchweek 29,Arsenal,0
+0,1,51,0,0,Sun,1,Premier League,0,3,62,0.0,DM,15,2022-03-20,0,56,Y,Leicester City,0,1,0.0,0.0,98.2,0,57,,90,0,W 2–1,0,,7,2,Home,0,Matchweek 30,Brentford,2
+0,,,0,,Fri,,WCQ,0,,,,DM,,2022-03-25,,,Y,Senegal,,,,,,1,,,90,,L 0–1,0,,,,Away,0,Third round,Egypt,
+0,,,0,,Tue,,WCQ,0,,,,DM,,2022-03-29,,,Y,Senegal,,,,,,0,,,80,,W 1 ,0,,,,Home,0,Third round,Egypt,
+0,1,38,0,3,Sat,0,Premier League,0,3,53,0.0,DM,13,2022-04-02,0,42,Y,Leicester City,0,0,0.0,0.0,91.3,0,46,,89,0,D 1–1,0,,1,0,Away,0,Matchweek 31,Manchester Utd,2
+0,0,37,0,1,Sun,0,Premier League,0,0,50,0.0,DM,9,2022-04-10,0,40,Y,Leicester City,0,1,0.0,0.0,97.6,0,41,,90,1,W 2–1,0,,2,1,Home,0,Matchweek 32,Crystal Palace,2
+0,0,78,0,0,Sun,0,Premier League,0,2,100,0.0,DM,11,2022-04-17,0,84,Y,Leicester City,0,1,0.0,0.0,94.4,1,89,,90,0,L 1–2,0,,6,3,Away,0,Matchweek 33,Newcastle Utd,0
+0,0,55,0,2,Wed,0,Premier League,0,2,90,0.0,DM,16,2022-04-20,0,74,Y,Leicester City,0,0,0.0,0.0,89.2,0,83,,83,0,D 1–1,0,,4,1,Away,0,Matchweek 18,Everton,0
+0,0,42,0,2,Sat,0,Premier League,0,2,53,0.0,DM,14,2022-04-23,0,42,Y,Leicester City,0,0,0.0,0.0,91.3,1,46,,90,0,D 0–0,0,,2,1,Home,0,Matchweek 34,Aston Villa,0
+0,1,55,0,1,Sun,1,Premier League,0,2,72,0.0,DM,13,2022-05-01,0,63,Y,Leicester City,0,1,0.0,0.0,95.5,0,66,,90,1,L 1–3,0,,6,1,Away,0,Matchweek 35,Tottenham,2
+0,1,51,0,0,Sun,0,Premier League,0,5,60,0.0,DM,7,2022-05-08,1,51,Y,Leicester City,1,1,0.0,0.0,92.7,1,55,,65,0,L 1–2,0,,2,0,Home,0,Matchweek 36,Everton,0
+0,0,26,0,0,Wed,0,Premier League,0,0,37,0.0,DM,2,2022-05-11,0,33,N,Leicester City,0,0,0.0,0.0,97.1,0,34,,45,0,W 3–0,0,,0,0,Home,0,Matchweek 21,Norwich City,2
+0,1,27,0,0,Sun,0,Premier League,0,1,34,0.0,DM,8,2022-05-15,0,26,Y,Leicester City,0,0,0.0,0.0,86.7,0,30,,45,0,W 5–1,0,,3,2,Away,0,Matchweek 37,Watford,0
+0,0,27,0,4,Thu,0,Premier League,0,0,42,0.0,DM,19,2022-05-19,0,28,Y,Leicester City,0,1,0.0,0.0,87.5,0,32,,90,1,D 1–1,0,,2,3,Away,0,Matchweek 27,Chelsea,1
+0,1,32,0,1,Sun,1,Premier League,0,1,39,0.0,DM,21,2022-05-22,0,29,Y,Leicester City,0,0,0.0,0.0,80.6,0,36,,90,0,W 4–1,0,,3,0,Home,0,Matchweek 38,Southampton,0
+0,,,0,,Sat,,Africa Cup of Nations qualification,1,,,,DM,,2022-06-04,,,Y,Senegal,,,,,,0,,,75,,W 3–1,0,,,,Home,0,Group stage,Benin,
+0,,,0,,Tue,,Africa Cup of Nations qualification,0,,,,DM,,2022-06-07,,,Y,Senegal,,,,,,1,,,70,,W 1–0,0,,,,Away,0,Group stage,Rwanda,

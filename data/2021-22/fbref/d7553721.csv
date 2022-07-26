@@ -1,0 +1,60 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,3,22,0,0,Sat,0,Copa América,0,1,33,0.0,CM,9,2021-07-03,0,22,Y,Argentina,1,1,0.1,0.0,88.0,0,25,,70,1,W 3–0,0,,5,1,Neutral,0,Quarter-finals,Ecuador,1
+0,1,26,0,0,Tue,0,Copa América,0,3,34,0.0,CM,6,2021-07-06,0,29,Y,Argentina,0,1,0.0,0.0,93.5,1,31,,55,1,D 1 ,0,,2,1,Home,0,Semi-finals,Colombia,0
+0,0,28,0,3,Sat,0,Copa América,0,3,32,0.0,LM,20,2021-07-10,0,23,Y,Argentina,0,3,0.0,0.0,88.5,1,26,,62,3,W 1–0,0,,2,1,Neutral,0,Final,Brazil,0
+0,0,14,0,0,Sun,0,Premier League,0,0,15,0.0,LW,4,2021-08-15,0,4,N,Tottenham,0,2,0.0,0.0,44.4,0,9,,14,1,W 1–0,0,,0,1,Home,0,Matchweek 1,Manchester City,0
+0,,,0,,Thu,,Conf Lg,0,,,,CM,,2021-08-19,,,Y,Tottenham,,,,,,0,,,90,,L 0–1,0,,,,Away,0,Play-off round,Paços,
+0,1,7,0,2,Sun,0,Premier League,0,0,18,0.0,RW,9,2021-08-22,0,10,N,Tottenham,0,0,0.1,0.0,83.3,0,12,,24,0,W 1–0,0,,0,2,Away,0,Matchweek 2,Wolves,1
+0,,,0,,Thu,,Conf Lg,0,,,,CM,,2021-08-26,,,Y,Tottenham,,,,,,0,,,90,,W 3–0,0,,,,Home,1,Play-off round,Paços,
+,,,,,Sun,,Premier League,,,,,,,2021-08-29,,,N,Tottenham,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 3,Watford,
+0,,,0,,Thu,,WCQ,1,,,,LM,,2021-09-02,1,,Y,Argentina,1,,,,,0,,,61,,W 3–1,0,,,,Away,0,WCQ — CONMEBOL (M),Venezuela,1
+0,,,0,,Sun,,WCQ,0,,,,DM,,2021-09-05,0,,Y,Argentina,0,,,,,0,,,90,, 0–0,0,,,,Away,0,WCQ — CONMEBOL (M),Brazil,0
+0,3,29,0,1,Sun,0,Premier League,0,1,38,0.2,AM,20,2021-09-19,0,20,Y,Tottenham,3,0,0.3,0.2,74.1,0,27,,61,0,L 0–3,0,,3,0,Home,0,Matchweek 5,Chelsea,0
+0,,,0,,Wed,,EFL Cup,0,,,,FW,,2021-09-22,0,,Y,Tottenham,0,,,,,0,,,61,,D 2 ,0,,,,Away,0,Third round,Wolves,1
+,,,,,Sun,,Premier League,,,,,,,2021-09-26,,,N,Tottenham,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Arsenal,
+0,,,0,,Thu,,Conf Lg,1,,,,FW,,2021-09-30,,,Y,Tottenham,,,,,,0,,,90,,W 5–1,0,,,,Home,1,Group stage,NŠ Mura,
+0,2,7,0,1,Sun,0,Premier League,0,0,13,0.3,AM,4,2021-10-03,0,7,N,Tottenham,2,0,0.0,0.3,77.8,0,9,,15,0,W 2–1,0,,0,0,Home,0,Matchweek 7,Aston Villa,0
+0,,,0,,Thu,,WCQ,0,,,,AM,,2021-10-07,1,,Y,Argentina,1,,,,,0,,,75,,D 0–0,0,,,,Away,0,WCQ — CONMEBOL (M),Paraguay,0
+0,,,0,,Sun,,WCQ,2,,,,AM,,2021-10-10,1,,Y,Argentina,6,,,,,0,,,90,,W 3–0,0,,,,Home,0,WCQ — CONMEBOL (M),Uruguay,0
+0,,,0,,Thu,,WCQ,0,,,,CM,,2021-10-14,0,,Y,Argentina,0,,,,,0,,,89,,W 1–0,0,,,,Home,0,WCQ — CONMEBOL (M),Peru,1
+,,,,,Sun,,Premier League,,,,,,,2021-10-17,,,N,Tottenham,,,,,,,,,,,W 3–2,,"On matchday squad, but did not play",,,Away,,Matchweek 8,Newcastle Utd,
+0,,,0,,Thu,,Conf Lg,0,,,,DM,,2021-10-21,,,Y,Tottenham,,,,,,0,,,90,,L 0–1,0,,,,Away,0,Group stage,Vitesse,
+0,0,9,0,0,Sun,0,Premier League,0,0,10,0.0,AM,3,2021-10-24,0,5,N,Tottenham,0,1,0.0,0.0,55.6,0,9,,7,1,L 0–1,0,,0,1,Away,0,Matchweek 9,West Ham,0
+0,,,0,,Wed,,EFL Cup,0,,,,AM,,2021-10-27,1,,Y,Tottenham,2,,,,,0,,,88,,W 1–0,0,,,,Away,0,Fourth round,Burnley,2
+0,3,48,0,1,Sat,0,Premier League,0,3,64,0.2,AM,16,2021-10-30,0,44,Y,Tottenham,3,2,0.2,0.2,84.6,0,52,,72,2,L 0–3,0,,11,4,Home,0,Matchweek 10,Manchester Utd,0
+0,,,0,,Thu,,Conf Lg,0,,,,,,2021-11-04,,,N,Tottenham,,,,,,0,,,4,,W 3–2,0,,,,Home,0,Group stage,Vitesse,
+0,0,10,0,1,Sun,0,Premier League,0,2,15,0.0,AM,6,2021-11-07,0,8,N,Tottenham,1,1,0.0,0.0,80.0,0,10,,20,0,D 0–0,0,,5,0,Away,0,Matchweek 11,Everton,0
+0,,,0,,Fri,,WCQ,0,,,,AM,,2021-11-12,0,,Y,Argentina,0,,,,,0,,,75,,W 1–0,0,,,,Away,0,WCQ — CONMEBOL (M),Uruguay,1
+0,,,0,,Tue,,WCQ,0,,,,CM,,2021-11-16,0,,Y,Argentina,0,,,,,0,,,85,,D 0–0,0,,,,Home,0,WCQ — CONMEBOL (M),Brazil,2
+,,,,,Sun,,Premier League,,,,,,,2021-12-19,,,N,Tottenham,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 18,Liverpool,
+,,,,,Wed,,EFL Cup,,,,,,,2021-12-22,,,N,Tottenham,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Home,,Quarter-finals,West Ham,
+0,0,10,0,0,Sat,0,Premier League,0,0,11,0.0,"WB,CM",1,2022-01-01,0,11,N,Tottenham,0,1,0.0,0.0,100.0,0,11,,8,1,W 1–0,0,,1,0,Away,0,Matchweek 21,Watford,0
+0,,,0,,Wed,,EFL Cup,0,,,,,,2022-01-05,1,,N,Tottenham,1,,,,,0,,,12,,L 0–2,0,,,,Away,0,Semi-finals,Chelsea,0
+0,,,0,,Sun,,FA Cup,1,,,,CM,,2022-01-09,2,,Y,Tottenham,6,,,,,0,,,87,,W 3–1,0,,,,Home,0,Third round proper,Morecambe,0
+0,,,0,,Wed,,EFL Cup,0,,,,CM,,2022-01-12,0,,Y,Tottenham,2,,,,,0,,,70,,L 0–1,0,,,,Home,0,Semi-finals,Chelsea,0
+0,1,8,0,1,Wed,0,Premier League,0,0,12,0.0,"RW,CM",6,2022-01-19,0,8,N,Tottenham,0,1,0.0,0.0,88.9,0,9,,17,1,W 3–2,0,,0,0,Away,0,Matchweek 17,Leicester City,2
+0,,,0,,Thu,,WCQ,0,,,,,,2022-01-27,0,,N,Argentina,1,,,,,0,,,20,,W 2–1,0,,,,Away,0,WCQ — CONMEBOL (M),Chile,0
+0,,,0,,Tue,,WCQ,0,,,,CM,,2022-02-01,0,,Y,Argentina,1,,,,,0,,,79,,W 1–0,0,,,,Home,0,WCQ — CONMEBOL (M),Colombia,0
+0,2,13,0,0,Sun,0,La Liga,0,2,18,0.0,LM,3,2022-02-06,0,14,N,Villarreal,0,0,0.0,0.0,82.4,0,17,,14,0,W 2–0,0,,1,0,Away,0,Matchweek 23,Betis,0
+0,2,55,0,0,Sat,0,La Liga,0,2,64,0.1,FW,20,2022-02-12,1,43,Y,Villarreal,3,6,0.2,0.1,82.7,0,52,,86,4,D 0–0,0,,10,2,Home,0,Matchweek 24,Real Madrid,0
+0,4,23,0,0,Sat,0,La Liga,0,3,33,0.2,FW,13,2022-02-19,1,23,Y,Villarreal,1,1,0.3,0.2,82.1,1,28,,68,1,W 4–1,0,,5,2,Away,0,Matchweek 25,Granada,1
+0,2,60,0,2,Tue,0,Champions Lg,0,8,70,0.3,FW,19,2022-02-22,0,43,Y,Villarreal,1,3,0.0,0.3,82.7,0,52,,90,2,D 1–1,0,,6,3,Home,0,Round of 16,Juventus,2
+0,3,33,0,1,Sun,0,La Liga,0,7,47,0.0,FW,15,2022-02-27,0,32,Y,Villarreal,1,1,0.1,0.0,84.2,0,38,,62,1,W 5–1,0,,3,0,Home,0,Matchweek 26,Espanyol,3
+0,2,53,0,0,Sat,0,La Liga,0,7,60,0.1,RM,8,2022-03-05,0,40,Y,Villarreal,1,8,0.0,0.1,83.3,0,48,,76,3,L 0–1,0,,4,2,Away,0,Matchweek 27,Osasuna,1
+0,1,30,0,0,Sat,0,La Liga,0,2,46,0.0,AM,14,2022-03-12,1,31,Y,Villarreal,1,2,0.0,0.0,88.6,0,35,,79,1,W 1–0,0,,2,2,Home,0,Matchweek 28,Celta Vigo,0
+0,0,31,0,0,Wed,0,Champions Lg,0,1,45,0.1,AM,17,2022-03-16,0,29,Y,Villarreal,2,0,0.0,0.1,85.3,0,34,,73,0,W 3–0,0,,5,2,Away,0,Round of 16,Juventus,0
+0,2,66,0,0,Sun,0,La Liga,0,5,79,0.0,"LM,FW",30,2022-03-20,0,46,Y,Villarreal,0,6,0.1,0.0,73.0,0,63,,90,3,L 0–1,0,,8,3,Away,0,Matchweek 29,Cádiz,1
+0,0,17,0,0,Sat,0,La Liga,0,1,23,0.1,LM,10,2022-04-02,0,11,N,Villarreal,2,3,0.0,0.1,84.6,0,13,,29,0,L 0–2,0,,1,1,Away,0,Matchweek 30,Levante,0
+0,7,51,0,2,Wed,0,Champions Lg,0,8,67,0.0,"RM,AM",17,2022-04-06,0,36,Y,Villarreal,1,5,0.6,0.0,80.0,0,45,,90,2,W 1–0,0,,6,4,Home,0,Quarter-finals,Bayern Munich,5
+0,0,13,0,1,Sat,0,La Liga,0,1,20,0.1,"DM,RM",8,2022-04-09,0,11,N,Villarreal,1,0,0.0,0.1,73.3,0,15,,30,0,D 1–1,0,,0,0,Home,0,Matchweek 31,Athletic Club,0
+0,2,24,0,1,Tue,1,Champions Lg,0,5,35,0.0,RM,25,2022-04-12,0,15,Y,Villarreal,0,2,0.1,0.0,68.2,1,22,,90,2,D 1–1,0,,7,3,Away,0,Quarter-finals,Bayern Munich,0
+0,0,6,0,0,Sat,0,La Liga,0,1,14,0.0,FW,13,2022-04-16,0,8,N,Villarreal,1,0,0.0,0.0,80.0,0,10,,30,0,W 2–1,0,,0,1,Away,0,Matchweek 32,Getafe,0
+0,2,54,0,0,Tue,0,La Liga,0,2,61,0.1,AM,18,2022-04-19,1,42,Y,Villarreal,2,3,0.2,0.1,82.4,0,51,,70,1,W 2–0,0,,5,2,Home,0,Matchweek 33,Valencia,0
+0,0,27,0,3,Wed,0,Champions Lg,0,0,37,0.2,RM,18,2022-04-27,0,14,Y,Villarreal,1,4,0.0,0.2,66.7,1,21,,90,3,L 0–2,0,,0,3,Away,0,Semi-finals,Liverpool,4
+0,5,31,0,0,Sat,0,La Liga,1,4,42,0.1,"DM,CM",6,2022-04-30,0,26,N,Villarreal,1,2,0.6,0.1,78.8,0,33,,45,0,L 1–2,0,,5,0,Away,0,Matchweek 34,Alavés,0
+0,0,41,0,1,Tue,0,Champions Lg,0,2,52,0.0,"RM,AM",20,2022-05-03,0,25,Y,Villarreal,0,3,0.0,0.0,71.4,1,35,,90,1,L 2–3,0,,4,3,Home,0,Semi-finals,Liverpool,0
+0,7,46,0,0,Sun,0,La Liga,0,4,61,0.3,"AM,RM",13,2022-05-08,2,36,Y,Villarreal,3,1,0.4,0.3,78.3,1,46,,90,0,D 1–1,0,,4,0,Home,1,Matchweek 35,Sevilla,0
+0,1,23,0,0,Thu,1,La Liga,0,4,27,0.0,FW,5,2022-05-12,0,17,Y,Villarreal,0,3,0.0,0.0,85.0,0,20,,45,3,W 5–1,0,,2,1,Away,0,Matchweek 36,Rayo Vallecano,0
+0,3,31,0,1,Sun,1,La Liga,0,7,43,0.1,"FW,RM",35,2022-05-15,0,31,Y,Villarreal,2,1,0.2,0.1,88.6,1,35,,90,1,L 1–2,0,,5,1,Home,0,Matchweek 37,Real Sociedad,1
+0,1,35,0,1,Sun,0,La Liga,0,4,42,0.0,FW,26,2022-05-22,0,27,Y,Villarreal,0,2,0.0,0.0,77.1,0,35,,90,1,W 2–0,0,,6,1,Away,0,Matchweek 38,Barcelona,0
+,,,,,Sun,,Friendlies (M),,,,,,,2022-06-05,,,N,Argentina,,,,,,,,,,,W 5–0,,"On matchday squad, but did not play",,,Neutral,,Friendlies (M),Estonia,

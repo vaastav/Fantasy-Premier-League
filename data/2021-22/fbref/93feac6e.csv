@@ -1,0 +1,16 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,10,0,0,Sat,0,Premier League,0,1,23,0.2,FW,15,2021-08-14,0,12,Y,Leeds United,1,1,0.0,0.2,85.7,0,14,,76,0,L 1–5,0,,0,1,Away,0,Matchweek 1,Manchester Utd,0
+0,3,23,0,4,Sat,2,Premier League,1,0,35,0.6,FW,19,2021-08-21,0,17,Y,Leeds United,3,1,0.5,0.6,77.3,1,22,,90,1,D 2–2,0,,3,0,Home,0,Matchweek 2,Everton,1
+0,,,0,,Tue,,EFL Cup,1,,,,,,2021-08-24,2,,N,Leeds United,3,,,,,0,,,22,,W 3–0,0,,,,Home,0,Second round,Crewe Alexandra,0
+0,2,18,0,0,Sun,0,Premier League,0,0,27,0.9,FW,19,2021-08-29,1,8,Y,Leeds United,3,2,0.0,0.9,57.1,0,14,,90,1,D 1–1,0,,2,0,Away,1,Matchweek 3,Burnley,0
+,,,,,Thu,,WCQ,,,,,,,2021-09-02,,,N,England,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Away,,First round,Hungary,
+0,,,0,,Sun,,WCQ,0,,,,FW,,2021-09-05,1,,Y,England,2,,,,,0,,,61,,W 4–0,0,,,,Home,0,First round,Andorra,0
+,,,,,Wed,,WCQ,,,,,,,2021-09-08,,,N,England,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,First round,Poland,
+0,0,17,0,2,Sun,0,Premier League,0,1,31,0.4,FW,29,2021-09-12,2,15,Y,Leeds United,4,0,0.0,0.4,88.2,0,17,,90,0,L 0–3,0,,2,0,Home,0,Matchweek 4,Liverpool,0
+0,3,19,0,0,Fri,1,Premier League,1,4,28,0.7,FW,10,2021-09-17,1,15,Y,Leeds United,4,2,0.1,0.7,88.2,0,17,,90,1,D 1–1,0,,1,1,Away,0,Matchweek 5,Newcastle Utd,2
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,FW,,2021-11-29,,,Y,Leeds Utd U23,,,,,,0,,,90,,L 2–3,0,,,,Away,0,Matchweek 13,Manchester City,
+0,0,3,0,0,Sun,0,Premier League,0,0,7,0.4,FW,2,2021-12-05,1,4,N,Leeds United,1,1,0.0,0.4,100.0,1,4,,23,0,D 2–2,0,,0,0,Home,1,Matchweek 15,Brentford,0
+,,,,,Sat,,Premier League,,,,,,,2022-03-05,,,N,Leeds United,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 28,Leicester City,
+0,1,5,0,0,Thu,0,Premier League,0,0,8,0.1,FW,6,2022-03-10,0,6,N,Leeds United,1,1,0.0,0.1,100.0,0,6,,33,1,L 0–3,0,,1,0,Home,0,Matchweek 20,Aston Villa,0
+0,2,7,0,0,Sun,0,Premier League,0,1,11,0.5,FW,9,2022-03-13,0,6,Y,Leeds United,2,0,0.4,0.5,85.7,0,7,,45,0,W 2–1,0,,1,1,Home,0,Matchweek 29,Norwich City,0
+0,0,2,0,0,Fri,0,Premier League,0,0,5,0.1,FW,2,2022-03-18,0,2,Y,Leeds United,1,0,0.0,0.1,100.0,0,2,,22,0,W 3–2,0,,2,0,Away,0,Matchweek 30,Wolves,0

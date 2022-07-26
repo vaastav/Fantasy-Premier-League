@@ -1,0 +1,50 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,9,0,0,Sat,0,Copa América,0,2,21,0.0,CM,6,2021-07-03,0,15,N,Ecuador,1,0,0.0,0.0,88.2,0,17,,21,0,L 0–3,0,,1,2,Neutral,0,Quarter-finals,Argentina,0
+,,,,,Sat,,Premier League,,,,,,,2021-08-14,,,N,Brighton,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Away,,Matchweek 1,Burnley,
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Brighton,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 2,Watford,
+0,,,0,,Tue,,EFL Cup,1,,,,DM,,2021-08-24,0,,Y,Brighton,0,,,,,0,,,90,,W 2–0,0,,,,Away,0,Second round,Cardiff City,1
+0,,,0,,Sun,,WCQ,0,,,,CM,,2021-09-05,3,,Y,Ecuador,5,,,,,0,,,90,,D 0–0,0,,,,Home,0,WCQ — CONMEBOL (M),Chile,0
+0,,,0,,Thu,,WCQ,0,,,,CM,,2021-09-09,0,,Y,Ecuador,0,,,,,0,,,89,,L 0–1,0,,,,Away,0,WCQ — CONMEBOL (M),Uruguay,1
+0,,,0,,Sat,,First Division A,0,,,,,,2021-09-18,0,,N,Beerschot,0,,,,,0,,,13,,L 1–3,0,,,,Away,0,Regular Season,Oostende,0
+0,,,0,,Sat,,First Division A,0,,,,CM,,2021-09-25,0,,Y,Beerschot,0,,,,,0,,,45,,L 0–3,0,,,,Home,0,Regular Season,Eupen,0
+0,,,0,,Sat,,First Division A,0,,,,,,2021-10-02,0,,N,Beerschot,0,,,,,0,,,7,,D 0–0,0,,,,Away,0,Regular Season,OH Leuven,0
+0,,,0,,Thu,,WCQ,1,,,,DM,,2021-10-07,0,,Y,Ecuador,0,,,,,0,,,78,,W 3–0,0,,,,Home,0,WCQ — CONMEBOL (M),Bolivia,2
+0,,,0,,Sun,,WCQ,0,,,,CM,,2021-10-10,0,,Y,Ecuador,2,,,,,0,,,90,,L 1–2,0,,,,Away,0,WCQ — CONMEBOL (M),Venezuela,2
+0,,,0,,Thu,,WCQ,0,,,,CM,,2021-10-14,1,,Y,Ecuador,2,,,,,0,,,90,,D 0–0,0,,,,Away,0,WCQ — CONMEBOL (M),Colombia,0
+0,,,0,,Sun,,First Division A,0,,,,CM,,2021-10-24,0,,Y,Beerschot,1,,,,,1,,,81,,L 2–4,0,,,,Away,0,Regular Season,Anderlecht,2
+0,,,0,,Sat,,First Division A,1,,,,DM,,2021-10-30,0,,Y,Beerschot,1,,,,,0,,,84,,W 3–0,0,,,,Home,0,Regular Season,R.F.C. Seraing,1
+0,,,0,,Sat,,First Division A,0,,,,CM,,2021-11-06,0,,Y,Beerschot,1,,,,,0,,,89,,D 1–1,0,,,,Away,0,Regular Season,Kortrijk,1
+0,,,0,,Thu,,WCQ,0,,,,DM,,2021-11-11,1,,Y,Ecuador,4,,,,,0,,,90,,W 1–0,0,,,,Home,0,WCQ — CONMEBOL (M),Venezuela,0
+0,,,0,,Tue,,WCQ,0,,,,CM,,2021-11-16,1,,Y,Ecuador,2,,,,,0,,,89,,W 2–0,0,,,,Away,1,WCQ — CONMEBOL (M),Chile,0
+0,,,0,,Sun,,First Division A,0,,,,CM,,2021-11-21,1,,Y,Beerschot,1,,,,,0,,,90,,W 2–0,0,,,,Home,1,Regular Season,Genk,0
+0,,,0,,Sun,,First Division A,0,,,,CM,,2021-11-28,0,,Y,Beerschot,1,,,,,0,,,69,,L 0–2,0,,,,Away,0,Regular Season,Zulte Waregem,0
+0,,,0,,Sun,,First Division A,0,,,,CM,,2021-12-05,0,,Y,Beerschot,2,,,,,0,,,63,,L 0–1,0,,,,Home,0,Regular Season,Antwerp,1
+0,,,0,,Sat,,First Division A,0,,,,DM,,2021-12-11,1,,Y,Beerschot,3,,,,,0,,,90,,L 0–1,0,,,,Away,0,Regular Season,Eupen,2
+0,,,0,,Sat,,First Division A,0,,,,CM,,2021-12-18,0,,Y,Beerschot,0,,,,,0,,,45,,L 0–2,0,,,,Home,0,Regular Season,Oostende,1
+0,,,0,,Mon,,First Division A,0,,,,CM,,2021-12-27,0,,Y,Beerschot,1,,,,,1,,,76,,L 0–7,0,,,,Home,0,Regular Season,Anderlecht,0
+,,,,,Fri,,Premier League,,,,,,,2022-01-14,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 22,Crystal Palace,
+,,,,,Tue,,Premier League,,,,,,,2022-01-18,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 24,Chelsea,
+,,,,,Sun,,Premier League,,,,,,,2022-01-23,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 23,Leicester City,
+0,,,0,,Thu,,WCQ,0,,,,CM,,2022-01-27,0,,Y,Ecuador,1,,,,,1,,,85,,D 1–1,0,,,,Home,0,WCQ — CONMEBOL (M),Brazil,0
+0,,,0,,Tue,,WCQ,0,,,,DM,,2022-02-01,0,,Y,Ecuador,2,,,,,1,,,90,,D 1–1,0,,,,Away,0,WCQ — CONMEBOL (M),Peru,3
+0,,,0,,Sat,,FA Cup,0,,,,,,2022-02-05,0,,N,Brighton,0,,,,,0,,,30,,L 1–3,0,,,,Away,0,Fourth round proper,Tottenham,1
+,,,,,Sat,,Premier League,,,,,,,2022-02-12,,,N,Brighton,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 25,Watford,
+,,,,,Tue,,Premier League,,,,,,,2022-02-15,,,N,Brighton,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 18,Manchester Utd,
+,,,,,Sat,,Premier League,,,,,,,2022-02-19,,,N,Brighton,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Home,,Matchweek 26,Burnley,
+,,,,,Sat,,Premier League,,,,,,,2022-02-26,,,N,Brighton,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Home,,Matchweek 27,Aston Villa,
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,AM,,2022-02-28,,,Y,Brighton,,,,,,0,,,90,,L 0–2,0,,,,Away,0,Matchweek 21,Crystal Palace U23,
+,,,,,Sat,,Premier League,,,,,,,2022-03-05,,,N,Brighton,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 28,Newcastle Utd,
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,CM,,2022-03-11,,,Y,Brighton,,,,,,1,,,90,,W 4–2,0,,,,Home,0,Matchweek 22,Everton,
+,,,,,Wed,,Premier League,,,,,,,2022-03-16,,,N,Brighton,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Home,,Matchweek 16,Tottenham,
+0,,,0,,Tue,,WCQ,0,,,,CM,,2022-03-29,0,,Y,Ecuador,1,,,,,1,,,90,,D 1–1,0,,,,Home,0,WCQ — CONMEBOL (M),Argentina,1
+0,1,21,0,1,Sat,1,Premier League,1,2,39,0.0,"CM,DM",13,2022-04-09,0,21,Y,Brighton,2,2,0.1,0.0,70.0,1,30,,90,1,W 2–1,0,,2,1,Away,0,Matchweek 32,Arsenal,0
+0,0,26,0,2,Sat,0,Premier League,0,2,35,0.0,CM,18,2022-04-16,0,22,Y,Brighton,0,1,0.0,0.0,88.0,0,25,,77,0,W 1–0,0,,2,2,Away,0,Matchweek 33,Tottenham,2
+0,0,23,0,2,Wed,0,Premier League,0,1,36,0.0,"CM,DM",14,2022-04-20,0,21,Y,Brighton,0,3,0.0,0.0,75.0,0,28,,72,2,L 0–3,0,,1,4,Away,0,Matchweek 30,Manchester City,3
+0,2,26,0,3,Sun,1,Premier League,0,0,46,0.0,CM,26,2022-04-24,0,23,Y,Brighton,1,2,0.0,0.0,79.3,0,29,,90,2,D 2–2,0,,3,3,Home,0,Matchweek 34,Southampton,0
+0,4,44,0,1,Sat,0,Premier League,0,4,57,0.0,DM,19,2022-04-30,1,46,Y,Brighton,1,3,0.2,0.0,90.2,0,51,,90,3,W 3–0,0,,2,5,Away,0,Matchweek 35,Wolves,2
+0,0,25,0,2,Sat,0,Premier League,0,2,46,0.0,DM,13,2022-05-07,1,31,Y,Brighton,2,0,0.0,0.0,91.2,0,34,,90,0,W 4–0,0,,2,3,Home,1,Matchweek 36,Manchester Utd,2
+0,1,20,0,0,Sun,0,Premier League,0,2,45,0.3,DM,18,2022-05-15,1,23,Y,Brighton,2,0,0.0,0.3,71.9,1,32,,73,0,D 1–1,0,,4,2,Away,0,Matchweek 37,Leeds United,3
+0,2,34,0,2,Sun,0,Premier League,0,8,53,0.3,"CM,DM",20,2022-05-22,1,37,Y,Brighton,2,2,0.1,0.3,82.2,0,45,,78,1,W 3–1,0,,5,0,Home,0,Matchweek 38,West Ham,0
+0,,,0,,Thu,,Friendlies (M),0,,,,CM,,2022-06-02,,,Y,Ecuador,,,,,,0,,,84,,W 1–0,0,,,,Neutral,0,Friendlies (M),Nigeria,
+0,,,0,,Sun,,Friendlies (M),0,,,,CM,,2022-06-05,,,Y,Ecuador,,,,,,1,,,89,,D 0–0,0,,,,Neutral,0,Friendlies (M),Mexico,
+0,,,0,,Sat,,Friendlies (M),0,,,,DM,,2022-06-11,,,Y,Ecuador,,,,,,0,,,90,,W 1–0,0,,,,Neutral,0,Friendlies (M),Cape Verde,

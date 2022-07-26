@@ -1,0 +1,39 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,4,47,0,0,Sat,2,UEFA Euro,2,0,68,0.0,LB,13,2021-07-03,0,53,Y,England,0,0,0.4,0.0,86.9,0,61,,64,0,W 4–0,0,,4,2,Away,0,Quarter-finals,Ukraine,2
+0,1,73,0,1,Wed,0,UEFA Euro,0,6,107,0.0,"LB,WB",15,2021-07-07,0,86,Y,England,0,1,0.1,0.0,86.9,0,99,,120,1,W 2–1,0,,11,3,Home,0,Semi-finals,Denmark,1
+0,1,45,0,2,Sun,0,UEFA Euro,0,8,78,0.2,"WB,LB",14,2021-07-11,1,47,Y,England,2,2,0.0,0.2,70.1,0,67,,120,1,D 1 ,0,,4,2,Neutral,1,Final,Italy,2
+0,4,35,0,1,Sat,1,Premier League,0,4,57,0.0,LB,16,2021-08-14,0,39,Y,Manchester Utd,1,3,0.1,0.0,81.3,1,48,,90,1,W 5–1,0,,4,2,Home,0,Matchweek 1,Leeds United,0
+0,2,40,0,1,Sun,0,Premier League,0,5,71,0.0,LB,8,2021-08-22,0,49,Y,Manchester Utd,0,3,0.2,0.0,81.7,0,60,,90,1,D 1–1,0,,9,1,Away,0,Matchweek 2,Southampton,2
+0,2,43,0,3,Sun,0,Premier League,0,5,80,0.0,"LB,WB",5,2021-08-29,0,55,Y,Manchester Utd,0,0,0.0,0.0,78.6,0,70,,90,0,W 1–0,0,,8,1,Away,0,Matchweek 3,Wolves,2
+0,,,0,,Thu,,WCQ,1,,,,LB,,2021-09-02,0,,Y,England,0,,,,,0,,,90,,W 4–0,0,,,,Away,0,First round,Hungary,0
+,,,,,Sun,,WCQ,,,,,,,2021-09-05,,,N,England,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,First round,Andorra,
+0,,,0,,Wed,,WCQ,0,,,,LB,,2021-09-08,0,,Y,England,0,,,,,0,,,90,,D 1–1,0,,,,Away,0,First round,Poland,0
+0,5,63,0,3,Sat,1,Premier League,1,5,91,0.0,LB,3,2021-09-11,0,69,Y,Manchester Utd,0,0,0.3,0.0,83.1,0,83,,90,0,W 4–1,0,,6,1,Home,0,Matchweek 4,Newcastle Utd,1
+0,1,29,0,8,Tue,1,Champions Lg,0,5,67,0.0,"WB,LB",8,2021-09-14,0,44,Y,Manchester Utd,0,1,0.0,0.0,89.8,0,49,,90,0,L 1–2,0,,2,0,Away,0,Group stage,Young Boys,0
+0,7,53,0,1,Sun,1,Premier League,0,1,77,0.0,LB,6,2021-09-19,1,56,Y,Manchester Utd,1,0,0.3,0.0,82.4,0,68,,90,0,W 2–1,0,,6,1,Away,0,Matchweek 5,West Ham,0
+0,4,15,0,0,Sat,0,Premier League,0,2,23,0.0,LB,2,2021-09-25,0,20,Y,Manchester Utd,0,0,0.1,0.0,90.9,1,22,,33,0,L 0–1,0,,4,0,Home,0,Matchweek 6,Aston Villa,0
+0,2,66,0,1,Sat,0,Premier League,0,8,109,0.0,LB,11,2021-10-02,0,87,Y,Manchester Utd,0,1,0.1,0.0,85.3,0,102,,90,1,D 1–1,0,,10,1,Home,0,Matchweek 7,Everton,2
+0,,,0,,Tue,,WCQ,0,,,,LB,,2021-10-12,0,,Y,England,2,,,,,1,,,90,,D 1–1,0,,,,Home,0,First round,Hungary,2
+0,2,53,0,2,Sat,0,Premier League,0,6,75,0.0,LB,8,2021-10-16,0,57,Y,Manchester Utd,0,2,0.0,0.0,81.4,0,70,,90,1,L 2–4,0,,9,1,Away,0,Matchweek 8,Leicester City,0
+0,4,43,0,4,Wed,1,Champions Lg,1,9,81,0.0,LB,9,2021-10-20,0,55,Y,Manchester Utd,0,1,0.2,0.0,77.5,1,71,,90,1,W 3–2,0,,6,3,Home,0,Group stage,Atalanta,3
+0,3,36,0,1,Sun,0,Premier League,0,1,53,0.0,"LB,CB",9,2021-10-24,0,37,Y,Manchester Utd,1,0,0.1,0.0,75.5,1,49,,90,0,L 0–5,0,,2,1,Home,0,Matchweek 9,Liverpool,0
+0,4,37,0,6,Sat,1,Premier League,0,3,73,0.0,WB,20,2021-10-30,0,39,Y,Manchester Utd,0,2,0.0,0.0,72.2,1,54,,90,1,W 3–0,0,,2,1,Away,0,Matchweek 10,Tottenham,2
+0,5,60,0,0,Tue,0,Champions Lg,0,11,84,0.1,"LB,WB",11,2021-11-02,0,66,Y,Manchester Utd,1,1,0.0,0.1,86.8,0,76,,90,1,D 2–2,0,,8,3,Away,0,Group stage,Atalanta,4
+0,2,21,0,3,Sat,0,Premier League,0,3,51,0.0,"WB,LB",18,2021-11-06,0,33,Y,Manchester Utd,0,0,0.1,0.0,78.6,0,42,,72,0,L 0–2,0,,1,2,Home,0,Matchweek 11,Manchester City,0
+0,0,43,0,1,Sat,0,Premier League,0,5,67,0.0,LB,3,2021-11-20,0,50,Y,Manchester Utd,0,0,0.0,0.0,82.0,0,61,,84,0,L 1–4,0,,2,1,Away,0,Matchweek 12,Watford,0
+0,1,14,0,1,Wed,1,Champions Lg,1,1,35,0.0,LB,12,2021-12-08,0,24,Y,Manchester Utd,0,2,0.0,0.0,75.0,0,32,,60,1,D 1–1,0,,0,1,Home,0,Group stage,Young Boys,0
+,,,,,Sat,,Premier League,,,,,,,2021-12-11,,,N,Manchester Utd,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 16,Norwich City,
+,,,,,Mon,,Premier League,,,,,,,2021-12-27,,,N,Manchester Utd,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 19,Newcastle Utd,
+0,5,45,0,2,Thu,0,Premier League,0,6,84,0.1,LB,12,2021-12-30,0,56,Y,Manchester Utd,2,1,0.4,0.1,75.7,0,74,,90,0,W 3–1,0,,6,2,Home,0,Matchweek 20,Burnley,1
+0,1,38,0,4,Mon,0,Premier League,0,3,66,0.0,LB,17,2022-01-03,0,43,Y,Manchester Utd,0,0,0.1,0.0,76.8,1,56,,90,0,L 0–1,0,,4,1,Home,0,Matchweek 21,Wolves,2
+0,,,0,,Mon,,FA Cup,0,,,,LB,,2022-01-10,1,,Y,Manchester Utd,1,,,,,1,,,90,,W 1–0,0,,,,Home,0,Third round proper,Aston Villa,1
+0,,,0,,Fri,,FA Cup,0,,,,LB,,2022-02-04,0,,Y,Manchester Utd,0,,,,,0,,,120,,D 1 ,0,,,,Home,0,Fourth round proper,Middlesbrough,1
+0,8,58,0,2,Tue,1,Premier League,1,4,89,0.0,LB,9,2022-02-08,0,66,Y,Manchester Utd,0,5,0.4,0.0,80.5,0,82,,90,1,D 1–1,0,,8,2,Away,0,Matchweek 24,Burnley,1
+0,4,54,0,3,Sat,0,Premier League,0,5,77,0.0,LB,15,2022-02-12,0,58,Y,Manchester Utd,0,1,0.6,0.0,82.9,0,70,,90,0,D 1–1,0,,3,2,Home,0,Matchweek 25,Southampton,0
+0,1,45,0,2,Tue,0,Premier League,0,3,71,0.0,LB,12,2022-02-15,0,48,Y,Manchester Utd,1,1,0.0,0.0,76.2,1,63,,90,1,W 2–0,0,,4,1,Home,0,Matchweek 18,Brighton,1
+0,3,27,0,3,Sun,1,Premier League,1,1,48,0.0,"LB,WB",10,2022-02-20,0,28,Y,Manchester Utd,0,4,0.3,0.0,68.3,1,41,,90,2,W 4–2,0,,3,1,Away,0,Matchweek 26,Leeds United,1
+0,0,28,0,1,Wed,0,Champions Lg,0,2,67,0.0,LB,6,2022-02-23,0,50,Y,Manchester Utd,0,0,0.0,0.0,83.3,1,60,,66,0,D 1–1,0,,3,1,Away,0,Round of 16,Atlético Madrid,2
+0,3,15,0,1,Sat,0,Premier League,0,6,22,0.0,LB,1,2022-02-26,0,15,N,Manchester Utd,0,1,0.1,0.0,75.0,0,20,,17,1,D 0–0,0,,2,0,Home,0,Matchweek 27,Watford,0
+0,,,0,,Sat,,Friendlies (M),0,,,,DM,,2022-03-26,,,Y,England,,,,,,0,,,60,,W 2–1,0,,,,Home,1,Friendlies (M),Switzerland,
+0,,,0,,Tue,,Friendlies (M),0,,,,,,2022-03-29,,,N,England,,,,,,0,,,29,,W 3–0,0,,,,Home,0,Friendlies (M),Côte d'Ivoire,
+0,2,25,0,0,Sat,0,Premier League,0,2,37,0.0,LB,5,2022-04-02,0,33,Y,Manchester Utd,0,0,0.1,0.0,89.2,1,37,,45,0,D 1–1,0,,3,0,Home,0,Matchweek 31,Leicester City,0

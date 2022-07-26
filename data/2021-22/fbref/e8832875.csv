@@ -1,0 +1,31 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,15,0,0,Sat,0,Premier League,0,2,18,0.0,"LW,AM",6,2021-09-25,0,4,N,Watford,0,5,0.0,0.0,44.4,0,9,,27,3,D 1–1,0,,2,0,Home,0,Matchweek 6,Newcastle Utd,0
+0,0,8,0,0,Sat,0,Premier League,0,1,12,0.0,AM,9,2021-10-02,0,7,N,Watford,1,0,0.0,0.0,87.5,0,8,,32,0,L 0–1,0,,0,0,Away,0,Matchweek 7,Leeds United,0
+0,1,8,0,0,Sat,0,Premier League,0,0,11,0.0,FW,5,2021-10-16,0,4,N,Watford,0,3,0.1,0.0,50.0,0,8,,22,1,L 0–5,0,,1,0,Home,0,Matchweek 8,Liverpool,0
+0,4,14,0,0,Sat,3,Premier League,1,2,20,0.1,AM,2,2021-10-23,0,10,N,Watford,1,0,0.5,0.1,71.4,0,14,,27,0,W 5–2,0,,1,0,Away,0,Matchweek 9,Everton,0
+0,1,9,0,1,Sat,0,Premier League,0,1,22,0.0,AM,12,2021-10-30,0,10,Y,Watford,0,1,0.5,0.0,66.7,1,15,,45,0,L 0–1,0,,1,0,Home,0,Matchweek 10,Southampton,2
+0,1,8,0,0,Sun,0,Premier League,0,1,11,0.0,AM,6,2021-11-07,0,8,N,Watford,0,0,0.1,0.0,88.9,0,9,,29,0,L 0–1,0,,0,1,Away,0,Matchweek 11,Arsenal,0
+0,1,8,0,0,Sat,0,Premier League,0,1,16,0.4,DM,1,2021-11-20,2,8,N,Watford,4,1,0.0,0.4,72.7,0,11,,14,1,W 4–1,0,,3,0,Home,1,Matchweek 12,Manchester Utd,1
+0,1,17,0,2,Sun,0,Premier League,0,3,29,0.1,AM,16,2021-11-28,1,9,N,Watford,2,1,0.0,0.1,56.3,0,16,,45,0,L 2–4,0,,2,0,Away,0,Matchweek 13,Leicester City,1
+0,3,19,0,1,Wed,0,Premier League,0,1,37,0.0,LM,6,2021-12-01,0,17,Y,Watford,1,0,0.2,0.0,63.0,0,27,,90,0,L 1–2,0,,2,1,Home,0,Matchweek 14,Chelsea,2
+0,2,24,0,1,Sat,0,Premier League,0,3,37,0.1,"AM,LM",17,2021-12-04,0,15,Y,Watford,2,3,0.0,0.1,60.0,0,25,,90,1,L 1–3,0,,2,2,Home,0,Matchweek 15,Manchester City,0
+0,0,9,0,0,Fri,0,Premier League,0,1,18,0.0,AM,8,2021-12-10,0,6,N,Watford,0,1,0.0,0.0,50.0,0,12,,33,1,L 1–2,0,,1,0,Away,0,Matchweek 16,Brentford,0
+0,4,20,0,2,Tue,0,Premier League,0,4,22,0.1,"AM,RM",6,2021-12-28,0,11,N,Watford,3,2,0.4,0.1,78.6,0,14,,45,2,L 1–4,0,,6,0,Home,0,Matchweek 20,West Ham,0
+0,2,10,0,0,Sat,0,Premier League,0,0,15,0.1,FW,10,2022-01-01,1,3,N,Watford,2,3,0.0,0.1,50.0,0,6,,45,2,L 0–1,0,,1,0,Home,0,Matchweek 21,Tottenham,1
+0,,,0,,Sat,,FA Cup,0,,,,AM,,2022-01-08,1,,Y,Watford,3,,,,,0,,,73,,L 1–4,0,,,,Away,1,Third round proper,Leicester City,0
+0,3,35,0,1,Sat,0,Premier League,0,5,49,0.3,LW,16,2022-01-15,3,20,Y,Watford,6,4,0.1,0.3,69.0,0,29,,90,2,D 1–1,0,,5,0,Away,1,Matchweek 22,Newcastle Utd,0
+0,2,52,0,1,Fri,0,Premier League,0,6,60,0.3,"LW,FW",13,2022-01-21,1,29,Y,Watford,5,11,0.1,0.3,72.5,0,40,,90,7,L 0–3,0,,10,1,Home,0,Matchweek 23,Norwich City,1
+0,2,26,0,2,Sat,0,Premier League,0,2,42,0.4,FW,21,2022-02-05,2,15,Y,Watford,4,6,0.0,0.4,60.0,0,25,,82,3,D 0–0,0,,6,2,Away,0,Matchweek 17,Burnley,1
+0,0,6,0,0,Tue,0,Premier League,0,0,5,0.0,LM,1,2022-02-08,0,3,N,Watford,0,3,0.0,0.0,75.0,0,4,,14,3,L 0–1,0,,3,0,Away,0,Matchweek 24,West Ham,0
+0,0,14,0,0,Sat,0,Premier League,0,0,16,0.0,CM,9,2022-02-12,0,7,N,Watford,0,2,0.0,0.0,63.6,0,11,,21,1,L 0–2,0,,0,1,Home,0,Matchweek 25,Brighton,0
+,,,,,Sat,,Premier League,,,,,,,2022-02-26,,,N,Watford,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 27,Manchester Utd,
+0,5,31,0,1,Sun,0,Premier League,0,4,51,0.0,LW,10,2022-03-06,0,27,Y,Watford,0,4,0.0,0.0,77.1,0,35,,90,2,L 2–3,0,,4,1,Home,0,Matchweek 28,Arsenal,1
+0,1,37,0,1,Sun,0,Premier League,0,5,49,0.2,FW,20,2022-03-13,0,22,Y,Watford,2,4,0.0,0.2,75.9,0,29,,90,2,W 2–1,0,,7,2,Away,0,Matchweek 29,Southampton,2
+0,1,17,0,2,Sat,0,Premier League,0,1,32,0.3,FW,16,2022-04-02,0,16,Y,Watford,1,3,0.2,0.3,80.0,0,20,,77,1,L 0–2,0,,0,0,Away,0,Matchweek 31,Liverpool,1
+0,1,42,0,3,Sat,0,Premier League,0,4,59,0.0,FW,20,2022-04-09,0,23,Y,Watford,1,10,0.4,0.0,63.9,0,36,,80,4,L 0–3,0,,1,2,Home,0,Matchweek 32,Leeds United,0
+0,4,27,0,2,Sat,0,Premier League,0,2,41,0.1,FW,21,2022-04-16,0,26,Y,Watford,2,1,0.0,0.1,81.3,0,32,,83,0,L 1–2,0,,1,0,Home,0,Matchweek 33,Brentford,1
+0,0,13,0,0,Sat,0,Premier League,0,0,14,0.1,RW,3,2022-04-23,0,6,N,Watford,1,3,0.0,0.1,75.0,0,8,,23,2,L 1–5,0,,1,1,Away,0,Matchweek 34,Manchester City,1
+0,5,40,0,5,Sat,0,Premier League,0,0,67,0.1,FW,22,2022-04-30,0,26,Y,Watford,1,7,0.0,0.1,70.3,0,37,,90,3,L 1–2,0,,8,3,Home,0,Matchweek 35,Burnley,3
+0,0,42,0,1,Wed,0,Premier League,0,0,56,0.0,FW,20,2022-05-11,0,21,Y,Watford,0,8,0.0,0.0,65.6,0,32,,90,3,D 0–0,0,,5,1,Home,0,Matchweek 30,Everton,0
+0,1,39,0,1,Sun,0,Premier League,0,3,56,0.7,FW,14,2022-05-15,5,26,Y,Watford,7,5,0.0,0.7,68.4,0,38,,90,3,L 1–5,0,,10,2,Home,1,Matchweek 37,Leicester City,1
+0,3,32,0,1,Sun,1,Premier League,0,4,43,0.6,FW,27,2022-05-22,1,18,Y,Watford,1,7,0.0,0.6,69.2,0,26,,90,4,L 1–2,0,,6,2,Away,0,Matchweek 38,Chelsea,0

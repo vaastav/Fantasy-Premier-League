@@ -1,0 +1,46 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,38,0,2,Sat,0,Premier League,0,0,67,0.1,CB,4,2021-08-14,1,44,Y,Brighton,3,0,0.0,0.1,95.7,0,46,,90,0,W 2–1,0,,1,2,Away,0,Matchweek 1,Burnley,0
+0,0,49,0,3,Sat,0,Premier League,0,3,87,0.1,CB,5,2021-08-21,1,70,Y,Brighton,3,0,0.0,0.1,93.3,1,75,,90,0,W 2–0,0,,0,1,Home,1,Matchweek 2,Watford,0
+0,0,64,0,1,Sat,0,Premier League,0,0,94,0.1,CB,8,2021-08-28,0,75,Y,Brighton,1,0,0.0,0.1,96.2,0,78,,90,0,L 0–2,0,,0,2,Home,0,Matchweek 3,Everton,0
+0,,,0,,Wed,,WCQ,0,,,,CB,,2021-09-01,0,,Y,Republic of Ireland,0,,,,,0,,,90,,L 1–2,0,,,,Away,0,First round,Portugal,0
+0,,,0,,Sat,,WCQ,0,,,,CB,,2021-09-04,1,,Y,Republic of Ireland,2,,,,,0,,,90,,D 1–1,0,,,,Home,1,First round,Azerbaijan,1
+0,,,0,,Tue,,WCQ,0,,,,CB,,2021-09-07,0,,Y*,Republic of Ireland,0,,,,,0,,,90,,D 1–1,0,,,,Home,0,First round,Serbia,3
+0,0,30,0,0,Sat,0,Premier League,0,0,56,0.0,CB,10,2021-09-11,0,43,Y,Brighton,0,0,0.0,0.0,89.6,1,48,,90,0,W 1–0,0,,2,0,Away,0,Matchweek 4,Brentford,2
+0,2,23,0,3,Sun,1,Premier League,0,2,43,0.1,CB,3,2021-09-19,0,24,Y,Brighton,2,0,0.1,0.1,70.6,0,34,,90,0,W 2–1,0,,1,1,Home,0,Matchweek 5,Leicester City,1
+0,0,49,0,2,Mon,0,Premier League,0,0,75,0.0,CB,5,2021-09-27,1,54,Y,Brighton,1,0,0.0,0.0,85.7,0,63,,90,0,D 1–1,0,,0,2,Away,0,Matchweek 6,Crystal Palace,2
+0,0,32,0,2,Sat,0,Premier League,0,4,59,0.2,CB,8,2021-10-02,0,39,Y,Brighton,2,1,0.0,0.2,83.0,0,47,,90,1,D 0–0,0,,4,0,Home,0,Matchweek 7,Arsenal,2
+0,,,0,,Sat,,WCQ,0,,,,CB,,2021-10-09,1,,Y,Republic of Ireland,2,,,,,0,,,90,,W 3–0,0,,,,Away,0,First round,Azerbaijan,1
+0,,,0,,Tue,,Friendlies (M),0,,,,CB,,2021-10-12,,,Y*,Republic of Ireland,,,,,,0,,,76,,W 4–0,0,,,,Home,0,Friendlies (M),Qatar,
+0,0,36,0,4,Sat,0,Premier League,0,3,69,0.0,CB,9,2021-10-16,0,47,Y,Brighton,1,0,0.0,0.0,79.7,1,59,,90,0,D 0–0,0,,1,0,Away,0,Matchweek 8,Norwich City,1
+,,,,,Sat,,Premier League,,,,,,,2021-10-23,,,N,Brighton,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Home,,Matchweek 9,Manchester City,
+0,,,0,,Wed,,EFL Cup,0,,,,CB,,2021-10-27,1,,Y,Brighton,3,,,,,0,,,90,,D 2 ,0,,,,Away,0,Fourth round,Leicester City,2
+0,0,31,0,3,Sat,0,Premier League,0,0,59,0.1,CB,4,2021-10-30,0,44,Y,Brighton,1,0,0.0,0.1,95.7,1,46,,90,0,D 2–2,0,,1,1,Away,0,Matchweek 10,Liverpool,2
+0,0,75,0,0,Sat,0,Premier League,0,1,94,0.0,CB,2,2021-11-06,1,79,Y,Brighton,1,1,0.0,0.0,92.9,0,85,,90,1,D 1–1,0,,2,0,Home,0,Matchweek 11,Newcastle Utd,0
+0,,,0,,Thu,,WCQ,0,,,,CB,,2021-11-11,0,,Y,Republic of Ireland,1,,,,,0,,,90,,D 0–0,0,,,,Home,0,First round,Portugal,0
+0,,,0,,Sun,,WCQ,0,,,,CB,,2021-11-14,1,,Y,Republic of Ireland,1,,,,,1,,,90,,W 3–0,0,,,,Away,1,First round,Luxembourg,1
+0,0,62,0,1,Sat,0,Premier League,0,2,93,0.0,CB,2,2021-11-20,0,83,Y,Brighton,0,0,0.0,0.0,95.4,0,87,,90,0,L 0–2,0,,2,1,Away,0,Matchweek 12,Aston Villa,2
+,,,,,Sat,,Premier League,,,,,,,2021-11-27,,,N,Brighton,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Leeds United,
+0,1,36,0,1,Wed,1,Premier League,0,2,54,0.0,CB,2,2021-12-01,0,42,N,Brighton,0,0,0.0,0.0,87.5,0,48,,55,0,D 1–1,0,,2,0,Away,0,Matchweek 14,West Ham,2
+0,1,25,0,2,Sat,0,Premier League,0,1,60,0.1,CB,5,2021-12-04,0,41,Y*,Brighton,1,0,0.1,0.1,78.8,1,52,,90,0,D 1–1,0,,0,0,Away,0,Matchweek 15,Southampton,0
+,,,,,Wed,,Premier League,,,,,,,2021-12-29,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 20,Chelsea,
+0,0,3,0,2,Sun,0,Premier League,0,0,12,0.0,CB,1,2022-01-02,0,6,N,Brighton,0,0,0.0,0.0,85.7,0,7,,30,0,W 3–2,0,,0,0,Away,0,Matchweek 21,Everton,1
+0,,,0,,Sat,,FA Cup,0,,,,CB,,2022-01-08,0,,Y*,Brighton,1,,,,,0,,,120,,W 2–1,0,,,,Away,0,Third round proper,West Brom,0
+,,,,,Sat,,FA Cup,,,,,,,2022-02-05,,,N,Brighton,,,,,,,,,,,L 1–3,,"On matchday squad, but did not play",,,Away,,Fourth round proper,Tottenham,
+0,0,0,0,0,Sat,0,Premier League,0,0,0,0.0,DM,0,2022-02-12,0,0,N,Brighton,0,0,0.0,0.0,,0,0,,1,0,W 2–0,0,,0,0,Away,0,Matchweek 25,Watford,0
+,,,,,Tue,,Premier League,,,,,,,2022-02-15,,,N,Brighton,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Matchweek 18,Manchester Utd,
+0,2,45,0,3,Sat,0,Premier League,0,6,95,0.2,CB,5,2022-02-19,1,72,Y,Brighton,2,0,0.0,0.2,87.8,1,82,,90,0,L 0–3,0,,4,2,Home,0,Matchweek 26,Burnley,1
+,,,,,Sat,,Premier League,,,,,,,2022-02-26,,,N,Brighton,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Home,,Matchweek 27,Aston Villa,
+0,0,64,0,4,Sat,0,Premier League,0,10,105,0.2,CB,4,2022-03-05,0,77,Y,Brighton,1,0,0.0,0.2,84.6,1,91,,90,0,L 1–2,0,,5,2,Away,0,Matchweek 28,Newcastle Utd,0
+,,,,,Sat,,Premier League,,,,,,,2022-03-12,,,N,Brighton,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Home,,Matchweek 29,Liverpool,
+0,1,42,0,2,Wed,0,Premier League,0,1,70,0.1,CB,8,2022-03-16,0,54,Y,Brighton,2,0,0.0,0.1,91.5,0,59,,90,0,L 0–2,0,,3,2,Home,0,Matchweek 16,Tottenham,2
+0,,,0,,Sat,,Friendlies (M),0,,,,CB,,2022-03-26,,,Y,Republic of Ireland,,,,,,0,,,90,,D 2–2,0,,,,Home,0,Friendlies (M),Belgium,
+,,,,,Tue,,Friendlies (M),,,,,,,2022-03-29,,,N,Republic of Ireland,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Friendlies (M),Lithuania,
+,,,,,Sat,,Premier League,,,,,,,2022-04-02,,,N,Brighton,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 31,Norwich City,
+,,,,,Sun,,Premier League,,,,,,,2022-04-24,,,N,Brighton,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 34,Southampton,
+,,,,,Sat,,Premier League,,,,,,,2022-04-30,,,N,Brighton,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Away,,Matchweek 35,Wolves,
+,,,,,Sat,,Premier League,,,,,,,2022-05-07,,,N,Brighton,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,Matchweek 36,Manchester Utd,
+,,,,,Sun,,Premier League,,,,,,,2022-05-15,,,N,Brighton,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 37,Leeds United,
+,,,,,Sun,,Premier League,,,,,,,2022-05-22,,,N,Brighton,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Matchweek 38,West Ham,
+0,,,0,,Sat,,UEFA Nations League,0,,,,CB,,2022-06-04,0,,Y,Republic of Ireland,0,,,,,1,,,90,,L 0–1,0,,,,Away,0,League B,Armenia,
+0,,,0,,Wed,,UEFA Nations League,0,,,,CB,,2022-06-08,0,,Y*,Republic of Ireland,0,,,,,0,,,90,,L 0–1,0,,,,Home,0,League B,Ukraine,
+0,,,0,,Sat,,UEFA Nations League,1,,,,CB,,2022-06-11,0,,Y*,Republic of Ireland,0,,,,,1,,,90,,W 3–0,0,,,,Home,0,League B,Scotland,

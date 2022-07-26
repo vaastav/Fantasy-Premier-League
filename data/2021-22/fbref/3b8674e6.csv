@@ -1,0 +1,61 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,41,0,5,Sat,0,Copa América,0,3,52,0.0,CM,26,2021-07-03,0,33,Y,Uruguay,0,3,0.0,0.0,82.5,0,40,,90,2,D 0 ,0,,4,2,Neutral,0,Quarter-finals,Colombia,1
+0,1,44,0,3,Sun,1,Serie A,1,1,62,0.1,"DM,CM",11,2021-08-22,0,39,Y,Juventus,2,0,0.1,0.1,79.6,0,49,,89,0,D 2–2,0,,2,3,Away,0,Matchweek 1,Udinese,1
+0,3,29,0,2,Sat,0,Serie A,0,3,44,0.0,CM,20,2021-08-28,0,25,Y,Juventus,1,1,0.0,0.0,80.6,0,31,,65,1,L 0–1,0,,4,3,Home,0,Matchweek 2,Empoli,2
+0,,,0,,Thu,,WCQ,0,,,,CM,,2021-09-02,0,,Y,Uruguay,1,,,,,0,,,70,,D 1–1,0,,,,Away,0,WCQ — CONMEBOL (M),Peru,2
+0,,,0,,Sun,,WCQ,0,,,,DM,,2021-09-05,0,,Y,Uruguay,0,,,,,0,,,45,,W 4–2,0,,,,Home,0,WCQ — CONMEBOL (M),Bolivia,2
+0,,,0,,Thu,,WCQ,0,,,,DM,,2021-09-09,0,,Y,Uruguay,1,,,,,1,,,90,,W 1–0,0,,,,Home,0,WCQ — CONMEBOL (M),Ecuador,3
+0,2,30,0,2,Tue,1,Champions Lg,1,3,52,0.0,DM,18,2021-09-14,0,38,Y,Juventus,0,0,0.3,0.0,82.6,0,46,,66,0,W 3–0,0,,5,2,Away,0,Group stage,Malmö,3
+0,3,32,0,4,Sun,0,Serie A,0,2,43,0.0,DM,20,2021-09-19,0,26,Y,Juventus,0,1,0.0,0.0,78.8,0,33,,90,1,D 1–1,0,,4,1,Home,0,Matchweek 4,Milan,4
+0,2,31,0,1,Wed,0,Serie A,0,0,39,0.0,DM,5,2021-09-22,0,31,Y,Juventus,0,0,0.0,0.0,91.2,0,34,,45,0,W 3–2,0,,0,0,Away,0,Matchweek 5,Spezia,2
+0,4,35,0,1,Sun,0,Serie A,0,1,53,0.1,"DM,CM",17,2021-09-26,1,38,Y,Juventus,1,0,0.0,0.1,84.4,1,45,,81,0,W 3–2,0,,6,2,Home,0,Matchweek 6,Sampdoria,4
+0,0,26,0,3,Wed,0,Champions Lg,0,1,38,0.0,CM,35,2021-09-29,0,18,Y,Juventus,0,1,0.0,0.0,72.0,0,25,,82,0,W 1–0,0,,0,2,Home,0,Group stage,Chelsea,0
+,,,,,Sat,,Serie A,,,,,,,2021-10-02,,,N,Juventus,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 7,Torino,
+0,,,0,,Thu,,WCQ,0,,,,CM,,2021-10-07,0,,Y,Uruguay,1,,,,,1,,,76,,D 0–0,0,,,,Home,0,WCQ — CONMEBOL (M),Colombia,4
+0,,,0,,Thu,,WCQ,0,,,,RM,,2021-10-14,0,,Y,Uruguay,1,,,,,0,,,70,,L 1–4,0,,,,Away,0,WCQ — CONMEBOL (M),Brazil,1
+0,1,24,0,1,Sun,1,Serie A,0,3,44,0.1,DM,26,2021-10-17,0,28,Y,Juventus,1,0,0.0,0.1,82.4,0,34,,90,0,W 1–0,0,,1,4,Home,0,Matchweek 8,Roma,3
+0,1,62,0,1,Wed,0,Champions Lg,0,5,71,0.0,CM,14,2021-10-20,0,59,Y,Juventus,0,1,0.1,0.0,89.4,0,66,,83,0,W 1–0,0,,5,0,Away,0,Group stage,Zenit,1
+0,2,38,0,3,Sun,0,Serie A,0,5,53,0.0,"DM,LM",23,2021-10-24,0,38,N,Juventus,0,0,0.0,0.0,86.4,0,44,,73,0,D 1–1,0,,2,0,Away,0,Matchweek 9,Inter,2
+,,,,,Wed,,Serie A,,,,,,,2021-10-27,,,N,Juventus,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 10,Sassuolo,
+0,1,18,0,1,Sat,0,Serie A,0,2,30,0.0,DM,14,2021-10-30,0,20,Y,Juventus,0,0,0.0,0.0,76.9,0,26,,56,0,L 1–2,0,,1,1,Away,0,Matchweek 11,Hellas Verona,0
+,,,,,Tue,,Champions Lg,,,,,,,2021-11-02,,,N,Juventus,,,,,,,,,,,W 4–2,,"On matchday squad, but did not play",,,Home,,Group stage,Zenit,
+0,0,2,0,0,Sat,0,Serie A,0,0,1,0.0,CM,0,2021-11-06,0,1,N,Juventus,0,1,0.0,0.0,100.0,0,1,,1,1,W 1–0,0,,0,0,Home,0,Matchweek 12,Fiorentina,0
+0,,,0,,Fri,,WCQ,0,,,,AM,,2021-11-12,0,,Y,Uruguay,1,,,,,0,,,75,,L 0–1,0,,,,Home,0,WCQ — CONMEBOL (M),Argentina,0
+0,,,0,,Tue,,WCQ,0,,,,AM,,2021-11-16,0,,Y,Uruguay,2,,,,,0,,,90,,L 0–3,0,,,,Away,0,WCQ — CONMEBOL (M),Bolivia,1
+0,0,1,0,0,Sat,0,Serie A,0,0,1,0.0,DM,1,2021-11-20,0,1,N,Juventus,0,0,0.0,0.0,100.0,0,1,,2,0,W 2–0,0,,0,0,Away,0,Matchweek 13,Lazio,1
+0,2,13,0,2,Tue,0,Champions Lg,0,1,24,0.1,DM,16,2021-11-23,0,11,Y,Juventus,1,1,0.0,0.1,73.3,0,15,,58,1,L 0–4,0,,1,2,Away,0,Group stage,Chelsea,1
+,,,,,Sat,,Serie A,,,,,,,2021-11-27,,,N,Juventus,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Matchweek 14,Atalanta,
+0,2,97,0,1,Tue,0,Serie A,0,9,131,0.1,DM,13,2021-11-30,0,114,Y,Juventus,1,1,0.0,0.1,94.2,0,121,,90,0,W 2–0,0,,9,2,Away,0,Matchweek 15,Salernitana,3
+0,8,79,0,0,Sun,1,Serie A,0,6,104,0.0,DM,25,2021-12-05,0,83,Y,Juventus,1,0,0.0,0.0,91.2,0,91,,90,0,W 2–0,0,,2,3,Home,0,Matchweek 16,Genoa,7
+0,2,49,0,2,Wed,0,Champions Lg,0,4,67,0.0,"LW,DM",34,2021-12-08,0,43,Y,Juventus,1,1,0.0,0.0,84.3,0,51,,89,0,W 1–0,0,,3,8,Home,0,Group stage,Malmö,2
+0,1,14,0,1,Sat,0,Serie A,0,2,16,0.0,"AM,DM",8,2021-12-11,0,13,N,Juventus,0,0,0.0,0.0,86.7,0,15,,15,0,D 1–1,0,,2,0,Away,0,Matchweek 17,Venezia,0
+0,0,6,0,0,Sat,0,Serie A,0,1,9,0.0,CM,9,2021-12-18,0,4,N,Juventus,0,0,0.0,0.0,57.1,0,7,,20,0,W 2–0,0,,1,0,Away,0,Matchweek 18,Bologna,1
+0,1,42,0,0,Tue,0,Serie A,0,4,48,0.0,CM,16,2021-12-21,0,41,Y,Juventus,0,0,0.0,0.0,91.1,0,45,,90,0,W 2–0,0,,5,0,Home,0,Matchweek 19,Cagliari,0
+0,0,7,0,0,Thu,0,Serie A,0,0,11,0.0,"DM,CM",7,2022-01-06,0,9,N,Juventus,0,0,0.0,0.0,90.0,0,10,,26,0,D 1–1,0,,0,1,Home,0,Matchweek 20,Napoli,0
+0,1,25,0,1,Sun,0,Serie A,0,1,35,0.0,DM,12,2022-01-09,0,24,Y,Juventus,0,1,0.0,0.0,92.3,0,26,,62,0,W 4–3,0,,2,2,Away,0,Matchweek 21,Roma,1
+0,,,0,,Wed,,Supercoppa Italiana,0,,,,,,2022-01-12,0,,N,Juventus,0,,,,,0,,,30,,L 1–2,0,,,,Away,0,Supercoppa Italiana,Inter,1
+0,4,69,0,1,Sat,0,Serie A,0,10,92,0.0,DM,29,2022-01-15,0,63,Y,Juventus,1,2,0.0,0.0,82.9,0,76,,81,1,W 2–0,0,,3,7,Home,0,Matchweek 22,Udinese,2
+0,,,0,,Tue,,Coppa Italia,0,,,,,,2022-01-18,0,,N,Juventus,0,,,,,0,,,17,,W 4–1,0,,,,Home,0,Round of 16,Sampdoria,0
+0,1,54,0,1,Sun,0,Serie A,0,6,76,0.0,DM,29,2022-01-23,0,62,Y,Juventus,0,0,0.0,0.0,92.5,0,67,,89,0,D 0–0,0,,8,6,Away,0,Matchweek 23,Milan,4
+0,,,0,,Thu,,WCQ,0,,,,CM,,2022-01-27,0,,Y,Uruguay,0,,,,,1,,,82,,W 1–0,0,,,,Away,0,WCQ — CONMEBOL (M),Paraguay,0
+0,,,0,,Tue,,WCQ,0,,,,CM,,2022-02-01,1,,Y,Uruguay,1,,,,,0,,,73,,W 4–1,0,,,,Home,1,WCQ — CONMEBOL (M),Venezuela,5
+0,,,0,,Sat,,FA Cup,0,,,,,,2022-02-05,0,,N,Tottenham,0,,,,,1,,,14,,W 3–1,0,,,,Home,0,Fourth round proper,Brighton,1
+0,0,20,0,0,Wed,0,Premier League,0,3,27,0.0,DM,6,2022-02-09,0,20,N,Tottenham,1,1,0.0,0.0,80.0,0,25,,31,1,L 2–3,0,,3,1,Home,0,Matchweek 24,Southampton,2
+0,3,59,0,0,Sun,0,Premier League,0,12,85,0.1,DM,25,2022-02-13,0,61,Y,Tottenham,1,2,0.2,0.1,81.3,1,75,,90,1,L 0–2,0,,7,4,Home,0,Matchweek 25,Wolves,1
+0,2,31,0,5,Sat,1,Premier League,0,1,44,0.0,DM,26,2022-02-19,0,22,Y,Tottenham,0,2,0.0,0.0,81.5,0,27,,90,1,W 3–2,0,,0,3,Away,0,Matchweek 26,Manchester City,2
+0,1,40,0,3,Wed,0,Premier League,0,1,47,0.0,DM,14,2022-02-23,0,36,Y,Tottenham,0,0,0.0,0.0,87.8,0,41,,45,0,L 0–1,0,,5,0,Away,0,Matchweek 13,Burnley,0
+0,2,71,0,3,Mon,1,Premier League,0,7,102,0.0,DM,32,2022-03-07,0,81,Y,Tottenham,0,3,0.0,0.0,92.0,0,88,,90,2,W 5–0,0,,3,3,Home,0,Matchweek 28,Everton,0
+0,3,57,0,2,Sat,0,Premier League,0,5,75,0.1,DM,31,2022-03-12,0,62,Y,Tottenham,1,0,0.2,0.1,92.5,0,67,,87,0,L 2–3,0,,7,3,Away,0,Matchweek 29,Manchester Utd,0
+0,3,74,0,2,Wed,1,Premier League,1,5,90,0.0,DM,27,2022-03-16,0,76,Y,Tottenham,0,2,0.4,0.0,95.0,0,80,,90,2,W 2–0,0,,2,3,Away,0,Matchweek 16,Brighton,1
+0,2,86,0,2,Sun,1,Premier League,0,5,99,0.0,DM,20,2022-03-20,0,87,Y,Tottenham,1,1,0.0,0.0,94.6,0,92,,90,1,W 3–1,0,,8,2,Home,0,Matchweek 30,West Ham,1
+0,,,0,,Thu,,WCQ,0,,,,CM,,2022-03-24,0,,Y,Uruguay,1,,,,,0,,,90,,W 1–0,0,,,,Home,0,WCQ — CONMEBOL (M),Peru,1
+0,,,0,,Tue,,WCQ,0,,,,DM,,2022-03-29,1,,Y,Uruguay,3,,,,,1,,,73,,W 2–0,0,,,,Away,0,WCQ — CONMEBOL (M),Chile,3
+0,3,46,0,2,Sun,0,Premier League,0,3,70,0.0,DM,8,2022-04-03,0,54,Y,Tottenham,1,1,0.1,0.0,88.5,1,61,,74,0,W 5–1,0,,1,4,Home,0,Matchweek 31,Newcastle Utd,0
+0,0,38,0,2,Sat,0,Premier League,0,1,65,0.0,DM,20,2022-04-09,0,48,Y,Tottenham,0,1,0.0,0.0,88.9,0,54,,90,0,W 4–0,0,,3,3,Away,0,Matchweek 32,Aston Villa,2
+0,0,39,0,1,Sat,0,Premier League,0,1,50,0.0,DM,17,2022-04-16,0,33,Y,Tottenham,1,1,0.0,0.0,78.6,1,42,,71,1,L 0–1,0,,1,0,Home,0,Matchweek 33,Brighton,0
+0,2,62,0,3,Sat,0,Premier League,0,6,79,0.4,DM,11,2022-04-23,0,62,Y,Tottenham,3,1,0.0,0.4,91.2,1,68,,90,1,D 0–0,0,,13,0,Away,0,Matchweek 34,Brentford,2
+0,2,31,0,1,Sun,0,Premier League,0,1,48,0.0,DM,24,2022-05-01,0,33,Y,Tottenham,0,1,0.1,0.0,82.5,1,40,,81,1,W 3–1,0,,0,4,Home,0,Matchweek 35,Leicester City,1
+0,1,30,0,4,Sat,0,Premier League,0,2,54,0.1,"DM,CM",22,2022-05-07,1,28,Y,Tottenham,1,0,0.0,0.1,77.8,0,36,,90,0,D 1–1,0,,3,2,Away,0,Matchweek 36,Liverpool,1
+0,4,47,0,0,Thu,1,Premier League,1,3,66,0.1,DM,16,2022-05-12,0,54,Y,Tottenham,1,1,0.1,0.1,93.1,0,58,,90,1,W 3–0,0,,7,1,Home,0,Matchweek 22,Arsenal,2
+0,4,73,0,1,Sun,0,Premier League,0,8,100,0.1,DM,14,2022-05-15,1,77,Y,Tottenham,3,1,0.1,0.1,89.5,0,86,,90,1,W 1–0,0,,12,2,Home,0,Matchweek 37,Burnley,1
+0,3,53,0,1,Sun,2,Premier League,2,4,80,0.0,DM,14,2022-05-22,0,71,Y,Tottenham,0,0,1.2,0.0,94.7,0,75,,72,0,W 5–0,0,,4,2,Away,0,Matchweek 38,Norwich City,2

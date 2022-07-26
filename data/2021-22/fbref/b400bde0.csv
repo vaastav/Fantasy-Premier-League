@@ -1,0 +1,71 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,4,33,0,0,Sat,3,UEFA Euro,1,1,33,0.0,LW,10,2021-07-03,0,18,Y,England,1,6,0.4,0.0,81.8,0,22,,64,4,W 4–0,0,,7,1,Away,0,Quarter-finals,Ukraine,1
+0,6,65,0,0,Wed,0,UEFA Euro,0,1,67,1.0,"LW,RW,AM",3,2021-07-07,3,43,Y,England,6,13,0.0,1.0,87.8,0,49,,120,8,W 2–1,0,,9,0,Home,0,Semi-finals,Denmark,1
+0,1,29,0,2,Sun,0,UEFA Euro,0,1,31,0.0,"AM,LW,RW",11,2021-07-11,0,14,Y,England,0,6,0.0,0.0,87.5,0,16,,120,4,D 1 ,0,,3,0,Neutral,0,Final,Italy,5
+0,2,36,0,0,Sun,0,Premier League,0,1,38,0.0,LW,7,2021-08-15,1,25,Y,Manchester City,1,2,0.0,0.0,89.3,0,28,,69,0,L 0–1,0,,6,1,Away,0,Matchweek 1,Tottenham,0
+0,1,12,0,0,Sat,0,Premier League,0,0,14,0.6,FW,2,2021-08-21,1,8,N,Manchester City,2,0,0.0,0.6,88.9,0,9,,30,0,W 5–0,0,,2,0,Home,1,Matchweek 2,Norwich City,0
+0,3,24,0,0,Sat,0,Premier League,0,2,30,0.6,CM,2,2021-08-28,2,18,N,Manchester City,4,1,0.1,0.6,78.3,0,23,,33,1,W 5–0,0,,5,1,Home,0,Matchweek 3,Arsenal,0
+0,,,0,,Thu,,WCQ,1,,,,AM,,2021-09-02,2,,Y,England,2,,,,,1,,,90,,W 4–0,0,,,,Away,1,First round,Hungary,0
+,,,,,Sun,,WCQ,,,,,,,2021-09-05,,,N,England,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,First round,Andorra,
+0,,,0,,Wed,,WCQ,0,,,,AM,,2021-09-08,0,,Y,England,1,,,,,0,,,90,,D 1–1,0,,,,Away,0,First round,Poland,0
+0,1,8,0,0,Sat,0,Premier League,0,1,14,0.1,FW,4,2021-09-11,0,3,N,Manchester City,1,1,0.2,0.1,50.0,0,6,,27,0,W 1–0,0,,2,0,Away,0,Matchweek 4,Leicester City,0
+0,0,7,0,0,Wed,0,Champions Lg,0,1,9,0.0,FW,4,2021-09-15,0,7,N,Manchester City,0,2,0.0,0.0,87.5,0,8,,20,1,W 6–3,0,,1,0,Home,0,Group stage,RB Leipzig,0
+0,4,27,0,1,Sat,0,Premier League,0,3,31,0.2,FW,14,2021-09-18,0,17,Y,Manchester City,4,3,0.0,0.2,89.5,0,19,,90,2,D 0–0,0,,4,1,Home,0,Matchweek 5,Southampton,1
+0,,,0,,Tue,,EFL Cup,1,,,,FW,,2021-09-21,0,,Y,Manchester City,3,,,,,0,,,90,,W 6–1,0,,,,Home,0,Third round,Wycombe,0
+0,0,3,0,0,Sat,0,Premier League,0,1,4,0.0,LW,1,2021-09-25,0,2,N,Manchester City,0,1,0.0,0.0,100.0,0,2,,4,0,W 1–0,0,,0,0,Away,0,Matchweek 6,Chelsea,0
+0,1,19,0,1,Tue,0,Champions Lg,0,0,29,0.4,FW,19,2021-09-28,0,16,Y,Manchester City,2,0,0.0,0.4,84.2,0,19,,77,0,L 0–2,0,,6,1,Away,0,Group stage,Paris S-G,0
+0,1,8,0,0,Sun,0,Premier League,0,0,8,0.0,FW,7,2021-10-03,0,4,N,Manchester City,0,1,0.1,0.0,66.7,0,6,,25,1,D 2–2,0,,2,1,Away,0,Matchweek 7,Liverpool,0
+,,,,,Sat,,WCQ,,,,,,,2021-10-09,,,N,England,,,,,,,,,,,W 5–0,,"On matchday squad, but did not play",,,Away,,First round,Andorra,
+0,,,0,,Tue,,WCQ,0,,,,FW,,2021-10-12,2,,Y,England,3,,,,,0,,,75,,D 1–1,0,,,,Home,0,First round,Hungary,0
+0,3,31,0,0,Sat,0,Premier League,0,2,38,0.1,"LW,FW",22,2021-10-16,0,28,Y,Manchester City,1,3,0.0,0.1,87.5,0,32,,90,1,W 2–0,0,,3,1,Home,0,Matchweek 8,Burnley,1
+0,5,14,0,0,Tue,1,Champions Lg,1,1,19,1.0,LW,7,2021-10-19,2,11,N,Manchester City,6,2,0.2,1.0,91.7,0,12,,27,2,W 5–1,0,,4,0,Away,0,Group stage,Club Brugge,0
+0,,,0,,Wed,,EFL Cup,0,,,,FW,,2021-10-27,2,,Y,Manchester City,3,,,,,0,,,120,,D 0 ,0,,,,Away,0,Fourth round,West Ham,0
+0,1,8,0,0,Sat,0,Premier League,0,0,8,0.0,AM,1,2021-10-30,0,4,N,Manchester City,0,0,0.1,0.0,57.1,0,7,,13,0,L 0–2,0,,2,0,Home,0,Matchweek 10,Crystal Palace,0
+0,2,22,0,0,Wed,0,Champions Lg,0,3,23,0.9,RW,10,2021-11-03,1,15,N,Manchester City,1,1,0.1,0.9,83.3,0,18,,23,1,W 4–1,0,,3,2,Home,1,Group stage,Club Brugge,1
+,,,,,Sat,,Premier League,,,,,,,2021-11-06,,,N,Manchester City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 11,Manchester Utd,
+0,,,0,,Fri,,WCQ,1,,,,FW,,2021-11-12,0,,Y,England,0,,,,,0,,,76,,W 5–0,0,,,,Home,0,First round,Albania,0
+0,1,50,0,1,Sun,0,Premier League,0,6,62,0.8,"RW,LW",14,2021-11-21,2,35,Y,Manchester City,3,5,0.2,0.8,87.5,0,40,,90,1,W 3–0,0,,6,0,Home,1,Matchweek 12,Everton,1
+0,3,38,0,0,Wed,0,Champions Lg,0,2,44,0.5,LW,15,2021-11-24,1,30,Y,Manchester City,2,4,0.4,0.5,85.7,0,35,,90,2,W 2–1,0,,7,1,Home,1,Group stage,Paris S-G,0
+0,5,39,0,2,Sun,0,Premier League,0,4,49,0.1,LW,13,2021-11-28,0,30,Y,Manchester City,2,1,0.3,0.1,81.1,0,37,,86,0,W 2–1,0,,15,0,Home,0,Matchweek 13,West Ham,0
+0,7,56,0,1,Wed,1,Premier League,1,6,61,0.0,LW,12,2021-12-01,0,34,Y,Manchester City,0,9,0.2,0.0,75.6,0,45,,90,6,W 2–1,0,,10,3,Away,0,Matchweek 14,Aston Villa,1
+0,6,69,0,2,Sat,0,Premier League,0,8,76,1.0,"RW,LW,FW",9,2021-12-04,3,51,Y,Manchester City,6,8,0.3,1.0,86.4,0,59,,90,3,W 3–1,0,,13,1,Away,1,Matchweek 15,Watford,0
+0,0,7,0,0,Tue,0,Champions Lg,0,0,10,0.0,"LW,FW",7,2021-12-07,0,4,N,Manchester City,0,1,0.0,0.0,50.0,0,8,,45,1,L 1–2,0,,2,1,Away,0,Group stage,RB Leipzig,0
+1,4,54,1,0,Sat,0,Premier League,0,6,58,0.9,RW,15,2021-12-11,2,41,Y,Manchester City,2,6,1.1,0.2,89.1,0,46,,90,2,W 1–0,0,,14,1,Home,1,Matchweek 16,Wolves,0
+,,,,,Tue,,Premier League,,,,,,,2021-12-14,,,N,Manchester City,,,,,,,,,,,W 7–0,,"On matchday squad, but did not play",,,Home,,Matchweek 17,Leeds United,
+0,2,36,0,1,Sun,0,Premier League,0,2,44,0.8,"LW,RW",9,2021-12-19,2,32,Y,Manchester City,3,3,0.0,0.8,91.4,0,35,,90,1,W 4–0,0,,5,0,Away,1,Matchweek 18,Newcastle Utd,0
+1,1,53,1,1,Sun,1,Premier League,0,0,56,1.6,LW,11,2021-12-26,2,38,Y,Manchester City,2,7,0.0,0.8,90.5,0,42,,90,4,W 6–3,0,,5,1,Home,2,Matchweek 19,Leicester City,1
+,,,,,Wed,,Premier League,,,,,,,2021-12-29,,,N,Manchester City,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 20,Brentford,
+0,3,53,0,1,Sat,0,Premier League,0,2,66,0.0,LW,12,2022-01-01,0,42,Y,Manchester City,1,6,0.2,0.0,87.5,0,48,,90,2,W 2–1,0,,7,3,Away,0,Matchweek 21,Arsenal,1
+0,4,43,0,0,Sat,0,Premier League,0,2,45,0.0,RW,11,2022-01-15,0,25,Y,Manchester City,1,5,0.2,0.0,80.6,0,31,,90,2,W 1–0,0,,11,1,Home,0,Matchweek 22,Chelsea,0
+0,1,33,0,1,Sat,0,Premier League,0,3,42,0.6,RW,12,2022-01-22,1,25,Y,Manchester City,2,2,0.0,0.6,83.3,0,30,,59,1,D 1–1,0,,6,3,Away,0,Matchweek 23,Southampton,0
+0,,,0,,Sat,,FA Cup,0,,,,,,2022-02-05,0,,N,Manchester City,2,,,,,0,,,23,,W 4–1,0,,,,Home,0,Fourth round proper,Fulham,0
+0,6,57,0,0,Wed,2,Premier League,0,1,61,0.4,"LW,RW",16,2022-02-09,1,36,Y,Manchester City,2,3,0.1,0.4,80.0,0,45,,90,1,W 2–0,0,,9,2,Home,0,Matchweek 24,Brentford,3
+0,3,50,1,1,Sat,1,Premier League,0,4,60,1.9,LW,14,2022-02-12,4,32,Y,Manchester City,4,4,0.0,1.0,76.2,1,42,,90,1,W 4–0,0,,12,0,Away,3,Matchweek 25,Norwich City,2
+0,2,43,0,0,Tue,1,Champions Lg,1,1,43,0.0,LW,10,2022-02-15,1,32,Y,Manchester City,1,6,0.2,0.0,94.1,0,34,,90,5,W 5–0,0,,7,2,Away,1,Round of 16,Sporting CP,2
+0,2,42,0,0,Sat,0,Premier League,0,1,51,0.1,RW,12,2022-02-19,0,32,Y,Manchester City,1,6,0.1,0.1,76.2,0,42,,67,2,L 2–3,0,,6,3,Home,0,Matchweek 26,Tottenham,0
+0,3,31,0,1,Sat,0,Premier League,0,3,39,0.0,"LW,FW",9,2022-02-26,0,23,Y,Manchester City,0,1,0.0,0.0,76.7,0,30,,76,0,W 1–0,0,,6,1,Away,0,Matchweek 27,Everton,1
+,,,,,Tue,,FA Cup,,,,,,,2022-03-01,,,N,Manchester City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Fifth round proper,P'borough Utd,
+,,,,,Sun,,Premier League,,,,,,,2022-03-06,,,N,Manchester City,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Home,,Matchweek 28,Manchester Utd,
+0,4,39,0,0,Wed,0,Champions Lg,0,2,40,0.4,"FW,LW",11,2022-03-09,1,28,Y,Manchester City,2,3,0.1,0.4,87.5,0,32,,90,2,D 0–0,0,,5,0,Home,0,Round of 16,Sporting CP,0
+,,,,,Mon,,Premier League,,,,,,,2022-03-14,,,N,Manchester City,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Away,,Matchweek 29,Crystal Palace,
+0,,,0,,Sun,,FA Cup,0,,,,FW,,2022-03-20,2,,Y,Manchester City,4,,,,,0,,,90,,W 4–1,0,,,,Away,1,Quarter-finals,Southampton,0
+0,,,0,,Sat,,Friendlies (M),0,,,,,,2022-03-26,,,N,England,,,,,,0,,,29,,W 2–1,0,,,,Home,0,Friendlies (M),Switzerland,
+0,,,0,,Tue,,Friendlies (M),1,,,,AM,,2022-03-29,,,Y*,England,,,,,,0,,,61,,W 3–0,0,,,,Home,1,Friendlies (M),Côte d'Ivoire,
+0,7,39,0,0,Sat,2,Premier League,2,4,50,0.3,RW,14,2022-04-02,0,36,Y,Manchester City,2,3,0.4,0.3,85.7,0,42,,90,2,W 2–0,0,,8,1,Away,0,Matchweek 31,Burnley,1
+0,1,35,0,2,Tue,0,Champions Lg,0,1,36,0.1,"LW,FW",3,2022-04-05,0,26,Y,Manchester City,1,4,0.0,0.1,96.3,0,27,,67,3,W 1–0,0,,5,0,Home,0,Quarter-finals,Atlético Madrid,0
+0,1,13,0,0,Sun,0,Premier League,0,0,18,0.5,FW,20,2022-04-10,1,7,Y,Manchester City,1,0,0.1,0.5,70.0,0,10,,74,0,D 2–2,0,,0,0,Home,0,Matchweek 32,Liverpool,0
+0,1,8,0,1,Wed,0,Champions Lg,0,1,13,0.0,FW,6,2022-04-13,0,6,N,Manchester City,0,0,0.4,0.0,100.0,0,6,,26,0,D 0–0,0,,2,0,Away,0,Quarter-finals,Atlético Madrid,0
+0,,,0,,Sat,,FA Cup,0,,,,FW,,2022-04-16,1,,Y,Manchester City,2,,,,,0,,,90,,L 2–3,0,,,,Home,0,Semi-finals,Liverpool,0
+,,,,,Wed,,Premier League,,,,,,,2022-04-20,,,N,Manchester City,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 30,Brighton,
+0,2,30,0,1,Sat,0,Premier League,0,2,38,0.2,"LW,FW,RW",14,2022-04-23,0,22,Y,Manchester City,1,4,0.0,0.2,91.7,0,24,,90,2,W 5–1,0,,7,2,Home,0,Matchweek 34,Watford,0
+0,0,2,0,0,Tue,0,Champions Lg,0,0,4,0.2,FW,4,2022-04-26,0,3,N,Manchester City,1,0,0.0,0.2,100.0,0,3,,8,0,W 4–3,0,,0,0,Home,0,Semi-finals,Real Madrid,0
+0,4,49,0,0,Sat,1,Premier League,0,1,44,0.8,RW,11,2022-04-30,0,15,Y,Manchester City,4,17,0.0,0.8,68.2,0,22,,90,12,W 4–0,0,,8,1,Away,0,Matchweek 35,Leeds United,2
+0,1,11,0,0,Wed,0,Champions Lg,0,2,14,0.0,RW,8,2022-05-04,0,7,N,Manchester City,0,2,0.0,0.0,87.5,1,8,,22,0,L 1–3,0,,2,1,Away,0,Semi-finals,Real Madrid,0
+0,5,48,0,0,Sun,0,Premier League,0,8,50,0.9,RW,15,2022-05-08,2,32,Y,Manchester City,2,4,0.2,0.9,82.1,0,39,,90,2,W 5–0,0,,10,0,Home,2,Matchweek 36,Newcastle Utd,0
+0,5,29,0,0,Wed,2,Premier League,1,2,37,1.6,"RW,LW",9,2022-05-11,1,20,Y,Manchester City,2,2,0.1,1.6,74.1,0,27,,90,0,W 5–1,0,,4,0,Away,1,Matchweek 33,Wolves,0
+,,,,,Sun,,Premier League,,,,,,,2022-05-15,,,N,Manchester City,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,Matchweek 37,West Ham,
+0,2,8,0,1,Sun,1,Premier League,1,0,10,0.0,RW,5,2022-05-22,0,5,N,Manchester City,0,1,0.5,0.0,62.5,0,8,,35,0,W 3–2,0,,0,0,Home,0,Matchweek 38,Aston Villa,0
+,,,,,Sat,,UEFA Nations League,,,,,,,2022-06-04,,,N,England,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,League A,Hungary,
+0,,,0,,Tue,,UEFA Nations League,0,,,,FW,,2022-06-07,0,,Y,England,0,,,,,0,,,90,,D 1–1,0,,,,Away,0,League A,Germany,
+0,,,0,,Sat,,UEFA Nations League,0,,,,FW,,2022-06-11,0,,Y,England,0,,,,,0,,,78,,D 0–0,0,,,,Home,0,League A,Italy,
+0,,,0,,Tue,,UEFA Nations League,0,,,,,,2022-06-14,0,,N,England,0,,,,,0,,,45,,L 0–4,0,,,,Home,0,League A,Hungary,

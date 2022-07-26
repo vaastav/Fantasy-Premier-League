@@ -1,0 +1,51 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,1,43,0,1,Fri,0,UEFA Euro,0,3,52,0.1,"RW,FW,LW",9,2021-07-02,0,30,Y,Spain,1,2,0.0,0.1,76.9,0,39,,90,0,D 1 ,0,,11,1,Away,0,Quarter-finals,Switzerland,0
+0,1,29,0,2,Tue,0,UEFA Euro,0,2,32,0.1,LW,12,2021-07-06,0,20,Y,Spain,2,2,0.0,0.1,83.3,0,24,,61,2,D 1 ,0,,3,0,Away,0,Semi-finals,Italy,1
+0,,,0,,Sat,,Community Shield,,,,,FW,,2021-08-07,0,,Y,Manchester City,0,,,,,0,,,73,,L 0–1,0,,,,Neutral,0,FA Community Shield,Leicester City,0
+0,2,15,0,2,Sun,0,Premier League,0,2,25,0.5,"FW,RW",6,2021-08-15,1,13,Y,Manchester City,2,1,0.0,0.5,68.4,0,19,,90,1,L 0–1,0,,1,1,Away,0,Matchweek 1,Tottenham,0
+0,0,19,0,1,Sat,0,Premier League,0,0,20,0.1,FW,11,2021-08-21,0,12,Y,Manchester City,3,1,0.0,0.1,80.0,0,15,,60,1,W 5–0,0,,1,0,Home,0,Matchweek 2,Norwich City,0
+0,2,25,0,2,Sat,2,Premier League,1,0,37,1.1,FW,12,2021-08-28,2,23,Y,Manchester City,4,3,0.0,1.1,82.1,0,28,,90,2,W 5–0,0,,0,0,Home,2,Matchweek 3,Arsenal,1
+0,,,0,,Thu,,WCQ,0,,,,FW,,2021-09-02,0,,Y,Spain,2,,,,,0,,,90,,L 1–2,0,,,,Away,0,First round,Sweden,0
+0,,,0,,Sun,,WCQ,0,,,,FW,,2021-09-05,2,,Y,Spain,3,,,,,0,,,59,,W 4–0,0,,,,Home,1,First round,Georgia,1
+0,,,0,,Wed,,WCQ,0,,,,FW,,2021-09-08,1,,Y,Spain,3,,,,,0,,,90,,W 2–0,0,,,,Away,1,First round,Kosovo,0
+0,1,13,0,1,Sat,0,Premier League,0,0,22,0.7,FW,9,2021-09-11,1,7,Y,Manchester City,4,0,0.0,0.7,70.0,0,10,,63,0,W 1–0,0,,0,0,Away,0,Matchweek 4,Leicester City,0
+0,3,12,0,1,Wed,1,Champions Lg,0,0,20,0.2,FW,13,2021-09-15,1,9,Y,Manchester City,3,3,0.1,0.2,90.0,0,10,,70,1,W 6–3,0,,1,0,Home,0,Group stage,RB Leipzig,0
+,,,,,Sat,,Premier League,,,,,,,2021-09-18,,,N,Manchester City,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Matchweek 5,Southampton,
+0,,,0,,Tue,,EFL Cup,0,,,,FW,,2021-09-21,3,,Y,Manchester City,5,,,,,0,,,71,,W 6–1,0,,,,Home,1,Third round,Wycombe,0
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Manchester City,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Chelsea,
+,,,,,Tue,,Champions Lg,,,,,,,2021-09-28,,,N,Manchester City,,,,,,,,,,,L 0–2,,"On matchday squad, but did not play",,,Away,,Group stage,Paris S-G,
+,,,,,Sun,,Premier League,,,,,,,2021-10-03,,,N,Manchester City,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,Matchweek 7,Liverpool,
+0,,,0,,Wed,,UEFA Nations League,0,,,,FW,,2021-10-06,0,,Y,Spain,0,,,,,0,,,48,,W 2–1,0,,,,Neutral,2,Semi-finals,Italy,0
+0,,,0,,Sun,,UEFA Nations League,0,,,,FW,,2021-10-10,0,,Y,Spain,0,,,,,0,,,83,,L 1–2,0,,,,Neutral,0,Final,France,0
+0,,,0,,Wed,,Supercopa de España,0,,,,FW,,2022-01-12,0,,Y,Barcelona,1,,,,,1,,,45,,L 2–3,0,,,,Home,0,Semi-finals,Real Madrid,0
+0,,,0,,Thu,,Copa del Rey,0,,,,FW,,2022-01-20,1,,Y,Barcelona,2,,,,,0,,,60,,L 2–3,0,,,,Away,1,Round of 16,Athletic Club,0
+0,2,56,0,1,Sun,1,La Liga,1,1,60,0.0,"RW,LW,WB",1,2022-01-23,0,42,Y,Barcelona,1,1,0.5,0.0,82.4,0,51,,90,1,W 1–0,0,,3,0,Away,0,Matchweek 22,Alavés,0
+0,1,34,0,1,Sun,1,La Liga,1,2,54,0.4,"FW,LM,RW",10,2022-02-06,0,35,Y,Barcelona,2,1,0.0,0.4,89.7,0,39,,90,0,W 4–2,0,,2,1,Home,0,Matchweek 23,Atlético Madrid,0
+0,0,23,0,1,Sun,0,La Liga,0,1,36,0.3,"FW,LW,AM",11,2022-02-13,0,22,Y,Barcelona,3,3,0.0,0.3,88.0,0,25,,90,2,D 2–2,0,,2,0,Away,0,Matchweek 24,Espanyol,1
+1,3,61,1,2,Thu,0,Europa Lg,0,6,81,1.6,LW,20,2022-02-17,0,44,Y,Barcelona,8,6,0.1,0.8,80.0,0,55,,90,1,D 1–1,0,,11,0,Home,1,Knockout round play-offs,Napoli,1
+0,0,32,0,0,Sun,0,La Liga,0,3,36,0.0,"LW,RW",17,2022-02-20,0,19,Y,Barcelona,0,7,0.0,0.0,73.1,0,26,,90,1,W 4–1,0,,3,2,Away,0,Matchweek 25,Valencia,0
+0,5,48,0,2,Thu,2,Europa Lg,1,3,56,0.1,"LW,RW",18,2022-02-24,1,39,Y,Barcelona,3,4,0.0,0.1,92.9,0,42,,81,3,W 4–2,0,,7,0,Away,0,Knockout round play-offs,Napoli,1
+0,3,39,0,0,Sun,0,La Liga,0,5,45,0.6,LW,8,2022-02-27,2,28,Y,Barcelona,5,3,0.3,0.6,90.3,0,31,,66,1,W 4–0,0,,6,0,Home,0,Matchweek 26,Athletic Club,1
+0,0,24,0,0,Sun,0,La Liga,0,1,24,1.5,"LW,FW",12,2022-03-06,3,11,N,Barcelona,6,5,0.0,1.5,68.8,0,16,,45,4,W 2–1,0,,4,1,Away,1,Matchweek 27,Elche,0
+0,0,19,0,1,Thu,0,Europa Lg,0,1,22,0.0,FW,8,2022-03-10,0,9,Y,Barcelona,0,1,0.0,0.0,60.0,0,15,,45,0,D 0–0,0,,1,0,Home,0,Round of 16,Galatasaray,0
+1,3,60,1,1,Sun,0,La Liga,0,3,63,1.2,LW,14,2022-03-13,1,41,Y,Barcelona,5,2,0.0,0.5,83.7,0,49,,79,1,W 4–0,0,,8,1,Home,2,Matchweek 28,Osasuna,1
+0,2,47,0,1,Thu,0,Europa Lg,1,3,64,0.1,LW,8,2022-03-17,0,42,Y,Barcelona,2,5,0.4,0.1,80.8,0,52,,90,2,W 2–1,0,,6,1,Away,0,Round of 16,Galatasaray,3
+0,5,44,0,0,Sun,1,La Liga,1,3,52,1.1,LW,21,2022-03-20,2,36,Y,Barcelona,6,0,0.8,1.1,87.8,0,41,,90,0,W 4–0,0,,9,1,Away,1,Matchweek 29,Real Madrid,2
+0,,,0,,Sat,,Friendlies (M),0,,,,FW,,2022-03-26,,,Y,Spain,,,,,,0,,,90,,W 2–1,0,,,,Home,1,Friendlies (M),Albania,
+0,,,0,,Tue,,Friendlies (M),0,,,,,,2022-03-29,,,N,Spain,,,,,,0,,,33,,W 5–0,0,,,,Home,0,Friendlies (M),Iceland,
+0,3,49,0,2,Sun,0,La Liga,0,3,65,0.8,LW,6,2022-04-03,3,43,Y,Barcelona,5,2,0.0,0.8,86.0,0,50,,90,0,W 1–0,0,,16,0,Home,0,Matchweek 30,Sevilla,0
+0,4,40,0,1,Thu,1,Europa Lg,0,5,46,0.2,LW,6,2022-04-07,2,27,Y,Barcelona,3,9,0.1,0.2,87.1,0,31,,90,4,D 1–1,0,,4,0,Away,1,Quarter-finals,Eint Frankfurt,1
+0,1,31,0,2,Sun,0,La Liga,0,4,42,0.2,LW,12,2022-04-10,3,26,Y,Barcelona,4,0,0.0,0.2,89.7,0,29,,90,0,W 3–2,0,,6,1,Away,0,Matchweek 31,Levante,0
+0,0,29,0,0,Thu,0,Europa Lg,0,1,37,0.0,"LW,AM,FW",7,2022-04-14,0,20,Y,Barcelona,0,6,0.0,0.0,74.1,0,27,,79,3,L 2–3,0,,2,1,Home,0,Quarter-finals,Eint Frankfurt,0
+0,2,42,0,0,Mon,0,La Liga,0,3,58,0.1,"LW,CM",11,2022-04-18,0,36,Y,Barcelona,2,5,0.0,0.1,87.8,1,41,,90,0,L 0–1,0,,5,1,Home,0,Matchweek 32,Cádiz,0
+0,4,37,0,0,Thu,1,La Liga,1,3,46,0.1,LW,12,2022-04-21,0,28,Y,Barcelona,2,3,1.1,0.1,84.8,0,33,,90,1,W 1–0,0,,6,1,Away,0,Matchweek 33,Real Sociedad,2
+0,1,15,0,1,Sun,0,La Liga,0,3,24,0.1,LW,4,2022-04-24,0,11,Y,Barcelona,1,3,0.0,0.1,68.8,0,16,,59,0,L 0–1,0,,1,0,Home,0,Matchweek 21,Rayo Vallecano,0
+0,2,23,0,1,Sun,1,La Liga,0,1,26,0.1,RW,4,2022-05-01,0,21,Y,Barcelona,1,0,0.0,0.1,91.3,0,23,,74,0,W 2–1,0,,4,0,Home,0,Matchweek 34,Mallorca,0
+0,2,21,0,1,Sat,0,La Liga,0,1,29,0.4,"FW,LW",15,2022-05-07,1,20,Y,Barcelona,3,1,0.1,0.4,90.9,0,22,,74,1,W 2–1,0,,6,0,Away,0,Matchweek 35,Betis,0
+0,0,11,0,0,Tue,0,La Liga,0,1,18,0.0,LW,14,2022-05-10,0,6,Y,Barcelona,0,0,0.0,0.0,60.0,0,10,,45,0,W 3–1,0,,2,0,Home,0,Matchweek 36,Celta Vigo,1
+0,0,46,0,1,Sun,0,La Liga,0,1,56,0.1,RW,12,2022-05-15,1,36,Y,Barcelona,3,3,0.0,0.1,80.0,0,45,,90,1,D 0–0,0,,4,0,Away,0,Matchweek 37,Getafe,0
+0,4,41,0,0,Sun,0,La Liga,0,4,50,0.1,"LW,FW",5,2022-05-22,2,34,Y,Barcelona,3,0,0.1,0.1,85.0,0,40,,70,0,L 0–2,0,,9,0,Home,0,Matchweek 38,Villarreal,0
+0,,,0,,Thu,,UEFA Nations League,0,,,,FW,,2022-06-02,0,,Y,Spain,0,,,,,0,,,61,,D 1–1,0,,,,Home,0,League A,Portugal,
+0,,,0,,Sun,,UEFA Nations League,0,,,,,,2022-06-05,0,,N,Spain,0,,,,,0,,,45,,D 2–2,0,,,,Away,0,League A,Czech Republic,
+0,,,0,,Thu,,UEFA Nations League,0,,,,FW,,2022-06-09,0,,Y,Spain,0,,,,,0,,,90,,W 1–0,0,,,,Away,0,League A,Switzerland,
+0,,,0,,Sun,,UEFA Nations League,0,,,,,,2022-06-12,0,,N,Spain,0,,,,,0,,,32,,W 2–0,0,,,,Home,0,League A,Czech Republic,

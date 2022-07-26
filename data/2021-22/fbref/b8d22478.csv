@@ -1,0 +1,30 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,3,36,0,0,Sun,0,Ligue 1,0,4,40,0.2,"LW,FW",12,2021-08-08,3,28,Y,Bordeaux,3,5,0.0,0.2,96.6,1,29,,71,3,L 0–2,0,,6,3,Home,0,Matchweek 1,Clermont Foot,0
+0,0,5,0,0,Sun,0,Ligue 1,0,0,6,0.0,FW,2,2021-08-15,0,3,Y,Bordeaux,0,0,0.0,0.0,75.0,0,4,,13,0,D 2–2,0,,1,0,Away,0,Matchweek 2,Marseille,0
+0,0,6,0,0,Sun,0,Ligue 1,0,0,6,0.0,FW,2,2021-08-22,0,2,N,Bordeaux,0,1,0.0,0.0,66.7,0,3,,10,1,D 1–1,0,,0,0,Home,0,Matchweek 3,Angers,0
+0,1,23,0,0,Sat,0,Ligue 1,0,1,26,0.1,LW,4,2021-08-28,1,13,N,Bordeaux,3,3,0.0,0.1,68.4,0,19,,45,2,L 0–4,0,,4,1,Away,0,Matchweek 4,Nice,0
+0,,,0,,Fri,,WCQ,0,,,,,,2021-09-03,,,N,Nigeria,,,,,,0,,,13,,W 2–0,0,,,,Home,0,Second round,Liberia,
+,,,,,Sat,,Ligue 1,,,,,,,2021-09-18,,,N,Bordeaux,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Saint-Étienne,
+0,1,23,0,0,Wed,0,Ligue 1,0,1,24,0.1,"AM,WB",5,2021-09-22,2,11,N,Bordeaux,2,3,0.0,0.1,68.8,0,16,,45,2,D 3–3,0,,2,1,Away,1,Matchweek 7,Montpellier,1
+0,0,13,0,0,Sun,0,Ligue 1,0,1,15,0.0,LM,2,2021-09-26,0,9,N,Bordeaux,0,1,0.0,0.0,64.3,0,14,,24,1,D 1–1,0,,5,2,Home,0,Matchweek 8,Rennes,0
+0,1,14,0,1,Sun,0,Ligue 1,0,1,17,0.0,RW,12,2021-10-03,0,5,Y,Bordeaux,0,4,0.0,0.0,71.4,0,7,,54,2,L 0–3,0,,1,2,Away,0,Matchweek 9,Monaco,0
+0,,,0,,Thu,,WCQ,0,,,,,,2021-10-07,,,N,Nigeria,,,,,,0,,,19,,L 0–1,0,,,,Home,0,Second round,Central African Republic,
+,,,,,Sun,,WCQ,,,,,,,2021-10-10,,,N,Nigeria,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Second round,Central African Republic,
+0,0,4,0,1,Sun,0,Ligue 1,0,0,8,0.0,LW,2,2021-10-17,0,3,N,Bordeaux,0,0,0.0,0.0,75.0,0,4,,9,0,D 1–1,0,,0,1,Home,0,Matchweek 10,Nantes,0
+,,,,,Sun,,Ligue 1,,,,,,,2021-10-24,,,N,Bordeaux,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Matchweek 11,Lorient,
+0,4,17,0,0,Sun,2,Ligue 1,1,3,23,0.3,LW,3,2021-10-31,2,10,N,Bordeaux,4,2,0.2,0.3,66.7,0,15,,45,2,W 3–2,0,,4,1,Home,0,Matchweek 12,Reims,1
+,,,,,Sat,,Ligue 1,,,,,,,2021-11-06,,,N,Bordeaux,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Paris S-G,
+0,0,7,0,0,Sun,0,Ligue 1,0,1,9,0.1,LM,1,2021-11-21,0,4,N,Bordeaux,1,0,0.0,0.1,80.0,0,5,,9,0,D 3–3,0,,0,0,Away,0,Matchweek 14,Metz,0
+0,,,0,,Sun,,Coupe de France,0,,,,,,2021-12-19,0,,N,Bordeaux,0,,,,,0,,,17,,W 10–0,0,,,,Home,0,Round of 64,AS Jumeaux de Mzouazia,0
+0,0,2,0,0,Wed,0,Ligue 1,0,1,2,0.0,LW,0,2021-12-22,0,2,N,Bordeaux,0,0,0.0,0.0,100.0,0,2,,3,0,L 2–3,0,,0,0,Home,0,Matchweek 19,Lille,0
+,,,,,Tue,,Premier League,,,,,,,2022-02-08,,,N,Watford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 24,West Ham,
+,,,,,Sat,,Premier League,,,,,,,2022-02-19,,,N,Watford,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 26,Aston Villa,
+,,,,,Wed,,Premier League,,,,,,,2022-02-23,,,N,Watford,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Home,,Matchweek 18,Crystal Palace,
+0,0,4,0,0,Sun,0,Premier League,0,0,3,0.0,CM,1,2022-03-06,1,1,N,Watford,1,1,0.0,0.0,50.0,0,2,,2,1,L 2–3,0,,2,0,Home,0,Matchweek 28,Arsenal,0
+0,0,2,0,1,Thu,0,Premier League,0,0,5,0.0,LW,8,2022-03-10,0,2,N,Watford,0,0,0.0,0.0,66.7,0,3,,45,0,L 0–4,0,,1,0,Away,0,Matchweek 19,Wolves,1
+,,,,,Sun,,Premier League,,,,,,,2022-03-13,,,N,Watford,,,,,,,,,,,W 2–1,,"On matchday squad, but did not play",,,Away,,Matchweek 29,Southampton,
+,,,,,Sat,,Premier League,,,,,,,2022-04-09,,,N,Watford,,,,,,,,,,,L 0–3,,"On matchday squad, but did not play",,,Home,,Matchweek 32,Leeds United,
+,,,,,Sat,,Premier League,,,,,,,2022-04-30,,,N,Watford,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 35,Burnley,
+,,,,,Sat,,Premier League,,,,,,,2022-05-07,,,N,Watford,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 36,Crystal Palace,
+0,2,38,0,2,Wed,0,Premier League,0,4,54,0.1,"RW,LW",6,2022-05-11,0,29,Y,Watford,2,3,0.0,0.1,87.9,0,33,,85,1,D 0–0,0,,4,1,Home,0,Matchweek 30,Everton,2
+0,4,24,0,0,Sun,0,Premier League,0,3,38,0.2,"FW,LW,RW",8,2022-05-15,0,22,Y,Watford,1,1,0.2,0.2,81.5,0,27,,90,0,L 1–5,0,,6,1,Home,0,Matchweek 37,Leicester City,2

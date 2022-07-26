@@ -1,0 +1,45 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Mon,,PL2 — Div. 1,1,,,,RB,,2021-08-16,,,Y,Leeds Utd U23,,,,,,1,,,90,,W 3–1,0,,,,Away,0,Matchweek 1,Crystal Palace U23,
+,,,,,Sat,,Premier League,,,,,,,2021-08-21,,,N,Leeds United,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 2,Everton,
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,LB,,2021-08-23,,,Y,Leeds Utd U23,,,,,,0,,,90,,L 2–4,0,,,,Home,0,Matchweek 2,Tottenham,
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,RB,,2021-08-27,,,Y,Leeds Utd U23,,,,,,0,,,90,,W 3–2,0,,,,Away,0,Matchweek 3,Derby County,
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,RB,,2021-09-11,,,Y,Leeds Utd U23,,,,,,0,,,90,,D 2–2,0,,,,Home,0,Matchweek 4,West Ham,
+0,,,0,,Sun,,PL2 — Div. 1,0,,,,RB,,2021-09-19,,,Y,Leeds Utd U23,,,,,,0,,,90,,W 4–0,0,,,,Away,0,Matchweek 5,Liverpool,
+,,,,,Tue,,EFL Cup,,,,,,,2021-09-21,,,N,Leeds United,,,,,,,,,,,D 0 ,,"On matchday squad, but did not play",,,Away,,Third round,Fulham,
+0,,,0,,Fri,,PL2 — Div. 1,1,,,,RB,,2021-09-24,,,Y,Leeds Utd U23,,,,,,0,,,45,,D 4–4,0,,,,Home,0,Matchweek 6,Blackburn,
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Leeds United,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Home,,Matchweek 6,West Ham,
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,RB,,2021-10-01,,,Y,Leeds Utd U23,,,,,,0,,,90,,L 0–1,0,,,,Away,0,Matchweek 7,Leicester City,
+,,,,,Sat,,Premier League,,,,,,,2021-10-16,,,N,Leeds United,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 8,Southampton,
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,,,2021-10-18,,,N,Leeds Utd U23,,,,,,0,,,45,,L 2–4,0,,,,Away,0,Matchweek 8,Everton,
+,,,,,Sat,,Premier League,,,,,,,2021-10-23,,,N,Leeds United,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 9,Wolves,
+0,,,0,,Tue,,EFL Cup,0,,,,RB,,2021-10-26,0,,Y,Leeds United,0,,,,,0,,,90,,L 0–2,0,,,,Away,0,Fourth round,Arsenal,1
+0,0,4,0,0,Sun,0,Premier League,0,0,16,0.0,WB,3,2021-10-31,0,11,N,Leeds United,0,2,0.0,0.0,84.6,1,13,,20,0,W 2–1,0,,0,0,Away,0,Matchweek 10,Norwich City,0
+,,,,,Sun,,Premier League,,,,,,,2021-11-07,,,N,Leeds United,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 11,Leicester City,
+,,,,,Sun,,Premier League,,,,,,,2021-11-21,,,N,Leeds United,,,,,,,,,,,L 1–2,,"On matchday squad, but did not play",,,Away,,Matchweek 12,Tottenham,
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,RB,,2021-12-03,,,Y,Leeds Utd U23,,,,,,0,,,54,,L 1–3,0,,,,Home,0,Matchweek 14,Leicester City,
+,,,,,Sat,,Premier League,,,,,,,2021-12-11,,,N,Leeds United,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Away,,Matchweek 16,Chelsea,
+0,1,5,0,0,Tue,0,Premier League,0,1,7,0.0,"RB,LB",2,2021-12-14,0,5,N,Leeds United,0,0,0.0,0.0,71.4,0,7,,18,0,L 0–7,0,,3,0,Away,0,Matchweek 17,Manchester City,0
+0,1,36,0,2,Sat,0,Premier League,0,5,71,0.0,RB,24,2021-12-18,0,44,Y,Leeds United,0,2,0.0,0.0,77.2,0,57,,90,2,L 1–4,0,,6,6,Home,0,Matchweek 18,Arsenal,3
+0,,,0,,Sun,,FA Cup,0,,,,,,2022-01-09,0,,N,Leeds United,0,,,,,1,,,22,,L 0–2,0,,,,Away,0,Third round proper,West Ham,0
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-01-15,0,,Y,Cardiff City,1,,,,,1,,,77,,L 0–1,0,,,,Home,0,Matchweek 27,Blackburn,0
+0,,,0,,Sat,,Championship,0,,,,RM,,2022-01-22,0,,Y,Cardiff City,1,,,,,0,,,90,,L 2–3,0,,,,Away,0,Matchweek 28,Bristol City,0
+0,,,0,,Sun,,Championship,0,,,,RB,,2022-01-30,0,,Y,Cardiff City,0,,,,,1,,,90,,W 2–1,0,,,,Home,0,Matchweek 29,Nott'ham Forest,2
+0,,,0,,Wed,,Championship,0,,,,RB,,2022-02-02,0,,Y,Cardiff City,0,,,,,0,,,90,,W 1–0,0,,,,Away,0,Matchweek 30,Barnsley,0
+0,,,0,,Wed,,Championship,1,,,,RB,,2022-02-09,0,,Y,Cardiff City,0,,,,,0,,,90,,W 4–0,0,,,,Home,0,Matchweek 31,P'borough Utd,1
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-02-12,0,,Y,Cardiff City,0,,,,,0,,,90,,L 1–2,0,,,,Away,0,Matchweek 32,Millwall,2
+0,,,0,,Tue,,Championship,0,,,,RB,,2022-02-15,0,,Y,Cardiff City,0,,,,,0,,,90,,W 2–0,0,,,,Home,0,Matchweek 24,Coventry City,2
+0,,,0,,Sat,,Championship,1,,,,RB,,2022-02-19,0,,Y,Cardiff City,0,,,,,0,,,90,,D 1–1,0,,,,Home,0,Matchweek 33,Blackpool,2
+0,,,0,,Wed,,Championship,0,,,,RB,,2022-02-23,0,,Y,Cardiff City,1,,,,,0,,,90,,L 1–2,0,,,,Away,0,Matchweek 34,Huddersfield,0
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-02-26,0,,Y,Cardiff City,0,,,,,0,,,90,,L 0–1,0,,,,Home,0,Matchweek 35,Fulham,0
+0,,,0,,Tue,,Championship,0,,,,RB,,2022-03-01,0,,Y,Cardiff City,0,,,,,0,,,90,,W 1–0,0,,,,Home,0,Matchweek 23,Derby County,0
+0,,,0,,Sat,,Championship,0,,,,RM,,2022-03-05,0,,Y,Cardiff City,0,,,,,0,,,90,,W 2–1,0,,,,Away,0,Matchweek 36,QPR,2
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-03-12,0,,Y,Cardiff City,1,,,,,0,,,90,,D 0–0,0,,,,Home,0,Matchweek 37,Preston,1
+0,,,0,,Wed,,Championship,1,,,,RB,,2022-03-16,0,,Y,Cardiff City,1,,,,,0,,,90,,W 2–1,0,,,,Home,0,Matchweek 38,Stoke City,2
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-04-02,0,,Y,Cardiff City,1,,,,,0,,,90,,L 0–4,0,,,,Home,0,Matchweek 40,Swansea City,1
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-04-09,0,,Y,Cardiff City,0,,,,,0,,,90,,W 2–1,0,,,,Away,0,Matchweek 41,Reading,2
+0,,,0,,Fri,,Championship,0,,,,RM,,2022-04-15,0,,Y,Cardiff City,0,,,,,0,,,90,,L 1–2,0,,,,Away,0,Matchweek 42,Hull City,0
+0,,,0,,Mon,,Championship,0,,,,RB,,2022-04-18,0,,Y,Cardiff City,0,,,,,0,,,90,,L 0–1,0,,,,Home,0,Matchweek 43,Luton Town,1
+0,,,0,,Sat,,Championship,0,,,,DM,,2022-04-23,0,,Y,Cardiff City,0,,,,,0,,,45,,L 0–1,0,,,,Away,0,Matchweek 44,Sheffield Utd,0
+0,,,0,,Wed,,Championship,0,,,,RB,,2022-04-27,0,,Y,Cardiff City,0,,,,,0,,,90,,L 0–2,0,,,,Away,0,Matchweek 39,Middlesbrough,2
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-04-30,1,,Y,Cardiff City,1,,,,,1,,,90,,D 1–1,0,,,,Home,0,Matchweek 45,Birmingham City,0
+0,,,0,,Sat,,Championship,0,,,,RB,,2022-05-07,0,,Y,Cardiff City,0,,,,,0,,,90,,W 1–0,0,,,,Away,0,Matchweek 46,Derby County,0

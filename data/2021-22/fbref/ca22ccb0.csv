@@ -1,0 +1,29 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,AM,,2021-08-28,,,Y*,Manchester Utd,,,,,,0,,,90,,L 2–4,0,,,,Home,0,Matchweek 3,Manchester City,
+0,,,0,,Sat,,PL2 — Div. 1,0,,,,AM,,2021-09-11,,,Y,Manchester Utd,,,,,,0,,,90,,L 1–3,0,,,,Away,0,Matchweek 4,Arsenal,
+0,,,0,,Fri,,PL2 — Div. 1,1,,,,AM,,2021-11-19,,,Y,Manchester Utd,,,,,,0,,,70,,D 1–1,0,,,,Away,0,Matchweek 12,Derby County,
+0,,,0,,Wed,,Africa Cup of Nations,0,,,,FW,,2022-01-12,0,,Y,Tunisia,0,,,,,0,,,45,,L 0–1,0,,,,Neutral,0,Group stage,Mali,0
+,,,,,Sun,,Africa Cup of Nations,,,,,,,2022-01-16,,,N,Tunisia,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Neutral,,Group stage,Mauritania,
+0,,,0,,Thu,,Africa Cup of Nations,0,,,,,,2022-01-20,1,,N,Tunisia,1,,,,,0,,,23,,L 0–1,0,,,,Neutral,0,Group stage,Gambia,0
+,,,,,Sun,,Africa Cup of Nations,,,,,,,2022-01-23,,,N,Tunisia,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Neutral,,Round of 16,Nigeria,
+,,,,,Sat,,Africa Cup of Nations,,,,,,,2022-01-29,,,N,Tunisia,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Neutral,,Quarter-finals,Burkina Faso,
+,,,,,Fri,,FA Cup,,,,,,,2022-02-04,,,N,Manchester Utd,,,,,,,,,,,D 1 ,,"On matchday squad, but did not play",,,Home,,Fourth round proper,Middlesbrough,
+,,,,,Sat,,Premier League,,,,,,,2022-02-12,,,N,Manchester Utd,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 25,Southampton,
+0,,,0,,Sun,,PL2 — Div. 1,0,,,,AM,,2022-02-20,,,Y,Manchester Utd,,,,,,1,,,90,,D 2–2,0,,,,Away,0,Matchweek 20,Crystal Palace U23,
+,,,,,Wed,,Champions Lg,,,,,,,2022-02-23,,,N,Manchester Utd,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Away,,Round of 16,Atlético Madrid,
+1,,,1,,Fri,,PL2 — Div. 1,1,,,,AM,,2022-02-25,,,Y,Manchester Utd,,,,,,0,,,90,,W 5–2,0,,,,Home,1,Matchweek 21,Derby County,
+,,,,,Sun,,Premier League,,,,,,,2022-03-06,,,N,Manchester Utd,,,,,,,,,,,L 1–4,,"On matchday squad, but did not play",,,Away,,Matchweek 28,Manchester City,
+0,,,0,,Tue,,PL2 — Div. 1,0,,,,AM,,2022-03-15,,,Y,Manchester Utd,,,,,,1,,,90,,L 0–3,0,,,,Away,0,Matchweek 22,Leeds Utd U23,
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,AM,,2022-03-18,,,Y,Manchester Utd,,,,,,1,,,90,,W 3–0,0,,,,Home,0,Matchweek 23,Everton,
+,,,,,Fri,,WCQ,,,,,,,2022-03-25,,,N,Tunisia,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Third round,Mali,
+0,,,0,,Tue,,WCQ,0,,,,,,2022-03-29,,,N,Tunisia,,,,,,0,,,1,,D 0–0,0,,,,Home,0,Third round,Mali,
+0,,,0,,Mon,,PL2 — Div. 1,0,,,,DM,,2022-04-04,,,Y,Manchester Utd,,,,,,1,,,90,,L 2–3,0,,,,Away,0,Matchweek 24,Leicester City,
+,,,,,Sat,,Premier League,,,,,,,2022-04-09,,,N,Manchester Utd,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 32,Everton,
+,,,,,Sat,,Premier League,,,,,,,2022-04-16,,,N,Manchester Utd,,,,,,,,,,,W 3–2,,"On matchday squad, but did not play",,,Home,,Matchweek 33,Norwich City,
+0,0,5,0,0,Tue,0,Premier League,0,0,5,0.0,RW,7,2022-04-19,0,3,N,Manchester Utd,0,0,0.0,0.0,100.0,1,3,,7,0,L 0–4,0,,1,0,Away,0,Matchweek 30,Liverpool,0
+0,,,0,,Fri,,PL2 — Div. 1,0,,,,FW,,2022-04-22,,,Y,Manchester Utd,,,,,,0,,,90,,D 1–1,0,,,,Home,0,Matchweek 25,Arsenal,
+,,,,,Thu,,Premier League,,,,,,,2022-04-28,,,N,Manchester Utd,,,,,,,,,,,D 1–1,,"On matchday squad, but did not play",,,Home,,Matchweek 37,Chelsea,
+0,,,0,,Sun,,PL2 — Div. 1,0,,,,FW,,2022-05-01,,,Y,Manchester Utd,,,,,,1,,,69,,L 1–3,0,,,,Away,0,Matchweek 26,Liverpool,
+0,0,21,0,0,Sun,0,Premier League,0,0,27,0.1,LW,25,2022-05-22,1,14,Y,Manchester Utd,1,2,0.0,0.1,77.8,1,18,,61,1,L 0–1,0,,1,0,Away,0,Matchweek 38,Crystal Palace,1
+0,,,0,,Thu,,Africa Cup of Nations qualification,0,,,,CM,,2022-06-02,,,Y,Tunisia,,,,,,1,,,74,,W 4–0,0,,,,Home,0,Group stage,Equatorial Guinea,
+0,,,0,,Sun,,Africa Cup of Nations qualification,0,,,,,,2022-06-05,,,N,Tunisia,,,,,,0,,,1,,D 0–0,0,,,,Away,0,Group stage,Botswana,

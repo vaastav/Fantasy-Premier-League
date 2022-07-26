@@ -1,0 +1,53 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,29,0,0,Sat,0,Premier League,0,1,44,0.0,DM,15,2021-08-14,0,33,Y,Wolves,1,0,0.3,0.0,86.8,0,38,,65,0,L 0–1,0,,2,2,Away,0,Matchweek 1,Leicester City,4
+0,4,35,0,0,Sun,0,Premier League,0,4,44,0.1,DM,21,2021-08-22,0,33,Y,Wolves,1,1,0.1,0.1,86.8,0,38,,71,1,L 0–1,0,,6,2,Home,0,Matchweek 2,Tottenham,1
+0,,,0,,Tue,,EFL Cup,0,,,,DM,,2021-08-24,0,,Y,Wolves,0,,,,,0,,,90,,W 4–0,0,,,,Away,0,Second round,Nott'ham Forest,2
+0,2,38,0,0,Sun,0,Premier League,0,4,56,0.1,DM,16,2021-08-29,0,42,Y,Wolves,1,1,0.2,0.1,80.8,0,52,,90,0,L 0–1,0,,3,2,Home,0,Matchweek 3,Manchester Utd,1
+0,,,0,,Wed,,WCQ,0,,,,,,2021-09-01,0,,N,Portugal,1,,,,,0,,,18,,W 2–1,0,,,,Home,0,First round,Republic of Ireland,0
+0,,,0,,Sat,,Friendlies (M),0,,,,CM,,2021-09-04,,,Y*,Portugal,,,,,,0,,,58,,W 3–1,0,,,,Away,0,Friendlies (M),Qatar,
+0,,,0,,Tue,,WCQ,0,,,,CM,,2021-09-07,0,,Y*,Portugal,1,,,,,0,,,77,,W 3–0,0,,,,Away,0,First round,Azerbaijan,1
+0,5,40,0,0,Sat,0,Premier League,0,4,56,0.1,DM,11,2021-09-11,0,50,Y,Wolves,1,1,0.3,0.1,92.6,0,54,,90,1,W 2–0,0,,4,0,Away,0,Matchweek 4,Watford,0
+0,1,53,0,0,Sat,0,Premier League,0,6,80,0.0,"CM,DM",18,2021-09-18,0,63,Y,Wolves,0,0,0.0,0.0,85.1,0,74,,90,0,L 0–2,0,,7,1,Home,0,Matchweek 5,Brentford,4
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-09-22,0,,N,Wolves,0,,,,,0,,,37,,D 2 ,0,,,,Home,0,Third round,Tottenham,0
+0,1,43,0,5,Sun,0,Premier League,0,4,69,0.0,"DM,CM",15,2021-09-26,0,52,Y,Wolves,0,0,0.0,0.0,89.7,0,58,,90,0,W 1–0,0,,5,2,Away,0,Matchweek 6,Southampton,0
+0,1,53,0,1,Sat,0,Premier League,0,7,75,0.0,DM,16,2021-10-02,1,62,Y,Wolves,1,0,0.0,0.0,93.9,0,66,,90,0,W 2–1,0,,2,2,Home,0,Matchweek 7,Newcastle Utd,2
+0,,,0,,Sat,,Friendlies (M),0,,,,,,2021-10-09,,,N,Portugal,,,,,,0,,,20,,W 3–0,0,,,,Home,0,Friendlies (M),Qatar,
+0,,,0,,Tue,,WCQ,0,,,,CM,,2021-10-12,0,,Y,Portugal,0,,,,,0,,,64,,W 5–0,0,,,,Home,0,First round,Luxembourg,0
+0,2,27,0,1,Sat,0,Premier League,0,4,40,0.0,DM,20,2021-10-16,0,26,Y,Wolves,0,0,0.0,0.0,76.5,0,34,,73,0,W 3–2,0,,1,2,Away,0,Matchweek 8,Aston Villa,3
+0,1,15,0,5,Sat,0,Premier League,0,0,42,0.1,DM,11,2021-10-23,0,20,Y,Wolves,1,0,0.0,0.1,69.0,1,29,,88,0,D 1–1,0,,0,2,Away,0,Matchweek 9,Leeds United,1
+0,2,50,0,0,Mon,0,Premier League,0,5,78,0.0,DM,25,2021-11-01,0,64,Y,Wolves,0,0,0.1,0.0,88.9,0,72,,90,0,W 2–1,0,,4,1,Home,0,Matchweek 10,Everton,1
+0,1,35,0,2,Sat,0,Premier League,0,1,59,0.0,DM,15,2021-11-06,1,41,Y,Wolves,1,2,0.1,0.0,83.7,1,49,,90,2,L 0–2,0,,2,5,Away,0,Matchweek 11,Crystal Palace,2
+0,,,0,,Thu,,WCQ,0,,,,,,2021-11-11,1,,N,Portugal,1,,,,,0,,,34,,D 0–0,0,,,,Away,0,First round,Republic of Ireland,0
+0,,,0,,Sun,,WCQ,0,,,,CM,,2021-11-14,0,,Y,Portugal,1,,,,,1,,,63,,L 1–2,0,,,,Home,0,First round,Serbia,6
+0,3,58,0,0,Sat,0,Premier League,0,5,89,0.0,DM,17,2021-11-20,1,71,Y,Wolves,1,0,0.1,0.0,87.7,0,81,,90,0,W 1–0,0,,7,1,Home,0,Matchweek 12,West Ham,1
+0,1,67,0,1,Sat,0,Premier League,0,3,86,0.1,"DM,CM",9,2021-11-27,1,76,Y,Wolves,1,3,0.0,0.1,92.7,0,82,,90,2,D 0–0,0,,5,0,Away,0,Matchweek 13,Norwich City,2
+0,2,73,0,2,Wed,0,Premier League,0,8,94,0.0,DM,14,2021-12-01,0,78,Y,Wolves,1,0,0.2,0.0,86.7,0,90,,90,0,D 0–0,0,,14,0,Home,0,Matchweek 14,Burnley,1
+0,0,7,0,0,Sat,0,Premier League,0,0,10,0.0,CM,3,2021-12-04,0,6,N,Wolves,0,0,0.0,0.0,66.7,0,9,,12,0,L 0–1,0,,0,1,Home,0,Matchweek 15,Liverpool,2
+0,0,29,0,4,Sat,0,Premier League,0,1,44,0.0,"CM,DM",24,2021-12-11,0,29,Y,Wolves,0,2,0.0,0.0,80.6,0,36,,90,2,L 0–1,0,,1,2,Away,0,Matchweek 16,Manchester City,1
+0,1,22,0,2,Wed,0,Premier League,0,2,42,0.0,"DM,CM",34,2021-12-15,0,30,Y,Wolves,0,0,0.2,0.0,83.3,0,36,,90,0,W 1–0,0,,3,3,Away,0,Matchweek 17,Brighton,0
+0,2,37,0,2,Sun,0,Premier League,0,4,66,0.0,CM,31,2021-12-19,0,39,Y,Wolves,0,0,0.0,0.0,78.0,0,50,,90,0,D 0–0,0,,2,3,Home,0,Matchweek 18,Chelsea,6
+0,4,51,0,0,Mon,0,Premier League,0,3,74,0.1,"DM,CM",16,2022-01-03,1,55,Y,Wolves,2,0,0.1,0.1,84.6,0,65,,90,0,W 1–0,0,,2,3,Away,1,Matchweek 21,Manchester Utd,0
+0,,,0,,Sun,,FA Cup,0,,,,,,2022-01-09,0,,N,Wolves,0,,,,,0,,,45,,W 3–0,0,,,,Home,0,Third round proper,Sheffield Utd,0
+0,1,30,0,1,Sat,0,Premier League,0,1,47,0.0,DM,22,2022-01-15,0,27,Y,Wolves,0,0,0.0,0.0,69.2,0,39,,90,0,W 3–1,0,,3,2,Home,0,Matchweek 22,Southampton,2
+0,4,37,0,2,Sat,2,Premier League,1,5,86,0.1,CM,11,2022-01-22,1,55,Y,Wolves,1,0,0.1,0.1,75.3,0,73,,90,0,W 2–1,0,,4,5,Away,1,Matchweek 23,Brentford,1
+0,,,0,,Sat,,FA Cup,0,,,,CM,,2022-02-05,0,,Y,Wolves,0,,,,,0,,,90,,L 0–1,0,,,,Home,0,Fourth round proper,Norwich City,1
+0,4,15,0,5,Sun,0,Premier League,0,1,37,0.0,CM,10,2022-02-20,0,22,Y,Wolves,0,0,0.1,0.0,81.5,0,27,,57,0,W 2–1,0,,2,2,Home,0,Matchweek 26,Leicester City,2
+0,0,29,0,1,Thu,0,Premier League,0,1,58,0.0,DM,17,2022-02-24,0,35,Y,Wolves,1,1,0.0,0.0,79.5,0,44,,90,0,L 1–2,0,,4,2,Away,0,Matchweek 20,Arsenal,1
+,,,,,Sun,,Premier League,,,,,,,2022-02-27,,,N,Wolves,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Away,,Matchweek 27,West Ham,
+0,1,45,0,2,Sat,0,Premier League,0,6,83,0.0,DM,19,2022-03-05,0,59,Y,Wolves,0,0,0.1,0.0,79.7,0,74,,90,0,L 0–2,0,,5,2,Home,0,Matchweek 28,Crystal Palace,2
+0,0,57,0,1,Thu,0,Premier League,0,4,82,0.0,DM,13,2022-03-10,0,71,Y,Wolves,0,0,0.0,0.0,94.7,0,75,,90,0,W 4–0,0,,3,4,Home,0,Matchweek 19,Watford,0
+0,2,61,0,3,Sun,0,Premier League,0,11,92,0.0,CM,19,2022-03-13,1,72,Y,Wolves,1,2,0.1,0.0,92.3,0,78,,90,2,W 1–0,0,,7,5,Away,0,Matchweek 29,Everton,2
+0,4,43,0,1,Fri,2,Premier League,0,6,58,0.0,DM,19,2022-03-18,0,40,Y,Wolves,0,0,0.0,0.0,76.9,0,52,,90,0,L 2–3,0,,0,2,Home,0,Matchweek 30,Leeds United,2
+0,,,0,,Thu,,WCQ,0,,,,CM,,2022-03-24,0,,Y,Portugal,0,,,,,1,,,87,,W 3–1,0,,,,Home,0,Semi-finals,Turkey,1
+0,,,0,,Tue,,WCQ,0,,,,CM,,2022-03-29,0,,Y,Portugal,0,,,,,0,,,89,,W 2–0,0,,,,Home,0,Finals,North Macedonia,3
+0,2,40,0,2,Sat,0,Premier League,0,3,69,0.1,DM,24,2022-04-02,0,51,Y,Wolves,1,1,0.1,0.1,86.4,0,59,,90,1,W 2–1,0,,5,4,Home,0,Matchweek 31,Aston Villa,0
+0,2,65,0,2,Fri,0,Premier League,0,3,92,0.0,DM,17,2022-04-08,0,64,Y,Wolves,0,1,0.0,0.0,77.1,1,83,,90,1,L 0–1,0,,10,5,Away,0,Matchweek 32,Newcastle Utd,0
+0,3,67,0,1,Sun,0,Premier League,0,4,100,0.0,DM,14,2022-04-24,0,71,Y,Wolves,1,2,0.0,0.0,81.6,0,87,,90,1,L 0–1,0,,10,2,Away,0,Matchweek 34,Burnley,2
+0,3,52,0,2,Sat,0,Premier League,0,10,82,0.1,"DM,CM",25,2022-04-30,0,65,Y,Wolves,2,3,0.1,0.1,87.8,0,74,,90,2,L 0–3,0,,6,4,Home,0,Matchweek 35,Brighton,0
+0,0,32,0,1,Sat,0,Premier League,0,4,51,0.0,"CM,DM",26,2022-05-07,0,34,Y,Wolves,0,1,0.0,0.0,73.9,1,46,,90,0,D 2–2,0,,3,1,Away,0,Matchweek 36,Chelsea,1
+0,2,17,0,0,Wed,0,Premier League,0,3,32,0.0,CM,17,2022-05-11,0,23,Y,Wolves,0,0,0.0,0.0,76.7,0,30,,84,0,L 1–5,0,,0,1,Home,0,Matchweek 33,Manchester City,0
+0,4,60,0,1,Sun,0,Premier League,0,7,88,0.0,DM,10,2022-05-15,0,72,Y,Wolves,1,3,0.1,0.0,87.8,0,82,,90,2,D 1–1,0,,9,0,Home,0,Matchweek 37,Norwich City,1
+0,1,34,0,2,Sun,0,Premier League,0,3,54,0.0,CM,14,2022-05-22,0,40,Y,Wolves,0,1,0.0,0.0,85.1,0,47,,90,0,L 1–3,0,,1,1,Away,0,Matchweek 38,Liverpool,0
+0,,,0,,Thu,,UEFA Nations League,0,,,,CM,,2022-06-02,0,,Y*,Portugal,0,,,,,1,,,45,,D 1–1,0,,,,Away,0,League A,Spain,
+,,,,,Sun,,UEFA Nations League,,,,,,,2022-06-05,,,N,Portugal,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,League A,Switzerland,
+0,,,0,,Thu,,UEFA Nations League,0,,,,,,2022-06-09,0,,N,Portugal,0,,,,,0,,,2,,W 2–0,0,,,,Home,0,League A,Czech Republic,

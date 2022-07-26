@@ -1,0 +1,74 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,2,47,0,1,Sat,0,Premier League,0,6,82,0.1,LB,16,2021-08-14,1,43,Y,Liverpool,2,2,0.1,0.1,65.2,0,66,,90,1,W 3–0,0,,7,3,Away,0,Matchweek 1,Norwich City,2
+0,5,32,0,2,Sat,1,Premier League,1,5,64,0.0,LB,14,2021-08-21,0,41,Y,Liverpool,0,0,0.3,0.0,78.8,0,52,,89,0,W 2–0,0,,5,2,Home,0,Matchweek 2,Burnley,1
+0,1,4,0,1,Sat,0,Premier League,0,0,7,0.0,LB,1,2021-08-28,0,2,N,Liverpool,0,0,0.1,0.0,40.0,0,5,,5,0,D 1–1,0,,2,0,Home,0,Matchweek 3,Chelsea,0
+0,,,0,,Wed,,Friendlies (M),0,,,,LB,,2021-09-01,,,Y,Greece,,,,,,0,,,45,,L 1–2,0,,,,Away,0,Friendlies (M),Switzerland,
+0,,,0,,Sun,,WCQ,0,,,,LB,,2021-09-05,0,,Y,Greece,0,,,,,0,,,87,,D 1–1,0,,,,Away,0,First round,Kosovo,0
+0,,,0,,Wed,,WCQ,0,,,,LM,,2021-09-08,1,,Y,Greece,1,,,,,0,,,90,,W 2–1,0,,,,Home,0,First round,Sweden,1
+,,,,,Sun,,Premier League,,,,,,,2021-09-12,,,N,Liverpool,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Away,,Matchweek 4,Leeds United,
+,,,,,Wed,,Champions Lg,,,,,,,2021-09-15,,,N,Liverpool,,,,,,,,,,,W 3–2,,"On matchday squad, but did not play",,,Home,,Group stage,Milan,
+0,6,31,0,2,Sat,1,Premier League,0,5,66,0.0,LB,13,2021-09-18,0,38,Y,Liverpool,1,3,0.4,0.0,71.7,1,53,,90,0,W 3–0,0,,5,2,Home,0,Matchweek 5,Crystal Palace,2
+0,,,0,,Tue,,EFL Cup,1,,,,LB,,2021-09-21,0,,Y,Liverpool,0,,,,,0,,,65,,W 3–0,0,,,,Away,0,Third round,Norwich City,1
+,,,,,Sat,,Premier League,,,,,,,2021-09-25,,,N,Liverpool,,,,,,,,,,,D 3–3,,"On matchday squad, but did not play",,,Away,,Matchweek 6,Brentford,
+,,,,,Tue,,Champions Lg,,,,,,,2021-09-28,,,N,Liverpool,,,,,,,,,,,W 5–1,,"On matchday squad, but did not play",,,Away,,Group stage,Porto,
+,,,,,Sun,,Premier League,,,,,,,2021-10-03,,,N,Liverpool,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 7,Manchester City,
+0,,,0,,Sat,,WCQ,0,,,,LM,,2021-10-09,0,,Y,Greece,0,,,,,0,,,90,,W 2–0,0,,,,Away,0,First round,Georgia,0
+0,,,0,,Tue,,WCQ,0,,,,LB,,2021-10-12,0,,Y,Greece,0,,,,,0,,,90,,L 0–2,0,,,,Away,0,First round,Sweden,2
+0,0,17,0,0,Sat,0,Premier League,0,1,22,0.0,LB,9,2021-10-16,0,12,N,Liverpool,0,0,0.0,0.0,63.2,0,19,,27,0,W 5–0,0,,3,2,Away,0,Matchweek 8,Watford,0
+,,,,,Tue,,Champions Lg,,,,,,,2021-10-19,,,N,Liverpool,,,,,,,,,,,W 3–2,,"On matchday squad, but did not play",,,Away,,Group stage,Atlético Madrid,
+,,,,,Sun,,Premier League,,,,,,,2021-10-24,,,N,Liverpool,,,,,,,,,,,W 5–0,,"On matchday squad, but did not play",,,Away,,Matchweek 9,Manchester Utd,
+0,,,0,,Wed,,EFL Cup,0,,,,LB,,2021-10-27,0,,Y,Liverpool,0,,,,,0,,,90,,W 2–0,0,,,,Away,0,Fourth round,Preston,1
+,,,,,Sat,,Premier League,,,,,,,2021-10-30,,,N,Liverpool,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Home,,Matchweek 10,Brighton,
+0,5,47,0,0,Wed,0,Champions Lg,0,3,64,0.0,LB,10,2021-11-03,0,50,Y,Liverpool,0,1,0.6,0.0,83.3,0,60,,90,1,W 2–0,0,,8,1,Home,0,Group stage,Atlético Madrid,1
+,,,,,Sun,,Premier League,,,,,,,2021-11-07,,,N,Liverpool,,,,,,,,,,,L 2–3,,"On matchday squad, but did not play",,,Away,,Matchweek 11,West Ham,
+0,,,0,,Thu,,WCQ,0,,,,CB,,2021-11-11,0,,Y,Greece,0,,,,,1,,,90,,L 0–1,0,,,,Home,0,First round,Spain,1
+0,,,0,,Sun,,WCQ,0,,,,CM,,2021-11-14,1,,Y,Greece,2,,,,,0,,,90,,D 1–1,0,,,,Home,0,First round,Kosovo,1
+0,2,50,0,0,Sat,0,Premier League,0,4,67,0.0,LB,15,2021-11-20,0,44,Y,Liverpool,0,2,0.4,0.0,74.6,0,59,,90,1,W 4–0,0,,7,4,Home,0,Matchweek 12,Arsenal,0
+0,1,27,0,1,Wed,0,Champions Lg,0,3,48,0.0,LB,10,2021-11-24,0,26,Y,Liverpool,0,1,0.0,0.0,65.0,0,40,,62,1,W 2–0,0,,8,0,Home,0,Group stage,Porto,5
+,,,,,Sat,,Premier League,,,,,,,2021-11-27,,,N,Liverpool,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,Matchweek 13,Southampton,
+,,,,,Wed,,Premier League,,,,,,,2021-12-01,,,N,Liverpool,,,,,,,,,,,W 4–1,,"On matchday squad, but did not play",,,Away,,Matchweek 14,Everton,
+,,,,,Sat,,Premier League,,,,,,,2021-12-04,,,N,Liverpool,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 15,Wolves,
+0,3,43,0,2,Tue,0,Champions Lg,0,7,77,0.0,LB,16,2021-12-07,0,42,Y,Liverpool,0,4,0.0,0.0,65.6,0,64,,90,3,W 2–1,0,,8,4,Away,0,Group stage,Milan,1
+,,,,,Sat,,Premier League,,,,,,,2021-12-11,,,N,Liverpool,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Home,,Matchweek 16,Aston Villa,
+,,,,,Thu,,Premier League,,,,,,,2021-12-16,,,N,Liverpool,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Matchweek 17,Newcastle Utd,
+0,0,9,0,0,Sun,0,Premier League,0,0,13,0.0,"LB,WB",1,2021-12-19,0,11,N,Liverpool,0,0,0.0,0.0,84.6,1,13,,9,0,D 2–2,0,,4,0,Away,0,Matchweek 18,Tottenham,1
+0,,,0,,Wed,,EFL Cup,0,,,,LB,,2021-12-22,0,,Y,Liverpool,3,,,,,0,,,79,,D 3 ,0,,,,Home,0,Quarter-finals,Leicester City,0
+0,4,60,0,0,Tue,0,Premier League,0,6,87,0.0,LB,14,2021-12-28,0,66,Y,Liverpool,0,1,0.2,0.0,78.6,0,84,,90,1,L 0–1,0,,14,0,Away,0,Matchweek 20,Leicester City,2
+0,1,36,0,4,Sun,0,Premier League,0,2,68,0.0,LB,13,2022-01-02,0,36,Y,Liverpool,1,2,0.1,0.0,63.2,0,57,,90,2,D 2–2,0,,4,1,Away,0,Matchweek 21,Chelsea,2
+0,,,0,,Sun,,FA Cup,0,,,,,,2022-01-09,0,,N,Liverpool,0,,,,,0,,,1,,W 4–1,0,,,,Home,0,Third round proper,Shrewsbury,0
+,,,,,Thu,,EFL Cup,,,,,,,2022-01-13,,,N,Liverpool,,,,,,,,,,,D 0–0,,"On matchday squad, but did not play",,,Home,,Semi-finals,Arsenal,
+,,,,,Sun,,Premier League,,,,,,,2022-01-16,,,N,Liverpool,,,,,,,,,,,W 3–0,,"On matchday squad, but did not play",,,Home,,Matchweek 22,Brentford,
+,,,,,Thu,,EFL Cup,,,,,,,2022-01-20,,,N,Liverpool,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Semi-finals,Arsenal,
+,,,,,Sun,,Premier League,,,,,,,2022-01-23,,,N,Liverpool,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Away,,Matchweek 23,Crystal Palace,
+0,,,0,,Sun,,FA Cup,0,,,,LB,,2022-02-06,0,,Y,Liverpool,0,,,,,0,,,69,,W 3–1,0,,,,Home,0,Fourth round proper,Cardiff City,0
+,,,,,Thu,,Premier League,,,,,,,2022-02-10,,,N,Liverpool,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 24,Leicester City,
+,,,,,Sun,,Premier League,,,,,,,2022-02-13,,,N,Liverpool,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 25,Burnley,
+,,,,,Wed,,Champions Lg,,,,,,,2022-02-16,,,N,Liverpool,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Round of 16,Inter,
+0,3,58,0,2,Sat,1,Premier League,1,6,95,0.3,LB,12,2022-02-19,1,59,Y,Liverpool,3,3,0.2,0.3,72.0,0,82,,90,2,W 3–1,0,,10,1,Home,0,Matchweek 26,Norwich City,0
+,,,,,Wed,,Premier League,,,,,,,2022-02-23,,,N,Liverpool,,,,,,,,,,,W 6–0,,"On matchday squad, but did not play",,,Home,,Matchweek 19,Leeds United,
+,,,,,Sun,,EFL Cup,,,,,,,2022-02-27,,,N,Liverpool,,,,,,,,,,,D 0 ,,"On matchday squad, but did not play",,,Away,,Final,Chelsea,
+0,,,0,,Wed,,FA Cup,0,,,,LB,,2022-03-02,0,,Y,Liverpool,2,,,,,0,,,90,,W 2–1,0,,,,Home,0,Fifth round proper,Norwich City,3
+,,,,,Tue,,Champions Lg,,,,,,,2022-03-08,,,N,Liverpool,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Home,,Round of 16,Inter,
+,,,,,Sat,,Premier League,,,,,,,2022-03-12,,,N,Liverpool,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Matchweek 29,Brighton,
+0,,,0,,Sun,,FA Cup,1,,,,LB,,2022-03-20,0,,Y,Liverpool,2,,,,,0,,,90,,W 1–0,0,,,,Away,0,Quarter-finals,Nott'ham Forest,4
+0,,,0,,Fri,,Friendlies (M),0,,,,LB,,2022-03-25,,,Y,Greece,,,,,,0,,,90,,W 1–0,0,,,,Away,0,Friendlies (M),Romania,
+0,,,0,,Mon,,Friendlies (M),0,,,,LB,,2022-03-28,,,Y,Greece,,,,,,0,,,90,,L 0–1,0,,,,Away,0,Friendlies (M),Montenegro,
+,,,,,Sat,,Premier League,,,,,,,2022-04-02,,,N,Liverpool,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 31,Watford,
+,,,,,Tue,,Champions Lg,,,,,,,2022-04-05,,,N,Liverpool,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Away,,Quarter-finals,Benfica,
+,,,,,Sun,,Premier League,,,,,,,2022-04-10,,,N,Liverpool,,,,,,,,,,,D 2–2,,"On matchday squad, but did not play",,,Away,,Matchweek 32,Manchester City,
+0,5,54,0,1,Wed,2,Champions Lg,2,9,98,0.0,LB,4,2022-04-13,0,71,Y,Liverpool,0,3,0.4,0.0,77.2,0,92,,90,1,D 3–3,0,,10,1,Home,0,Quarter-finals,Benfica,1
+,,,,,Sat,,FA Cup,,,,,,,2022-04-16,,,N,Liverpool,,,,,,,,,,,W 3–2,,"On matchday squad, but did not play",,,Away,,Semi-finals,Manchester City,
+,,,,,Tue,,Premier League,,,,,,,2022-04-19,,,N,Liverpool,,,,,,,,,,,W 4–0,,"On matchday squad, but did not play",,,Home,,Matchweek 30,Manchester Utd,
+,,,,,Sun,,Premier League,,,,,,,2022-04-24,,,N,Liverpool,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Home,,Matchweek 34,Everton,
+,,,,,Sat,,Premier League,,,,,,,2022-04-30,,,N,Liverpool,,,,,,,,,,,W 1–0,,"On matchday squad, but did not play",,,Away,,Matchweek 35,Newcastle Utd,
+0,0,5,0,0,Tue,0,Champions Lg,0,0,8,0.0,LB,1,2022-05-03,0,3,N,Liverpool,0,0,0.0,0.0,42.9,0,7,,12,0,W 3–2,0,,1,1,Away,0,Semi-finals,Villarreal,3
+0,2,24,0,0,Sat,0,Premier League,0,2,32,0.0,LB,4,2022-05-07,0,16,N,Liverpool,0,0,0.2,0.0,51.6,1,31,,27,0,D 1–1,0,,5,0,Home,0,Matchweek 36,Tottenham,1
+0,4,57,0,2,Tue,0,Premier League,0,3,78,0.0,LB,16,2022-05-10,0,56,Y,Liverpool,0,2,0.1,0.0,80.0,0,70,,90,2,W 2–1,0,,12,2,Away,0,Matchweek 33,Aston Villa,2
+0,,,0,,Sat,,FA Cup,0,,,,,,2022-05-14,0,,N,Liverpool,0,,,,,0,,,10,,D 0 ,0,,,,Away,0,Final,Chelsea,0
+0,7,74,0,1,Tue,0,Premier League,0,5,117,0.0,LB,9,2022-05-17,0,88,Y,Liverpool,1,0,0.4,0.0,82.2,0,107,,90,0,W 2–1,0,,21,3,Away,0,Matchweek 37,Southampton,1
+,,,,,Sun,,Premier League,,,,,,,2022-05-22,,,N,Liverpool,,,,,,,,,,,W 3–1,,"On matchday squad, but did not play",,,Home,,Matchweek 38,Wolves,
+,,,,,Sat,,Champions Lg,,,,,,,2022-05-28,,,N,Liverpool,,,,,,,,,,,L 0–1,,"On matchday squad, but did not play",,,Neutral,,Final,Real Madrid,
+0,,,0,,Thu,,UEFA Nations League,0,,,,LB,,2022-06-02,0,,Y,Greece,0,,,,,0,,,90,,W 1–0,0,,,,Away,0,League C,Northern Ireland,
+0,,,0,,Sun,,UEFA Nations League,0,,,,LB,,2022-06-05,0,,Y,Greece,0,,,,,0,,,90,,W 1–0,0,,,,Away,0,League C,Kosovo,
+0,,,0,,Thu,,UEFA Nations League,0,,,,LB,,2022-06-09,0,,Y,Greece,0,,,,,0,,,90,,W 3–0,0,,,,Home,0,League C,Cyprus,
+0,,,0,,Sun,,UEFA Nations League,0,,,,LB,,2022-06-12,0,,Y,Greece,0,,,,,0,,,90,,W 2–0,0,,,,Home,0,League C,Kosovo,

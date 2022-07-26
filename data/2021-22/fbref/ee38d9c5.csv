@@ -1,0 +1,55 @@
+pens_made,sca,carries,pens_att,blocks,dayofweek,gca,comp,assists,progressive_passes,touches,xg,position,pressures,date,shots_on_target,passes_completed,game_started,squad,shots_total,dribbles,xa,npxg,passes_pct,cards_yellow,passes,match_report,minutes,dribbles_completed,result,cards_red,bench_explain,progressive_carries,tackles,venue,goals,round,opponent,interceptions
+0,,,0,,Sat,,Community Shield,,,,,AM,,2021-08-07,0,,Y,Leicester City,1,,,,,0,,,70,,W 1–0,0,,,,Neutral,0,FA Community Shield,Manchester City,0
+0,2,23,0,1,Sat,0,Premier League,0,2,28,0.0,AM,9,2021-08-14,0,17,Y,Leicester City,0,0,0.2,0.0,68.0,0,25,,61,0,W 1–0,0,,3,1,Home,0,Matchweek 1,Wolves,0
+0,2,31,0,0,Mon,0,Premier League,0,2,38,0.0,"AM,RM,LM",8,2021-08-23,0,22,Y,Leicester City,1,0,0.1,0.0,84.6,0,26,,80,0,L 1–4,0,,5,2,Away,0,Matchweek 2,West Ham,2
+0,1,28,0,0,Sat,1,Premier League,0,6,37,0.4,"FW,LM",12,2021-08-28,0,22,Y,Leicester City,2,2,0.0,0.4,73.3,0,30,,85,0,W 2–1,0,,7,1,Away,0,Matchweek 3,Norwich City,0
+0,1,17,0,2,Sat,0,Premier League,0,2,24,0.0,AM,15,2021-09-11,0,15,Y,Leicester City,0,0,0.1,0.0,75.0,0,20,,72,0,L 0–1,0,,4,1,Home,0,Matchweek 4,Manchester City,1
+0,0,2,0,0,Thu,0,Europa Lg,0,0,6,0.0,CM,5,2021-09-16,0,3,N,Leicester City,0,1,0.0,0.0,100.0,0,3,,13,1,D 2–2,0,,0,1,Home,0,Group stage,Napoli,0
+0,0,14,0,0,Sun,0,Premier League,0,0,19,0.0,RW,13,2021-09-19,0,8,Y,Leicester City,1,1,0.0,0.0,57.1,0,14,,45,0,L 1–2,0,,3,1,Away,0,Matchweek 5,Brighton,1
+,,,,,Wed,,EFL Cup,,,,,,,2021-09-22,,,N,Leicester City,,,,,,,,,,,W 2–0,,"On matchday squad, but did not play",,,Away,,Third round,Millwall,
+0,1,6,0,0,Sat,0,Premier League,0,1,10,0.0,RW,3,2021-09-25,0,7,N,Leicester City,0,0,0.0,0.0,77.8,0,9,,13,0,D 2–2,0,,1,0,Home,0,Matchweek 6,Burnley,0
+0,4,21,0,0,Thu,0,Europa Lg,0,2,24,0.3,AM,3,2021-09-30,0,15,N,Leicester City,4,2,0.2,0.3,78.9,1,19,,24,2,L 0–1,0,,5,1,Away,0,Group stage,Legia Warsaw,0
+0,0,6,0,1,Sun,0,Premier League,0,1,11,0.1,FW,8,2021-10-03,1,5,N,Leicester City,1,1,0.0,0.1,71.4,0,7,,20,0,D 2–2,0,,2,0,Away,0,Matchweek 7,Crystal Palace,0
+0,3,33,0,1,Sat,0,Premier League,0,4,43,0.1,AM,20,2021-10-16,1,25,Y,Leicester City,3,2,0.0,0.1,80.6,0,31,,72,0,W 4–2,0,,4,1,Home,0,Matchweek 8,Manchester Utd,0
+0,13,61,0,1,Wed,3,Europa Lg,1,4,75,0.2,AM,25,2021-10-20,1,54,Y,Leicester City,4,5,0.6,0.2,84.4,0,64,,90,5,W 4–3,0,,8,0,Away,0,Group stage,Spartak Moscow,2
+0,2,27,0,0,Sun,0,Premier League,0,2,40,0.9,AM,12,2021-10-24,2,20,Y,Leicester City,3,0,0.0,0.9,76.9,0,26,,77,0,W 2–1,0,,4,2,Away,1,Matchweek 9,Brentford,1
+0,,,0,,Wed,,EFL Cup,0,,,,,,2021-10-27,0,,N,Leicester City,1,,,,,0,,,32,,D 2 ,0,,,,Home,0,Fourth round,Brighton,0
+0,7,31,0,1,Sat,0,Premier League,0,4,41,0.2,AM,5,2021-10-30,1,19,Y,Leicester City,2,3,0.2,0.2,61.3,0,31,,69,1,L 0–2,0,,2,0,Home,0,Matchweek 10,Arsenal,1
+0,2,7,0,0,Sun,0,Premier League,0,1,9,0.0,FW,4,2021-11-07,0,4,N,Leicester City,0,0,0.0,0.0,57.1,0,7,,11,0,D 1–1,0,,2,1,Away,0,Matchweek 11,Leeds United,0
+0,1,19,0,1,Sat,0,Premier League,0,2,29,0.1,LW,19,2021-11-20,2,19,N,Leicester City,2,1,0.3,0.1,90.5,0,21,,45,0,L 0–3,0,,3,2,Home,0,Matchweek 12,Chelsea,0
+0,4,26,0,0,Thu,2,Europa Lg,1,3,34,0.3,"CM,AM",14,2021-11-25,1,17,Y,Leicester City,3,3,0.4,0.3,63.0,0,27,,61,2,W 3–1,0,,6,0,Home,1,Group stage,Legia Warsaw,1
+0,6,28,0,2,Sun,2,Premier League,2,4,47,0.4,AM,11,2021-11-28,2,25,Y,Leicester City,4,5,0.4,0.4,69.4,0,36,,87,4,W 4–2,0,,3,1,Home,1,Matchweek 13,Watford,1
+0,4,30,0,2,Wed,1,Premier League,0,5,40,0.2,"AM,LW",20,2021-12-01,2,18,Y,Leicester City,4,5,0.1,0.2,56.3,0,32,,90,5,D 2–2,0,,7,0,Away,1,Matchweek 14,Southampton,0
+0,1,34,0,0,Sun,0,Premier League,0,2,47,0.5,"AM,DM",18,2021-12-05,1,29,Y,Leicester City,4,3,0.0,0.5,76.3,1,38,,90,2,L 1–2,0,,3,1,Away,0,Matchweek 15,Aston Villa,0
+0,4,37,0,2,Thu,0,Europa Lg,0,4,58,0.5,"RW,DM",18,2021-12-09,0,33,Y,Leicester City,1,2,0.0,0.5,70.2,0,47,,90,2,L 2–3,0,,3,1,Away,0,Group stage,Napoli,2
+0,4,28,0,0,Sun,4,Premier League,1,5,43,0.3,RW,12,2021-12-12,1,25,Y,Leicester City,2,2,0.4,0.3,78.1,0,32,,87,1,W 4–0,0,,3,0,Home,1,Matchweek 16,Newcastle Utd,0
+0,,,0,,Wed,,EFL Cup,1,,,,AM,,2021-12-22,2,,Y,Leicester City,2,,,,,1,,,90,,D 3 ,0,,,,Away,1,Quarter-finals,Liverpool,0
+0,6,26,0,0,Sun,3,Premier League,0,2,38,0.8,AM,10,2021-12-26,3,23,Y,Leicester City,6,2,0.5,0.8,85.2,1,27,,90,2,L 3–6,0,,5,0,Away,1,Matchweek 19,Manchester City,1
+0,1,12,0,1,Tue,0,Premier League,0,2,24,0.2,"AM,WB",12,2021-12-28,0,9,Y,Leicester City,1,2,0.1,0.2,52.9,0,17,,67,1,W 1–0,0,,0,1,Home,0,Matchweek 20,Liverpool,1
+0,,,0,,Sat,,FA Cup,0,,,,AM,,2022-01-08,1,,Y,Leicester City,2,,,,,0,,,90,,W 4–1,0,,,,Home,1,Third round proper,Watford,0
+0,3,33,0,3,Wed,1,Premier League,0,3,53,0.4,CM,20,2022-01-19,3,27,Y,Leicester City,3,1,0.0,0.4,67.5,0,40,,90,1,L 2–3,0,,5,2,Home,1,Matchweek 17,Tottenham,0
+0,7,33,0,0,Sun,0,Premier League,0,6,50,0.3,AM,17,2022-01-23,1,29,Y,Leicester City,4,1,0.0,0.3,72.5,0,40,,90,1,D 1–1,0,,3,1,Home,0,Matchweek 23,Brighton,0
+0,,,0,,Sun,,FA Cup,1,,,,AM,,2022-02-06,0,,Y,Leicester City,2,,,,,1,,,90,,L 1–4,0,,,,Away,0,Fourth round proper,Nott'ham Forest,0
+0,3,27,0,0,Thu,0,Premier League,0,2,45,0.2,AM,16,2022-02-10,1,19,Y,Leicester City,3,1,0.1,0.2,55.9,0,34,,90,1,L 0–2,0,,3,3,Away,0,Matchweek 24,Liverpool,1
+0,1,28,0,2,Sun,0,Premier League,0,1,49,0.1,RW,8,2022-02-13,0,32,Y,Leicester City,1,3,0.0,0.1,84.2,0,38,,72,2,D 2–2,0,,1,2,Home,0,Matchweek 25,West Ham,1
+0,,,0,,Thu,,Conf Lg,0,,,,,,2022-02-17,,,N,Leicester City,,,,,,0,,,19,,W 4–1,0,,,,Home,0,Knockout round play-offs,Randers,
+0,1,17,0,0,Sun,0,Premier League,0,1,21,0.2,CM,4,2022-02-20,0,13,N,Leicester City,3,3,0.0,0.2,72.2,0,18,,17,3,L 1–2,0,,3,0,Away,0,Matchweek 26,Wolves,0
+0,,,0,,Thu,,Conf Lg,0,,,,CM,,2022-02-24,,,Y,Leicester City,,,,,,0,,,90,,W 3–1,0,,,,Away,2,Knockout round play-offs,Randers,
+0,1,6,0,0,Tue,0,Premier League,0,0,7,0.1,CM,8,2022-03-01,1,3,N,Leicester City,1,0,0.0,0.1,60.0,0,5,,19,0,W 2–0,0,,2,0,Away,1,Matchweek 22,Burnley,1
+0,,,0,,Thu,,Conf Lg,0,,,,,,2022-03-10,,,N,Leicester City,,,,,,0,,,11,,W 2–0,0,,,,Home,0,Round of 16,Rennes,
+0,3,55,0,0,Sun,0,Premier League,0,5,65,0.0,AM,24,2022-03-13,0,49,Y,Leicester City,0,2,0.1,0.0,89.1,0,55,,90,0,L 0–2,0,,8,3,Away,0,Matchweek 29,Arsenal,1
+0,,,0,,Thu,,Conf Lg,0,,,,,,2022-03-17,,,N,Leicester City,,,,,,1,,,31,,L 1–2,0,,,,Away,0,Round of 16,Rennes,
+0,7,44,0,1,Sun,1,Premier League,0,3,57,0.1,RW,17,2022-03-20,2,42,Y,Leicester City,3,3,0.7,0.1,91.3,0,46,,90,2,W 2–1,0,,5,1,Home,1,Matchweek 30,Brentford,0
+0,3,39,0,2,Sat,1,Premier League,1,4,61,0.0,RW,13,2022-04-02,0,32,Y,Leicester City,0,0,0.4,0.0,61.5,0,52,,90,0,D 1–1,0,,1,0,Away,0,Matchweek 31,Manchester Utd,3
+0,,,0,,Thu,,Conf Lg,0,,,,CM,,2022-04-07,,,Y,Leicester City,,,,,,0,,,90,,D 0–0,0,,,,Home,0,Quarter-finals,PSV Eindhoven,
+0,3,33,0,2,Sun,0,Premier League,1,4,54,0.3,RW,26,2022-04-10,0,28,Y,Leicester City,3,3,0.1,0.3,70.0,0,40,,88,2,W 2–1,0,,3,1,Home,0,Matchweek 32,Crystal Palace,1
+0,,,0,,Thu,,Conf Lg,0,,,,CM,,2022-04-14,,,Y,Leicester City,,,,,,0,,,90,,W 2–1,0,,,,Away,1,Quarter-finals,PSV Eindhoven,
+0,0,15,0,0,Sun,0,Premier League,0,2,21,0.0,RM,5,2022-04-17,0,14,N,Leicester City,0,1,0.0,0.0,82.4,0,17,,31,0,L 1–2,0,,2,2,Away,0,Matchweek 33,Newcastle Utd,0
+0,5,34,0,1,Wed,0,Premier League,0,5,53,0.3,RW,22,2022-04-20,2,32,Y,Leicester City,5,2,0.1,0.3,78.0,0,41,,90,1,D 1–1,0,,9,2,Away,0,Matchweek 18,Everton,0
+0,3,37,0,2,Sat,0,Premier League,0,2,57,0.1,"RM,AM",16,2022-04-23,1,21,Y,Leicester City,2,1,0.0,0.1,47.7,1,44,,90,1,D 0–0,0,,7,3,Home,0,Matchweek 34,Aston Villa,0
+0,,,0,,Thu,,Conf Lg,0,,,,CM,,2022-04-28,,,Y,Leicester City,,,,,,0,,,90,,D 1–1,0,,,,Home,0,Semi-finals,Roma,
+0,,,0,,Thu,,Conf Lg,0,,,,CM,,2022-05-05,,,Y,Leicester City,,,,,,1,,,90,,L 0–1,0,,,,Away,0,Semi-finals,Roma,
+0,4,44,0,0,Wed,0,Premier League,0,8,62,0.4,"RW,AM",24,2022-05-11,3,30,Y,Leicester City,4,6,0.1,0.4,69.8,0,43,,90,2,W 3–0,0,,13,4,Home,1,Matchweek 21,Norwich City,0
+0,6,44,0,0,Sun,4,Premier League,2,9,60,0.7,"RM,CM",16,2022-05-15,1,40,Y,Leicester City,3,2,0.2,0.7,74.1,0,54,,90,2,W 5–1,0,,8,1,Away,1,Matchweek 37,Watford,1
+0,1,39,0,2,Thu,0,Premier League,0,2,58,0.0,CM,31,2022-05-19,1,32,Y,Leicester City,1,1,0.0,0.0,71.1,0,45,,90,0,D 1–1,0,,10,3,Away,1,Matchweek 27,Chelsea,1
+0,5,33,0,0,Sun,1,Premier League,1,0,41,0.7,"RW,AM",20,2022-05-22,1,22,Y,Leicester City,1,2,0.6,0.7,64.7,0,34,,81,2,W 4–1,0,,6,2,Home,1,Matchweek 38,Southampton,1
