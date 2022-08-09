@@ -62,6 +62,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 # Notable Usages of this Repository
 
++ [Analysing Fantasy Premier League data in R Course by Arif P. Sulistiono](https://github.com/arifpras/BelutListrik)
+
 + [Point Predictor via Random Forests by Francesco Barbara](https://github.com/francescobarbara/FPL-point-predictor-via-random-forests)
 
 + [Money (Foot)Ball – how will our virtual football team selected entirely by Machine Learning compete in the big leagues?](https://www.dtsquared.co.uk/money-football-how-will-our-virtual-football-team-selected-entirely-by-machine-learning-compete-in-the-big-leagues/)
