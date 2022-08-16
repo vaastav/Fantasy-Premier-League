@@ -14,7 +14,7 @@ BibTeX:
 @misc{anand2016fantasypremierleague,
   title = {{FPL Historical Dataset}},
   author = {Anand, Vaastav},
-  year = {2016},
+  year = {2022},
   howpublished = {Retrieved August 2022 from \url{https://github.com/vaastav/Fantasy-Premier-League/}}
 }
 ```
