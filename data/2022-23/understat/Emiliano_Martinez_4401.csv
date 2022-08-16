@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Everton,2,1,2022-08-13,18212,2022,540338,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Aston Villa,2,0,2022-08-06,18204,2022,539410,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Burnley,1,1,2022-05-19,16546,2021,536802,0,0,0,0,0,0.12141315639019012,0.12141315639019012
 0,0,0,90,GK,Aston Villa,Crystal Palace,1,1,2022-05-15,16745,2021,536108,0,0,0,0,0,0.022536927834153175,0.022536927834153175

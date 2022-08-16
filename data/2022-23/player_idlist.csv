@@ -81,6 +81,8 @@ Will,Dennis,77
 Joe,Rothwell,505
 Marcus,Tavernier,535
 James,Hill,539
+Norberto,Murara Neto,574
+Marcos,Senesi,576
 Pontus,Jansson,78
 Christian,Nørgaard,79
 Ivan,Toney,80
@@ -110,6 +112,7 @@ Thomas,Strakosha,517
 Ben,Mee,526
 Fin,Stevens,540
 Halil,Dervişoğlu,541
+Mikkel,Damsgaard,580
 Adam,Lallana,101
 Jason,Steele,102
 Danny,Welbeck,103
@@ -220,10 +223,12 @@ Jarrad,Branthwaite,196
 Nathan,Patterson,197
 Niels,Nkounkou,198
 James,Tarkowski,199
+Conor,Coady,475
 Rúben,Nascimento Vinagre,531
 Dwight,McNeil,534
 Stanley,Mills,560
 Lewis,Warrington,561
+Amadou,Onana,577
 Bernd,Leno,2
 Shane,Duffy,105
 Tom,Cairney,200
@@ -248,6 +253,7 @@ Rodrigo,Muniz Carvalho,218
 Jay,Stansfield,219
 João,Palhinha Gonçalves,220
 Andreas,Hoelgebaum Pereira,346
+Issa,Diop,470
 Tyrese,Francois,521
 Kevin,Mbabu,532
 Luke,Harris,546
@@ -280,6 +286,7 @@ Wesley,Fofana,272
 Lewis,Brunt,273
 Daniel,Iversen,548
 Dennis,Praet,549
+Alex,Smithies,581
 Liam,Cooper,221
 Luke,Ayling,222
 Mateusz,Klich,223
@@ -311,6 +318,7 @@ Tyler,Adams,506
 Luis,Sinisterra Lucumí,508
 Cody,Drameh,547
 Archie,Gray,565
+Joel,Robles,578
 James,Milner,274
 Jordan,Henderson,275
 Joel,Matip,276
@@ -342,6 +350,7 @@ Sepp,van den Berg,500
 Nathaniel,Phillips,501
 Luke,Chambers,563
 Stefan,Bajcetic,564
+Bobby,Clark,584
 Kyle,Walker,299
 Ilkay,Gündogan,300
 Kevin,De Bruyne,301
@@ -458,6 +467,9 @@ Lewis,O'Brien,524
 Jesse,Lingard,527
 Orel,Mangala,536
 Oliver,Hammond,553
+Remo,Freuler,582
+Cheikhou,Kouyaté,583
+Emmanuel,Dennis,585
 Roméo,Lavia,321
 Theo,Walcott,400
 Alex,McCarthy,401
@@ -534,7 +546,6 @@ Nikola,Vlasic,466
 Declan,Rice,467
 Tomas,Soucek,468
 Pablo,Fornals Malla,469
-Issa,Diop,470
 Ben,Johnson,471
 Nayef,Aguerd,472
 Alphonse,Areola,473
@@ -544,8 +555,8 @@ Harrison,Ashby,555
 Conor,Coventry,556
 Darren,Randolph,571
 Armstrong,Oko-Flex,572
+Maxwel,Cornet,575
 Willy,Boly,474
-Conor,Coady,475
 Raúl,Jiménez,476
 Jonathan,Castro Otto,477
 José,Malheiro de Sá,478
@@ -572,3 +583,4 @@ Hugo,Bueno López,558
 Joseph,Hodge,566
 Connor,Ronan,567
 Chem,Campbell,568
+Gonçalo Manuel,Ganchinho Guedes,579

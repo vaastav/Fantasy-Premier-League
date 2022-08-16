@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Tottenham,2,2,2022-08-14,18220,2022,541406,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Chelsea,0,1,2022-08-06,18208,2022,539621,0,0,0,0,0,0.3928179442882538,0.3928179442882538
 0,0,0,90,GK,Chelsea,Watford,2,1,2022-05-22,16750,2021,537770,0,0,0,0,0,0.08140137791633606,0.08140137791633606
 0,0,0,90,GK,Chelsea,Leicester,1,1,2022-05-19,16639,2021,536830,0,0,0,0,0,0.09965907037258148,0.09965907037258148

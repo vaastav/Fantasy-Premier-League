@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,Brentford,Manchester United,4,0,2022-08-13,18218,2022,540823,0.023423543199896812,0,1,0,0,0.023423543199896812,0
 0,0,0,1,Sub,Manchester United,Brighton,1,2,2022-08-07,18209,2022,539807,0,0,0,0,0,0,0
 0,1,0.07219655811786652,90,AMR,Crystal Palace,Manchester United,1,0,2022-05-22,16751,2021,537819,0,0,0,0,0.07219655811786652,0.11761227250099182,0.045415718108415604
 0,0,0,48,AMR,Brighton,Manchester United,4,0,2022-05-07,16733,2021,534193,0.06964187324047089,0,1,0,0,0.06964187324047089,0

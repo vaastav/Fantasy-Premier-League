@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.47078943252563477,82,DC,Nottingham Forest,West Ham,1,0,2022-08-14,18219,2022,541254,0,0,0,0,0.47078943252563477,0.12722137570381165,0.12722137570381165
 0,0,0,85,DC,Newcastle United,Nottingham Forest,2,0,2022-08-06,18206,2022,539470,0,0,0,0,0,0,0
 0,0,0,90,DC,Mainz 05,Eintracht Frankfurt,2,2,2022-05-14,17815,2021,535379,0,0,0,0,0,0,0
 0,0,0,90,DC,Hertha Berlin,Mainz 05,1,2,2022-05-07,17807,2021,534327,0,0,0,0,0,0.2534171938896179,0.2534171938896179

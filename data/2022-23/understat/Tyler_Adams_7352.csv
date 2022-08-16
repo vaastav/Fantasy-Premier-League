@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Southampton,Leeds,2,2,2022-08-13,18215,2022,540606,0,0,0,0,0,0.19048680365085602,0.19048680365085602
 0,1,0.015242225490510464,90,DMC,Leeds,Wolverhampton Wanderers,2,1,2022-08-06,18205,2022,539431,0.028160689398646355,0,1,0,0.015242225490510464,0.028160689398646355,0
 0,0,0,16,Sub,Arminia Bielefeld,RasenBallsport Leipzig,1,1,2022-05-14,17813,2021,535439,0,0,0,0,0,0,0
 0,0,0,17,Sub,RasenBallsport Leipzig,Augsburg,4,0,2022-05-08,17811,2021,533977,0,0,0,0,0,0.042149607092142105,0.042149607092142105

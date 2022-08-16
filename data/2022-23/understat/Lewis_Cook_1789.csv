@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,68,MC,Manchester City,Bournemouth,4,0,2022-08-13,18214,2022,540577,0,0,0,0,0,0,0
 0,0,0,15,Sub,Bournemouth,Aston Villa,2,0,2022-08-06,18204,2022,539407,0,0,0,0,0,0,0
 0,0,0,19,Sub,Bournemouth,Southampton,0,2,2020-07-19,12004,2019,409766,0,0,0,0,0,0,0
 0,0,0,18,Sub,Manchester City,Bournemouth,2,1,2020-07-15,11999,2019,408682,0,0,0,0,0,0.038879796862602234,0.038879796862602234

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04249813035130501,84,DR,Brentford,Manchester United,4,0,2022-08-13,18218,2022,540794,0,0,0,0,0.04249813035130501,0,0
 0,0,0,85,DR,Leicester,Brentford,2,2,2022-08-07,18210,2022,539836,0,0,0,0,0,0,0
 0,0,0,17,Sub,Genoa,Bologna,0,1,2022-05-21,17128,2021,537216,0,0,0,0,0,0,0
 0,0,0,78,DML,Bologna,Sassuolo,1,3,2022-05-15,17116,2021,535942,0.020095987245440483,0,1,0,0,0.048765942454338074,0.02866995707154274
