@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Leeds,Chelsea,3,0,2022-08-21,18228,2022,543082,0,0,0,0,0,0,0
 0,0,0,2,Sub,Southampton,Leeds,2,2,2022-08-13,18215,2022,540612,0.13403908908367157,0,2,0,0,0.09678436070680618,0
 0,0,0,23,Sub,Leeds,Wolverhampton Wanderers,2,1,2022-08-06,18205,2022,539437,0,0,0,0,0,0,0
 0,2,0.10528640449047089,3,Sub,Brentford,Leeds,1,2,2022-05-22,16747,2021,537714,0,0,0,0,0.10528640449047089,0.12175658345222473,0.10683286935091019

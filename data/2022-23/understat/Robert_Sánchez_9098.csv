@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Brighton,0,2,2022-08-21,18229,2022,542931,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Newcastle United,0,0,2022-08-13,18213,2022,540673,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Brighton,1,2,2022-08-07,18209,2022,539808,0,0,0,0,0,0.016128625720739365,0.016128625720739365
 0,0,0,90,GK,Brighton,West Ham,3,1,2022-05-22,16748,2021,537715,0,0,0,0,0,0,0

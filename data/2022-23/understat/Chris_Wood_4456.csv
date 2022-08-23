@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Newcastle United,Manchester City,3,3,2022-08-21,18230,2022,543272,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Newcastle United,0,0,2022-08-13,18213,2022,540698,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Nottingham Forest,2,0,2022-08-06,18206,2022,539464,0,0,0,0,0,0,0
 0,0,0,13,Sub,Burnley,Newcastle United,1,2,2022-05-22,16749,2021,537767,0,0,0,0,0,0,0

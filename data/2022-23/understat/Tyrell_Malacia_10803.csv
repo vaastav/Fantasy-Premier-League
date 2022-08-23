@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Manchester United,Liverpool,2,1,2022-08-22,18231,2022,543820,0,0,0,0,0,0.2857723534107208,0.2857723534107208
 0,1,0.014477662742137909,40,Sub,Brentford,Manchester United,4,0,2022-08-13,18218,2022,540821,0,0,0,0,0.014477662742137909,0.09529895335435867,0.08082129061222076
 0,0,0,1,Sub,Manchester United,Brighton,1,2,2022-08-07,18209,2022,539804,0,0,0,0,0,0,0

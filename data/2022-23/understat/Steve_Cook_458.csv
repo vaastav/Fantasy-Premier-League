@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Everton,Nottingham Forest,1,1,2022-08-20,18224,2022,542356,0,0,0,0,0,0.051802508533000946,0.051802508533000946
 0,0,0,8,Sub,Nottingham Forest,West Ham,1,0,2022-08-14,18219,2022,541265,0,0,0,0,0,0,0
 0,0,0,90,DC,Everton,Bournemouth,1,3,2020-07-26,12019,2019,411339,0,0,0,0,0,0,0
 0,1,0.11275115609169006,90,DC,Bournemouth,Southampton,0,2,2020-07-19,12004,2019,409756,0,0,0,0,0.11275115609169006,0,0

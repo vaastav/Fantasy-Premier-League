@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Bournemouth,Arsenal,0,3,2022-08-20,18227,2022,542577,0,0,0,0,0,0,0
 0,0,0,9,Sub,Arsenal,Leicester,4,2,2022-08-13,18217,2022,540658,0,0,0,0,0,0,0
 0,0,0,6,Sub,Crystal Palace,Arsenal,0,2,2022-08-05,18202,2022,539150,0,0,0,0,0,0.05762733146548271,0.05762733146548271
 0,0,0,90,DL,Aston Villa,Arsenal,0,1,2022-03-19,16666,2021,521036,0,0,0,0,0,0.7770823240280151,0.7770823240280151

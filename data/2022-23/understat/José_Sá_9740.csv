@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20,18222,2022,542135,0,0,0,0,0,0.036819007247686386,0.036819007247686386
 0,0,0,90,GK,Wolverhampton Wanderers,Fulham,0,0,2022-08-13,18216,2022,540615,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Wolverhampton Wanderers,2,1,2022-08-06,18205,2022,539440,0,0,0,0,0,0.017455780878663063,0.017455780878663063
 0,0,0,51,GK,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22,16753,2021,537898,0,0,0,0,0,0.7683336138725281,0.7683336138725281
