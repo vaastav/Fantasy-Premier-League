@@ -6,6 +6,20 @@ Fantasy-Premier-League
 
 A FPL library that gets all the basic stats for each player, gw-specific data for each player and season history of each player
 
+### How to CIte this dataset?
+
+BibTeX:
+
+```
+@misc{anand2016fantasypremierleague,
+  title = {{FPL Historical Dataset}},
+  author = {Anand, Vaastav},
+  year = {2022},
+  howpublished = {Retrieved August 2022 from \url{https://github.com/vaastav/Fantasy-Premier-League/}}
+}
+```
+
+
 ### Acknowledgement
 
 + rin-hairie for adding master team lists and merge scripts
@@ -61,6 +75,8 @@ python teams_scraper.py <team_id>
 This will create a new folder called "team_<team_id>_data18-19" with individual files of all the important data
 
 # Notable Usages of this Repository
+
++ [Analysing Fantasy Premier League data in R Course by Arif P. Sulistiono](https://github.com/arifpras/BelutListrik)
 
 + [Point Predictor via Random Forests by Francesco Barbara](https://github.com/francescobarbara/FPL-point-predictor-via-random-forests)
 

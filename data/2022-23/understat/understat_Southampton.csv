@@ -1,1 +1,3 @@
-
+h_a,xG,xGA,npxG,npxGA,ppda,ppda_allowed,deep,deep_allowed,scored,missed,xpts,result,date,wins,draws,loses,pts,npxGD
+a,0.386546,1.6172,0.386546,1.6172,"{'att': 342, 'def': 22}","{'att': 171, 'def': 30}",7,12,1,4,0.4576,l,2022-08-06 14:00:00,0,0,1,0,-1.230654
+h,1.40906,1.99694,1.40906,1.99694,"{'att': 252, 'def': 19}","{'att': 165, 'def': 34}",4,9,2,2,0.9052,d,2022-08-13 14:00:00,0,1,0,1,-0.58788
