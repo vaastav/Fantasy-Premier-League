@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Southampton,Manchester United,0,1,2022-08-27,18232,2022,544168,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Liverpool,2,1,2022-08-22,18231,2022,543816,0,0,0,0,0,0.11391137540340424,0.11391137540340424
 0,0,0,90,GK,Brentford,Manchester United,4,0,2022-08-13,18218,2022,540809,0,0,0,0,0,0.07116735726594925,0.07116735726594925
 0,0,0,90,GK,Manchester United,Brighton,1,2,2022-08-07,18209,2022,539792,0,0,0,0,0,0.11142967641353607,0.11142967641353607

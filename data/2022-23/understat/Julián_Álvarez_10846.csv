@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,25,Sub,Manchester City,Crystal Palace,4,2,2022-08-27,18237,2022,544439,0,0,0,0,0,1.0631128549575806,1.0631128549575806
 0,0,0,12,Sub,Manchester City,Bournemouth,4,0,2022-08-13,18214,2022,540565,0,0,0,0,0,0,0
 0,1,0.08071304857730865,8,Sub,West Ham,Manchester City,0,2,2022-08-07,18211,2022,540089,0,0,0,0,0.08071304857730865,0.0995681956410408,0.018855145201086998

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,West Ham,0,1,2022-08-28,18239,2022,545252,0,0,0,0,0,0.05090463533997536,0.05090463533997536
 0,0,0,90,DC,West Ham,Brighton,0,2,2022-08-21,18229,2022,542919,0,0,0,0,0,0.03988673537969589,0.03988673537969589
 0,0,0,6,Sub,Paris Saint Germain,Metz,5,0,2022-05-21,18197,2021,537543,0,0,0,0,0,0,0
 0,0,0,86,DR,Montpellier,Paris Saint Germain,0,4,2022-05-14,18188,2021,535831,0,0,0,0,0,0.222995325922966,0.222995325922966

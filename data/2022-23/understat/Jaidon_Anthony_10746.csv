@@ -1,2 +1,3 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.007731403224170208,90,AMR,Liverpool,Bournemouth,9,0,2022-08-27,18236,2022,544481,0,0,0,0,0.007731403224170208,0.007731403224170208,0
 0,0,0,42,Sub,Bournemouth,Arsenal,0,3,2022-08-20,18227,2022,542559,0,0,0,0,0,0.09798586368560791,0.09798586368560791

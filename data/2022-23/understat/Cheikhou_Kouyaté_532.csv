@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,Sub,Nottingham Forest,Tottenham,0,2,2022-08-28,18241,2022,545399,0.08542998135089874,0,1,0,0,0.10413892567157745,0.10413892567157745
 0,0,0,5,Sub,Everton,Nottingham Forest,1,1,2022-08-20,18224,2022,542365,0,0,0,0,0,0.0786510482430458,0.0786510482430458
 0,0,0,22,Sub,Crystal Palace,Manchester United,1,0,2022-05-22,16751,2021,537810,0,0,0,0,0,0,0
 0,0,0,90,DC,Aston Villa,Crystal Palace,1,1,2022-05-15,16745,2021,536125,0,0,0,0,0,0.02123093791306019,0.02123093791306019
