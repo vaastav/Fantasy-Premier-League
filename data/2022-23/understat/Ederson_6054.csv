@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Nottingham Forest,6,0,2022-08-31,18246,2022,546310,0,0,0,0,0,0.4295041561126709,0.4295041561126709
 0,0,0,90,GK,Manchester City,Crystal Palace,4,2,2022-08-27,18237,2022,544428,0,0,0,0,0,0.42723700404167175,0.42723700404167175
 0,0,0,90,GK,Newcastle United,Manchester City,3,3,2022-08-21,18230,2022,543276,0,0,0,0,0,0.46645691990852356,0.46645691990852356
 0,0,0,90,GK,Manchester City,Bournemouth,4,0,2022-08-13,18214,2022,540554,0,0,0,0,0,0.07624384015798569,0.07624384015798569

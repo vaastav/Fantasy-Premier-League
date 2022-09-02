@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,Sub,Southampton,Chelsea,2,1,2022-08-30,18244,2022,545974,0,0,0,0,0,0,0
 0,0,0,12,Sub,Chelsea,Leicester,2,1,2022-08-27,18235,2022,544503,0,0,0,0,0,0,0
 0,0,0,24,Sub,Leeds,Chelsea,3,0,2022-08-21,18228,2022,543099,0,0,0,0,0,0,0
 0,0,0,3,Sub,Chelsea,Tottenham,2,2,2022-08-14,18220,2022,541419,0,0,0,0,0,0,0

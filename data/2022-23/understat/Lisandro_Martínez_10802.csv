@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Leicester,Manchester United,0,1,2022-09-01,18251,2022,546685,0,0,0,0,0,0.017397649586200714,0.017397649586200714
 0,0,0,90,DC,Southampton,Manchester United,0,1,2022-08-27,18232,2022,544170,0,0,0,0,0,0.13289731740951538,0.13289731740951538
 0,0,0,90,DC,Manchester United,Liverpool,2,1,2022-08-22,18231,2022,543818,0,0,0,0,0,0.44081249833106995,0.44081249833106995
 0,0,0,50,DC,Brentford,Manchester United,4,0,2022-08-13,18218,2022,540811,0,0,0,0,0,0,0
