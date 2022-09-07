@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brentford,Leeds,5,2,2022-09-03,18257,2022,547215,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,Brentford,3,2,2022-08-20,18225,2022,542412,0,0,0,0,0,0.9361625909805298,0.9361625909805298
 0,0,0,90,DC,Brentford,Manchester United,4,0,2022-08-13,18218,2022,540796,0,0,0,0,0,0,0
 0,0,0,90,DC,Leicester,Brentford,2,2,2022-08-07,18210,2022,539837,0,0,0,0,0,0,0

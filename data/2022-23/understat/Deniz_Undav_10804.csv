@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Brighton,Leicester,5,2,2022-09-04,18259,2022,547886,0.11790519207715988,0,1,0,0,0.11790519207715988,0.11790519207715988
 0,1,0.330294132232666,11,Sub,Fulham,Brighton,2,1,2022-08-30,18242,2022,545848,0,0,0,0,0.330294132232666,0.818554699420929,0.48826056718826294
 0,0,0,1,Sub,Manchester United,Brighton,1,2,2022-08-07,18209,2022,539819,0,0,0,0,0,0,0

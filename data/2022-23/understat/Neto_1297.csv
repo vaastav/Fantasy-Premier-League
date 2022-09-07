@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Nottingham Forest,Bournemouth,2,3,2022-09-03,18254,2022,547139,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31,18248,2022,546282,0,0,0,0,0,0.013050537556409836,0.013050537556409836
 0,0,0,90,GK,Real Betis,Barcelona,1,2,2022-05-07,17478,2021,533162,0.03827076777815819,0,1,0,0,0.03827076777815819,0
 0,0,0,90,GK,Athletic Club,Barcelona,1,1,2021-08-21,17150,2021,477456,0,0,0,0,0,0.08972620218992233,0.08972620218992233

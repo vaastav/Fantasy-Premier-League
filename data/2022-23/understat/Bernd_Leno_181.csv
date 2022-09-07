@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Fulham,2,1,2022-09-03,18255,2022,547167,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Brighton,2,1,2022-08-30,18242,2022,545824,0.030812658369541168,0,1,0,0,0.1364099383354187,0.10559727251529694
 0,0,0,90,GK,Arsenal,Fulham,2,1,2022-08-27,18238,2022,544657,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Brentford,3,2,2022-08-20,18225,2022,542396,0,0,0,0,0,0.3237425982952118,0.3237425982952118

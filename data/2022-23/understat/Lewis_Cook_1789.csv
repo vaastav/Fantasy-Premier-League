@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.014149543829262257,90,DMC,Nottingham Forest,Bournemouth,2,3,2022-09-03,18254,2022,547145,0.05917156860232353,1,2,0,0.014149543829262257,0.3071540594100952,0.24798248708248138
 0,0,0,90,MC,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31,18248,2022,546289,0,0,0,0,0,0.11177819967269897,0.11177819967269897
 0,0,0,79,DMC,Liverpool,Bournemouth,9,0,2022-08-27,18236,2022,544480,0,0,0,0,0,0,0
 0,0,0,42,Sub,Bournemouth,Arsenal,0,3,2022-08-20,18227,2022,542560,0,0,0,0,0,0,0

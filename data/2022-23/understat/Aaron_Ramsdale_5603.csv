@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Arsenal,3,1,2022-09-04,18261,2022,548104,0,0,0,0,0,0.01729261875152588,0.01729261875152588
 0,0,0,90,GK,Arsenal,Aston Villa,2,1,2022-08-31,18247,2022,546253,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Fulham,2,1,2022-08-27,18238,2022,544643,0,0,0,0,0,0.45655760169029236,0.45655760169029236
 0,0,0,90,GK,Bournemouth,Arsenal,0,3,2022-08-20,18227,2022,542562,0,0,0,0,0,0.2561597228050232,0.2561597228050232

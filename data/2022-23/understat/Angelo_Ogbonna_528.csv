@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Chelsea,West Ham,2,1,2022-09-03,18260,2022,547273,0,0,0,0,0,0,0
 0,0,0,12,Sub,West Ham,Tottenham,1,1,2022-08-31,18249,2022,546418,0.3795095384120941,0,1,0,0,0.3795095384120941,0
 0,0,0,21,DC,West Ham,Liverpool,3,2,2021-11-07,16485,2021,494942,0,0,0,0,0,0,0
 0,0,0,90,DC,Aston Villa,West Ham,1,4,2021-10-31,16466,2021,493194,0,0,0,0,0,0.0542881153523922,0.0542881153523922
