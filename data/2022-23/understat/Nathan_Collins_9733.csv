@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,32,DC,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17,18274,2022,550429,0,0,0,0,0,0.06767994910478592,0.06767994910478592
 0,0,0,90,DC,Wolverhampton Wanderers,Southampton,1,0,2022-09-03,18256,2022,547185,0,0,0,0,0,0.0690370425581932,0.0690370425581932
 0,0,0,90,DC,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31,18248,2022,546298,0.07463285326957703,0,2,0,0,0.15931929647922516,0.08468643575906754
 0,0,0,90,DC,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28,18240,2022,545080,0,0,0,0,0,0.041613128036260605,0.041613128036260605

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Brentford,Arsenal,0,3,2022-09-18,18280,2022,551066,0,0,0,0,0,0,0
 0,0,0,13,Sub,Manchester United,Arsenal,3,1,2022-09-04,18261,2022,548117,0,0,0,0,0,0,0
 0,1,0.0809672549366951,1,Sub,Arsenal,Aston Villa,2,1,2022-08-31,18247,2022,546266,0,0,0,0,0.0809672549366951,0.0809672549366951,0
 0,3,0.5605629086494446,28,Sub,Arsenal,Fulham,2,1,2022-08-27,18238,2022,544656,0,0,0,0,0.5605629086494446,0.6099840402603149,0.15210510790348053

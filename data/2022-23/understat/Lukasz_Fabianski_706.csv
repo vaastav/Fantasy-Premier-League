@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,West Ham,1,0,2022-09-18,18277,2022,551394,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,West Ham,2,1,2022-09-03,18260,2022,547261,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Tottenham,1,1,2022-08-31,18249,2022,546406,0,0,0,0,0,0.12824144959449768,0.12824144959449768
 0,0,0,90,GK,Aston Villa,West Ham,0,1,2022-08-28,18239,2022,545250,0,0,0,0,0,0.06749346852302551,0.06749346852302551

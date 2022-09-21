@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Newcastle United,Bournemouth,1,1,2022-09-17,18275,2022,550690,0,0,0,0,0,0.08831962943077087,0.08831962943077087
 0,0,0,90,DC,Liverpool,Bournemouth,9,0,2022-08-27,18236,2022,544476,0,0,0,0,0,0.028323275968432426,0.028323275968432426
 0,0,0,48,DC,Bournemouth,Arsenal,0,3,2022-08-20,18227,2022,542549,0,0,0,0,0,0,0
 0,0,0,6,Sub,Manchester City,Bournemouth,4,0,2022-08-13,18214,2022,540581,0,0,0,0,0,0.02674887701869011,0.02674887701869011

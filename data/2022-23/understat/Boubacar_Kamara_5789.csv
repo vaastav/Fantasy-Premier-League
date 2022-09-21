@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,43,MC,Aston Villa,Southampton,1,0,2022-09-16,18272,2022,550338,0,0,0,0,0,0.09078159928321838,0.09078159928321838
 0,0,0,90,MC,Aston Villa,Manchester City,1,1,2022-09-03,18258,2022,547431,0,0,0,0,0,0,0
 0,0,0,85,MC,Arsenal,Aston Villa,2,1,2022-08-31,18247,2022,546273,0,0,0,0,0,0,0
 0,0,0,90,MC,Aston Villa,West Ham,0,1,2022-08-28,18239,2022,545241,0.03139986842870712,0,1,0,0,0.04358489066362381,0.012185019440948963
