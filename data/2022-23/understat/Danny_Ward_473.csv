@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leicester,Nottingham Forest,4,0,2022-10-03,18287,2022,553599,0,0,0,0,0,0.23791256546974182,0.23791256546974182
 0,0,0,90,GK,Tottenham,Leicester,6,2,2022-09-17,18278,2022,550902,0,0,0,0,0,0.07675609737634659,0.07675609737634659
 0,0,0,90,GK,Brighton,Leicester,5,2,2022-09-04,18259,2022,547889,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,Manchester United,0,1,2022-09-01,18251,2022,546670,0,0,0,0,0,0.018693508580327034,0.018693508580327034

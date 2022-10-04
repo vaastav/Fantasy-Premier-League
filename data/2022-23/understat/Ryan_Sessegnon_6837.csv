@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Arsenal,Tottenham,3,1,2022-10-01,18282,2022,552019,0,0,0,0,0,0,0
 0,0,0,90,DML,Tottenham,Leicester,6,2,2022-09-17,18278,2022,550892,0,0,0,0,0,0.17709986865520477,0.17709986865520477
 0,6,0.7147485017776489,90,DML,Tottenham,Fulham,2,1,2022-09-03,18255,2022,547159,0.12383058667182922,0,1,0,0.7147485017776489,1.469740629196167,0.8086252212524414
 0,0,0,15,Sub,Nottingham Forest,Tottenham,0,2,2022-08-28,18241,2022,545416,0,0,0,0,0,0,0

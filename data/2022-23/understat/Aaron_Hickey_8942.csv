@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,25,Sub,Bournemouth,Brentford,0,0,2022-10-01,18283,2022,552418,0,0,0,0,0,0.07068043947219849,0.07068043947219849
 0,0,0,90,DMR,Brentford,Arsenal,0,3,2022-09-18,18280,2022,551041,0,0,0,0,0,0.39997079968452454,0.39997079968452454
 0,0,0,90,DR,Brentford,Leeds,5,2,2022-09-03,18257,2022,547214,0,0,0,0,0,0,0
 0,0,0,80,DR,Crystal Palace,Brentford,1,1,2022-08-30,18243,2022,545868,0,0,0,0,0,0.02706773206591606,0.02706773206591606

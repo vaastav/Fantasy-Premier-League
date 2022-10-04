@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,West Ham,Wolverhampton Wanderers,2,0,2022-10-01,18291,2022,552633,0,0,0,0,0,0,0
 0,0,0,17,Sub,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17,18274,2022,550438,0,0,0,0,0,0,0
 0,0,0,58,MC,Paris Saint Germain,Metz,5,0,2022-05-21,18197,2021,537555,0.018807655200362206,0,1,0,0,0.5924879312515259,0.5736802816390991
 0,0,0,90,MC,Metz,Angers,1,0,2022-05-14,18190,2021,535883,0,0,0,0,0,0,0

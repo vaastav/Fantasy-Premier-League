@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.061109643429517746,12,Sub,West Ham,Wolverhampton Wanderers,2,0,2022-10-01,18291,2022,552619,0.06727888435125351,0,1,0,0.061109643429517746,0.3012027144432068,0.17281419038772583
 0,0,0,1,Sub,Everton,West Ham,1,0,2022-09-18,18277,2022,551407,0,0,0,0,0,0,0
 0,0,0,90,DL,Chelsea,West Ham,2,1,2022-09-03,18260,2022,547265,0,0,0,0,0,0,0
 0,0,0,1,Sub,West Ham,Tottenham,1,1,2022-08-31,18249,2022,546419,0,0,0,0,0,0,0
