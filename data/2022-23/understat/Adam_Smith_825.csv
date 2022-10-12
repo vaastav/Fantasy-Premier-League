@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Bournemouth,Leicester,2,1,2022-10-08,18293,2022,554061,0,0,0,0,0,0.08019236475229263,0.08019236475229263
 0,0,0,90,DR,Bournemouth,Brentford,0,0,2022-10-01,18283,2022,552392,0.057466208934783936,0,1,0,0,0.08300159871578217,0.02553538605570793
 0,0,0,90,DR,Newcastle United,Bournemouth,1,1,2022-09-17,18275,2022,550689,0,0,0,0,0,0.041781939566135406,0.041781939566135406
 0,0,0,90,DR,Nottingham Forest,Bournemouth,2,3,2022-09-03,18254,2022,547140,0,0,0,0,0,0,0

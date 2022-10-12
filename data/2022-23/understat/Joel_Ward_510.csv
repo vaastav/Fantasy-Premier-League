@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Crystal Palace,Leeds,2,1,2022-10-09,18296,2022,554709,0,0,0,0,0,0.2089969664812088,0.2089969664812088
 0,0,0,90,DC,Crystal Palace,Chelsea,1,2,2022-10-01,18284,2022,552272,0,0,0,0,0,0,0
 0,0,0,90,DR,Newcastle United,Crystal Palace,0,0,2022-09-03,18253,2022,547291,0.029744543135166168,0,2,0,0,0.06950969994068146,0.05797114223241806
 0,0,0,90,DL,Crystal Palace,Brentford,1,1,2022-08-30,18243,2022,545856,0,0,0,0,0,0.03990602865815163,0.03990602865815163

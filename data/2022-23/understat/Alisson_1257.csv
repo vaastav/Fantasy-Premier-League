@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,Liverpool,3,2,2022-10-09,18292,2022,555091,0,0,0,0,0,0.14303219318389893,0.14303219318389893
 0,0,0,90,GK,Liverpool,Brighton,3,3,2022-10-01,18288,2022,552330,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Liverpool,0,0,2022-09-03,18252,2022,546859,0,0,0,0,0,0.17906591296195984,0.17906591296195984
 0,0,0,90,GK,Liverpool,Newcastle United,2,1,2022-08-31,18250,2022,546432,0,0,0,0,0,0.7233083248138428,0.7233083248138428

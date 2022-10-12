@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Newcastle United,Brentford,5,1,2022-10-08,18299,2022,554116,0,0,0,0,0,0,0
 0,0,0,10,Sub,Crystal Palace,Brentford,1,1,2022-08-30,18243,2022,545880,0,0,0,0,0,0.3000050187110901,0.3000050187110901
 0,0,0,5,Sub,Fulham,Brentford,3,2,2022-08-20,18225,2022,542423,0,0,0,0,0,0,0
 0,1,0.01984354481101036,79,DR,Brentford,Tottenham,0,0,2022-04-23,16714,2021,528875,0,0,0,0,0.01984354481101036,0.07779289782047272,0.05794934928417206

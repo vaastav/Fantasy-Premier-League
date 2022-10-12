@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Brighton,Tottenham,0,1,2022-10-08,18294,2022,554383,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Leicester,5,2,2022-09-04,18259,2022,547888,0,0,0,0,0,0,0
 0,0,0,63,MC,Wolverhampton Wanderers,Norwich,1,1,2022-05-15,16736,2021,536046,0,0,0,0,0,0,0
 0,3,0.09871604293584824,90,MC,Leicester,Norwich,3,0,2022-05-11,16582,2021,534848,0.029455432668328285,0,1,0,0.09871604293584824,0.08278359472751617,0

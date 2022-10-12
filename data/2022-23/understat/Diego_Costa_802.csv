@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,60,FW,Chelsea,Wolverhampton Wanderers,3,0,2022-10-08,18295,2022,554175,0,0,0,0,0,0.1431545615196228,0.1431545615196228
 0,1,0.05618968605995178,28,Sub,West Ham,Wolverhampton Wanderers,2,0,2022-10-01,18291,2022,552635,0,0,0,0,0.05618968605995178,0.13242633640766144,0.13242633640766144
 0,0,0,3,Sub,Real Sociedad,Atletico Madrid,0,2,2020-12-22,14926,2020,437254,0,0,0,0,0,0,0
 1,1,0.7432776093482971,14,Sub,Atletico Madrid,Elche,3,1,2020-12-19,14908,2020,435778,0,0,0,0,0,0,0
