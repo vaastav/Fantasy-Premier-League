@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,85,MC,Wolverhampton Wanderers,Nottingham Forest,1,0,2022-10-15,18311,2022,555951,0.05701279640197754,0,1,0,0,0.06543373316526413,0.00842093862593174
 0,0,0,90,MC,Nottingham Forest,Aston Villa,1,1,2022-10-10,18300,2022,555420,0,0,0,0,0,0.05197348818182945,0.05197348818182945
 0,0,0,43,Sub,Leicester,Nottingham Forest,4,0,2022-10-03,18287,2022,553627,0.05656387284398079,0,1,0,0,0.3637423813343048,0.3637423813343048
 0,0,0,71,MC,Nottingham Forest,Fulham,2,3,2022-09-16,18273,2022,550245,0,0,0,0,0,0,0

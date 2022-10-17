@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Leicester,Crystal Palace,0,0,2022-10-15,18306,2022,555690,0,0,0,0,0,0.1548454761505127,0.1548454761505127
 0,0,0,21,Sub,Bournemouth,Leicester,2,1,2022-10-08,18293,2022,554082,0,0,0,0,0,0,0
 0,0,0,15,Sub,Brighton,Leicester,5,2,2022-09-04,18259,2022,547901,0,0,0,0,0,0,0
 0,0,0,90,DC,Chelsea,Leicester,2,1,2022-08-27,18235,2022,544507,0.1344643086194992,0,2,0,0,0.5413186550140381,0.4358461797237396

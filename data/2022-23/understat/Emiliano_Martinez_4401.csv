@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Chelsea,0,2,2022-10-16,18302,2022,556547,0,0,0,0,0,0.6131729483604431,0.6131729483604431
 0,0,0,90,GK,Nottingham Forest,Aston Villa,1,1,2022-10-10,18300,2022,555428,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Aston Villa,0,0,2022-10-02,18286,2022,553307,0,0,0,0,0,0.08764152228832245,0.08764152228832245
 0,0,0,90,GK,Aston Villa,Southampton,1,0,2022-09-16,18272,2022,550333,0,0,0,0,0,0.021344304084777832,0.021344304084777832

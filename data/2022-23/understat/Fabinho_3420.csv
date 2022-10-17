@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,74,DMC,Liverpool,Manchester City,1,0,2022-10-16,18307,2022,556881,0,0,0,0,0,0,0
 0,0,0,15,Sub,Arsenal,Liverpool,3,2,2022-10-09,18292,2022,555103,0,0,0,0,0,0,0
 0,0,0,90,MC,Liverpool,Brighton,3,3,2022-10-01,18288,2022,552335,0,0,0,0,0,0.9983681440353394,0.9983681440353394
 0,1,0.06899498403072357,90,MC,Everton,Liverpool,0,0,2022-09-03,18252,2022,546864,0.054568588733673096,0,1,0,0.06899498403072357,0.2791885733604431,0.22461998462677002

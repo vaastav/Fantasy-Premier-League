@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,5,0.7638890147209167,90,FW,Aston Villa,Chelsea,0,2,2022-10-16,18302,2022,556556,0,0,0,0,0.7638890147209167,0.7014253735542297,0
 0,0,0,23,Sub,Nottingham Forest,Aston Villa,1,1,2022-10-10,18300,2022,555441,0,0,0,0,0,0,0
 0,0,0,2,Sub,Leeds,Aston Villa,0,0,2022-10-02,18286,2022,553320,0.0331646092236042,0,1,0,0,0.0331646092236042,0
 0,1,0.1007394790649414,3,Sub,Aston Villa,Southampton,1,0,2022-09-16,18272,2022,550347,0,0,0,0,0.1007394790649414,0.1007394790649414,0
