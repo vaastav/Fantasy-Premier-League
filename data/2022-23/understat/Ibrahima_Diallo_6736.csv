@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Southampton,Arsenal,1,1,2022-10-23,18328,2022,558847,0,0,0,0,0,0,0
+0,0,0,1,Sub,Bournemouth,Southampton,0,1,2022-10-19,18313,2022,557516,0,0,0,0,0,0,0
 0,1,0.011220577172935009,12,Sub,Southampton,West Ham,1,1,2022-10-16,18309,2022,556677,0,0,0,0,0.011220577172935009,0.011220577172935009,0
 0,0,0,90,DMC,Manchester City,Southampton,4,0,2022-10-08,18298,2022,554139,0,0,0,0,0,0.02334604412317276,0.02334604412317276
 0,0,0,49,DMC,Aston Villa,Southampton,1,0,2022-09-16,18272,2022,550353,0,0,0,0,0,0,0

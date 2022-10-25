@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Manchester City,Brighton,3,1,2022-10-22,18326,2022,558245,0,0,0,0,0,0,0
 0,1,0.057460445910692215,17,Sub,Manchester City,Southampton,4,0,2022-10-08,18298,2022,554131,0,0,0,0,0.057460445910692215,0.057460445910692215,0
 0,0,0,13,Sub,Manchester City,Manchester United,6,3,2022-10-02,18289,2022,552930,0.08242633193731308,0,1,0,0,0.08242633193731308,0
 0,1,0.07090321183204651,10,Sub,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17,18274,2022,550457,0.013705062679946423,0,1,0,0.07090321183204651,0.07090321183204651,0

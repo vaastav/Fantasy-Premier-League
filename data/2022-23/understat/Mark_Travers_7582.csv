@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,40,Sub,West Ham,Bournemouth,2,0,2022-10-24,18330,2022,559544,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Bournemouth,9,0,2022-08-27,18236,2022,544474,0,0,0,0,0,0.0473405122756958,0.0473405122756958
 0,0,0,90,GK,Bournemouth,Arsenal,0,3,2022-08-20,18227,2022,542548,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester City,Bournemouth,4,0,2022-08-13,18214,2022,540570,0,0,0,0,0,0.02674887701869011,0.02674887701869011

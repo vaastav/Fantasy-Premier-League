@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Crystal Palace,3,0,2022-10-22,18324,2022,558262,0,0,0,0,0,0.07871679216623306,0.07871679216623306
+0,0,0,90,GK,Newcastle United,Everton,1,0,2022-10-19,18319,2022,557564,0,0,0,0,0,0,0
 0,0,0,90,GK,Tottenham,Everton,2,0,2022-10-15,18310,2022,556188,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Manchester United,1,2,2022-10-09,18297,2022,555231,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Everton,1,2,2022-10-01,18290,2022,552315,0,0,0,0,0,0.3872295618057251,0.3872295618057251

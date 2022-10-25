@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Fulham,2,3,2022-10-23,18325,2022,558826,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,Aston Villa,3,0,2022-10-20,18316,2022,557733,0,0,0,0,0,0.022633204236626625,0.022633204236626625
 0,0,0,90,GK,Fulham,Bournemouth,2,2,2022-10-15,18304,2022,555960,0,0,0,0,0,0.06018608435988426,0.06018608435988426
 0,0,0,90,GK,West Ham,Fulham,3,1,2022-10-09,18301,2022,554752,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Newcastle United,1,4,2022-10-01,18285,2022,552360,0,0,0,0,0,0.4957909882068634,0.4957909882068634

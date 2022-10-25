@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Chelsea,Manchester United,1,1,2022-10-22,18323,2022,558426,0,0,0,0,0,0,0
+0,1,0.057499922811985016,65,FW,Brentford,Chelsea,0,0,2022-10-19,18314,2022,557603,0,0,0,0,0.057499922811985016,0.057499922811985016,0
 0,0,0,1,Sub,Aston Villa,Chelsea,0,2,2022-10-16,18302,2022,556572,0,0,0,0,0,0,0
 1,1,0.13877734541893005,15,Sub,Chelsea,Wolverhampton Wanderers,3,0,2022-10-08,18295,2022,554160,0,0,0,1,0.13877734541893005,0.13877734541893005,0
 0,0,0,9,Sub,Crystal Palace,Chelsea,1,2,2022-10-01,18284,2022,552296,0,0,0,0,0,0,0

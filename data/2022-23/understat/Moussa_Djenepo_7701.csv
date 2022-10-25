@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.1157916933298111,1,Sub,Bournemouth,Southampton,0,1,2022-10-19,18313,2022,557517,0,0,0,0,0.1157916933298111,0.1157916933298111,0
 0,0,0,22,Sub,Manchester City,Southampton,4,0,2022-10-08,18298,2022,554146,0,0,0,0,0,0,0
 0,0,0,90,AMC,Aston Villa,Southampton,1,0,2022-09-16,18272,2022,550356,0,0,0,0,0,0,0
 0,0,0,32,Sub,Wolverhampton Wanderers,Southampton,1,0,2022-09-03,18256,2022,547209,0,0,0,0,0,0.14844711124897003,0.14844711124897003

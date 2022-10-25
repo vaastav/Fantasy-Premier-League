@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04400157183408737,66,DMC,Aston Villa,Brentford,4,0,2022-10-23,18322,2022,558784,0.5217113494873047,0,1,0,0.04400157183408737,0.6447765827178955,0.6447765827178955
+0,0,0,20,Sub,Fulham,Aston Villa,3,0,2022-10-20,18316,2022,557761,0,0,0,0,0,0,0
 0,0,0,10,Sub,Aston Villa,Chelsea,0,2,2022-10-16,18302,2022,556559,0.014112696051597595,0,1,0,0,0.014112696051597595,0
 0,0,0,11,Sub,Nottingham Forest,Aston Villa,1,1,2022-10-10,18300,2022,555439,0,0,0,0,0,0,0
 0,0,0,20,Sub,Aston Villa,Southampton,1,0,2022-09-16,18272,2022,550345,0,0,0,0,0,0,0

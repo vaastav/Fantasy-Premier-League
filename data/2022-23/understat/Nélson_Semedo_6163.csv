@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,Sub,Wolverhampton Wanderers,Leicester,0,4,2022-10-23,18331,2022,558881,0,0,0,0,0,0,0
+0,0,0,90,DR,Crystal Palace,Wolverhampton Wanderers,2,1,2022-10-18,18318,2022,557383,0,0,0,0,0,0.3085035979747772,0.3085035979747772
 0,0,0,4,Sub,Wolverhampton Wanderers,Nottingham Forest,1,0,2022-10-15,18311,2022,555942,0,0,0,0,0,0,0
 0,0,0,90,DR,Chelsea,Wolverhampton Wanderers,3,0,2022-10-08,18295,2022,554166,0,0,0,0,0,0.1431545615196228,0.1431545615196228
 0,0,0,77,DMR,West Ham,Wolverhampton Wanderers,2,0,2022-10-01,18291,2022,552626,0.022865941748023033,0,1,0,0,0.13475365936756134,0.11188771575689316

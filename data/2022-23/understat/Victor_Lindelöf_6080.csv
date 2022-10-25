@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,29,Sub,Chelsea,Manchester United,1,1,2022-10-22,18323,2022,558442,0,0,0,0,0,0,0
 0,0,0,90,DC,Everton,Manchester United,1,2,2022-10-09,18297,2022,555249,0,0,0,0,0,0.4253076910972595,0.4253076910972595
 0,0,0,51,Sub,Manchester City,Manchester United,6,3,2022-10-02,18289,2022,552945,0,0,0,0,0,0.11114594340324402,0.11114594340324402
 0,0,0,90,DC,Crystal Palace,Manchester United,1,0,2022-05-22,16751,2021,537814,0,0,0,0,0,0,0
