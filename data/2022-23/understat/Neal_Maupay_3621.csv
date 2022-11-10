@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.08583452552556992,27,Sub,Everton,Leicester,0,2,2022-11-05,18344,2022,562166,0,0,0,0,0.08583452552556992,0.1093650609254837,0.023530537262558937
 0,0,0,3,Sub,Fulham,Everton,0,0,2022-10-29,18337,2022,560372,0,0,0,0,0,0,0
 0,0,0,9,Sub,Everton,Crystal Palace,3,0,2022-10-22,18324,2022,558273,0,0,0,0,0,0,0
 0,0,0,15,Sub,Newcastle United,Everton,1,0,2022-10-19,18319,2022,557575,0,0,0,0,0,0,0

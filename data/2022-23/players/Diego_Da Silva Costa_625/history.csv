@@ -1,5 +1,5 @@
-assists,bonus,bps,clean_sheets,creativity,element_code,end_cost,goals_conceded,goals_scored,ict_index,influence,minutes,own_goals,penalties_missed,penalties_saved,red_cards,saves,season_name,start_cost,threat,total_points,yellow_cards
-3,18,576,12,0.0,18507,106,23,20,0.0,0.0,2069,0,0,0,0,0,2014/15,105,0.0,150,8
-7,14,399,6,0.0,18507,105,40,12,0.0,0.0,2373,0,0,0,0,0,2015/16,110,0.0,129,8
-11,25,657,14,687.9,18507,104,30,20,355.0,982.6,3083,0,1,0,0,0,2016/17,95,1891.0,196,10
-0,0,0,0,0.0,18507,95,0,0,0.0,0.0,0,0,0,0,0,0,2017/18,100,0.0,0,0
+assists,bonus,bps,clean_sheets,creativity,element_code,end_cost,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,goals_conceded,goals_scored,ict_index,influence,minutes,own_goals,penalties_missed,penalties_saved,red_cards,saves,season_name,start_cost,starts,threat,total_points,yellow_cards
+3,18,576,12,0.0,18507,106,0.00000,0.00000,0.00000,0.00000,23,20,0.0,0.0,2069,0,0,0,0,0,2014/15,105,0,0.0,150,8
+7,14,399,6,0.0,18507,105,0.00000,0.00000,0.00000,0.00000,40,12,0.0,0.0,2373,0,0,0,0,0,2015/16,110,0,0.0,129,8
+11,25,657,14,687.9,18507,104,0.00000,0.00000,0.00000,0.00000,30,20,355.0,982.6,3083,0,1,0,0,0,2016/17,95,0,1891.0,196,10
+0,0,0,0,0.0,18507,95,0.00000,0.00000,0.00000,0.00000,0,0,0.0,0.0,0,0,0,0,0,0,2017/18,100,0,0.0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.038710903376340866,90,DC,Nottingham Forest,Brentford,2,2,2022-11-05,18347,2022,561912,0,0,0,0,0.038710903376340866,0.0889311209321022,0.0889311209321022
 0,1,0.07057379931211472,90,DC,Arsenal,Nottingham Forest,5,0,2022-10-30,18332,2022,560764,0,0,0,0,0.07057379931211472,0,0
 0,0,0,90,DC,Nottingham Forest,Liverpool,1,0,2022-10-22,18327,2022,557956,0.5792453289031982,0,1,0,0,0,0
 0,0,0,90,DC,Brighton,Nottingham Forest,0,0,2022-10-18,18315,2022,557323,0,0,0,0,0,0,0

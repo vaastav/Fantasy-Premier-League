@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,Manchester United,3,1,2022-11-06,18342,2022,562531,0,0,0,0,0,0.28444716334342957,0.28444716334342957
 0,0,0,90,DC,Newcastle United,Aston Villa,4,0,2022-10-29,18341,2022,560089,0,0,0,0,0,0,0
 0,0,0,90,DC,Aston Villa,Brentford,4,0,2022-10-23,18322,2022,558782,0,0,0,0,0,0.603627622127533,0.603627622127533
 0,0,0,90,DC,Fulham,Aston Villa,3,0,2022-10-20,18316,2022,557752,0,0,0,0,0,0.2470206618309021,0.2470206618309021

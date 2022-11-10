@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,25,Sub,Nottingham Forest,Brentford,2,2,2022-11-05,18347,2022,561937,0,0,0,0,0,0.2902964651584625,0.2902964651584625
+0,0,0,54,Sub,Brentford,Wolverhampton Wanderers,1,1,2022-10-29,18334,2022,560115,0,0,0,0,0,0,0
 0,0,0,26,Sub,Aston Villa,Brentford,4,0,2022-10-23,18322,2022,558807,0,0,0,0,0,0,0
 0,0,0,17,Sub,Newcastle United,Brentford,5,1,2022-10-08,18299,2022,554114,0,0,0,0,0,0,0
 0,2,0.08573880046606064,65,FWL,Bournemouth,Brentford,0,0,2022-10-01,18283,2022,552413,0.023081516847014427,0,1,0,0.08573880046606064,0.11876173317432404,0.06562405824661255

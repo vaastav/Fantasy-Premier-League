@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,60,DC,Bournemouth,Tottenham,2,3,2022-10-29,18333,2022,560147,0,0,0,0,0,0.07932624965906143,0.07932624965906143
 0,0,0,84,DC,Tottenham,Newcastle United,1,2,2022-10-23,18329,2022,559152,0.06718682497739792,0,1,0,0,0.0854097381234169,0.01822291500866413
 0,0,0,6,Sub,Manchester United,Tottenham,2,0,2022-10-19,18321,2022,557666,0,0,0,0,0,0,0
 0,0,0,1,Sub,Tottenham,Everton,2,0,2022-10-15,18310,2022,556184,0,0,0,0,0,0.09701190143823624,0.09701190143823624

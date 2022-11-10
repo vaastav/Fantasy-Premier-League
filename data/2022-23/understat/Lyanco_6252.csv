@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Crystal Palace,Southampton,1,0,2022-10-29,18336,2022,560026,0,0,0,0,0,0.30874285101890564,0.30874285101890564
 0,2,0.024292297661304474,90,DR,Southampton,Arsenal,1,1,2022-10-23,18328,2022,558842,0,0,0,0,0.024292297661304474,0.00931362621486187,0
 0,0,0,25,Sub,Bournemouth,Southampton,0,1,2022-10-19,18313,2022,557515,0,0,0,0,0,0.15044207870960236,0.15044207870960236
 0,0,0,2,Sub,Southampton,Chelsea,2,1,2022-08-30,18244,2022,545958,0,0,0,0,0,0,0

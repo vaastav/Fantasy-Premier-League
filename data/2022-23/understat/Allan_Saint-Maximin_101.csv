@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Southampton,Newcastle United,1,4,2022-11-06,18348,2022,562649,0.019103894010186195,1,1,0,0,0.019103894010186195,0
 0,0,0,1,Sub,Newcastle United,Aston Villa,4,0,2022-10-29,18341,2022,560081,0,0,0,0,0,0,0
 0,0,0,10,Sub,Newcastle United,Brentford,5,1,2022-10-08,18299,2022,554098,0,0,0,0,0,0,0
 1,5,0.20911851525306702,90,FWL,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28,18240,2022,545102,0.07746964693069458,0,1,1,0.20911851525306702,0.5549079775810242,0.26831984519958496

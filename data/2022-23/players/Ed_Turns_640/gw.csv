@@ -1,6 +1,7 @@
-assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
-0,0,0,0,0.0,640,93,0,0,0.0,0.0,2022-10-08T16:30:00Z,0,18,0,0,0,0,10,0,0,1,0,0.0,0,0,0,0,40,True,0
-0,0,0,0,0.0,640,102,0,0,0.0,0.0,2022-10-14T19:00:00Z,0,4,0,0,0,0,11,0,760,0,2,0.0,0,404,469,65,40,False,0
-0,0,0,0,0.0,640,114,0,0,0.0,0.0,2022-10-18T18:30:00Z,0,16,0,0,0,0,12,0,1676,0,0,0.0,0,270,439,169,40,True,0
-0,0,0,0,0.0,640,125,0,0,0.0,0.0,2022-10-22T14:00:00Z,0,13,0,0,0,0,13,0,1882,1,3,0.0,0,409,647,238,40,False,0
-0,0,0,0,0.0,640,134,0,0,0.0,0.0,2022-10-29T14:00:00Z,0,6,0,0,0,0,14,0,2179,1,4,0.0,0,-21,422,443,40,True,0
+assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+0,0,0,0,0.0,640,0.00000,0.00000,0.00000,0.00000,93,0,0,0.0,0.0,2022-10-08T16:30:00Z,0,18,0,0,0,0,10,0,0,0,1,0,0.0,0,0,0,0,40,True,0
+0,0,0,0,0.0,640,0.00000,0.00000,0.00000,0.00000,102,0,0,0.0,0.0,2022-10-14T19:00:00Z,0,4,0,0,0,0,11,0,760,0,0,2,0.0,0,404,469,65,40,False,0
+0,0,0,0,0.0,640,0.00000,0.00000,0.00000,0.00000,114,0,0,0.0,0.0,2022-10-18T18:30:00Z,0,16,0,0,0,0,12,0,1676,0,0,0,0.0,0,270,439,169,40,True,0
+0,0,0,0,0.0,640,0.00000,0.00000,0.00000,0.00000,125,0,0,0.0,0.0,2022-10-22T14:00:00Z,0,13,0,0,0,0,13,0,1882,0,1,3,0.0,0,409,647,238,40,False,0
+0,0,0,0,0.0,640,0.00000,0.00000,0.00000,0.00000,134,0,0,0.0,0.0,2022-10-29T14:00:00Z,0,6,0,0,0,0,14,0,2179,0,1,4,0.0,0,-21,422,443,40,True,0
+0,0,0,0,0.0,640,0.00000,0.00000,0.00000,0.00000,150,0,0,0.0,0.0,2022-11-05T15:00:00Z,0,20,0,0,0,0,15,0,2327,0,3,2,0.0,0,-104,278,382,40,False,0
