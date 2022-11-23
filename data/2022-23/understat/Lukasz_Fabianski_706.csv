@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Leicester,0,2,2022-11-12,18360,2022,564443,0,0,0,0,0,0.023911889642477036,0.023911889642477036
 0,0,0,90,GK,West Ham,Crystal Palace,1,2,2022-11-06,18350,2022,562718,0,0,0,0,0,0.04118192195892334,0.04118192195892334
 0,0,0,47,GK,Manchester United,West Ham,1,0,2022-10-30,18340,2022,561007,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Bournemouth,2,0,2022-10-24,18330,2022,559519,0,0,0,0,0,0.10450881719589233,0.10450881719589233

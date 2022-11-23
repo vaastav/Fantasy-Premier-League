@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Newcastle United,Chelsea,1,0,2022-11-12,18357,2022,564731,0,0,0,0,0,0,0
 0,0,0,69,FWL,Southampton,Newcastle United,1,4,2022-11-06,18348,2022,562648,0.08871103823184967,1,1,0,0,0.43838638067245483,0.43838638067245483
 0,2,0.17529763281345367,9,Sub,Newcastle United,Aston Villa,4,0,2022-10-29,18341,2022,560085,0.07330125570297241,0,1,0,0.17529763281345367,0.30333390831947327,0.05473500117659569
 0,0,0,12,Sub,Tottenham,Newcastle United,1,2,2022-10-23,18329,2022,559179,0,0,0,0,0,0,0

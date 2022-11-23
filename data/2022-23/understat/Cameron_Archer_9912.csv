@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Brighton,Aston Villa,1,2,2022-11-13,18353,2022,565022,0,0,0,0,0,0,0
 0,0,0,6,Sub,Aston Villa,Brentford,4,0,2022-10-23,18322,2022,558792,0,0,0,0,0,0,0
 0,0,0,8,Sub,Fulham,Aston Villa,3,0,2022-10-20,18316,2022,557763,0,0,0,0,0,0,0
 0,0,0,7,Sub,Nottingham Forest,Aston Villa,1,1,2022-10-10,18300,2022,555440,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,7,0.28325793147087097,90,FWL,Manchester City,Brentford,1,2,2022-11-12,18356,2022,564209,0.16546282172203064,0,3,1,0.28325793147087097,0.43224963545799255,0.03107406198978424
 0,0,0,23,Sub,Manchester City,Fulham,2,1,2022-11-05,18346,2022,561894,0,0,0,0,0,0.1487533152103424,0.1487533152103424
 0,0,0,12,Sub,Leicester,Manchester City,0,1,2022-10-29,18338,2022,559791,0,0,0,0,0,0,0
 0,0,0,25,Sub,Manchester City,Brighton,3,1,2022-10-22,18326,2022,558244,0,0,0,0,0,0,0

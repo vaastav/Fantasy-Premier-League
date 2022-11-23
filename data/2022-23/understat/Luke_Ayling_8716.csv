@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Tottenham,Leeds,4,3,2022-11-12,18359,2022,564499,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leeds,Bournemouth,4,3,2022-11-05,18345,2022,561864,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Leeds,1,2,2022-10-29,18339,2022,560435,0,0,0,0,0,0,0
 0,2,0.06593641638755798,90,DR,Leeds,Fulham,2,3,2022-10-23,18325,2022,558812,0,0,0,0,0.06593641638755798,0.07641500979661942,0.05038180202245712

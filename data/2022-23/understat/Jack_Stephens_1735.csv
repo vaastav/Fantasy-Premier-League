@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Bournemouth,Everton,3,0,2022-11-12,18352,2022,564568,0.14381040632724762,0,1,0,0,0.20531821250915527,0.061507806181907654
 0,0,0,1,Sub,Bournemouth,Tottenham,2,3,2022-10-29,18333,2022,560145,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Bournemouth,1,1,2022-09-17,18275,2022,550700,0,0,0,0,0,0,0
 0,0,0,1,Sub,Southampton,Leeds,2,2,2022-08-13,18215,2022,540598,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Brighton,Aston Villa,1,2,2022-11-13,18353,2022,565020,0,0,0,0,0,0,0
 0,0,0,48,DL,Leeds,Aston Villa,0,0,2022-10-02,18286,2022,553311,0,0,0,0,0,0,0
 0,0,0,2,Sub,Levante,Sevilla,2,3,2022-04-21,17462,2021,528214,0,0,0,0,0,0,0
 0,0,0,24,Sub,Sevilla,Real Madrid,2,3,2022-04-17,17453,2021,527382,0.4373972415924072,0,1,0,0,0.5482462644577026,0.5482462644577026
