@@ -35,10 +35,13 @@ def get_positions(directory):
 
 def get_expected_points(gw, directory):
     xPoints = {}
-    fin = open(os.path.join(directory, 'xP' + str(gw) + '.csv'), 'rU')
-    reader = csv.DictReader(fin)
-    for row in reader:
-        xPoints[int(row['id'])] = row['xP']
+    try:
+        fin = open(os.path.join(directory, 'xP' + str(gw) + '.csv'), 'rU')
+        reader = csv.DictReader(fin)
+        for row in reader:
+            xPoints[int(row['id'])] = row['xP']
+    except:
+        return xPoints    
     return xPoints
 
 def merge_gw(gw, gw_directory):
@@ -101,16 +104,16 @@ def collect_gw(gw, directory_name, output_dir, root_directory_name="data/2021-22
     for row in rows:
         writer.writerow(row)
 
-def collect_all_gws(directory_name, output_dir):
-    for i in range(1,5):
-        collect_gw(i, directory_name, output_dir)
+def collect_all_gws(directory_name, output_dir, root_dir):
+    for i in range(1,17):
+        collect_gw(i, directory_name, output_dir, root_dir)
 
 def merge_all_gws(num_gws, gw_directory):
     for i in range(1, num_gws):
         merge_gw(i, gw_directory)
 
 def main():
-    #collect_all_gws(sys.argv[1], sys.argv[2])
+    #collect_all_gws(sys.argv[1], sys.argv[2], sys.argv[3])
     merge_all_gws(int(sys.argv[1]), sys.argv[2])
     #collect_gw(35, sys.argv[1], sys.argv[2])
 
