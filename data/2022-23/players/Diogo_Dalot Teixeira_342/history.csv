@@ -1,5 +1,5 @@
-assists,bonus,bps,clean_sheets,creativity,element_code,end_cost,goals_conceded,goals_scored,ict_index,influence,minutes,own_goals,penalties_missed,penalties_saved,red_cards,saves,season_name,start_cost,threat,total_points,yellow_cards
-2,0,171,1,259.0,216051,53,18,0,53.7,184.4,1009,0,0,0,0,0,2018/19,55,94.0,27,3
-0,0,10,0,4.3,216051,49,1,0,1.9,10.4,65,0,0,0,0,0,2019/20,50,6.0,4,0
-0,0,0,0,0.0,216051,48,0,0,0.0,0.0,0,0,0,0,0,0,2020/21,50,0.0,0,0
-0,5,382,5,286.1,216051,42,29,0,82.2,411.0,1797,0,0,0,0,0,2021/22,45,126.0,54,4
+assists,bonus,bps,clean_sheets,creativity,element_code,end_cost,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,goals_conceded,goals_scored,ict_index,influence,minutes,own_goals,penalties_missed,penalties_saved,red_cards,saves,season_name,start_cost,starts,threat,total_points,yellow_cards
+2,0,171,1,259.0,216051,53,0.00000,0.00000,0.00000,0.00000,18,0,53.7,184.4,1009,0,0,0,0,0,2018/19,55,0,94.0,27,3
+0,0,10,0,4.3,216051,49,0.00000,0.00000,0.00000,0.00000,1,0,1.9,10.4,65,0,0,0,0,0,2019/20,50,0,6.0,4,0
+0,0,0,0,0.0,216051,48,0.00000,0.00000,0.00000,0.00000,0,0,0.0,0.0,0,0,0,0,0,0,2020/21,50,0,0.0,0,0
+0,5,382,5,286.1,216051,42,0.00000,0.00000,0.00000,0.00000,29,0,82.2,411.0,1797,0,0,0,0,0,2021/22,45,0,126.0,54,4

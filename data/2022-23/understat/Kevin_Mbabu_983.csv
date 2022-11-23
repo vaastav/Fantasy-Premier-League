@@ -1,4 +1,9 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Manchester City,Fulham,2,1,2022-11-05,18346,2022,561906,0,0,0,0,0,0,0
+0,0,0,47,DR,Fulham,Newcastle United,1,4,2022-10-01,18285,2022,552361,0,0,0,0,0,0,0
+0,0,0,62,Sub,Tottenham,Fulham,2,1,2022-09-03,18255,2022,547180,0,0,0,0,0,0.054292868822813034,0.054292868822813034
+0,0,0,10,Sub,Arsenal,Fulham,2,1,2022-08-27,18238,2022,544669,0,0,0,0,0,0,0
+0,0,0,11,Sub,Fulham,Brentford,3,2,2022-08-20,18225,2022,542408,0.5595381259918213,1,2,0,0,0.6114236116409302,0.05188551917672157
 0,0,0,1,Sub,Wolverhampton Wanderers,Fulham,0,0,2022-08-13,18216,2022,540641,0,0,0,0,0,0,0
 0,0,0,14,Sub,Wolfsburg,Mainz 05,5,0,2022-04-22,17792,2021,528318,0,0,0,0,0,0,0
 0,0,0,46,Sub,Borussia Dortmund,Wolfsburg,6,1,2022-04-16,17785,2021,526275,0,0,0,0,0,0.05147836357355118,0.05147836357355118

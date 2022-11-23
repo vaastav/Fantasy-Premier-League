@@ -150,4 +150,4 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 + [My Personal Blog](http://vaastavanand.com/blog/)
 
-+ [FPL.cool](https://www.fpl.cool)
++ [FPL.lol - Query FPL data with SQL in your browser](https://www.fpl.lol)
