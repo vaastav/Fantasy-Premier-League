@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Manchester City,1,3,2022-12-28,18368,2022,565891,0,0,0,0,0,0.020966559648513794,0.020966559648513794
 0,0,0,90,GK,Tottenham,Leeds,4,3,2022-11-12,18359,2022,564487,0,0,0,0,0,0.03394556790590286,0.03394556790590286
 0,0,0,90,GK,Leeds,Bournemouth,4,3,2022-11-05,18345,2022,561852,0,0,0,0,0,0.0504915714263916,0.0504915714263916
 0,0,0,90,GK,Liverpool,Leeds,1,2,2022-10-29,18339,2022,560422,0,0,0,0,0,0,0

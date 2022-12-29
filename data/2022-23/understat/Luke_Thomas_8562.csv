@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Leicester,Newcastle United,0,3,2022-12-26,18369,2022,565508,0.06818538159132004,0,1,0,0,0.18130174279212952,0.11311635375022888
 0,0,0,90,DL,West Ham,Leicester,0,2,2022-11-12,18360,2022,564460,0,0,0,0,0,0.6298529505729675,0.6298529505729675
 0,0,0,1,Sub,Wolverhampton Wanderers,Leicester,0,4,2022-10-23,18331,2022,558899,0,0,0,0,0,0,0
 0,0,0,90,DL,Brighton,Leicester,5,2,2022-09-04,18259,2022,547893,0,0,0,0,0,0.24783585965633392,0.24783585965633392

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Nottingham Forest,3,0,2022-12-27,18370,2022,565683,0,0,0,0,0,0.5007078051567078,0.5007078051567078
 0,0,0,90,GK,Fulham,Manchester United,1,2,2022-11-13,18354,2022,565342,0,0,0,0,0,0.5616893172264099,0.5616893172264099
 0,0,0,90,GK,Aston Villa,Manchester United,3,1,2022-11-06,18342,2022,562545,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,West Ham,1,0,2022-10-30,18340,2022,560994,0,0,0,0,0,0.3814353346824646,0.3814353346824646

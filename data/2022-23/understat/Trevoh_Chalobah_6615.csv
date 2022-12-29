@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Chelsea,Bournemouth,2,0,2022-12-27,18365,2022,565668,0,0,0,0,0,0,0
 0,0,0,90,DC,Newcastle United,Chelsea,1,0,2022-11-12,18357,2022,564735,0,0,0,0,0,0.16577008366584778,0.16577008366584778
 0,0,0,90,DC,Chelsea,Arsenal,0,1,2022-11-06,18343,2022,562347,0,0,0,0,0,0,0
 0,0,0,90,DC,Brighton,Chelsea,4,1,2022-10-29,18335,2022,560057,0,0,0,0,0,0.6392782330513,0.6392782330513
