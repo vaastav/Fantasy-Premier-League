@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.08015362173318863,14,Sub,Bournemouth,Crystal Palace,0,2,2022-12-31,18372,2022,566498,0.14583951234817505,0,1,0,0.08015362173318863,0.8632115721702576,0.6372184157371521
 0,0,0,30,Sub,Nottingham Forest,Crystal Palace,1,0,2022-11-12,18358,2022,564529,0,0,0,0,0,0,0
 0,1,0.07161599397659302,25,Sub,Everton,Crystal Palace,3,0,2022-10-22,18324,2022,558289,0,0,0,0,0.07161599397659302,0.07161599397659302,0
 0,0,0,5,Sub,Crystal Palace,Wolverhampton Wanderers,2,1,2022-10-18,18318,2022,557379,0,0,0,0,0,0,0

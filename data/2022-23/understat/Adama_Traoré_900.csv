@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,43,Sub,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31,18381,2022,566331,0,0,0,0,0,0,0
 0,0,0,29,Sub,Everton,Wolverhampton Wanderers,1,2,2022-12-26,18367,2022,565563,0,0,0,0,0,0,0
 0,1,0.022116644307971,90,FW,Wolverhampton Wanderers,Arsenal,0,2,2022-11-12,18361,2022,564789,0.1188025027513504,0,3,0,0.022116644307971,0.1925053894519806,0.051586247980594635
 0,1,0.03631791099905968,15,Sub,Wolverhampton Wanderers,Brighton,2,3,2022-11-05,18351,2022,561954,0,0,0,0,0.03631791099905968,0,0

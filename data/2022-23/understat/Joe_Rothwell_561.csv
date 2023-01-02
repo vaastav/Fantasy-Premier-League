@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,18,Sub,Bournemouth,Crystal Palace,0,2,2022-12-31,18372,2022,566482,0,0,0,0,0,0.030372606590390205,0.030372606590390205
 0,0,0,1,Sub,Leeds,Bournemouth,4,3,2022-11-05,18345,2022,561879,0,0,0,0,0,0,0
 0,0,0,12,Sub,Bournemouth,Southampton,0,1,2022-10-19,18313,2022,557500,0,0,0,0,0,0,0

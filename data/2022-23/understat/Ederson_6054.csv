@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Everton,1,1,2022-12-31,18376,2022,566442,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Manchester City,1,3,2022-12-28,18368,2022,565907,0,0,0,0,0,0.38724666833877563,0.38724666833877563
 0,0,0,90,GK,Manchester City,Brentford,1,2,2022-11-12,18356,2022,564199,0,0,0,0,0,0.5332427024841309,0.5332427024841309
 0,0,0,90,GK,Manchester City,Fulham,2,1,2022-11-05,18346,2022,561881,0,0,0,0,0,0.29381290078163147,0.29381290078163147
