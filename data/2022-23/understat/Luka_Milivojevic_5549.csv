@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Crystal Palace,Manchester United,1,1,2023-01-19,18270,2022,569799,0,0,0,0,0,0,0
 0,0,0,4,Sub,Crystal Palace,Fulham,0,3,2022-12-26,18366,2022,565577,0.13266199827194214,0,1,0,0,0,0
 0,0,0,11,Sub,West Ham,Crystal Palace,1,2,2022-11-06,18350,2022,562744,0,0,0,0,0,0,0
 0,3,0.1206749975681305,90,DMC,Crystal Palace,Southampton,1,0,2022-10-29,18336,2022,560017,0.018686799332499504,0,1,0,0.1206749975681305,0.0903502032160759,0.022572100162506104

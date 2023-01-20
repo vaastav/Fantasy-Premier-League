@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,63,MC,Everton,Southampton,1,2,2023-01-14,18396,2022,568880,0,0,0,0,0,0,0
 0,0,0,67,DMC,Southampton,Nottingham Forest,0,1,2023-01-04,18391,2022,567355,0,0,0,0,0,0,0
 0,0,0,1,Sub,Fulham,Southampton,2,1,2022-12-31,18374,2022,566437,0,0,0,0,0,0,0
 0,0,0,84,DMC,Liverpool,Southampton,3,1,2022-11-12,18355,2022,564554,0.06183990091085434,0,1,0,0,0.6486859917640686,0.5868459939956665

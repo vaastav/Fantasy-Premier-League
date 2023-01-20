@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,74,FWR,Wolverhampton Wanderers,West Ham,1,0,2023-01-14,18401,2022,568812,0.11677620559930801,0,3,0,0,0.1571664810180664,0.040390267968177795
 0,0,0,61,AMR,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04,18383,2022,567529,0,0,0,0,0,0,0
 0,0,0,90,FWR,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31,18381,2022,566326,0.03181999921798706,0,1,0,0,0.03181999921798706,0
 0,1,0.021475499495863914,61,FWR,Everton,Wolverhampton Wanderers,1,2,2022-12-26,18367,2022,565557,0,0,0,0,0.021475499495863914,0.05861059948801994,0.03713519871234894

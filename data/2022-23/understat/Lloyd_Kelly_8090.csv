@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569038,0,0,0,0,0,0.10601221770048141,0.10601221770048141
 0,0,0,90,DL,Manchester United,Bournemouth,3,0,2023-01-03,18390,2022,567095,0,0,0,0,0,0,0
 0,0,0,90,DC,Bournemouth,Crystal Palace,0,2,2022-12-31,18372,2022,566474,0,0,0,0,0,0,0
 0,1,0.04771380126476288,90,DC,Chelsea,Bournemouth,2,0,2022-12-27,18365,2022,565672,0,0,0,0,0.04771380126476288,0.05966680124402046,0.05966680124402046

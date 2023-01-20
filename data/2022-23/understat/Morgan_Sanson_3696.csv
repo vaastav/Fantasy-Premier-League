@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Aston Villa,Leeds,2,1,2023-01-13,18392,2022,568634,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,Manchester United,3,1,2022-11-06,18342,2022,562541,0,0,0,0,0,0,0
 0,0,0,77,MC,Wolverhampton Wanderers,Aston Villa,2,1,2022-04-02,16676,2021,522850,0,0,0,0,0,0,0
 0,0,0,18,Sub,Leeds,Aston Villa,0,3,2022-03-10,16572,2021,518965,0.028206299990415573,0,1,0,0,0.26475000381469727,0.26475000381469727

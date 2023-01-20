@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,43,Sub,Nottingham Forest,Leicester,2,0,2023-01-14,18399,2022,568788,0.023927785456180573,0,1,0,0,0.023927785456180573,0.023927785456180573
 0,0,0,27,Sub,Southampton,Nottingham Forest,0,1,2023-01-04,18391,2022,567381,0,0,0,0,0,0,0
 0,0,0,11,Sub,Nottingham Forest,Chelsea,1,1,2023-01-01,18378,2022,566789,0,0,0,0,0,0,0
 0,0,0,18,Sub,Nottingham Forest,Crystal Palace,1,0,2022-11-12,18358,2022,564513,0,0,0,0,0,0,0
