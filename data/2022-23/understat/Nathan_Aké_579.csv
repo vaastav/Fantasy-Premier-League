@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,41,Sub,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22,18409,2022,570578,0,0,0,0,0,0,0
 0,0,0,90,DL,Manchester City,Tottenham,4,2,2023-01-19,18267,2022,569818,0.12026067823171616,0,1,0,0,0.12026067823171616,0.12026067823171616
 0,0,0,90,DC,Manchester United,Manchester City,2,1,2023-01-14,18397,2022,568671,0,0,0,0,0,0.6302554607391357,0.6302554607391357
 0,1,0.0868643969297409,90,DC,Chelsea,Manchester City,0,1,2023-01-05,18385,2022,567555,0,0,0,0,0.0868643969297409,0.6782940030097961,0.6782940030097961

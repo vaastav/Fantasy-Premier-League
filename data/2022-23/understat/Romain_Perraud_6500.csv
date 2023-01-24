@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,25,Sub,Southampton,Aston Villa,0,1,2023-01-21,18410,2022,570214,0,0,0,0,0,0,0
 0,0,0,3,Sub,Everton,Southampton,1,2,2023-01-14,18396,2022,568886,0,0,0,0,0,0,0
 0,0,0,67,ML,Southampton,Nottingham Forest,0,1,2023-01-04,18391,2022,567359,0,0,0,0,0,0,0
 0,0,0,11,Sub,Fulham,Southampton,2,1,2022-12-31,18374,2022,566438,0,0,0,0,0,0,0

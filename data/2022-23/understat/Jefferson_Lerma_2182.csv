@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Bournemouth,Nottingham Forest,1,1,2023-01-21,18403,2022,570238,0,0,0,0,0,0.021832916885614395,0.021832916885614395
 0,0,0,90,MC,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569040,0,0,0,0,0,0.05366367846727371,0.05366367846727371
 0,0,0,86,MC,Manchester United,Bournemouth,3,0,2023-01-03,18390,2022,567097,0,0,0,0,0,0.4044550061225891,0.4044550061225891
 0,0,0,90,MC,Bournemouth,Crystal Palace,0,2,2022-12-31,18372,2022,566477,0,0,0,0,0,0.15637199580669403,0.15637199580669403

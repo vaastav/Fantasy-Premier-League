@@ -1,5 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
-0,0,0,90,DC,Crystal Palace,Manchester United,1,1,2023-01-19,18270,2022,569803,0,0,0,0,0,0.1080336794257164,0.1080336794257164
+0,0,0,90,DC,Arsenal,Manchester United,3,2,2023-01-22,18402,2022,570737,0,0,0,0,0,0,0
+0,0,0,90,DC,Crystal Palace,Manchester United,1,1,2023-01-18,18270,2022,569803,0,0,0,0,0,0.1080336794257164,0.1080336794257164
 0,0,0,90,DC,Manchester United,Manchester City,2,1,2023-01-14,18397,2022,568655,0,0,0,0,0,0.3242758512496948,0.3242758512496948
 0,0,0,90,DC,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31,18381,2022,566336,0,0,0,0,0,0.8302299976348877,0.8302299976348877
 0,0,0,80,DC,Manchester United,Nottingham Forest,3,0,2022-12-27,18370,2022,565685,0,0,0,0,0,0.7094870209693909,0.7094870209693909

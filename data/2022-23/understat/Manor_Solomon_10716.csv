@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.03741665184497833,7,Sub,Fulham,Tottenham,0,1,2023-01-23,18405,2022,570974,0,0,0,0,0.03741665184497833,0.03741665184497833,0
 0,0,0,4,Sub,Fulham,Chelsea,2,1,2023-01-12,18262,2022,568538,0,0,0,0,0,0,0
 0,0,0,22,Sub,Fulham,Liverpool,2,2,2022-08-06,18203,2022,539194,0,0,0,0,0,0,0

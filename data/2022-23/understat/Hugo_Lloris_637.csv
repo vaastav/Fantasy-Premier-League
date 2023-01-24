@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,Tottenham,0,1,2023-01-23,18405,2022,570977,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester City,Tottenham,4,2,2023-01-19,18267,2022,569828,0,0,0,0,0,0.053327132016420364,0.053327132016420364
 0,0,0,90,GK,Tottenham,Arsenal,0,2,2023-01-15,18400,2022,569565,0,0,0,0,0,0.12655097246170044,0.12655097246170044
 0,0,0,90,GK,Crystal Palace,Tottenham,0,4,2023-01-04,18386,2022,567491,0,0,0,0,0,0.5728269815444946,0.5728269815444946

@@ -25,6 +25,7 @@ Fábio,Ferreira Vieira,25
 William,Saliba,26
 Marcus,Oliveira Alencar,27
 Gabriel,Fernando de Jesus,28
+Leandro,Trossard,111
 Oleksandr,Zinchenko,313
 Matthew,Smith,607
 Ethan,Nwaneri,630
@@ -33,7 +34,6 @@ Karl,Hein,655
 Amario,Cozier-Duberry,668
 Nathan,Butler-Oyedeji,685
 Philippe,Coutinho Correia,29
-Danny,Ings,30
 Emiliano,Martínez Romero,31
 Calum,Chambers,32
 Lucas,Digne,33
@@ -68,6 +68,7 @@ Lamare,Bogarde,638
 Filip,Marschall,670
 Kadan,Young,672
 Alexandre,Moreno Lopera,694
+Viljami,Sinisalo,707
 Adam,Smith,57
 Junior,Stanislas,58
 Ryan,Fredericks,59
@@ -101,6 +102,8 @@ Cameron,Plain,649
 Daniel,Adu-Adjei,695
 Michael,Dacosta Gonzalez,696
 Dominic,Sadi,697
+Dango,Ouattara,705
+Euan,Pollock,706
 Pontus,Jansson,78
 Christian,Nørgaard,79
 Ivan,Toney,80
@@ -145,7 +148,6 @@ Lewis,Dunk,106
 Solly,March,107
 Adam,Webster,108
 Joël,Veltman,109
-Leandro,Trossard,111
 Robert,Sánchez,113
 Tariq,Lamptey,114
 Steven,Alzate,115
@@ -213,6 +215,7 @@ Benoît,Badiashile,689
 João,Félix Sequeira,690
 Mykhailo,Mudryk,699
 Andrey,Nascimento dos Santos,702
+Noni,Madueke,708
 Vicente,Guaita,152
 James,Tomkins,153
 James,McArthur,154
@@ -356,6 +359,7 @@ Wout,Faes,612
 Sammy,Braybrooke,639
 Joe,Wormleighton,645
 Kasey,McAteer,687
+Victor,Kristiansen,709
 Liam,Cooper,221
 Luke,Ayling,222
 Mateusz,Klich,223
@@ -500,7 +504,6 @@ Matt,Ritchie,350
 Federico,Fernández,351
 Ciaran,Clark,352
 Karl,Darlow,353
-Chris,Wood,354
 Martin,Dubravka,355
 Callum,Wilson,356
 Kieran,Trippier,357
@@ -529,6 +532,7 @@ Alexander,Isak,594
 Loris,Karius,626
 Garang,Kuol,683
 Neco,Williams,295
+Chris,Wood,354
 Harry,Arter,378
 Steve,Cook,379
 Lyle,Taylor,380
@@ -639,11 +643,11 @@ Richarlison,de Andrade,454
 Clément,Lenglet,513
 Djed,Spence,522
 Bryan,Gil Salvatierra,554
+Danny,Ings,30
 Lukasz,Fabianski,455
 Angelo,Ogbonna,456
 Aaron,Cresswell,457
 Michail,Antonio,458
-Craig,Dawson,459
 Manuel,Lanzini,460
 Kurt,Zouma,461
 Arthur,Masuaku,462
@@ -668,6 +672,7 @@ Maxwel,Cornet,575
 Thilo,Kehrer,588
 Lucas,Tolentino Coelho de Lima,603
 Divin,Mubama,669
+Craig,Dawson,459
 Raúl,Jiménez,476
 Jonathan,Castro Otto,477
 José,Malheiro de Sá,478

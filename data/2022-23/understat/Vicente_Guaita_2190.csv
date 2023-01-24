@@ -1,5 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
-0,0,0,90,GK,Crystal Palace,Manchester United,1,1,2023-01-19,18270,2022,569785,0,0,0,0,0,0,0
+0,0,0,90,GK,Crystal Palace,Newcastle United,0,0,2023-01-21,18404,2022,570319,0,0,0,0,0,0,0
+0,0,0,90,GK,Crystal Palace,Manchester United,1,1,2023-01-18,18270,2022,569785,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Crystal Palace,1,0,2023-01-15,18395,2022,569425,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Tottenham,0,4,2023-01-04,18386,2022,567477,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Crystal Palace,0,2,2022-12-31,18372,2022,566486,0,0,0,0,0,0,0
