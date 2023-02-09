@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,West Ham,1,1,2023-02-04,18418,2022,573463,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Newcastle United,0,0,2023-01-21,18404,2022,570335,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Fulham,1,0,2023-01-15,18398,2022,569288,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Newcastle United,0,0,2023-01-03,18382,2022,567029,0,0,0,0,0,0,0

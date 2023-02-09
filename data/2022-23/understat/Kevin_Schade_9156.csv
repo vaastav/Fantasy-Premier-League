@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Brentford,Southampton,3,0,2023-02-04,18413,2022,573227,0,0,0,0,0,0.520240843296051,0.520240843296051
 0,0,0,4,Sub,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569032,0,0,0,0,0,0.04631615802645683,0.04631615802645683
 0,1,0.019414400681853294,31,Sub,RasenBallsport Leipzig,Freiburg,3,1,2022-11-09,19460,2022,563731,0,0,0,0,0.019414400681853294,0.019414400681853294,0
 0,0,0,8,Sub,Freiburg,FC Cologne,2,0,2022-11-06,19450,2022,562880,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.10248972475528717,85,DR,Rennes,Lille,1,3,2023-02-04,19866,2022,573616,0,0,0,0,0.10248972475528717,0.40191754698753357,0.2994278371334076
 0,0,0,1,Sub,Tottenham,Aston Villa,0,2,2023-01-01,18379,2022,566728,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester United,Tottenham,2,0,2022-10-19,18321,2022,557668,0,0,0,0,0,0,0
 0,0,0,1,Sub,Tottenham,Everton,2,0,2022-10-15,18310,2022,556186,0,0,0,0,0,0,0

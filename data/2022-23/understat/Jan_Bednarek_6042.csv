@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.016187692061066628,90,DC,Brentford,Southampton,3,0,2023-02-04,18413,2022,573232,0,0,0,0,0.016187692061066628,0,0
 0,0,0,6,Sub,Tottenham,Aston Villa,0,2,2023-01-01,18379,2022,566742,0,0,0,0,0,0,0
 0,0,0,47,DC,Fulham,Aston Villa,3,0,2022-10-20,18316,2022,557751,0,0,0,0,0,0.1851159930229187,0.1851159930229187
 0,0,0,42,Sub,Leeds,Aston Villa,0,0,2022-10-02,18286,2022,553319,0,0,0,0,0,0.3622150123119354,0.3622150123119354
