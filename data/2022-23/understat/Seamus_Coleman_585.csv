@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Liverpool,Everton,2,0,2023-02-13,18428,2022,575872,0,0,0,0,0,0,0
 0,0,0,90,DR,Everton,Arsenal,1,0,2023-02-04,18416,2022,572965,0.25754669308662415,0,1,0,0,0.6068637371063232,0.3493170440196991
 0,0,0,48,DMR,West Ham,Everton,2,0,2023-01-21,18411,2022,570165,0,0,0,0,0,0,0
 0,0,0,71,DMR,Everton,Southampton,1,2,2023-01-14,18396,2022,568866,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Chelsea,1,1,2023-02-11,18431,2022,574585,0,0,0,0,0,0.08350963890552521,0.08350963890552521
 0,0,0,90,GK,Chelsea,Fulham,0,0,2023-02-03,18415,2022,572932,0,0,0,0,0,0.022490834817290306,0.022490834817290306
 0,0,0,90,GK,Liverpool,Chelsea,0,0,2023-01-21,18408,2022,569919,0,0,0,0,0,0.019334416836500168,0.019334416836500168
 0,0,0,90,GK,Chelsea,Crystal Palace,1,0,2023-01-15,18395,2022,569410,0,0,0,0,0,0,0

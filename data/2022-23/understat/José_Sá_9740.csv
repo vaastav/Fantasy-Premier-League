@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Southampton,Wolverhampton Wanderers,1,2,2023-02-11,18430,2022,574826,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04,18421,2022,573245,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22,18409,2022,570582,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,West Ham,1,0,2023-01-14,18401,2022,568804,0,0,0,0,0,0,0

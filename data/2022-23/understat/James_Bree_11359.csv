@@ -1,2 +1,3 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,83,DR,Southampton,Wolverhampton Wanderers,1,2,2023-02-11,18430,2022,574811,0.025516048073768616,0,1,0,0,0.04412702098488808,0.04412702098488808
 0,0,0,90,DR,Brentford,Southampton,3,0,2023-02-04,18413,2022,573230,0.15271642804145813,0,3,0,0,0.19298005104064941,0.040263622999191284

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Newcastle United,1,1,2023-02-11,18423,2022,575024,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Bournemouth,1,0,2023-02-04,18414,2022,573323,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Nottingham Forest,1,1,2023-01-21,18403,2022,570232,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569034,0,0,0,0,0,0.07739093154668808,0.07739093154668808
