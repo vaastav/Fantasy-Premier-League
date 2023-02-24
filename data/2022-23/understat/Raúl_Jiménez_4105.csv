@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Wolverhampton Wanderers,Bournemouth,0,1,2023-02-18,18441,2022,576363,0,0,0,0,0,0,0
 0,3,0.5682138204574585,26,Sub,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04,18421,2022,573256,0.07773883640766144,0,1,0,0.5682138204574585,0.6459527015686035,0.019642982631921768
 0,0,0,49,FW,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22,18409,2022,570591,0,0,0,0,0,0,0
 0,0,0,25,Sub,Wolverhampton Wanderers,West Ham,1,0,2023-01-14,18401,2022,568817,0,0,0,0,0,0,0

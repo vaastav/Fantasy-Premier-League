@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,20,Sub,Auxerre,Lyon,2,1,2023-02-17,19878,2022,576054,0.12099209427833557,0,1,0,0,0.12099209427833557,0
 0,0,0,10,Sub,Auxerre,Reims,0,0,2023-02-05,19859,2022,573905,0,0,0,0,0,0,0
 0,0,0,1,Sub,Bournemouth,Nottingham Forest,1,1,2023-01-21,18403,2022,570244,0,0,0,0,0,0,0
 0,1,0.07739093154668808,20,Sub,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569047,0,0,0,0,0.07739093154668808,0.12973946332931519,0.052348535507917404

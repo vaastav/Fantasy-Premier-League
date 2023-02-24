@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Brentford,Crystal Palace,1,1,2023-02-18,18433,2022,576459,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569033,0,0,0,0,0,0,0
 0,0,0,13,Sub,Brentford,Liverpool,3,1,2023-01-02,18384,2022,566913,0,0,0,0,0,0,0
 0,0,0,65,FWL,Nottingham Forest,Brentford,2,2,2022-11-05,18347,2022,561935,0,0,0,0,0,0,0

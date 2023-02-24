@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Tottenham,West Ham,2,0,2023-02-19,18440,2022,577240,0,0,0,0,0,0,0
 0,0,0,6,Sub,West Ham,Chelsea,1,1,2023-02-11,18431,2022,574584,0,0,0,0,0,0,0
 0,0,0,42,Sub,Newcastle United,West Ham,1,1,2023-02-04,18418,2022,573491,0,0,0,0,0,0,0
 0,0,0,7,Sub,West Ham,Everton,2,0,2023-01-21,18411,2022,570159,0.046698443591594696,0,1,0,0,0.046698443591594696,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Wolverhampton Wanderers,Bournemouth,0,1,2023-02-18,18441,2022,576368,0,0,0,0,0,0,0
 1,1,0.6845354437828064,55,DC,Bournemouth,Newcastle United,1,1,2023-02-11,18423,2022,575026,0,0,0,1,0.6845354437828064,0,0
 0,0,0,90,DC,Brighton,Bournemouth,1,0,2023-02-04,18414,2022,573325,0,0,0,0,0,0.22543878853321075,0.22543878853321075
 0,0,0,82,DC,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569036,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Leeds,1,0,2023-02-18,18436,2022,576429,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Manchester United,0,2,2023-02-12,18426,2022,575395,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Leeds,2,2,2023-02-08,18279,2022,574400,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Leeds,1,0,2023-02-05,18419,2022,573842,0,0,0,0,0,0,0

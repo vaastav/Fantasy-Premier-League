@@ -1,2 +1,3 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.0324036106467247,15,Sub,Brighton,Fulham,0,1,2023-02-18,18434,2022,576336,0,0,0,0,0.0324036106467247,0.0324036106467247,0
 0,0,0,12,Sub,Brighton,Bournemouth,1,0,2023-02-04,18414,2022,573322,0.0426635704934597,0,1,0,0,0.1442493200302124,0.1015857458114624

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,65,MC,Brentford,Crystal Palace,1,1,2023-02-18,18433,2022,576451,0,0,0,0,0,0.05643278732895851,0.05643278732895851
 0,0,0,17,Sub,Arsenal,Brentford,1,1,2023-02-11,18422,2022,574809,0,0,0,0,0,0,0
 0,0,0,64,MC,Brentford,Southampton,3,0,2023-02-04,18413,2022,573220,0.10264138132333755,0,2,0,0,0.8912465572357178,0.8912465572357178
 0,0,0,61,MC,Leeds,Brentford,0,0,2023-01-22,18406,2022,570620,0,0,0,0,0,0,0
