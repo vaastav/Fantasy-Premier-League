@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01,18264,2022,578986,0,0,0,0,0,0,0
+0,1,0.020855873823165894,90,MC,Fulham,Wolverhampton Wanderers,1,1,2023-02-24,18445,2022,577573,0,0,0,0,0.020855873823165894,0.25707006454467773,0.23621419072151184
 0,0,0,26,DMC,Southampton,Wolverhampton Wanderers,1,2,2023-02-11,18430,2022,574831,0,0,0,0,0,0,0
 0,0,0,87,MC,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04,18421,2022,573251,0,0,0,0,0,0.03505055233836174,0.03505055233836174
 0,0,0,70,MC,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22,18409,2022,570587,0.054913539439439774,0,1,0,0,0.054913539439439774,0.054913539439439774

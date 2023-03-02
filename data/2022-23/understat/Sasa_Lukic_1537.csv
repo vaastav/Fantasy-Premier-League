@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.01896893046796322,41,Sub,Fulham,Wolverhampton Wanderers,1,1,2023-02-24,18445,2022,577565,0,0,0,0,0.01896893046796322,0.5138193964958191,0.4948504865169525
 0,0,0,1,Sub,Fulham,Nottingham Forest,2,0,2023-02-11,18425,2022,574884,0,0,0,0,0,0,0
 0,0,0,44,Sub,Empoli,Torino,2,2,2023-01-28,18775,2022,571520,0.02819301374256611,0,2,0,0,0.8220505714416504,0.7938575744628906
 0,0,0,47,MC,Torino,Spezia,0,1,2023-01-15,18760,2022,569326,0,0,0,0,0,0,0

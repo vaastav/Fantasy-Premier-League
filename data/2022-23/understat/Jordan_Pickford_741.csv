@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,Everton,4,0,2023-03-02,18269,2022,578951,0,0,0,0,0,0,0
+0,0,0,90,GK,Everton,Aston Villa,0,2,2023-02-25,18444,2022,577799,0,0,0,0,0,0.05157758295536041,0.05157758295536041
 0,0,0,90,GK,Everton,Leeds,1,0,2023-02-18,18436,2022,576416,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Everton,2,0,2023-02-13,18428,2022,575871,0,0,0,0,0,0.0727187916636467,0.0727187916636467
 0,0,0,90,GK,Everton,Arsenal,1,0,2023-02-04,18416,2022,572964,0,0,0,0,0,0.3009658753871918,0.3009658753871918

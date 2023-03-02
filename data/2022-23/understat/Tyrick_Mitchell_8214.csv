@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Crystal Palace,Liverpool,0,0,2023-02-25,18443,2022,578109,0,0,0,0,0,0.4223175048828125,0.4223175048828125
 0,0,0,84,DL,Brentford,Crystal Palace,1,1,2023-02-18,18433,2022,576464,0,0,0,0,0,0,0
 0,0,0,90,DL,Crystal Palace,Brighton,1,1,2023-02-11,18424,2022,574846,0.04653788357973099,0,1,0,0,0.04653788357973099,0.04653788357973099
 0,0,0,90,DL,Manchester United,Crystal Palace,2,1,2023-02-04,18417,2022,573296,0.1050494834780693,0,2,0,0,0.1050494834780693,0

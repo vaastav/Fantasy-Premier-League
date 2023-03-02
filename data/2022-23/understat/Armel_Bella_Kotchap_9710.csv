@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.10325147956609726,90,DC,Leeds,Southampton,1,0,2023-02-25,18446,2022,577842,0,0,0,0,0.10325147956609726,0.11180970072746277,0.11180970072746277
 0,0,0,90,DC,Chelsea,Southampton,0,1,2023-02-18,18435,2022,576401,0,0,0,0,0,0.13854491710662842,0.13854491710662842
 0,0,0,33,DC,Southampton,Nottingham Forest,0,1,2023-01-04,18391,2022,567353,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,Southampton,2,1,2022-12-31,18374,2022,566428,0.06351020187139511,0,1,0,0,0,0

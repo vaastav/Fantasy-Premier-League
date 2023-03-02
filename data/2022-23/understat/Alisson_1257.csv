@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01,18264,2022,578966,0,0,0,0,0,0.6235023736953735,0.6235023736953735
+0,0,0,90,GK,Crystal Palace,Liverpool,0,0,2023-02-25,18443,2022,578118,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Liverpool,0,2,2023-02-18,18438,2022,576615,0,0,0,0,0,0.5733224153518677,0.5733224153518677
 0,0,0,90,GK,Liverpool,Everton,2,0,2023-02-13,18428,2022,575855,0,0,0,0,0,0.18875232338905334,0.18875232338905334
 0,0,0,90,GK,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04,18421,2022,573261,0,0,0,0,0,0.0246500875800848,0.0246500875800848
