@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Southampton,Leicester,1,0,2023-03-04,18460,2022,579770,0,0,0,0,0,0.4817323684692383,0.4817323684692383
 0,0,0,3,Sub,Leicester,Arsenal,0,1,2023-02-25,18447,2022,577869,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leicester,Tottenham,4,1,2023-02-11,18427,2022,574945,0,0,0,0,0,0,0
 0,0,0,20,Sub,Leicester,Southampton,4,1,2022-05-22,16752,2021,537866,0.5704619884490967,1,1,0,0,1.2192000150680542,1.2192000150680542

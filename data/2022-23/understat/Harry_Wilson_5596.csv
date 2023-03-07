@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Brentford,Fulham,3,2,2023-03-06,18454,2022,580729,0,0,0,0,0,0,0
 0,0,0,4,Sub,Fulham,Wolverhampton Wanderers,1,1,2023-02-24,18445,2022,577566,0,0,0,0,0,0.45865970849990845,0.45865970849990845
 0,0,0,64,AMR,Brighton,Fulham,0,1,2023-02-18,18434,2022,576344,0,0,0,0,0,0,0
 0,0,0,2,Sub,Fulham,Nottingham Forest,2,0,2023-02-11,18425,2022,574885,0,0,0,0,0,0.352384477853775,0.352384477853775
