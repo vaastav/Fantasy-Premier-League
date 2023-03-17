@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMR,Tottenham,Nottingham Forest,3,1,2023-03-11,18470,2022,581231,0.19746939837932587,1,3,0,0,0.31601375341415405,0.22566008567810059
 0,4,0.16900017857551575,90,DMR,Wolverhampton Wanderers,Tottenham,1,0,2023-03-04,18461,2022,579531,0.06438945978879929,0,2,0,0.16900017857551575,0.15706852078437805,0.09033247083425522
 0,0,0,1,Sub,Tottenham,Chelsea,2,0,2023-02-26,18450,2022,578330,0,0,0,0,0,0,0
 0,0,0,80,DMR,Leicester,Tottenham,4,1,2023-02-11,18427,2022,574951,0,0,0,0,0,0,0

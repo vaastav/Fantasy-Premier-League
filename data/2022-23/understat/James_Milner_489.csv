@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,24,Sub,Bournemouth,Liverpool,1,0,2023-03-11,18462,2022,580946,0.2751452922821045,0,1,0,0,0.2751452922821045,0.2751452922821045
 0,0,0,10,Sub,Liverpool,Manchester United,7,0,2023-03-05,18457,2022,580378,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01,18264,2022,578980,0,0,0,0,0,0,0
 0,0,0,90,MC,Crystal Palace,Liverpool,0,0,2023-02-25,18443,2022,578124,0.059271372854709625,0,1,0,0,0.09607184678316116,0.09607184678316116

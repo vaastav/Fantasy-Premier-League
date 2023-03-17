@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,1,0.2858740985393524,22,Sub,Southampton,Brentford,0,2,2023-03-15,18265,2022,582511,0,0,0,1,0.2858740985393524,0.2858740985393524,0
+0,0,0,12,Sub,Everton,Brentford,1,0,2023-03-11,18464,2022,581222,0,0,0,0,0,0,0
 0,1,0.10483337938785553,82,FWL,Brentford,Fulham,3,2,2023-03-06,18454,2022,580710,0,0,0,0,0.10483337938785553,0,0
 0,0,0,65,FWL,Brentford,Crystal Palace,1,1,2023-02-18,18433,2022,576454,0.03639092668890953,0,1,0,0,0.03639092668890953,0
 0,0,0,17,Sub,Arsenal,Brentford,1,1,2023-02-11,18422,2022,574807,0,0,0,0,0,0,0

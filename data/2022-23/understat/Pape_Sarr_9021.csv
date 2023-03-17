@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Nottingham Forest,3,1,2023-03-11,18470,2022,581239,0,0,0,0,0,0,0
 0,0,0,1,Sub,Tottenham,West Ham,2,0,2023-02-19,18440,2022,577225,0,0,0,0,0,0,0
 0,0,0,21,Sub,Leicester,Tottenham,4,1,2023-02-11,18427,2022,574962,0,0,0,0,0,0.02746592089533806,0.02746592089533806
 0,0,0,79,MC,Tottenham,Arsenal,0,2,2023-01-15,18400,2022,569572,0.01504137646406889,0,1,0,0,0.6007787585258484,0.6007787585258484

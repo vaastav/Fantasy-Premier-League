@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Bournemouth,Liverpool,1,0,2023-03-11,18462,2022,580926,0,0,0,0,0,0,0
 0,0,0,4,Sub,Wolverhampton Wanderers,Bournemouth,0,1,2023-02-18,18441,2022,576377,0,0,0,0,0,0,0
 0,0,0,6,Sub,Brighton,Bournemouth,1,0,2023-02-04,18414,2022,573334,0,0,0,0,0,0,0
 0,0,0,6,Sub,Roma,Napoli,0,1,2022-10-23,18688,2022,559345,0,0,0,0,0,0,0

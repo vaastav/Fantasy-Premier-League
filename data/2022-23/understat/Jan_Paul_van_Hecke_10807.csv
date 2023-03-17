@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Leeds,Brighton,2,2,2023-03-11,18466,2022,581284,0,0,0,0,0,0,0
 0,2,0.5538485050201416,82,DC,Leicester,Brighton,2,2,2023-01-21,18407,2022,570190,0,0,0,0,0.5538485050201416,0.019278360530734062,0
 0,0,0,1,Sub,Brighton,Leeds,1,0,2022-08-27,18234,2022,544409,0,0,0,0,0,0,0

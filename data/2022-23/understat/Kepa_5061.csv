@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leicester,Chelsea,1,3,2023-03-11,18467,2022,581302,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Leeds,1,0,2023-03-04,18456,2022,579541,0,0,0,0,0,0.3135666251182556,0.3135666251182556
 0,0,0,90,GK,Tottenham,Chelsea,2,0,2023-02-26,18450,2022,578332,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Southampton,0,1,2023-02-18,18435,2022,576382,0,0,0,0,0,0,0

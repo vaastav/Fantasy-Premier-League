@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,18,Sub,Crystal Palace,Manchester City,0,1,2023-03-11,18463,2022,581455,0,0,0,0,0,0.025035755708813667,0.025035755708813667
 0,0,0,73,DR,Crystal Palace,Newcastle United,0,0,2023-01-21,18404,2022,570320,0,0,0,0,0,0,0
 0,1,0.04610950127243996,90,DL,Crystal Palace,Tottenham,0,4,2023-01-04,18386,2022,567481,0,0,0,0,0.04610950127243996,0.1347620040178299,0.1347620040178299
 0,0,0,90,DL,Bournemouth,Crystal Palace,0,2,2022-12-31,18372,2022,566490,0,0,0,0,0,0.11140099912881851,0.11140099912881851

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,69,MC,Tottenham,Nottingham Forest,3,1,2023-03-11,18470,2022,581247,0,0,0,0,0,0,0
 0,0,0,72,MC,Nottingham Forest,Everton,2,2,2023-03-05,18459,2022,580099,0.022814366966485977,0,1,0,0,0.07726840674877167,0.05445403978228569
 0,0,0,90,MC,West Ham,Nottingham Forest,4,0,2023-02-25,18451,2022,577907,0,0,0,0,0,0.11105625331401825,0.11105625331401825
 0,0,0,90,MC,Nottingham Forest,Manchester City,1,1,2023-02-18,18439,2022,576512,0,0,0,0,0,0.9140024185180664,0.9140024185180664
