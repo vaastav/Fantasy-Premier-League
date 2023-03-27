@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Aston Villa,Bournemouth,3,0,2023-03-18,18473,2022,583061,0.05369570106267929,0,1,0,0,0.19819915294647217,0.14450345933437347
 0,0,0,90,DL,Bournemouth,Liverpool,1,0,2023-03-11,18462,2022,580919,0,0,0,0,0,0,0
 0,1,0.013839304447174072,90,DC,Bournemouth,Nottingham Forest,1,1,2023-01-21,18403,2022,570235,0,0,0,0,0.013839304447174072,0,0
 0,0,0,90,DL,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569038,0,0,0,0,0,0.10601221770048141,0.10601221770048141

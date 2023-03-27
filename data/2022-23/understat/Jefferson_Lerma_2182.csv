@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.05201197415590286,90,MC,Aston Villa,Bournemouth,3,0,2023-03-18,18473,2022,583063,0,0,0,0,0.05201197415590286,0.13655869662761688,0.13655869662761688
 0,0,0,82,MC,Bournemouth,Liverpool,1,0,2023-03-11,18462,2022,580921,0,0,0,0,0,0,0
 1,4,0.4824863076210022,90,MC,Bournemouth,Manchester City,1,4,2023-02-25,18442,2022,578082,0,0,0,1,0.4824863076210022,0.4400734603404999,0
 0,0,0,47,DMC,Wolverhampton Wanderers,Bournemouth,0,1,2023-02-18,18441,2022,576371,0,0,0,0,0,0,0

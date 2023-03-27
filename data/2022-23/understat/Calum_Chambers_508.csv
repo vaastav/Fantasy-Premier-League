@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Aston Villa,Bournemouth,3,0,2023-03-18,18473,2022,583056,0,0,0,0,0,0,0
 0,0,0,3,Sub,West Ham,Aston Villa,1,1,2023-03-12,18471,2022,581958,0,0,0,0,0,0.06989342719316483,0.06989342719316483
 0,0,0,28,Sub,Aston Villa,Crystal Palace,1,0,2023-03-04,18453,2022,579495,0,0,0,0,0,0.26847580075263977,0.26847580075263977
 0,0,0,90,DC,Manchester City,Aston Villa,3,1,2023-02-12,18429,2022,575595,0,0,0,0,0,0.07074621319770813,0.07074621319770813
