@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Nottingham Forest,2,1,2023-04-04,18271,2022,586047,0,0,0,0,0,0,0
+0,0,0,90,GK,Nottingham Forest,Wolverhampton Wanderers,1,1,2023-04-01,18490,2022,584673,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Newcastle United,1,2,2023-03-17,18479,2022,582669,0,0,0,0,0,0,0
 0,0,0,90,GK,Tottenham,Nottingham Forest,3,1,2023-03-11,18470,2022,581241,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Everton,2,2,2023-03-05,18459,2022,580094,0,0,0,0,0,0.05445403978228569,0.05445403978228569

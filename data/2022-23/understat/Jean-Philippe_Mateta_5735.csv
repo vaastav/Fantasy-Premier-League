@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.538962185382843,2,Sub,Crystal Palace,Leicester,2,1,2023-04-01,18486,2022,584715,0,0,0,1,0.538962185382843,0.538962185382843,0
 0,0,0,10,Sub,Brighton,Crystal Palace,1,0,2023-03-15,18276,2022,582542,0,0,0,0,0,0,0
 0,0,0,21,Sub,Aston Villa,Crystal Palace,1,0,2023-03-04,18453,2022,579508,0,0,0,0,0,0,0
 0,3,0.7525322437286377,72,FW,Crystal Palace,Liverpool,0,0,2023-02-25,18443,2022,578115,0,0,0,0,0.7525322437286377,0.7525322437286377,0.05717219039797783

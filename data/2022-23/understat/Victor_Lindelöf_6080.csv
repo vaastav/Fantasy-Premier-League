@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Manchester United,Brentford,1,0,2023-04-05,18448,2022,586137,0,0,0,0,0,0,0
+0,1,0.04729548096656799,6,Sub,Newcastle United,Manchester United,2,0,2023-04-02,18489,2022,585630,0,0,0,0,0.04729548096656799,0,0
 0,0,0,90,DC,Manchester United,Leicester,3,0,2023-02-19,18437,2022,576937,0,0,0,0,0,0.1873703896999359,0.1873703896999359
 0,0,0,1,Sub,Manchester United,Leeds,2,2,2023-02-08,18279,2022,574397,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester United,Crystal Palace,2,1,2023-02-04,18417,2022,573290,0,0,0,0,0,0,0

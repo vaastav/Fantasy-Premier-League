@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.13747169077396393,90,DC,Roma,Sampdoria,3,0,2023-04-02,18860,2022,585667,0,0,0,0,0.13747169077396393,0.17323482036590576,0.17323482036590576
 0,0,0,32,Sub,Lazio,Roma,1,0,2023-03-19,18845,2022,584058,0,0,0,0,0,0,0
 0,0,0,1,Sub,Roma,Empoli,2,0,2023-02-04,18787,2022,573445,0,0,0,0,0,0,0
 0,0,0,16,Sub,Leeds,Manchester City,1,3,2022-12-28,18368,2022,565903,0,0,0,0,0,0,0

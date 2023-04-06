@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,80,DR,Everton,Tottenham,1,1,2023-04-03,18487,2022,585916,0,0,0,0,0,0.0321686752140522,0.0321686752140522
 0,0,0,87,DR,Chelsea,Everton,2,2,2023-03-18,18476,2022,583275,0,0,0,0,0,0.049986738711595535,0.049986738711595535
 0,1,0.012385343201458454,90,DR,Everton,Brentford,1,0,2023-03-11,18464,2022,581198,0,0,0,0,0.012385343201458454,0,0
 0,0,0,90,DR,Nottingham Forest,Everton,2,2,2023-03-05,18459,2022,580109,0,0,0,0,0,0,0

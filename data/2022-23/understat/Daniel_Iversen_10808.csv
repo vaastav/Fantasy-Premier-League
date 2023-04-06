@@ -1,2 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leicester,Aston Villa,1,2,2023-04-04,18263,2022,585974,0,0,0,0,0,0.03375517204403877,0.03375517204403877
+0,0,0,90,GK,Crystal Palace,Leicester,2,1,2023-04-01,18486,2022,584718,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Leicester,1,1,2023-03-18,18474,2022,583028,0,0,0,0,0,0.09771993011236191,0.09771993011236191
