@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,West Ham,0,1,2023-04-08,18494,2022,586775,0,0,0,0,0,0.020701119676232338,0.020701119676232338
 0,0,0,90,GK,Bournemouth,Fulham,2,1,2023-04-01,18483,2022,584657,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Arsenal,0,3,2023-03-12,18465,2022,582020,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Fulham,3,2,2023-03-06,18454,2022,580715,0,0,0,0,0,0.09405594319105148,0.09405594319105148

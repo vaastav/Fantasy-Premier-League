@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,61,ML,Fulham,West Ham,0,1,2023-04-08,18494,2022,586799,0.025439182296395302,0,1,0,0,0.025439182296395302,0
 0,0,0,1,Sub,West Ham,Southampton,1,0,2023-04-02,18491,2022,585271,0,0,0,0,0,0,0
 0,1,0.09696417301893234,11,Sub,West Ham,Aston Villa,1,1,2023-03-12,18471,2022,581941,0.08418392390012741,0,1,0,0.09696417301893234,0.18114809691905975,0
 0,0,0,41,Sub,Brighton,West Ham,4,0,2023-03-04,18455,2022,579600,0,0,0,0,0,0,0

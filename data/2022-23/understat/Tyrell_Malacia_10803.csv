@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.07703785598278046,90,DL,Manchester United,Everton,2,0,2023-04-08,18498,2022,586379,0.076784148812294,0,1,0,0.07703785598278046,1.1911741495132446,1.1340070962905884
 0,0,0,54,Sub,Manchester United,Brentford,1,0,2023-04-05,18448,2022,586136,0.054987046867609024,0,2,0,0,0.14138197898864746,0.08639493584632874
 0,0,0,12,Sub,Liverpool,Manchester United,7,0,2023-03-05,18457,2022,580392,0,0,0,0,0,0,0
 0,0,0,64,DL,Leeds,Manchester United,0,2,2023-02-12,18426,2022,575413,0,0,0,0,0,0,0

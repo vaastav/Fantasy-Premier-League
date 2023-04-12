@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.1574656367301941,90,MC,Wolverhampton Wanderers,Chelsea,1,0,2023-04-08,18501,2022,586710,0.054748985916376114,0,1,0,0.1574656367301941,0.4666542708873749,0.3091886341571808
 0,0,0,18,Sub,Chelsea,Liverpool,0,0,2023-04-04,18281,2022,586075,0,0,0,0,0,0,0
 0,0,0,8,Sub,Chelsea,Aston Villa,0,2,2023-04-01,18485,2022,584932,0,0,0,0,0,0,0
 0,0,0,25,Sub,Chelsea,Everton,2,2,2023-03-18,18476,2022,583272,0,0,0,0,0,0,0

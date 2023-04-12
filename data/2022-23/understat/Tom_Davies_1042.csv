@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,29,Sub,Manchester United,Everton,2,0,2023-04-08,18498,2022,586404,0.08223875612020493,0,1,0,0,0.09827346354722977,0.01603471301496029
 0,0,0,3,Sub,Everton,Tottenham,1,1,2023-04-03,18487,2022,585927,0,0,0,0,0,0.017134668305516243,0.017134668305516243
 0,0,0,6,Sub,Everton,Brentford,1,0,2023-03-11,18464,2022,581210,0,0,0,0,0,0.02431275136768818,0.02431275136768818
 0,0,0,1,Sub,Nottingham Forest,Everton,2,2,2023-03-05,18459,2022,580120,0,0,0,0,0,0,0

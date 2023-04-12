@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMR,Aston Villa,Nottingham Forest,2,0,2023-04-08,18492,2022,586764,0.013168774545192719,0,1,0,0,0.013168774545192719,0
 0,1,0.042707402259111404,90,DR,Leeds,Nottingham Forest,2,1,2023-04-04,18271,2022,586048,0,0,0,0,0.042707402259111404,0.08964109420776367,0.04693369194865227
 0,0,0,90,DR,Nottingham Forest,Wolverhampton Wanderers,1,1,2023-04-01,18490,2022,584674,0,0,0,0,0,0.06972299516201019,0.06972299516201019
 0,0,0,8,Sub,Nottingham Forest,Newcastle United,1,2,2023-03-17,18479,2022,582683,0,0,0,0,0,0,0

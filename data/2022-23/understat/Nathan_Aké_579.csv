@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,83,DC,Southampton,Manchester City,1,4,2023-04-08,18499,2022,586973,0,0,0,0,0,0.9215279817581177,0.9215279817581177
 0,0,0,90,DC,Manchester City,Liverpool,4,1,2023-04-01,18488,2022,584366,0,0,0,0,0,1.3628555536270142,1.3628555536270142
 0,0,0,90,DL,Crystal Palace,Manchester City,0,1,2023-03-11,18463,2022,581460,0.6118410229682922,0,2,0,0,0.6118410229682922,0.5641905069351196
 0,0,0,90,DL,Manchester City,Newcastle United,2,0,2023-03-04,18458,2022,579181,0,0,0,0,0,0.6410817503929138,0.6410817503929138
