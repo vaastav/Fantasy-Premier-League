@@ -1,8 +1,9 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Bournemouth,2,3,2023-04-15,18509,2022,588525,0,0,0,0,0,0.06838960200548172,0.06838960200548172
 0,0,0,90,GK,Leicester,Bournemouth,0,1,2023-04-08,18496,2022,586820,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Brighton,0,2,2023-04-04,18266,2022,586002,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Fulham,2,1,2023-04-01,18483,2022,584642,0,0,0,0,0,0,0
-0,0,0,90,GK,Aston Villa,Bournemouth,3,0,2023-03-18,18473,2022,583057,0,0,0,0,0,0.05415196344256401,0.05415196344256401
+0,0,0,90,GK,Aston Villa,Bournemouth,3,0,2023-03-18,18473,2022,583057,0,0,0,0,0,0.054152000695466995,0.054152000695466995
 0,0,0,90,GK,Bournemouth,Liverpool,1,0,2023-03-11,18462,2022,580915,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Bournemouth,3,2,2023-03-04,18452,2022,579617,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Manchester City,1,4,2023-02-25,18442,2022,578075,0,0,0,0,0,0,0
@@ -10,7 +11,7 @@ goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster
 0,0,0,90,GK,Bournemouth,Newcastle United,1,1,2023-02-11,18423,2022,575024,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Bournemouth,1,0,2023-02-04,18414,2022,573323,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Nottingham Forest,1,1,2023-01-21,18403,2022,570232,0,0,0,0,0,0,0
-0,0,0,90,GK,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569034,0,0,0,0,0,0.07739093154668808,0.07739093154668808
+0,0,0,90,GK,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569034,0,0,0,0,0,0.07739090174436569,0.07739090174436569
 0,0,0,50,GK,West Ham,Bournemouth,2,0,2022-10-24,18330,2022,559533,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Southampton,0,1,2022-10-19,18313,2022,557489,0,0,0,0,0,0.22453899681568146,0.22453899681568146
 0,0,0,90,GK,Fulham,Bournemouth,2,2,2022-10-15,18304,2022,555975,0,0,0,0,0,0,0
