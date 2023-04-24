@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Fulham,Leeds,2,1,2023-04-22,18517,2022,589841,0,0,0,0,0,0,0
 0,0,0,10,Sub,Everton,Fulham,1,3,2023-04-15,18504,2022,588510,0,0,0,0,0,0,0
 0,1,0.03032740019261837,43,Sub,Fulham,West Ham,0,1,2023-04-08,18494,2022,586788,0,0,0,0,0.03032740019261837,0.06758780032396317,0.037260398268699646
 0,0,0,19,Sub,Bournemouth,Fulham,2,1,2023-04-01,18483,2022,584670,0,0,0,0,0,0.1091260015964508,0.1091260015964508

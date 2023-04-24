@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.20046454668045044,90,DL,Newcastle United,Tottenham,6,1,2023-04-23,18521,2022,590889,0,0,0,0,0.20046454668045044,0.710540235042572,0.710540235042572
 0,0,0,72,DL,Aston Villa,Newcastle United,3,0,2023-04-15,18502,2022,588132,0,0,0,0,0,0,0
 0,0,0,90,DL,Brentford,Newcastle United,1,2,2023-04-08,18493,2022,586675,0,0,0,0,0,0.028235500678420067,0.028235500678420067
 0,0,0,88,DL,West Ham,Newcastle United,1,5,2023-04-05,18268,2022,586111,0,0,0,0,0,1.010409951210022,1.010409951210022

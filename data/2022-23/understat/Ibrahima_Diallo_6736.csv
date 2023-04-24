@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Arsenal,Southampton,3,3,2023-04-21,18512,2022,589791,0,0,0,0,0,0,0
 0,0,0,8,Sub,Southampton,Manchester City,1,4,2023-04-08,18499,2022,586967,0,0,0,0,0,0,0
 0,0,0,61,DMC,Southampton,Brentford,0,2,2023-03-15,18265,2022,582490,0.018763400614261627,0,1,0,0,0.12266799807548523,0.10390499979257584
 0,0,0,27,Sub,Leeds,Southampton,1,0,2023-02-25,18446,2022,577851,0.04879720136523247,0,1,0,0,0.04879720136523247,0.04879720136523247

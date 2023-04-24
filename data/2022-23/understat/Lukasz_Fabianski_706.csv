@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,West Ham,0,4,2023-04-23,18513,2022,590805,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Arsenal,2,2,2023-04-16,18510,2022,589131,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,West Ham,0,1,2023-04-08,18494,2022,586791,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Newcastle United,1,5,2023-04-05,18268,2022,586092,0,0,0,0,0,0,0
