@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Wolverhampton Wanderers,Crystal Palace,2,0,2023-04-25,18527,2022,591423,0,0,0,0,0,0,0
 0,1,0.008884618058800697,2,Sub,Leicester,Wolverhampton Wanderers,2,1,2023-04-22,18518,2022,590168,0,0,0,0,0.008884618058800697,0.008884618058800697,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Brentford,2,0,2023-04-15,18511,2022,588400,0,0,0,0,0,0,0
 0,1,0.028025899082422256,6,Sub,Nottingham Forest,Wolverhampton Wanderers,1,1,2023-04-01,18490,2022,584700,0,0,0,0,0.028025899082422256,0,0

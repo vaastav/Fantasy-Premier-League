@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04457966610789299,90,DC,Wolverhampton Wanderers,Crystal Palace,2,0,2023-04-25,18527,2022,591412,0,0,0,0,0.04457966610789299,0.08459723740816116,0.08459723740816116
 0,1,0.05796007439494133,90,DC,Leicester,Wolverhampton Wanderers,2,1,2023-04-22,18518,2022,590157,0,0,0,0,0.05796007439494133,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Brentford,2,0,2023-04-15,18511,2022,588392,0,0,0,0,0,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Chelsea,1,0,2023-04-08,18501,2022,586690,0,0,0,0,0,0,0

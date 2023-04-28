@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Chelsea,Brentford,0,2,2023-04-26,18529,2022,591668,0.08117381483316422,0,2,0,0,0.40350425243377686,0.32233044505119324
 0,0,0,79,MC,Brentford,Aston Villa,1,1,2023-04-22,18514,2022,590177,0,0,0,0,0,0.10212849080562592,0.10212849080562592
 0,0,0,27,Sub,Wolverhampton Wanderers,Brentford,2,0,2023-04-15,18511,2022,588418,0.07838279753923416,0,1,0,0,0.07838279753923416,0
 0,0,0,6,Sub,Brentford,Newcastle United,1,2,2023-04-08,18493,2022,586669,0,0,0,0,0,0,0

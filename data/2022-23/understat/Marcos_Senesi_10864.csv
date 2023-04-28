@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,71,DC,Southampton,Bournemouth,0,1,2023-04-27,18530,2022,591877,0,0,0,0,0,0.2912868559360504,0.2912868559360504
 0,0,0,8,Sub,Tottenham,Bournemouth,2,3,2023-04-15,18509,2022,588536,0,0,0,0,0,0,0
 0,0,0,90,DC,Bournemouth,Brighton,0,2,2023-04-04,18266,2022,586004,0.04212170094251633,0,1,0,0,0,0
 0,1,0.6219189763069153,90,DC,Bournemouth,Fulham,2,1,2023-04-01,18483,2022,584644,0,0,0,0,0.6219189763069153,0.12985600531101227,0.12985600531101227
