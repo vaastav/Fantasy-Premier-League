@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Fulham,1,0,2023-05-03,18477,2022,593934,0,0,0,0,0,0.12664702534675598,0.12664702534675598
+0,0,0,90,GK,Liverpool,Tottenham,4,3,2023-04-30,18539,2022,593253,0,0,0,0,0,0.23917867243289948,0.23917867243289948
 0,0,0,90,GK,West Ham,Liverpool,1,2,2023-04-26,18526,2022,591631,0,0,0,0,0,0.07645978033542633,0.07645978033542633
 0,0,0,90,GK,Liverpool,Nottingham Forest,3,2,2023-04-22,18519,2022,590108,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Liverpool,1,6,2023-04-17,18505,2022,589601,0,0,0,0,0,0,0

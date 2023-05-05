@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Brighton,Wolverhampton Wanderers,6,0,2023-04-29,18535,2022,592374,0.08247555792331696,0,1,0,0,0.0194846224039793,0.0194846224039793
 0,0,0,82,DL,Wolverhampton Wanderers,Crystal Palace,2,0,2023-04-25,18527,2022,591414,0.1452215015888214,0,2,0,0,0.08459723740816116,0.08459723740816116
 0,0,0,1,Sub,Wolverhampton Wanderers,Brentford,2,0,2023-04-15,18511,2022,588401,0,0,0,0,0,0,0
 0,0,0,22,Sub,Nottingham Forest,Wolverhampton Wanderers,1,1,2023-04-01,18490,2022,584699,0,0,0,0,0,0.025578200817108154,0.025578200817108154

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.07006829231977463,24,Sub,Manchester United,Aston Villa,1,0,2023-04-30,18540,2022,592882,0,0,0,0,0.07006829231977463,0,0
 0,0,0,2,Sub,Aston Villa,Fulham,1,0,2023-04-25,18528,2022,591454,0,0,0,0,0,0,0
 0,0,0,21,Sub,Brentford,Aston Villa,1,1,2023-04-22,18514,2022,590199,0.3425292670726776,0,1,0,0,0.3530659079551697,0.010536633431911469
 0,0,0,1,Sub,Aston Villa,Newcastle United,3,0,2023-04-15,18502,2022,588127,0,0,0,0,0,0,0

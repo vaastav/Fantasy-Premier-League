@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Girona,Mallorca,2,1,2023-05-04,19289,2022,594241,0,0,0,0,0,0,0
 0,0,0,32,Sub,Real Betis,Mallorca,1,0,2023-03-19,19214,2022,583569,0,0,0,0,0,0,0
 0,0,0,6,Sub,Mallorca,Elche,0,1,2023-03-04,19199,2022,579829,0,0,0,0,0,0.012094300240278244,0.012094300240278244
 0,0,0,73,DL,Sevilla,Mallorca,2,0,2023-02-11,19170,2022,575074,0.012794500216841698,0,1,0,0,0.012794500216841698,0

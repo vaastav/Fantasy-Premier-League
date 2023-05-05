@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,72,DMC,Liverpool,Fulham,1,0,2023-05-03,18477,2022,593956,0,0,0,0,0,0.092452272772789,0.092452272772789
+0,0,0,9,Sub,Fulham,Manchester City,1,2,2023-04-30,18537,2022,593079,0,0,0,0,0,0,0
 0,0,0,6,Sub,Fulham,Leeds,2,1,2023-04-22,18517,2022,589840,0,0,0,0,0,0,0
 0,1,0.01810690015554428,4,Sub,Everton,Fulham,1,3,2023-04-15,18504,2022,588509,0,0,0,0,0.01810690015554428,0.01810690015554428,0
 0,0,0,6,Sub,Bournemouth,Fulham,2,1,2023-04-01,18483,2022,584669,0,0,0,0,0,0,0

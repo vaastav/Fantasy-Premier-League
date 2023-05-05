@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.07639891654253006,90,DL,Newcastle United,Southampton,3,1,2023-04-30,18541,2022,592902,0,0,0,0,0.07639891654253006,0.07639891654253006,0
 0,0,0,90,DR,Southampton,Bournemouth,0,1,2023-04-27,18530,2022,591861,0.08822765946388245,0,1,0,0,0.08822765946388245,0
 0,0,0,90,DR,Arsenal,Southampton,3,3,2023-04-21,18512,2022,589779,0,0,0,0,0,0,0
 0,0,0,90,DL,Southampton,Crystal Palace,0,2,2023-04-15,18508,2022,588425,0,0,0,0,0,0.22512100636959076,0.22512100636959076

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Bournemouth,Leeds,4,1,2023-04-30,18533,2022,592931,0,0,0,0,0,0.11060114949941635,0.11060114949941635
 0,0,0,90,DR,Fulham,Leeds,2,1,2023-04-22,18517,2022,589843,0,0,0,0,0,0.27379855513572693,0.27379855513572693
 0,0,0,90,DR,Leeds,Liverpool,1,6,2023-04-17,18505,2022,589587,0,0,0,0,0,0.056880299001932144,0.056880299001932144
 0,0,0,28,Sub,Leeds,Crystal Palace,1,5,2023-04-09,18495,2022,587459,0,0,0,0,0,0,0

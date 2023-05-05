@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester City,West Ham,3,0,2023-05-03,18478,2022,593982,0,0,0,0,0,0,0
 0,0,0,4,Sub,Bournemouth,West Ham,0,4,2023-04-23,18513,2022,590816,0.07472916692495346,0,1,0,0,0.042072493582963943,0.042072493582963943
 0,0,0,90,DC,West Ham,Arsenal,2,2,2023-04-16,18510,2022,589134,0.25922900438308716,1,1,0,0,0.25922900438308716,0
 0,0,0,66,DR,West Ham,Newcastle United,1,5,2023-04-05,18268,2022,586093,0,0,0,0,0,0,0

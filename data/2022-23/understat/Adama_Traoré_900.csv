@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Brighton,Wolverhampton Wanderers,6,0,2023-04-29,18535,2022,592383,0,0,0,0,0,0,0
 0,0,0,8,Sub,Wolverhampton Wanderers,Crystal Palace,2,0,2023-04-25,18527,2022,591424,0,0,0,0,0,0,0
 0,1,0.01892169937491417,15,Sub,Wolverhampton Wanderers,Brentford,2,0,2023-04-15,18511,2022,588403,0,0,0,0,0.01892169937491417,0,0
 0,0,0,15,Sub,Wolverhampton Wanderers,Chelsea,1,0,2023-04-08,18501,2022,586701,0,0,0,0,0,0,0

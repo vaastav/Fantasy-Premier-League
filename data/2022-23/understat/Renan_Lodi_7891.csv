@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DML,Brentford,Nottingham Forest,2,1,2023-04-29,18534,2022,592407,0.07701727747917175,0,1,0,0,0,0
 0,0,0,90,DML,Nottingham Forest,Brighton,3,1,2023-04-26,18524,2022,591594,0,0,0,0,0,0.03619345650076866,0.03619345650076866
 0,0,0,90,DML,Liverpool,Nottingham Forest,3,2,2023-04-22,18519,2022,590128,0,0,0,0,0,0,0
 0,0,0,90,ML,Nottingham Forest,Manchester United,0,2,2023-04-16,18507,2022,589290,0,0,0,0,0,0.026177499443292618,0.026177499443292618
