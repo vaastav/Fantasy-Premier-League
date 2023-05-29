@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Leicester,West Ham,2,1,2023-05-28,18579,2022,601185,0,0,0,0,0,0.5295480489730835,0.5295480489730835
+0,0,0,90,DL,Newcastle United,Leicester,0,0,2023-05-22,18567,2022,599388,0,0,0,0,0,0,0
+0,0,0,19,Sub,Leicester,Liverpool,0,3,2023-05-15,18559,2022,597574,0,0,0,0,0,0,0
+0,0,0,13,Sub,Fulham,Leicester,5,3,2023-05-08,18544,2022,595685,0,0,0,0,0,0,0
 0,1,0.01634403131902218,90,DL,Leicester,Everton,2,2,2023-05-01,18538,2022,593569,0.016951119527220726,0,1,0,0.01634403131902218,0.18781432509422302,0.154519185423851
 0,0,0,42,Sub,Manchester City,Leicester,3,1,2023-04-15,18506,2022,588697,0,0,0,0,0,0,0
 0,0,0,28,Sub,Crystal Palace,Leicester,2,1,2023-04-01,18486,2022,584731,0,0,0,0,0,0,0

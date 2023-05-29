@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Bournemouth,1,0,2023-05-28,18577,2022,600970,0,0,0,0,0,0,0
+0,0,0,90,GK,Wolverhampton Wanderers,Everton,1,1,2023-05-20,18571,2022,598187,0,0,0,0,0,0.07935097068548203,0.07935097068548203
+0,0,0,90,GK,Everton,Manchester City,0,3,2023-05-14,18557,2022,596923,0,0,0,0,0,0,0
+0,0,0,90,GK,Brighton,Everton,1,5,2023-05-08,18543,2022,595798,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,Everton,2,2,2023-05-01,18538,2022,593579,0,0,0,0,0,0.11599133163690567,0.11599133163690567
 0,0,0,90,GK,Everton,Newcastle United,1,4,2023-04-27,18522,2022,591830,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Everton,0,0,2023-04-22,18516,2022,590095,0,0,0,0,0,0,0

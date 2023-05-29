@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,1,0.5789020657539368,73,MC,Chelsea,Newcastle United,1,1,2023-05-28,18575,2022,600929,0.041166022419929504,0,1,1,0.5789020657539368,0.7008039355278015,0.12190188467502594
 0,0,0,1,Sub,Newcastle United,Leicester,0,0,2023-05-22,18567,2022,599382,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Brighton,4,1,2023-05-18,18449,2022,597635,0,0,0,0,0,0,0
 0,0,0,15,Sub,Leeds,Newcastle United,2,2,2023-05-13,18558,2022,596085,0,0,0,0,0,0.037787728011608124,0.037787728011608124

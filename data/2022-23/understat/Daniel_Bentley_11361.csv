@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Everton,1,1,2023-05-20,18571,2022,598171,0,0,0,0,0,0.05848224461078644,0.05848224461078644
+0,0,0,90,GK,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13,18560,2022,596437,0,0,0,0,0,0,0

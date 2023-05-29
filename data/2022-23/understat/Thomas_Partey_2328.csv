@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Arsenal,Wolverhampton Wanderers,5,0,2023-05-28,18572,2022,601028,0,0,0,0,0,0.9171624779701233,0.9171624779701233
 0,0,0,90,DR,Nottingham Forest,Arsenal,1,0,2023-05-20,18568,2022,598342,0,0,0,0,0,0.2123289555311203,0.2123289555311203
 0,0,0,25,Sub,Arsenal,Brighton,0,3,2023-05-14,18552,2022,597296,0.3903532326221466,0,2,0,0,0.16850797832012177,0.16850797832012177
 0,0,0,4,Sub,Newcastle United,Arsenal,0,2,2023-05-07,18547,2022,595466,0,0,0,0,0,0,0

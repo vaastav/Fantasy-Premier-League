@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Nottingham Forest,1,1,2023-05-28,18576,2022,600939,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,Crystal Palace,2,2,2023-05-20,18564,2022,598127,0,0,0,0,0,0.0640137568116188,0.0640137568116188
+0,0,0,90,GK,Crystal Palace,Bournemouth,2,0,2023-05-13,18556,2022,596392,0,0,0,0,0,0,0
+0,0,0,90,GK,Tottenham,Crystal Palace,1,0,2023-05-06,18549,2022,594811,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,West Ham,4,3,2023-04-29,18536,2022,592143,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Crystal Palace,2,0,2023-04-25,18527,2022,591426,0,0,0,0,0,0.07646888494491577,0.07646888494491577
 0,0,0,90,GK,Crystal Palace,Everton,0,0,2023-04-22,18516,2022,590081,0,0,0,0,0,0,0

@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Southampton,Liverpool,4,4,2023-05-28,18581,2022,601090,0,0,0,0,0,0.02505393885076046,0.02505393885076046
+0,0,0,90,GK,Brighton,Southampton,3,1,2023-05-21,18563,2022,598801,0,0,0,0,0,0,0
+0,0,0,90,GK,Southampton,Fulham,0,2,2023-05-13,18561,2022,596453,0,0,0,0,0,0,0
+0,0,0,90,GK,Nottingham Forest,Southampton,4,3,2023-05-08,18548,2022,595857,0,0,0,0,0,0.0252547487616539,0.0252547487616539
 0,0,0,90,GK,Newcastle United,Southampton,3,1,2023-04-30,18541,2022,592898,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Bournemouth,0,1,2023-04-27,18530,2022,591860,0,0,0,0,0,0.051928069442510605,0.051928069442510605
 0,0,0,90,GK,Leicester,Southampton,4,1,2022-05-22,16752,2021,537869,0,0,0,0,0,0,0

@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Aston Villa,Brighton,2,1,2023-05-28,18573,2022,600857,0,0,0,0,0,0,0
+0,0,0,90,DMC,Liverpool,Aston Villa,1,1,2023-05-20,18565,2022,598161,0,0,0,0,0,0.0268545038998127,0.0268545038998127
+0,0,0,20,Sub,Aston Villa,Tottenham,2,1,2023-05-13,18553,2022,596347,0,0,0,0,0,0,0
+0,0,0,3,Sub,Wolverhampton Wanderers,Aston Villa,1,0,2023-05-06,18551,2022,594853,0,0,0,0,0,0,0
 0,0,0,48,MC,Chelsea,Aston Villa,0,2,2023-04-01,18485,2022,584941,0,0,0,0,0,0,0
 0,0,0,62,DMC,Aston Villa,Crystal Palace,1,0,2023-03-04,18453,2022,579487,0,0,0,0,0,0.05074010044336319,0.05074010044336319
 0,0,0,90,MC,Everton,Aston Villa,0,2,2023-02-25,18444,2022,577820,0.43712401390075684,0,1,0,0,0.456512987613678,0.456512987613678

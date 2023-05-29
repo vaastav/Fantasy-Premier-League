@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04695407673716545,28,Sub,Leeds,Tottenham,1,4,2023-05-28,18578,2022,601007,0.0694752112030983,1,1,0,0.04695407673716545,0.11642928421497345,0
 0,0,0,22,Sub,Leeds,Liverpool,1,6,2023-04-17,18505,2022,589597,0.06866080313920975,0,1,0,0,0.06866080313920975,0
 0,0,0,9,Sub,Leeds,Crystal Palace,1,5,2023-04-09,18495,2022,587460,0,0,0,0,0,0,0
 0,0,0,12,Sub,Arsenal,Leeds,4,1,2023-04-01,18482,2022,584787,0,0,0,0,0,0,0

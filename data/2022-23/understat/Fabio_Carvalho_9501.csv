@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Leicester,Liverpool,0,3,2023-05-15,18559,2022,597587,0,0,0,0,0,0.09894218295812607,0.09894218295812607
 0,0,0,1,Sub,Bournemouth,Liverpool,1,0,2023-03-11,18462,2022,580944,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Southampton,3,1,2022-11-12,18355,2022,564545,0,0,0,0,0,0,0
 0,4,0.5063930153846741,63,ML,Nottingham Forest,Liverpool,1,0,2022-10-22,18327,2022,557977,0,0,0,0,0.5063930153846741,0.44454801082611084,0

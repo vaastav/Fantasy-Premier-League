@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Manchester City,1,1,2023-05-24,18515,2022,599600,0,0,0,0,0,0,0
+0,0,0,90,GK,Manchester City,Chelsea,1,0,2023-05-21,18566,2022,598968,0,0,0,0,0,0.22847801446914673,0.22847801446914673
 0,0,0,90,GK,Manchester City,West Ham,3,0,2023-05-03,18478,2022,593966,0,0,0,0,0,0.19345572590827942,0.19345572590827942
 0,0,0,90,GK,Arminia Bielefeld,RasenBallsport Leipzig,1,1,2022-05-14,17813,2021,535410,0.057082898914813995,0,1,0,0,0.057082898914813995,0
 0,0,0,90,GK,Bochum,Arminia Bielefeld,2,1,2022-05-06,17805,2021,531885,0,0,0,0,0,0.16972200572490692,0.16972200572490692

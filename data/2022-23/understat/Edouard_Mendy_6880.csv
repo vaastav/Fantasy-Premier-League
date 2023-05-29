@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Nottingham Forest,2,2,2023-05-13,18555,2022,596364,0,0,0,0,0,0.4077913463115692,0.4077913463115692
 0,0,0,90,GK,Newcastle United,Chelsea,1,0,2022-11-12,18357,2022,564732,0,0,0,0,0,0.12271899729967117,0.12271899729967117
 0,0,0,90,GK,Chelsea,Arsenal,0,1,2022-11-06,18343,2022,562344,0,0,0,0,0,0,0
 0,0,0,43,Sub,Brighton,Chelsea,4,1,2022-10-29,18335,2022,560068,0,0,0,0,0,0.13626199960708618,0.13626199960708618

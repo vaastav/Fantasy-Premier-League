@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Brighton,Everton,1,5,2023-05-08,18543,2022,595802,0,0,0,0,0,0,0
 0,0,0,90,DL,Leicester,Everton,2,2,2023-05-01,18538,2022,593583,0,0,0,0,0,0.033957209438085556,0.033957209438085556
 0,0,0,90,DL,Everton,Newcastle United,1,4,2023-04-27,18522,2022,591834,0.019942225888371468,0,1,0,0,0.019942225888371468,0
 0,0,0,90,DL,Crystal Palace,Everton,0,0,2023-04-22,18516,2022,590099,0,0,0,0,0,0.01544429175555706,0.01544429175555706

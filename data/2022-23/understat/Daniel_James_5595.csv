@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Manchester United,Fulham,2,1,2023-05-28,18580,2022,601089,0,0,0,0,0,0,0
 0,0,0,9,Sub,Liverpool,Fulham,1,0,2023-05-03,18477,2022,593965,0.09758473187685013,0,1,0,0,0.09758473187685013,0
 0,0,0,9,Sub,Fulham,Manchester City,1,2,2023-04-30,18537,2022,593081,0,0,0,0,0,0,0
 0,0,0,90,FW,Aston Villa,Fulham,1,0,2023-04-25,18528,2022,591465,0,0,0,0,0,0.079864002764225,0.079864002764225

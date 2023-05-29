@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Fulham,2,1,2023-05-28,18580,2022,601075,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,Crystal Palace,2,2,2023-05-20,18564,2022,598114,0,0,0,0,0,0,0
+0,0,0,90,GK,Southampton,Fulham,0,2,2023-05-13,18561,2022,596469,0,0,0,0,0,0.012510962784290314,0.012510962784290314
+0,0,0,90,GK,Fulham,Leicester,5,3,2023-05-08,18544,2022,595654,0,0,0,0,0,0.03944133594632149,0.03944133594632149
 0,0,0,90,GK,Liverpool,Fulham,1,0,2023-05-03,18477,2022,593950,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Manchester City,1,2,2023-04-30,18537,2022,593066,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Fulham,1,0,2023-04-25,18528,2022,591455,0,0,0,0,0,0,0

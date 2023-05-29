@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,11,Sub,Nottingham Forest,Southampton,4,3,2023-05-08,18548,2022,595871,0.03180864825844765,0,2,0,0,0.011897962540388107,0
 0,0,0,9,Sub,Southampton,Crystal Palace,0,2,2023-04-15,18508,2022,588434,0,0,0,0,0,0,0
 0,0,0,7,Sub,Southampton,Wolverhampton Wanderers,1,2,2023-02-11,18430,2022,574823,0,0,0,0,0,0,0
 0,1,0.08609329909086227,68,AMR,Brentford,Southampton,3,0,2023-02-04,18413,2022,573236,0,0,0,0,0.08609329909086227,0.09777429699897766,0.011680999770760536
