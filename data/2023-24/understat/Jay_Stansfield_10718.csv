@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Arsenal,Fulham,2,1,2022-08-27,18238,2022,544671,0,0,0,0,0,0,0
+0,2,0.1730169951915741,79,AMR,Fulham,Brentford,3,2,2022-08-20,18225,2022,542403,0.05896500125527382,0,1,0,0.1730169951915741,0.23198199272155762,0
+0,0,0,5,Sub,Wolverhampton Wanderers,Fulham,0,0,2022-08-13,18216,2022,540642,0,0,0,0,0,0,0

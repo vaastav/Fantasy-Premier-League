@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,49,MC,Aston Villa,Brighton,2,1,2023-05-28,18573,2022,600870,0,0,0,0,0,0,0
+0,0,0,5,Sub,Brighton,Wolverhampton Wanderers,6,0,2023-04-29,18535,2022,592369,0.1093440130352974,0,1,0,0,0.1093440130352974,0
+0,1,0.012823300436139107,5,Sub,Bournemouth,Brighton,0,2,2023-04-04,18266,2022,586031,0.12875400483608246,0,1,0,0.012823300436139107,0.22691300511360168,0.22691300511360168

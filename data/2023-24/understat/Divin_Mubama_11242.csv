@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,West Ham,Leeds,3,1,2023-05-21,18570,2022,598679,0,0,0,0,0,0.33710601925849915,0.33710601925849915
+0,0,0,28,Sub,Brentford,West Ham,2,0,2023-05-14,18554,2022,596920,0.05916547402739525,0,1,0,0,0.05916547402739525,0
+0,0,0,1,Sub,Arsenal,West Ham,3,1,2022-12-26,18362,2022,565653,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.07369480282068253,21,Sub,Chelsea,Leeds,1,0,2023-03-04,18456,2022,579570,0,0,0,0,0.07369480282068253,0,0
+0,0,0,1,Sub,Manchester United,Leeds,2,2,2023-02-08,18279,2022,574416,0,0,0,0,0,0,0
+0,0,0,1,Sub,Tottenham,Leeds,4,3,2022-11-12,18359,2022,564501,0,0,0,0,0,0,0

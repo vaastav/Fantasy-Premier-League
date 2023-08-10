@@ -1,0 +1,8 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Bournemouth,Nottingham Forest,1,1,2023-01-21,18403,2022,570243,0,0,0,0,0,0,0
+0,1,0.014453800395131111,56,Sub,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569046,0,0,0,0,0.014453800395131111,0.12046600133180618,0.1060120016336441
+0,0,0,1,Sub,Bournemouth,Everton,3,0,2022-11-12,18352,2022,564577,0,0,0,0,0,0,0
+0,0,0,5,Sub,Liverpool,Bournemouth,9,0,2022-08-27,18236,2022,544487,0,0,0,0,0,0,0
+0,0,0,48,MC,Bournemouth,Arsenal,0,3,2022-08-20,18227,2022,542555,0,0,0,0,0,0,0
+0,1,0.0420541986823082,90,MC,Manchester City,Bournemouth,4,0,2022-08-13,18214,2022,540576,0,0,0,0,0.0420541986823082,0.0688031017780304,0.0267488993704319
+0,0,0,75,MC,Bournemouth,Aston Villa,2,0,2022-08-06,18204,2022,539404,0,0,0,0,0,0,0

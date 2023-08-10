@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Fulham,0,0,2022-08-13,18216,2022,540629,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,Liverpool,2,2,2022-08-06,18203,2022,539182,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,Newcastle United,0,2,2021-05-23,14807,2020,473280,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,Arsenal,0,3,2020-09-12,14086,2020,414500,0,0,0,0,0,0.02052750065922737,0.02052750065922737

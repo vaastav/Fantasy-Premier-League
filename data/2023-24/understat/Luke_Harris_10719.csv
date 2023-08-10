@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Crystal Palace,Fulham,0,3,2022-12-26,18366,2022,565596,0,0,0,0,0,0.08782369643449783,0.08782369643449783
+0,0,0,1,Sub,Manchester City,Fulham,2,1,2022-11-05,18346,2022,561909,0,0,0,0,0,0,0
+0,0,0,2,Sub,Fulham,Aston Villa,3,0,2022-10-20,18316,2022,557748,0,0,0,0,0,0,0
