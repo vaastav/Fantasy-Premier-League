@@ -3,8 +3,8 @@ from mergers import *
 def merge_data():
     """ Merge all the data and export to a new file
     """
-    season_latin = ['2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22'] 
-    encoding_latin = ['latin-1', 'latin-1', 'latin-1', 'utf-8', 'utf-8', 'utf-8']
+    season_latin = ['2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22', '2022-23'] 
+    encoding_latin = ['latin-1', 'latin-1', 'latin-1', 'utf-8', 'utf-8', 'utf-8', 'utf-8']
 
     dfs = []
     for i,j in zip(season_latin, encoding_latin):
