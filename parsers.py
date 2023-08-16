@@ -73,25 +73,25 @@ def parse_gw_entry_history(data, outfile_base):
 
 def parse_entry_history(data, outfile_base):
     chips_df = pd.DataFrame.from_records(data["chips"])
-    chips_df.to_csv(os.path.join(outfile_base, 'chips.csv'))
+    chips_df.to_csv(os.path.join(outfile_base, 'chips.csv'), index=False)
     season_df = pd.DataFrame.from_records(data["past"])
-    season_df.to_csv(os.path.join(outfile_base, 'history.csv'))
+    season_df.to_csv(os.path.join(outfile_base, 'history.csv'), index=False)
     #profile_data = data["entry"].pop('kit', data["entry"])
     #profile_df = pd.DataFrame.from_records(profile_data)
-    #profile_df.to_csv(os.path.join(outfile_base, 'profile.csv'))
+    #profile_df.to_csv(os.path.join(outfile_base, 'profile.csv'), index=False)
     gw_history_df = pd.DataFrame.from_records(data["current"])
     gw_history_df.to_csv(os.path.join(outfile_base, 'gws.csv'), index=False)
 
 def parse_entry_leagues(data, outfile_base):
     classic_leagues_df = pd.DataFrame.from_records(data["leagues"]["classic"])
-    classic_leagues_df.to_csv(os.path.join(outfile_base, 'classic_leagues.csv'))
+    classic_leagues_df.to_csv(os.path.join(outfile_base, 'classic_leagues.csv'), index=False)
     try:
         cup_leagues_df = pd.DataFrame.from_records(data["leagues"]["cup"]["matches"])
-        cup_leagues_df.to_csv(os.path.join(outfile_base, 'cup_leagues.csv'))
+        cup_leagues_df.to_csv(os.path.join(outfile_base, 'cup_leagues.csv'), index=False)
     except KeyError:
         print("No cups yet")
     h2h_leagues_df = pd.DataFrame.from_records(data["leagues"]["h2h"])
-    h2h_leagues_df.to_csv(os.path.join(outfile_base, 'h2h_leagues.csv'))
+    h2h_leagues_df.to_csv(os.path.join(outfile_base, 'h2h_leagues.csv'), index=False)
 
 def parse_transfer_history(data, outfile_base):
     wildcards_df = pd.DataFrame.from_records(data)

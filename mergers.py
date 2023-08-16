@@ -69,5 +69,5 @@ def export_cleaned_data(df):
     path = os.getcwd()
     filename = 'cleaned_merged_seasons.csv'
     filepath = join(dirname(dirname("__file__")), path, 'data', filename)
-    df.to_csv(filepath, encoding = 'utf-8')
+    df.to_csv(filepath, encoding = 'utf-8', index=False)
     return df
