@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brentford,Tottenham,2,2,2023-08-13,22282,2023,604187,0,0,0,0,0,0.13833758234977722,0.13833758234977722
 0,0,0,90,DC,Arsenal,Brentford,1,1,2023-02-11,18422,2022,574798,0,0,0,0,0,0.030776100233197212,0.030776100233197212
 0,0,0,90,DC,Leeds,Brentford,0,0,2023-01-22,18406,2022,570614,0,0,0,0,0,0,0
 0,0,0,86,DR,Brentford,Bournemouth,2,0,2023-01-14,18393,2022,569019,0.016511399298906326,0,1,0,0,0,0

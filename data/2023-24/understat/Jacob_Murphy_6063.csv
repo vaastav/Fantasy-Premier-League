@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Newcastle United,Aston Villa,5,1,2023-08-12,22281,2023,603917,0.5514945983886719,1,2,0,0,0.5514945983886719,0
 0,0,0,17,Sub,Chelsea,Newcastle United,1,1,2023-05-28,18575,2022,600937,0,0,0,0,0,0,0
 0,0,0,10,Sub,Newcastle United,Leicester,0,0,2023-05-22,18567,2022,599381,0,0,0,0,0,0,0
 0,1,0.08048003166913986,71,FWR,Newcastle United,Arsenal,0,2,2023-05-07,18547,2022,595446,0.46656501293182373,0,1,0,0.08048003166913986,0.5470450520515442,0

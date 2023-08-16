@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brentford,Tottenham,2,2,2023-08-13,22282,2023,604185,0,0,0,0,0,0,0
 0,1,0.062198180705308914,90,DC,Arsenal,Wolverhampton Wanderers,5,0,2023-05-28,18572,2022,601045,0,0,0,0,0.062198180705308914,0.06515856087207794,0.06515856087207794
 0,0,0,90,DC,Wolverhampton Wanderers,Everton,1,1,2023-05-20,18571,2022,598173,0,0,0,0,0,0.19785431027412415,0.19785431027412415
 0,0,0,5,Sub,Wolverhampton Wanderers,Aston Villa,1,0,2023-05-06,18551,2022,594835,0,0,0,0,0,0,0
