@@ -35,7 +35,8 @@ def filter_players_exist_latest(df, col='position'):
         Null meaning that player doesnt exist in latest season hence can exclude.
     """
 
-    df[col] = df.groupby('name')[col].apply(lambda x: x.ffill().bfill())
+    result = df.groupby('name')[col].apply(lambda x: x.ffill().bfill())
+    df[col] = result.droplevel(0)
     df = df[df[col].notnull()]
     return df
 
