@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.06454475224018097,16,Sub,Lille,Nantes,2,0,2023-08-20,23383,2023,605670,0.424013614654541,0,3,0,0.06454475224018097,0.5150004625320435,0.4204038083553314
 0,0,0,1,Sub,Nantes,Toulouse,1,2,2023-08-13,23374,2023,604225,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,Arsenal,0,3,2022-09-18,18280,2022,551064,0,0,0,0,0,0,0

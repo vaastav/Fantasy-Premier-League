@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Newcastle United,1,0,2023-08-19,22291,2023,605554,0,0,0,0,0,0.33337968587875366,0.33337968587875366
 0,0,0,90,GK,Burnley,Manchester City,0,3,2023-08-11,22275,2023,603619,0,0,0,0,0,0.25525736808776855,0.25525736808776855
 0,0,0,90,GK,Brentford,Manchester City,1,0,2023-05-28,18574,2022,600895,0,0,0,0,0,0.13453660905361176,0.13453660905361176
 0,0,0,90,GK,Everton,Manchester City,0,3,2023-05-14,18557,2022,596938,0,0,0,0,0,0,0

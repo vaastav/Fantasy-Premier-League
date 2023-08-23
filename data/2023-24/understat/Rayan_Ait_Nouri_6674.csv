@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.32795247435569763,89,DL,Wolverhampton Wanderers,Brighton,1,4,2023-08-19,22286,2023,605058,0.027802709490060806,0,1,0,0.32795247435569763,0.9228748083114624,0.5671196579933167
 0,0,0,79,DL,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14,22284,2023,604638,0.019234422594308853,0,1,0,0,0.27060967683792114,0.2513752579689026
 0,0,0,42,Sub,Arsenal,Wolverhampton Wanderers,5,0,2023-05-28,18572,2022,601054,0,0,0,0,0,0.20296944677829742,0.20296944677829742
 0,0,0,19,Sub,Newcastle United,Wolverhampton Wanderers,2,1,2023-03-12,18469,2022,582169,0,0,0,0,0,0,0

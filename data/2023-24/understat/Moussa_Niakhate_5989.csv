@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Nottingham Forest,Sheffield United,2,1,2023-08-18,22285,2023,604784,0,0,0,0,0,0,0
 0,0,0,90,DC,Crystal Palace,Nottingham Forest,1,1,2023-05-28,18576,2022,600955,0,0,0,0,0,0,0
 0,0,0,90,DC,Nottingham Forest,Arsenal,1,0,2023-05-20,18568,2022,598328,0,0,0,0,0,0.08202055841684341,0.08202055841684341
 0,1,0.6968467235565186,90,DC,Chelsea,Nottingham Forest,2,2,2023-05-13,18555,2022,596380,0,0,0,0,0.6968467235565186,0,0

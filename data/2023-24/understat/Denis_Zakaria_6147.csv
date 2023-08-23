@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Monaco,Strasbourg,3,0,2023-08-20,23382,2023,606054,0,0,0,0,0,0.059138040989637375,0.059138040989637375
 0,0,0,78,DMC,Chelsea,Brighton,1,2,2023-04-15,18503,2022,588458,0,0,0,0,0,0,0
 0,0,0,21,Sub,Chelsea,Leeds,1,0,2023-03-04,18456,2022,579552,0,0,0,0,0,0,0
 0,0,0,21,Sub,Tottenham,Chelsea,2,0,2023-02-26,18450,2022,578345,0.02119790017604828,0,1,0,0,0.059161100536584854,0.037963200360536575
