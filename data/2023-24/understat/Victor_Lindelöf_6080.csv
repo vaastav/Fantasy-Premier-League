@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,41,Sub,Manchester United,Nottingham Forest,3,2,2023-08-26,22300,2023,606959,0.059819307178258896,0,2,0,0,0.03204001858830452,0.03204001858830452
 0,0,0,42,Sub,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14,22284,2023,604630,0,0,0,0,0,0.28685417771339417,0.28685417771339417
 0,0,0,90,DC,Manchester United,Fulham,2,1,2023-05-28,18580,2022,601061,0,0,0,0,0,1.3419569730758667,1.3419569730758667
 0,0,0,90,DC,Manchester United,Chelsea,4,1,2023-05-25,18520,2022,599712,0,0,0,0,0,0.4858798682689667,0.4858798682689667

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.13274450600147247,90,MC,Arsenal,Fulham,2,2,2023-08-26,22297,2023,606939,0,0,0,1,0.13274450600147247,0.12214888632297516,0.12214888632297516
 0,0,0,20,Sub,Fulham,Brentford,0,3,2023-08-19,22287,2023,605098,0,0,0,0,0,0,0
 0,0,0,90,DMC,Manchester United,Fulham,2,1,2023-05-28,18580,2022,601080,0,0,0,0,0,0,0
 0,0,0,90,DMC,Fulham,Crystal Palace,2,2,2023-05-20,18564,2022,598119,0,0,0,0,0,0,0

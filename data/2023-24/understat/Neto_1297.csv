@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Tottenham,0,2,2023-08-26,22296,2023,606641,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Bournemouth,3,1,2023-08-19,22288,2023,605133,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,West Ham,1,1,2023-08-12,22277,2023,603726,0,0,0,0,0,0.24690678715705872,0.24690678715705872
 0,0,0,90,GK,Bournemouth,Manchester United,0,1,2023-05-20,18562,2022,598085,0,0,0,0,0,0.5338948965072632,0.5338948965072632
