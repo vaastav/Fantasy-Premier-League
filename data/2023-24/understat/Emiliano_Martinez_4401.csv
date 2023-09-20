@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Crystal Palace,3,1,2023-09-16,21938,2023,610462,0,0,0,0,0,0,0
+0,0,0,90,GK,Liverpool,Aston Villa,3,0,2023-09-03,21933,2023,609381,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Everton,4,0,2023-08-20,22292,2023,605738,0,0,0,0,0,0.0543033592402935,0.0543033592402935
 0,0,0,90,GK,Newcastle United,Aston Villa,5,1,2023-08-12,22281,2023,603921,0,0,0,0,0,0.10713136941194534,0.10713136941194534
 0,0,0,90,GK,Aston Villa,Brighton,2,1,2023-05-28,18573,2022,600851,0,0,0,0,0,0,0

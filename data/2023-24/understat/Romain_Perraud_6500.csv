@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Paris Saint Germain,Nice,2,3,2023-09-15,23407,2023,609986,0,0,0,0,0,0,0
+0,0,0,9,Sub,Nice,Strasbourg,2,0,2023-09-03,23402,2023,609592,0,0,0,0,0,0,0
 0,1,0.018074721097946167,35,DL,Southampton,Bournemouth,0,1,2023-04-27,18530,2022,591864,0,0,0,0,0.018074721097946167,0.10542107373476028,0.10542107373476028
 0,0,0,90,DL,Arsenal,Southampton,3,3,2023-04-21,18512,2022,589782,0.06908123195171356,0,1,0,0,0.06908123195171356,0.06908123195171356
 0,0,0,8,Sub,Southampton,Manchester City,1,4,2023-04-08,18499,2022,586968,0,0,0,0,0,0,0

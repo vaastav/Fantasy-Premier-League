@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Manchester City,Fulham,5,1,2023-09-02,21927,2023,608736,0,0,0,0,0,0,0
 0,1,0.43420571088790894,17,Sub,Arsenal,Fulham,2,2,2023-08-26,22297,2023,606944,0,0,0,0,0.43420571088790894,0,0
 0,0,0,2,Sub,Fulham,Brentford,0,3,2023-08-19,22287,2023,605099,0,0,0,0,0,0,0
 0,1,0.06515856087207794,90,FWR,Arsenal,Wolverhampton Wanderers,5,0,2023-05-28,18572,2022,601051,0.13781088590621948,0,1,0,0.06515856087207794,0.2576511800289154,0.05468173697590828

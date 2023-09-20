@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DML,Tottenham,Sheffield United,2,1,2023-09-16,21936,2023,611541,0,0,0,0,0,0.08179651945829391,0.08179651945829391
+0,1,0.4424034655094147,18,Sub,Sheffield United,Everton,2,2,2023-09-02,21926,2023,608347,0,0,0,0,0.4424034655094147,0.4424034655094147,0
 0,0,0,90,DL,Leicester,West Ham,2,1,2023-05-28,18579,2022,601185,0,0,0,0,0,0.5295480489730835,0.5295480489730835
 0,0,0,90,DL,Newcastle United,Leicester,0,0,2023-05-22,18567,2022,599388,0,0,0,0,0,0,0
 0,0,0,19,Sub,Leicester,Liverpool,0,3,2023-05-15,18559,2022,597574,0,0,0,0,0,0,0

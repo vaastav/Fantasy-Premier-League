@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,FW,Tottenham,Sheffield United,2,1,2023-09-16,21936,2023,611545,0.09528157860040665,0,1,0,0,0.17707809805870056,0.08179651945829391
+1,2,0.12320507317781448,79,FW,Sheffield United,Everton,2,2,2023-09-02,21926,2023,608344,0,0,0,1,0.12320507317781448,0.2045516073703766,0.0813465416431427
 0,0,0,1,Sub,Aston Villa,Everton,4,0,2023-08-20,22292,2023,605753,0,0,0,0,0,0,0
 0,0,0,4,Sub,Brighton,Aston Villa,1,2,2022-11-13,18353,2022,565022,0,0,0,0,0,0,0
 0,0,0,6,Sub,Aston Villa,Brentford,4,0,2022-10-23,18322,2022,558792,0,0,0,0,0,0,0
