@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMR,Augsburg,Mainz 05,2,1,2023-09-23,23102,2023,612092,0,0,0,0,0,0.5477441549301147,0.5477441549301147
 0,1,0.04155721142888069,90,DMR,RasenBallsport Leipzig,Augsburg,3,0,2023-09-16,23093,2023,610325,0.15735507011413574,0,2,0,0.04155721142888069,0.344053715467453,0.14514143764972687
 0,0,0,7,Sub,Manchester City,Fulham,2,1,2022-11-05,18346,2022,561906,0,0,0,0,0,0,0
 0,0,0,47,DR,Fulham,Newcastle United,1,4,2022-10-01,18285,2022,552361,0,0,0,0,0,0,0

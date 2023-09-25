@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.015173611231148243,90,MC,Crystal Palace,Fulham,0,0,2023-09-23,21948,2023,612140,0.14924272894859314,0,2,0,0.015173611231148243,0.21817156672477722,0.06892883777618408
 0,0,0,63,MC,Fulham,Luton,1,0,2023-09-16,21939,2023,610405,0,0,0,0,0,0,0
 0,0,0,90,MC,Manchester City,Fulham,5,1,2023-09-02,21927,2023,608728,0,0,0,0,0,0,0
 0,0,0,17,Sub,Arsenal,Fulham,2,2,2023-08-26,22297,2023,606945,0.06158538907766342,1,1,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Bournemouth,3,1,2023-09-24,21951,2023,612718,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Chelsea,0,0,2023-09-17,21942,2023,610958,0,0,0,0,0,0.11922522634267807,0.11922522634267807
 0,0,0,90,GK,Brentford,Bournemouth,2,2,2023-09-02,21928,2023,608660,0,0,0,0,0,0.38297706842422485,0.38297706842422485
 0,0,0,90,GK,Bournemouth,Tottenham,0,2,2023-08-26,22296,2023,606641,0,0,0,0,0,0,0

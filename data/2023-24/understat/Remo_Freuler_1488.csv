@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,84,DMC,Bologna,Napoli,0,0,2023-09-24,22346,2023,613204,0,0,0,0,0,0.035859640687704086,0.035859640687704086
 0,0,0,83,DMC,Verona,Bologna,0,0,2023-09-18,22344,2023,611633,0,0,0,0,0,0.05072404071688652,0.05072404071688652
 0,0,0,79,MC,Liverpool,Nottingham Forest,3,2,2023-04-22,18519,2022,590130,0,0,0,0,0,0,0
 0,0,0,67,MC,Nottingham Forest,Manchester United,0,2,2023-04-16,18507,2022,589288,0,0,0,0,0,0,0
