@@ -1,0 +1,6 @@
+assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+1,0,10,0,0.3,631,0.00,0.12,0.12,2.55,4,3,0,2.9,5.2,2023-08-12T14:00:00Z,26,5,0,0,0,0,1,0,4167,0,1,4,23.0,4,0,0,0,50,False,0
+0,0,-2,0,0.3,631,0.00,0.07,0.07,0.57,26,1,0,0.5,0.0,2023-08-25T19:00:00Z,20,7,0,0,0,0,3,0,14892,0,0,3,9.0,0,-124,2500,2624,50,False,1
+0,0,2,0,0.0,631,0.00,0.00,0.00,0.20,38,1,0,0.1,0.0,2023-09-01T19:00:00Z,19,19,0,0,0,0,4,0,13516,0,2,1,2.0,1,-1785,625,2410,50,True,0
+0,0,12,0,24.5,631,0.20,0.55,0.35,0.93,44,1,0,4.9,14.2,2023-09-16T14:00:00Z,73,10,0,0,0,0,5,0,13564,1,0,1,10.0,2,-841,1244,2085,49,False,0
+0,0,2,0,12.5,631,0.02,0.40,0.38,0.59,58,1,0,5.5,5.6,2023-09-23T14:00:00Z,71,20,0,0,0,0,6,0,13289,1,1,1,37.0,2,-486,758,1244,49,True,0

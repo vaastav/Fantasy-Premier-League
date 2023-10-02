@@ -35,7 +35,8 @@ def filter_players_exist_latest(df, col='position'):
         Null meaning that player doesnt exist in latest season hence can exclude.
     """
 
-    df[col] = df.groupby('name')[col].apply(lambda x: x.ffill().bfill())
+    result = df.groupby('name')[col].apply(lambda x: x.ffill().bfill())
+    df[col] = result.droplevel(0)
     df = df[df[col].notnull()]
     return df
 
@@ -69,5 +70,5 @@ def export_cleaned_data(df):
     path = os.getcwd()
     filename = 'cleaned_merged_seasons.csv'
     filepath = join(dirname(dirname("__file__")), path, 'data', filename)
-    df.to_csv(filepath, encoding = 'utf-8')
+    df.to_csv(filepath, encoding = 'utf-8', index=False)
     return df
