@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Manchester United,Crystal Palace,0,1,2023-09-30,21957,2023,614643,0,0,0,0,0,0,0
 0,0,0,20,Sub,Arsenal,Manchester United,3,1,2023-09-03,21934,2023,609673,0,0,0,0,0,0.08084101974964142,0.08084101974964142
 0,1,0.014614135026931763,90,DC,Manchester United,Fulham,2,1,2023-05-28,18580,2022,601062,0,0,0,0,0.014614135026931763,0.40930065512657166,0.40930065512657166
 0,0,0,7,Sub,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13,18560,2022,596436,0,0,0,0,0,0,0

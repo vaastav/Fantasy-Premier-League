@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Arsenal,0,4,2023-09-30,21959,2023,614704,0,0,0,0,0,0.10961536318063736,0.10961536318063736
 0,0,0,90,GK,Arsenal,Tottenham,2,2,2023-09-24,21952,2023,612765,0,0,0,0,0,0.02744203992187977,0.02744203992187977
 0,0,0,90,GK,Everton,Arsenal,0,1,2023-09-17,21941,2023,611285,0,0,0,0,0,0.06452509760856628,0.06452509760856628
 0,0,0,90,GK,Brentford,Manchester City,1,0,2023-05-28,18574,2022,600879,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Fulham,0,0,2023-09-23,21948,2023,612132,0,0,0,0,0,0,0
+0,0,0,1,Sub,Aston Villa,Crystal Palace,3,1,2023-09-16,21938,2023,610490,0,0,0,0,0,0,0
+0,1,0.043321676552295685,5,Sub,Crystal Palace,Arsenal,0,1,2023-08-21,22294,2023,606381,0.046159155666828156,0,1,0,0.043321676552295685,0.08948083221912384,0
+0,0,0,68,AMR,Crystal Palace,Manchester United,1,0,2022-05-22,16751,2021,537805,0,0,0,0,0,0,0
+0,0,0,12,Sub,Chelsea,Crystal Palace,3,0,2021-08-14,16379,2021,475498,0,0,0,0,0,0.03642880171537399,0.03642880171537399
