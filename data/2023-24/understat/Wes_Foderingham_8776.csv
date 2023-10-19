@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,Sheffield United,3,1,2023-10-07,21970,2023,616446,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Sheffield United,2,0,2023-09-30,21960,2023,614735,0,0,0,0,0,0,0
 0,0,0,90,GK,Sheffield United,Newcastle United,0,8,2023-09-24,21954,2023,613075,0,0,0,0,0,0.024492107331752777,0.024492107331752777
 0,0,0,90,GK,Tottenham,Sheffield United,2,1,2023-09-16,21936,2023,611536,0,0,0,0,0,0.17707809805870056,0.17707809805870056

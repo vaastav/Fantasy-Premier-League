@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.03263238072395325,4,Sub,Crystal Palace,Nottingham Forest,0,0,2023-10-07,21968,2023,616638,0,0,0,0,0.03263238072395325,0.06425856053829193,0.031626179814338684
 0,0,0,11,Sub,Nottingham Forest,Brentford,1,1,2023-10-01,21963,2023,615255,0,0,0,0,0,0,0
 0,0,0,12,Sub,Chelsea,Nottingham Forest,0,1,2023-09-02,21930,2023,608767,0.05584664270281792,0,1,0,0,0.05584664270281792,0
 0,0,0,17,Sub,Manchester United,Nottingham Forest,3,2,2023-08-26,22300,2023,606975,0,0,0,0,0,0.06066468358039856,0.06066468358039856

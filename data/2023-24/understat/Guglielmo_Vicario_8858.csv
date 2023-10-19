@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Luton,Tottenham,0,1,2023-10-07,21971,2023,616132,0,0,0,0,0,0.12458480149507523,0.12458480149507523
 0,0,0,90,GK,Tottenham,Liverpool,2,1,2023-09-30,21962,2023,614961,0,0,0,0,0,0.11042096465826035,0.11042096465826035
 0,0,0,90,GK,Arsenal,Tottenham,2,2,2023-09-24,21952,2023,612780,0,0,0,0,0,0,0
 0,0,0,90,GK,Tottenham,Sheffield United,2,1,2023-09-16,21936,2023,611520,0,0,0,0,0,0.34262165427207947,0.34262165427207947

@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.01999759115278721,27,Sub,Luton,Tottenham,0,1,2023-10-07,21971,2023,616131,0,0,0,0,0.01999759115278721,0.01999759115278721,0
 0,0,0,90,DC,Luton,Burnley,1,2,2023-10-03,22289,2023,615870,0,0,0,0,0,0.09997613728046417,0.09997613728046417
 0,0,0,28,Sub,Everton,Luton,1,2,2023-09-30,21956,2023,614597,0,0,0,0,0,0,0

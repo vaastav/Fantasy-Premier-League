@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Aston Villa,1,1,2023-10-08,21974,2023,616991,0,0,0,0,0,0.09532364457845688,0.09532364457845688
 0,0,0,90,GK,Aston Villa,Brighton,6,1,2023-09-30,21955,2023,614288,0,0,0,0,0,0.06281968951225281,0.06281968951225281
 0,0,0,90,GK,Chelsea,Aston Villa,0,1,2023-09-24,21947,2023,612749,0,0,0,0,0,0.3124411106109619,0.3124411106109619
 0,0,0,90,GK,Aston Villa,Crystal Palace,3,1,2023-09-16,21938,2023,610462,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.12294971197843552,10,Sub,Wolverhampton Wanderers,Aston Villa,1,1,2023-10-08,21974,2023,616987,0.5960643887519836,0,1,0,0.12294971197843552,0.7190141081809998,0
 0,0,0,6,Sub,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03,21932,2023,609361,0,0,0,0,0,0,0
 1,1,0.5301117897033691,3,Sub,Everton,Wolverhampton Wanderers,0,1,2023-08-26,22299,2023,606888,0,0,0,1,0.5301117897033691,0.5301117897033691,0
 0,0,0,1,Sub,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14,22284,2023,604645,0.08854648470878601,0,1,0,0,0.08854648470878601,0

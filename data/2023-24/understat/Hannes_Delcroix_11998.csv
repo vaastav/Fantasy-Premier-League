@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Burnley,Chelsea,1,4,2023-10-07,21967,2023,616372,0,0,0,0,0,0.16503004729747772,0.16503004729747772
 0,0,0,1,Sub,Luton,Burnley,1,2,2023-10-03,22289,2023,615893,0,0,0,0,0,0,0
 0,0,0,1,Sub,Nottingham Forest,Burnley,1,1,2023-09-18,21944,2023,611608,0,0,0,0,0,0,0
 0,2,0.15819038450717926,39,Sub,Burnley,Tottenham,2,5,2023-09-02,21929,2023,608685,0,0,0,0,0.15819038450717926,0.4564206600189209,0.4564206600189209

@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Everton,Bournemouth,3,0,2023-10-07,21969,2023,616411,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Arsenal,0,1,2023-09-17,21941,2023,611281,0,0,0,0,0,0,0
 0,1,0.06607918441295624,22,Sub,Everton,Wolverhampton Wanderers,0,1,2023-08-26,22299,2023,606874,0,0,0,0,0.06607918441295624,0,0

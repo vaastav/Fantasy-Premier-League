@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Everton,Bournemouth,3,0,2023-10-07,21969,2023,616426,0,0,0,0,0,0,0
 0,0,0,90,DR,Bournemouth,Arsenal,0,4,2023-09-30,21959,2023,614689,0.07065291702747345,0,1,0,0,0.1533472090959549,0.08269429206848145
 0,0,0,90,DR,Brighton,Bournemouth,3,1,2023-09-24,21951,2023,612719,0,0,0,0,0,0,0
 0,0,0,90,DR,Bournemouth,Chelsea,0,0,2023-09-17,21942,2023,610959,0.02459431067109108,0,1,0,0,0.2076578587293625,0.1830635517835617
