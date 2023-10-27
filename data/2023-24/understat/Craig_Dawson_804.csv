@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.17875920236110687,90,DC,Bournemouth,Wolverhampton Wanderers,1,2,2023-10-21,21975,2023,618048,0.015678707510232925,0,1,0,0.17875920236110687,0.38648614287376404,0.3708074390888214
 0,0,0,90,DC,Wolverhampton Wanderers,Aston Villa,1,1,2023-10-08,21974,2023,616979,0.22574272751808167,0,1,0,0,0.2716214656829834,0.2716214656829834
 0,0,0,90,DC,Wolverhampton Wanderers,Manchester City,2,1,2023-09-30,21961,2023,614602,0,0,0,0,0,0,0
 0,0,0,90,DC,Luton,Wolverhampton Wanderers,1,1,2023-09-23,21945,2023,612194,0,0,0,0,0,0,0

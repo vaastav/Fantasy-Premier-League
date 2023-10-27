@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Brentford,Burnley,3,0,2023-10-21,21977,2023,618122,0,0,0,0,0,0,0
 0,0,0,25,Sub,Burnley,Tottenham,2,5,2023-09-02,21929,2023,608688,0.12678086757659912,0,1,0,0,0,0
 0,0,0,19,Sub,Burnley,Aston Villa,1,3,2023-08-27,22302,2023,607451,0,0,0,0,0,0.32465851306915283,0.32465851306915283
 0,0,0,1,Sub,Burnley,Manchester City,0,3,2023-08-11,22275,2023,603617,0,0,0,0,0,0,0

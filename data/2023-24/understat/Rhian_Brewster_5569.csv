@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.015292750671505928,32,Sub,Sheffield United,Manchester United,1,2,2023-10-21,21983,2023,618474,0,0,0,0,0.015292750671505928,0.015292750671505928,0
 0,0,0,1,Sub,Fulham,Sheffield United,3,1,2023-10-07,21970,2023,616460,0,0,0,0,0,0,0
 0,0,0,8,Sub,West Ham,Sheffield United,2,0,2023-09-30,21960,2023,614748,0.04808845743536949,0,1,0,0,0.04808845743536949,0
 0,1,0.06616529822349548,8,Sub,Sheffield United,Burnley,1,0,2021-05-23,14812,2020,473432,0,0,0,0,0.06616529822349548,0.06616529822349548,0
