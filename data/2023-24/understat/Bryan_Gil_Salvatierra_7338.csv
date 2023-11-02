@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Tottenham,1,2,2023-10-27,21990,2023,619492,0,0,0,0,0,0,0
 0,1,0.040854908525943756,64,AML,Sevilla,Real Madrid,1,2,2023-05-27,19331,2022,600305,0,0,0,0,0.040854908525943756,0.6353425979614258,0.5944876670837402
 0,0,0,10,Sub,Elche,Sevilla,1,1,2023-05-24,19314,2022,599521,0,0,0,0,0,0,0
 0,0,0,18,Sub,Sevilla,Real Betis,0,0,2023-05-21,19305,2022,599255,0,0,0,0,0,0,0

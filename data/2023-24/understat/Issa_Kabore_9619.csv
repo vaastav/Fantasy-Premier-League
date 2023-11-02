@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620457,0,0,0,0,0,0,0
 0,0,0,32,Sub,Nottingham Forest,Luton,2,2,2023-10-21,21982,2023,618087,0.02566705457866192,0,1,0,0,0.02566705457866192,0
 0,0,0,66,DMR,Luton,Burnley,1,2,2023-10-03,22289,2023,615872,0.11384317278862,0,1,0,0,0.11384317278862,0
 0,0,0,90,DMR,Everton,Luton,1,2,2023-09-30,21956,2023,614588,0,0,0,0,0,0,0

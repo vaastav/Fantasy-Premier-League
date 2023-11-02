@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,West Ham,Everton,0,1,2023-10-29,21993,2023,620340,0,0,0,0,0,0.018478458747267723,0.018478458747267723
 0,0,0,42,Sub,Liverpool,Everton,2,0,2023-10-21,21979,2023,617779,0,0,0,0,0,0,0
 0,0,0,10,Sub,Everton,Bournemouth,3,0,2023-10-07,21969,2023,616413,0,0,0,0,0,0.4574052393436432,0.4574052393436432
 0,0,0,6,Sub,Everton,Luton,1,2,2023-09-30,21956,2023,614583,0,0,0,0,0,0.11579494178295135,0.11579494178295135

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28,21994,2023,620125,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Crystal Palace,4,0,2023-10-21,21981,2023,618153,0,0,0,0,0,1.1810073852539062,1.1810073852539062
 0,0,0,90,GK,West Ham,Newcastle United,2,2,2023-10-08,21973,2023,616962,0,0,0,0,0,0.5990544557571411,0.5990544557571411
 0,0,0,90,GK,Newcastle United,Burnley,2,0,2023-09-30,21958,2023,614657,0,0,0,0,0,0,0

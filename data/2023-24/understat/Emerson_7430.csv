@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.02350764349102974,42,Sub,Crystal Palace,Tottenham,1,2,2023-10-27,21990,2023,619490,0,0,0,0,0.02350764349102974,0.047006722539663315,0.047006722539663315
 0,0,0,32,Sub,Tottenham,Fulham,2,0,2023-10-23,21984,2023,619288,0,0,0,0,0,0,0
 0,0,0,10,Sub,Luton,Tottenham,0,1,2023-10-07,21971,2023,616144,0,0,0,0,0,0,0
 0,0,0,1,Sub,Tottenham,Sheffield United,2,1,2023-09-16,21936,2023,611531,0,0,0,0,0,0,0

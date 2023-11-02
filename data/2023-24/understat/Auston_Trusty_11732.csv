@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Arsenal,Sheffield United,5,0,2023-10-28,21986,2023,619914,0,0,0,0,0,0,0
 0,0,0,90,DC,Sheffield United,Manchester United,1,2,2023-10-21,21983,2023,618464,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,Sheffield United,3,1,2023-10-07,21970,2023,616448,0.02272970974445343,0,1,0,0,0,0
 0,0,0,8,Sub,West Ham,Sheffield United,2,0,2023-09-30,21960,2023,614747,0,0,0,0,0,0,0

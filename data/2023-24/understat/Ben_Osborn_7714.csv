@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,28,Sub,Arsenal,Sheffield United,5,0,2023-10-28,21986,2023,619925,0,0,0,0,0,0,0
 0,0,0,6,Sub,Sheffield United,Manchester United,1,2,2023-10-21,21983,2023,618473,0.014941468834877014,0,1,0,0,0.014941468834877014,0
 0,0,0,16,DML,Sheffield United,Manchester City,1,2,2023-08-27,22303,2023,607473,0,0,0,0,0,0,0
 0,0,0,90,DMR,Nottingham Forest,Sheffield United,2,1,2023-08-18,22285,2023,604793,0,0,0,0,0,0,0

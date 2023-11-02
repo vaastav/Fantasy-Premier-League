@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Manchester City,0,3,2023-10-29,21992,2023,620719,0,0,0,0,0,0,0
 0,0,0,90,GK,Sheffield United,Manchester United,1,2,2023-10-21,21983,2023,618476,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Brentford,2,1,2023-10-07,21972,2023,616461,0,0,0,0,0,0.2070988565683365,0.2070988565683365
 0,0,0,90,GK,Manchester United,Crystal Palace,0,1,2023-09-30,21957,2023,614628,0,0,0,0,0,0.4638804495334625,0.4638804495334625
