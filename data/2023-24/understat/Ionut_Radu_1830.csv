@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Bournemouth,6,1,2023-11-04,22000,2023,621505,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Burnley,2,1,2023-10-28,21985,2023,619865,0,0,0,0,0,0,0
 0,0,0,90,GK,Auxerre,Lens,1,3,2023-06-03,20019,2022,601890,0,0,0,0,0,0.052755869925022125,0.052755869925022125
 0,0,0,90,GK,Toulouse,Auxerre,1,1,2023-05-27,20017,2022,600462,0,0,0,0,0,0.02094438672065735,0.02094438672065735

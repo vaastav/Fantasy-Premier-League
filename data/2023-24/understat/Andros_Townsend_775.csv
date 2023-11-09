@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,63,AMC,Luton,Liverpool,1,1,2023-11-05,21999,2023,622357,0,0,0,0,0,0,0
 0,0,0,32,Sub,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620471,0.18535661697387695,0,2,0,0,0,0
 0,0,0,15,Sub,Nottingham Forest,Luton,2,2,2023-10-21,21982,2023,618088,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Newcastle United,1,0,2022-03-17,16571,2021,520791,0,0,0,0,0,0,0

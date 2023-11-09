@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.0638614371418953,90,DC,Newcastle United,Arsenal,1,0,2023-11-04,22001,2023,621768,0,0,0,0,0.0638614371418953,0.0638614371418953,0
 0,0,0,90,DC,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28,21994,2023,620128,0,0,0,0,0,0.10673779249191284,0.10673779249191284
 0,0,0,90,DC,Newcastle United,Crystal Palace,4,0,2023-10-21,21981,2023,618156,0,0,0,0,0,0.6496439576148987,0.6496439576148987
 0,0,0,90,DC,West Ham,Newcastle United,2,2,2023-10-08,21973,2023,616965,0,0,0,0,0,0.05627069249749184,0.05627069249749184

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,40,Sub,Newcastle United,Arsenal,1,0,2023-11-04,22001,2023,621778,0,0,0,0,0,0,0
 0,0,0,16,Sub,Newcastle United,Crystal Palace,4,0,2023-10-21,21981,2023,618167,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Burnley,2,0,2023-09-30,21958,2023,614670,0,0,0,0,0,0,0
 0,0,0,14,Sub,Sheffield United,Newcastle United,0,8,2023-09-24,21954,2023,613104,0,0,0,0,0,0,0

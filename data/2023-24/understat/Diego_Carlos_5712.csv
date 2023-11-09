@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Nottingham Forest,Aston Villa,2,0,2023-11-05,22002,2023,622096,0,0,0,0,0,0.08076966553926468,0.08076966553926468
 0,0,0,10,Sub,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620453,0,0,0,0,0,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Aston Villa,1,1,2023-10-08,21974,2023,616993,0.01247455459088087,0,1,0,0,0.263837993144989,0.263837993144989
 0,0,0,18,DC,Liverpool,Aston Villa,3,0,2023-09-03,21933,2023,609383,0,0,0,0,0,0,0
