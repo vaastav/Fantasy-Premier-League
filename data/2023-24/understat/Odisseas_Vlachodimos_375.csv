@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Nottingham Forest,3,2,2023-11-12,22013,2023,623729,0.03266533091664314,0,1,0,0,0.6197658181190491,0.5871005058288574
 0,0,0,90,GK,Nottingham Forest,Aston Villa,2,0,2023-11-05,22002,2023,622068,0,0,0,0,0,0.1226976215839386,0.1226976215839386
 0,0,0,90,GK,VfB Stuttgart,Augsburg,0,4,2015-11-21,1130,2015,87852,0,0,0,0,0,0.018434999510645866,0.018434999510645866
 0,0,0,90,GK,Hertha Berlin,VfB Stuttgart,2,1,2015-09-12,1051,2015,85671,0,0,0,0,0,0,0

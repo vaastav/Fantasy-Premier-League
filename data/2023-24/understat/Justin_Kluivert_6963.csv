@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.014935430139303207,74,AMC,Bournemouth,Newcastle United,2,0,2023-11-11,22005,2023,623476,0,0,0,0,0.014935430139303207,0.0799538642168045,0.0650184378027916
 0,0,0,1,Sub,Manchester City,Bournemouth,6,1,2023-11-04,22000,2023,621518,0,0,0,0,0,0,0
 0,0,0,64,AML,Bournemouth,Arsenal,0,4,2023-09-30,21959,2023,614697,0,0,0,0,0,0,0
 0,0,0,67,AML,Brighton,Bournemouth,3,1,2023-09-24,21951,2023,612727,0,0,0,0,0,0,0

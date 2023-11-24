@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester United,Luton,1,0,2023-11-11,22012,2023,623244,0,0,0,0,0,0,0
 0,0,0,90,DC,Luton,Liverpool,1,1,2023-11-05,21999,2023,622350,0,0,0,0,0,0,0
 0,0,0,58,DC,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620458,0,0,0,0,0,0,0

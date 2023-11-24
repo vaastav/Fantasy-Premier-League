@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Bournemouth,Newcastle United,2,0,2023-11-11,22005,2023,623494,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Manchester City,3,3,2022-08-21,18230,2022,543273,0,0,0,0,0,0,0
 0,1,0.02161250077188015,90,DR,Newcastle United,Arsenal,2,0,2022-05-16,16741,2021,536717,0.12949800491333008,0,1,0,0.02161250077188015,0.6622310280799866,0.6406189799308777
 0,0,0,70,DR,Manchester City,Newcastle United,5,0,2022-05-08,16727,2021,533738,0,0,0,0,0,0.008704099804162979,0.008704099804162979

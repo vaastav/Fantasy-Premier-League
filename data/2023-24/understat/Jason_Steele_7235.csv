@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Sheffield United,1,1,2023-11-12,22008,2023,623867,0,0,0,0,0,0.08576887100934982,0.08576887100934982
 0,0,0,90,GK,Brighton,Fulham,1,1,2023-10-29,21988,2023,620625,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester City,Brighton,2,1,2023-10-21,21980,2023,618137,0,0,0,0,0,0.3447999954223633,0.3447999954223633
 0,0,0,90,GK,Aston Villa,Brighton,6,1,2023-09-30,21955,2023,614302,0,0,0,0,0,0,0

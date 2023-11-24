@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Sheffield United,1,1,2023-11-12,22008,2023,623882,0,0,0,0,0,0.05354846641421318,0.05354846641421318
 0,0,0,90,GK,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04,22003,2023,621462,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Sheffield United,5,0,2023-10-28,21986,2023,619912,0,0,0,0,0,0,0
 0,0,0,90,GK,Sheffield United,Manchester United,1,2,2023-10-21,21983,2023,618462,0,0,0,0,0,0,0

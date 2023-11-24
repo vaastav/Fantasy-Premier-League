@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Crystal Palace,Everton,2,3,2023-11-11,22010,2023,623304,0.026951009407639503,0,1,0,0,0.026951009407639503,0
 0,0,0,90,DR,Everton,Brighton,1,1,2023-11-04,21997,2023,621581,0,0,0,0,0,0,0
 0,0,0,36,DR,Liverpool,Everton,2,0,2023-10-21,21979,2023,617765,0,0,0,0,0,0,0
 0,2,0.04773365706205368,90,DR,Everton,Bournemouth,3,0,2023-10-07,21969,2023,616401,0,0,0,0,0.04773365706205368,0.69768226146698,0.69768226146698
