@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,63,AMC,Luton,Crystal Palace,2,1,2023-11-25,22019,2023,624874,0,0,0,0,0,0,0
 0,3,0.09992020577192307,63,AMC,Manchester United,Luton,1,0,2023-11-11,22012,2023,623252,0,0,0,0,0.09992020577192307,0.1716626137495041,0.0891040489077568
 0,0,0,63,AMC,Luton,Liverpool,1,1,2023-11-05,21999,2023,622357,0,0,0,0,0,0,0
 0,0,0,32,Sub,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620471,0.18535661697387695,0,2,0,0,0,0

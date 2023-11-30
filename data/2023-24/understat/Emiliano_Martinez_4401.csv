@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Aston Villa,1,2,2023-11-26,22024,2023,625563,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Fulham,3,1,2023-11-12,22007,2023,623896,0,0,0,0,0,0.07352390140295029,0.07352390140295029
 0,0,0,90,GK,Nottingham Forest,Aston Villa,2,0,2023-11-05,22002,2023,622083,0,0,0,0,0,0.1798965334892273,0.1798965334892273
 0,0,0,90,GK,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620440,0,0,0,0,0,0.48059603571891785,0.48059603571891785

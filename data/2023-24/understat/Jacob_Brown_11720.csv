@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,1,0.599822998046875,9,Sub,Luton,Crystal Palace,2,1,2023-11-25,22019,2023,624877,0,0,0,1,0.599822998046875,0.599822998046875,0
 0,0,0,8,Sub,Luton,Liverpool,1,1,2023-11-05,21999,2023,622361,0,0,0,0,0,0,0
 0,0,0,59,FW,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620465,0,0,0,0,0,0,0
 0,2,0.3688945174217224,75,FW,Nottingham Forest,Luton,2,2,2023-10-21,21982,2023,618086,0,0,0,0,0.3688945174217224,0.3006133735179901,0

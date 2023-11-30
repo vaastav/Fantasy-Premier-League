@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Fulham,Wolverhampton Wanderers,3,2,2023-11-27,22018,2023,626113,0,0,0,0,0,0,0
 0,0,0,9,Sub,Fulham,Manchester United,0,1,2023-11-04,21998,2023,621199,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Fulham,1,1,2023-10-29,21988,2023,620654,0,0,0,0,0,0.096582792699337,0.096582792699337
 0,1,0.011218092404305935,74,DMC,Tottenham,Fulham,2,0,2023-10-23,21984,2023,619297,0,0,0,0,0.011218092404305935,0.011218092404305935,0

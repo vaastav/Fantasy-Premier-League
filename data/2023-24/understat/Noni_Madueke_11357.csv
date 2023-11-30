@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Newcastle United,Chelsea,4,1,2023-11-25,22021,2023,624926,0,0,0,0,0,0,0
 0,3,0.16852359473705292,70,AMR,Chelsea,Brentford,0,2,2023-10-28,21989,2023,619562,0.15030314028263092,0,2,0,0.16852359473705292,0.8307384848594666,0.5359916687011719
 0,0,0,4,Sub,Chelsea,Arsenal,2,2,2023-10-21,21978,2023,618319,0,0,0,0,0,0,0
 0,0,0,1,Sub,Fulham,Chelsea,0,2,2023-10-02,21964,2023,615835,0,0,0,0,0,0,0
