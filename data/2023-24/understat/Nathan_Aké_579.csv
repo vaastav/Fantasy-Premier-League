@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Manchester City,Tottenham,3,3,2023-12-03,22031,2023,627550,0,0,0,0,0,0,0
 0,0,0,90,DC,Manchester City,Liverpool,1,1,2023-11-25,22020,2023,624566,0.3175771236419678,1,1,0,0,0.5636151432991028,0.2460380494594574
 1,1,0.14458003640174866,90,DC,Manchester City,Bournemouth,6,1,2023-11-04,22000,2023,621490,0.11177816241979599,0,2,1,0.14458003640174866,1.3155566453933716,1.2037783861160278
 0,0,0,1,Sub,Manchester City,Brighton,2,1,2023-10-21,21980,2023,618134,0,0,0,0,0,0,0
