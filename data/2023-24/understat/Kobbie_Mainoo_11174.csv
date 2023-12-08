@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,81,DMC,Newcastle United,Manchester United,1,0,2023-12-02,22032,2023,626949,0,0,0,0,0,0.11316239088773727,0.11316239088773727
 0,0,0,74,DMC,Everton,Manchester United,0,3,2023-11-26,22017,2023,625811,0,0,0,0,0,0.051359742879867554,0.051359742879867554
 0,0,0,7,Sub,Manchester United,Leicester,3,0,2023-02-19,18437,2022,576949,0,0,0,0,0,0.16662700474262238,0.16662700474262238

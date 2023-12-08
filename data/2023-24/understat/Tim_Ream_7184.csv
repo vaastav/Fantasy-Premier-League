@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Liverpool,Fulham,4,3,2023-12-03,22030,2023,627344,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,Wolverhampton Wanderers,3,2,2023-11-27,22018,2023,626103,0,0,0,0,0,0.6559732556343079,0.6559732556343079
 0,0,0,90,DC,Aston Villa,Fulham,3,1,2023-11-12,22007,2023,623910,0,0,0,0,0,0.5041472315788269,0.5041472315788269
 0,0,0,90,DC,Fulham,Manchester United,0,1,2023-11-04,21998,2023,621187,0,0,0,0,0,0.025120411068201065,0.025120411068201065

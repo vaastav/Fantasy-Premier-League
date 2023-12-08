@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,18,Sub,Everton,Newcastle United,3,0,2023-12-07,22037,2023,628183,0.3009207546710968,1,1,0,0,0.3009207546710968,0.3009207546710968
 0,0,0,15,Sub,Everton,Manchester United,0,3,2023-11-26,22017,2023,625805,0,0,0,0,0,0.11850897967815399,0.11850897967815399
 0,0,0,1,Sub,Crystal Palace,Everton,2,3,2023-11-11,22010,2023,623316,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Brighton,1,1,2023-11-04,21997,2023,621592,0,0,0,0,0,0,0

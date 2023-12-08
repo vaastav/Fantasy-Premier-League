@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Luton,Arsenal,3,4,2023-12-05,22039,2023,627916,0,0,0,0,0,0,0
+0,0,0,12,Sub,Brentford,Luton,3,1,2023-12-02,22027,2023,626524,0,0,0,0,0,0,0
 0,0,0,2,Sub,Manchester United,Luton,1,0,2023-11-11,22012,2023,623256,0,0,0,0,0,0,0
 0,0,0,10,Sub,Aston Villa,Luton,3,1,2023-10-29,21987,2023,620470,0,0,0,0,0,0,0
 0,0,0,13,Sub,Luton,Wolverhampton Wanderers,1,1,2023-09-23,21945,2023,612191,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Crystal Palace,1,1,2023-12-03,22034,2023,627358,0,0,0,0,0,0.17456397414207458,0.17456397414207458
 0,0,0,90,GK,Burnley,West Ham,1,2,2023-11-25,22016,2023,624852,0,0,0,0,0,0.04789721965789795,0.04789721965789795
 0,0,0,90,GK,West Ham,Nottingham Forest,3,2,2023-11-12,22013,2023,623715,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,West Ham,3,2,2023-11-04,21995,2023,621537,0,0,0,0,0,0,0

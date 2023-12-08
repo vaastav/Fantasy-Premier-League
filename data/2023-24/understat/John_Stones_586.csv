@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Aston Villa,Manchester City,1,0,2023-12-06,22035,2023,628073,0,0,0,0,0,0.3656105101108551,0.3656105101108551
 0,0,0,75,DC,Manchester City,Bournemouth,6,1,2023-11-04,22000,2023,621492,0,0,0,0,0,0.419962078332901,0.419962078332901
 0,0,0,90,DC,Manchester United,Manchester City,0,3,2023-10-29,21992,2023,620738,0.13698531687259674,0,3,0,0,2.060544013977051,1.9460941553115845
 0,0,0,79,DMC,Manchester City,Brighton,2,1,2023-10-21,21980,2023,618128,0,0,0,0,0,0.026180963963270187,0.026180963963270187

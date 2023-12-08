@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Newcastle United,3,0,2023-12-07,22037,2023,628184,0,0,0,0,0,0.1774371862411499,0.1774371862411499
+0,0,0,3,Sub,Newcastle United,Manchester United,1,0,2023-12-02,22032,2023,626942,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Newcastle United,1,1,2023-05-28,18575,2022,600923,0,0,0,0,0,0.6429070234298706,0.6429070234298706
 0,0,0,67,Sub,Newcastle United,Liverpool,0,2,2023-02-18,18438,2022,576610,0,0,0,0,0,0,0
 0,0,0,90,GK,Burnley,Newcastle United,1,2,2022-05-22,16749,2021,537756,0.01996069960296154,0,1,0,0,0.01996069960296154,0

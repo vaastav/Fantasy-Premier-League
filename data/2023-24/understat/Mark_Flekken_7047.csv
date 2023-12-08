@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Brentford,2,1,2023-12-06,22036,2023,628008,0,0,0,0,0,0,0
+0,0,0,90,GK,Brentford,Luton,3,1,2023-12-02,22027,2023,626498,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Arsenal,0,1,2023-11-25,22015,2023,625115,0,0,0,0,0,0.020654432475566864,0.020654432475566864
 0,0,0,90,GK,Liverpool,Brentford,3,0,2023-11-12,22011,2023,623852,0,0,0,0,0,0.024634571745991707,0.024634571745991707
 0,0,0,53,GK,Brentford,West Ham,3,2,2023-11-04,21995,2023,621521,0,0,0,0,0,0,0
