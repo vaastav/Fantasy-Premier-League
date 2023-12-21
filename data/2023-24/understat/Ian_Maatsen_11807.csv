@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Chelsea,Sheffield United,2,0,2023-12-16,22059,2023,630282,0,0,0,0,0,0,0
+0,0,0,2,Sub,Everton,Chelsea,2,0,2023-12-10,22048,2023,629288,0,0,0,0,0,0,0
 0,0,0,12,Sub,Chelsea,Brighton,3,2,2023-12-03,22029,2023,627248,0,0,0,0,0,0,0
 0,0,0,20,Sub,Chelsea,Brentford,0,2,2023-10-28,21989,2023,619567,0,0,0,0,0,0.11401442438364029,0.11401442438364029
 0,0,0,1,Sub,Burnley,Chelsea,1,4,2023-10-07,21967,2023,616397,0,0,0,0,0,0,0

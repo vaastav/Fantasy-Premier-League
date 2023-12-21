@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Luton,Manchester City,1,2,2023-12-10,22050,2023,629325,0,0,0,0,0,0.017716258764266968,0.017716258764266968
 0,0,0,90,GK,Luton,Arsenal,3,4,2023-12-05,22039,2023,627901,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Luton,3,1,2023-12-02,22027,2023,626513,0,0,0,0,0,0,0
 0,0,0,90,GK,Luton,Crystal Palace,2,1,2023-11-25,22019,2023,624865,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Arsenal,Brighton,2,0,2023-12-17,22056,2023,630788,0,0,0,0,0,0.04728582128882408,0.04728582128882408
 0,0,0,15,AMC,Manchester City,Brighton,2,1,2023-10-21,21980,2023,618145,0,0,0,0,0,0,0
 0,0,0,27,Sub,Brighton,Liverpool,2,2,2023-10-08,21966,2023,616934,0,0,0,0,0,0,0
 0,0,0,51,AMC,Aston Villa,Brighton,6,1,2023-09-30,21955,2023,614310,0,0,0,0,0,0.30870509147644043,0.30870509147644043

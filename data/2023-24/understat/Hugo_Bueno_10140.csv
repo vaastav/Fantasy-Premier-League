@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.09239848703145981,75,DML,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09,22054,2023,628785,0,0,0,0,0.09239848703145981,0.11390149593353271,0.021503007039427757
 0,0,0,90,DML,Wolverhampton Wanderers,Burnley,1,0,2023-12-05,22042,2023,627877,0,0,0,0,0,0.08315881341695786,0.08315881341695786
 0,0,0,69,DML,Arsenal,Wolverhampton Wanderers,2,1,2023-12-02,22026,2023,626644,0.33263567090034485,0,1,0,0,0.33263567090034485,0.33263567090034485
 0,0,0,1,Sub,Luton,Wolverhampton Wanderers,1,1,2023-09-23,21945,2023,612205,0,0,0,0,0,0,0

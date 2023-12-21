@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Manchester United,0,0,2023-12-17,22060,2023,631114,0,0,0,0,0,0.3339172899723053,0.3339172899723053
+0,0,0,90,GK,Manchester United,Bournemouth,0,3,2023-12-09,22051,2023,628722,0,0,0,0,0,0.059760525822639465,0.059760525822639465
 0,0,0,90,GK,Manchester United,Chelsea,2,1,2023-12-06,22044,2023,628082,0,0,0,0,0,0.14335767924785614,0.14335767924785614
 0,0,0,90,GK,Newcastle United,Manchester United,1,0,2023-12-02,22032,2023,626944,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Manchester United,0,3,2023-11-26,22017,2023,625806,0,0,0,0,0,0.09258335828781128,0.09258335828781128

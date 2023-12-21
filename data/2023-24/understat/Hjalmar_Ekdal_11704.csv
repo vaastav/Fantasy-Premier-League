@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Brighton,Burnley,1,1,2023-12-09,22046,2023,628718,0,0,0,0,0,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Burnley,1,0,2023-12-05,22042,2023,627889,0.029761802405118942,0,1,0,0,0.029761802405118942,0
 0,0,0,2,Sub,Burnley,Sheffield United,5,0,2023-12-02,22028,2023,626481,0,0,0,0,0,0.0907105877995491,0.0907105877995491
