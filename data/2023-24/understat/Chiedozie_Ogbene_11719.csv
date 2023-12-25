@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Luton,Newcastle United,1,0,2023-12-23,22069,2023,632646,0.03624984622001648,0,1,0,0,0.03624984622001648,0
 0,0,0,23,Sub,Luton,Arsenal,3,4,2023-12-05,22039,2023,627912,0,0,0,0,0,0,0
 0,0,0,62,AMC,Brentford,Luton,3,1,2023-12-02,22027,2023,626521,0,0,0,0,0,0,0
 0,1,0.0526357926428318,90,AMC,Luton,Crystal Palace,2,1,2023-11-25,22019,2023,624873,0.599822998046875,1,1,0,0.0526357926428318,0.6524587869644165,0

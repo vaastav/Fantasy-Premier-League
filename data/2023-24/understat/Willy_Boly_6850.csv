@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,DC,Nottingham Forest,Bournemouth,2,3,2023-12-23,22070,2023,632667,0,0,0,0,0,0,0
 0,1,0.2858395278453827,72,DC,Nottingham Forest,Tottenham,0,2,2023-12-15,22063,2023,630056,0.12627050280570984,0,2,0,0.2858395278453827,0.41211003065109253,0
 0,0,0,90,DC,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09,22054,2023,628797,0,0,0,0,0,0.08575188368558884,0.08575188368558884
 0,0,0,51,DC,Nottingham Forest,Everton,0,1,2023-12-02,22033,2023,626813,0,0,0,0,0,0,0

@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24,22073,2023,632895,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Sheffield United,2,0,2023-12-16,22059,2023,630268,0,0,0,0,0,0,0
 0,0,0,2,Sub,Everton,Chelsea,2,0,2023-12-10,22048,2023,629290,0,0,0,0,0,0,0

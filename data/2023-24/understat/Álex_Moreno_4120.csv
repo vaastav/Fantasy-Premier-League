@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.22492600977420807,14,Sub,Aston Villa,Sheffield United,1,1,2023-12-22,22065,2023,632470,0,0,0,0,0.22492600977420807,0.2996295690536499,0.07470355927944183
 1,4,0.6895661950111389,90,DML,Brentford,Aston Villa,1,2,2023-12-17,22057,2023,630841,0,0,0,1,0.6895661950111389,1.023693323135376,0.37617334723472595
 0,0,0,10,Sub,Aston Villa,Arsenal,1,0,2023-12-09,22045,2023,628943,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,Manchester City,1,0,2023-12-06,22035,2023,628066,0,0,0,0,0,0,0
