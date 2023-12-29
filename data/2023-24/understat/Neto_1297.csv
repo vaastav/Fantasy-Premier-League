@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Fulham,3,0,2023-12-26,22075,2023,632973,0,0,0,0,0,0.17822985351085663,0.17822985351085663
 0,0,0,90,GK,Nottingham Forest,Bournemouth,2,3,2023-12-23,22070,2023,632680,0,0,0,0,0,0.10409259051084518,0.10409259051084518
 0,0,0,90,GK,Manchester United,Bournemouth,0,3,2023-12-09,22051,2023,628737,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Bournemouth,0,2,2023-12-06,22043,2023,628038,0,0,0,0,0,0,0

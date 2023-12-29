@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Crystal Palace,2,1,2023-12-27,22080,2023,633081,0,0,0,0,0,0.07232218235731125,0.07232218235731125
 0,0,0,90,GK,Crystal Palace,Brighton,1,1,2023-12-21,22066,2023,632242,0,0,0,0,0,0.1120302602648735,0.1120302602648735
 0,0,0,90,GK,Manchester City,Crystal Palace,2,2,2023-12-16,22061,2023,630309,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Leicester,2,0,2023-01-14,18399,2022,568775,0,0,0,0,0,0.1907140016555786,0.1907140016555786

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Sheffield United,Luton,2,3,2023-12-26,22084,2023,632957,0,0,0,0,0,0,0
 0,2,0.031197236850857735,90,MC,Aston Villa,Sheffield United,1,1,2023-12-22,22065,2023,632478,0.06448683142662048,0,2,0,0.031197236850857735,0.633675217628479,0.5512654185295105
 0,0,0,21,Sub,Chelsea,Sheffield United,2,0,2023-12-16,22059,2023,630296,0,0,0,0,0,0,0
 0,0,0,1,Sub,Sheffield United,Liverpool,0,2,2023-12-06,22040,2023,627976,0,0,0,0,0,0,0

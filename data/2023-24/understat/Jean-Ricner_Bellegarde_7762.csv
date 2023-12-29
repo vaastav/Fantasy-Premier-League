@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.41163429617881775,39,Sub,Brentford,Wolverhampton Wanderers,1,4,2023-12-27,22077,2023,633147,0,0,0,1,0.41163429617881775,0.41163429617881775,0
 0,3,0.11486292630434036,90,DML,West Ham,Wolverhampton Wanderers,3,0,2023-12-17,22064,2023,630904,0.08668837696313858,0,1,0,0.11486292630434036,0.21759659051895142,0.03672107681632042
 0,0,0,15,Sub,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09,22054,2023,628792,0,0,0,0,0,0.08712485432624817,0.08712485432624817
 0,0,0,7,Sub,Wolverhampton Wanderers,Burnley,1,0,2023-12-05,22042,2023,627883,0,0,0,0,0,0,0

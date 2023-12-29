@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brentford,Wolverhampton Wanderers,1,4,2023-12-27,22077,2023,633136,0,0,0,0,0,0.010822595097124577,0.010822595097124577
 0,0,0,90,GK,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24,22073,2023,632880,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09,22054,2023,628780,0,0,0,0,0,0.10862785577774048,0.10862785577774048
 0,0,0,22,GK,Arsenal,Wolverhampton Wanderers,2,1,2023-12-02,22026,2023,626639,0,0,0,0,0,0,0
