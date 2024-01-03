@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Burnley,3,2,2023-12-30,22085,2023,633517,0,0,0,0,0,0.6947447061538696,0.6947447061538696
 0,0,0,90,GK,Manchester United,Aston Villa,3,2,2023-12-26,22082,2023,633049,0,0,0,0,0,0.19053621590137482,0.19053621590137482
 0,0,0,90,GK,Aston Villa,Sheffield United,1,1,2023-12-22,22065,2023,632457,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Aston Villa,1,2,2023-12-17,22057,2023,630836,0,0,0,0,0,0.14469562470912933,0.14469562470912933

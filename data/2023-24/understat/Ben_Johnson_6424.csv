@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,West Ham,Brighton,0,0,2024-01-02,22093,2023,633853,0,0,0,0,0,0.05232493579387665,0.05232493579387665
 0,0,0,1,Sub,West Ham,Manchester United,2,0,2023-12-23,22072,2023,632529,0,0,0,0,0,0,0
 0,0,0,1,Sub,West Ham,Leeds,3,1,2023-05-21,18570,2022,598680,0,0,0,0,0,0,0
 0,1,0.05916547402739525,90,DR,Brentford,West Ham,2,0,2023-05-14,18554,2022,596909,0,0,0,0,0.05916547402739525,0.089527428150177,0.030361955985426903

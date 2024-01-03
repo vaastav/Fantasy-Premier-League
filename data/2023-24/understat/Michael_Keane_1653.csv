@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.05136021971702576,68,DC,Wolverhampton Wanderers,Everton,3,0,2023-12-30,22094,2023,633475,0,0,0,0,0.05136021971702576,0,0
 0,0,0,22,Sub,Everton,Manchester City,1,3,2023-12-27,22081,2023,633106,0,0,0,0,0,0,0
 1,3,0.8204639554023743,90,DC,Burnley,Everton,0,2,2023-12-16,22058,2023,630498,0,0,0,1,0.8204639554023743,0,0
 0,0,0,42,Sub,Liverpool,Everton,2,0,2023-10-21,21979,2023,617778,0,0,0,0,0,0,0
