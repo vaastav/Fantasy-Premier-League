@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Wolverhampton Wanderers,3,0,2023-12-17,22064,2023,630884,0,0,0,0,0,0,0
+0,0,0,90,GK,Fulham,West Ham,5,0,2023-12-10,22049,2023,629309,0,0,0,0,0,0.1258249282836914,0.1258249282836914
+0,0,0,90,GK,Tottenham,West Ham,1,2,2023-12-07,22041,2023,628213,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,West Ham,2,1,2023-05-28,18579,2022,601195,0,0,0,0,0,0.15203803777694702,0.15203803777694702
 0,0,0,90,GK,West Ham,Leeds,3,1,2023-05-21,18570,2022,598666,0,0,0,0,0,0.06038571149110794,0.06038571149110794
 0,0,0,90,GK,Brentford,West Ham,2,0,2023-05-14,18554,2022,596908,0,0,0,0,0,0,0

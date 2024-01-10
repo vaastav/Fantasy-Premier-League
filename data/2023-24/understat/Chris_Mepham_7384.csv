@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Bournemouth,Aston Villa,2,2,2023-12-03,22025,2023,627158,0,0,0,0,0,0,0
+0,0,0,50,DC,Manchester City,Bournemouth,6,1,2023-11-04,22000,2023,621509,0,0,0,0,0,0,0
+0,1,0.0895473062992096,90,DC,Bournemouth,Burnley,2,1,2023-10-28,21985,2023,619868,0,0,0,0,0.0895473062992096,0.47903943061828613,0.47903943061828613
 0,0,0,1,Sub,Brentford,Bournemouth,2,2,2023-09-02,21928,2023,608673,0,0,0,0,0,0,0
 0,0,0,29,Sub,Bournemouth,West Ham,1,1,2023-08-12,22277,2023,603741,0.015813298523426056,0,1,0,0,0.04771220684051514,0.03189890831708908
 0,0,0,90,DR,Crystal Palace,Bournemouth,2,0,2023-05-13,18556,2022,596407,0,0,0,0,0,0,0
