@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Burnley,Luton,1,1,2024-01-12,22096,2023,634542,0,0,0,0,0,0.1883719116449356,0.1883719116449356
 0,0,0,90,GK,Luton,Chelsea,2,3,2023-12-30,22089,2023,633364,0,0,0,0,0,0,0
 0,0,0,90,GK,Sheffield United,Luton,2,3,2023-12-26,22084,2023,632958,0,0,0,0,0,0.12468963116407394,0.12468963116407394
 0,0,0,90,GK,Luton,Newcastle United,1,0,2023-12-23,22069,2023,632634,0,0,0,0,0,0.3806769847869873,0.3806769847869873

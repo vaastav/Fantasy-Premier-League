@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.08971812576055527,90,FW,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20,23226,2023,635848,0.6858262419700623,1,2,0,0.08971812576055527,1.1632612943649292,0.4614153802394867
+0,0,0,64,FW,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13,23210,2023,634819,0.04379572719335556,0,1,0,0,0.04379572719335556,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09,22054,2023,628791,0,0,0,0,0,0,0
 0,0,0,1,Sub,Arsenal,Wolverhampton Wanderers,2,1,2023-12-02,22026,2023,626650,0,0,0,0,0,0,0
 0,0,0,25,Sub,Fulham,Wolverhampton Wanderers,3,2,2023-11-27,22018,2023,626127,0.027155794203281403,0,1,0,0,0,0

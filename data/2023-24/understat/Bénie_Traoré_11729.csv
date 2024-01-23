@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.08870632946491241,75,FW,Nantes,Clermont Foot,1,2,2024-01-14,23529,2023,635251,0.6788339614868164,1,2,0,0.08870632946491241,0.8237059712409973,0.056165680289268494
 0,0,0,9,Sub,Sheffield United,Liverpool,0,2,2023-12-06,22040,2023,627975,0,0,0,0,0,0,0
 0,0,0,39,Sub,Burnley,Sheffield United,5,0,2023-12-02,22028,2023,626497,0.06171082705259323,0,1,0,0,0,0
 0,0,0,1,Sub,Sheffield United,Manchester United,1,2,2023-10-21,21983,2023,618475,0,0,0,0,0,0,0

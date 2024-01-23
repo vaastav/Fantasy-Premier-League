@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Brighton,Wolverhampton Wanderers,0,0,2024-01-22,22095,2023,636502,0,0,0,0,0,0,0
 0,2,0.1808905154466629,15,Sub,West Ham,Brighton,0,0,2024-01-02,22093,2023,633877,0.14642438292503357,0,1,0,0.1808905154466629,0.4637749195098877,0.25558263063430786
 0,0,0,1,Sub,Brighton,Tottenham,4,2,2023-12-28,22078,2023,633166,0,0,0,0,0,0,0
 0,0,0,13,Sub,Crystal Palace,Brighton,1,1,2023-12-21,22066,2023,632268,0,0,0,0,0,0.031630903482437134,0.031630903482437134

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sheffield United,West Ham,2,2,2024-01-21,22101,2023,636199,0,0,0,0,0,0.10632330924272537,0.10632330924272537
 0,0,0,90,GK,West Ham,Brighton,0,0,2024-01-02,22093,2023,633852,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,West Ham,0,2,2023-12-28,22076,2023,633195,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Manchester United,2,0,2023-12-23,22072,2023,632517,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brighton,Wolverhampton Wanderers,0,0,2024-01-22,22095,2023,636507,0,0,0,0,0,0.16217151284217834,0.16217151284217834
 1,1,0.7218176126480103,90,DC,Wolverhampton Wanderers,Everton,3,0,2023-12-30,22094,2023,633460,0,0,0,1,0.7218176126480103,1.074937343597412,1.074937343597412
 0,0,0,90,DC,Brentford,Wolverhampton Wanderers,1,4,2023-12-27,22077,2023,633139,0.03817276656627655,0,1,0,0,0.05068773403763771,0.05068773403763771
 0,0,0,90,DC,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24,22073,2023,632882,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Sheffield United,West Ham,2,2,2024-01-21,22101,2023,636194,0,0,0,0,0,0,0
 0,0,0,22,Sub,Manchester City,Sheffield United,2,0,2023-12-30,22090,2023,633513,0,0,0,0,0,0,0
 0,0,0,3,Sub,Sheffield United,Luton,2,3,2023-12-26,22084,2023,632955,0,0,0,0,0,0.2501959204673767,0.2501959204673767
 0,0,0,46,FW,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04,22003,2023,621471,0,0,0,0,0,0,0

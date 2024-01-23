@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Burnley,Luton,1,1,2024-01-12,22096,2023,634533,0.08448424190282822,0,2,0,0,0.10473614186048508,0.08932805061340332
 0,0,0,4,Sub,Burnley,West Ham,1,2,2023-11-25,22016,2023,624849,0,0,0,0,0,0,0
 0,0,0,63,MC,Bournemouth,Burnley,2,1,2023-10-28,21985,2023,619886,0,0,0,0,0,0,0
 0,0,0,90,DMC,Brentford,Burnley,3,0,2023-10-21,21977,2023,618112,0.01942232809960842,0,1,0,0,0.13529567420482635,0.11587335169315338

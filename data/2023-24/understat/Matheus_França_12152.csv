@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Arsenal,Crystal Palace,5,0,2024-01-20,22103,2023,635695,0,0,0,0,0,0,0
 0,0,0,1,Sub,Crystal Palace,Brentford,3,1,2023-12-30,22086,2023,633557,0,0,0,0,0,0,0
 0,1,0.021309370175004005,1,Sub,Chelsea,Crystal Palace,2,1,2023-12-27,22080,2023,633092,0,0,0,0,0.021309370175004005,0.021309370175004005,0
 0,0,0,4,Sub,Manchester City,Crystal Palace,2,2,2023-12-16,22061,2023,630320,0,0,0,0,0,0.05349571630358696,0.05349571630358696
