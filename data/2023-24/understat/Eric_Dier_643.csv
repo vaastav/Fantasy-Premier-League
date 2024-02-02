@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Augsburg,Bayern Munich,2,3,2024-01-27,23234,2023,636849,0,0,0,0,0,0.28864753246307373,0.28864753246307373
+0,0,0,39,Sub,Bayern Munich,Union Berlin,1,0,2024-01-24,23173,2023,636532,0,0,0,0,0,0.12722526490688324,0.12722526490688324
 0,0,0,1,Sub,Tottenham,Bournemouth,3,1,2023-12-31,22092,2023,633742,0,0,0,0,0,0,0
 0,0,0,39,Sub,Tottenham,Everton,2,1,2023-12-23,22071,2023,632619,0,0,0,0,0,0.10892581194639206,0.10892581194639206
 0,0,0,90,DC,Wolverhampton Wanderers,Tottenham,2,1,2023-11-11,22014,2023,623004,0,0,0,0,0,0.17610187828540802,0.17610187828540802

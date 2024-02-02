@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.31310325860977173,39,Sub,Luton,Brighton,4,0,2024-01-30,22107,2023,637832,0,0,0,0,0.31310325860977173,0.31310325860977173,0
 0,0,0,23,Sub,Brighton,Wolverhampton Wanderers,0,0,2024-01-22,22095,2023,636500,0,0,0,0,0,0.019484734162688255,0.019484734162688255
 0,0,0,34,DL,Nottingham Forest,Brighton,2,3,2023-11-25,22022,2023,624946,0,0,0,0,0,0,0
 0,0,0,39,Sub,Aston Villa,Brighton,6,1,2023-09-30,21955,2023,614315,0,0,0,0,0,0.07016550004482269,0.07016550004482269

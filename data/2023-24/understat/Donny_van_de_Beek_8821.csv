@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,AMC,Eintracht Frankfurt,Mainz 05,1,0,2024-01-26,23230,2023,636558,0,0,0,0,0,0,0
 0,0,0,66,AMC,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20,23226,2023,635847,0,0,0,0,0,0.521112859249115,0.521112859249115
 0,0,0,65,FWL,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13,23210,2023,634820,0.06848884373903275,0,1,0,0,0,0
 0,1,0.03228488191962242,1,Sub,Manchester United,Crystal Palace,0,1,2023-09-30,21957,2023,614642,0.06568886339664459,0,1,0,0.03228488191962242,0.09797374159097672,0

@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,40,Sub,Crystal Palace,Sheffield United,3,2,2024-01-30,22112,2023,637866,0.026197632774710655,0,1,0,0,0.026197632774710655,0
 0,0,0,8,Sub,Sheffield United,West Ham,2,2,2024-01-21,22101,2023,636197,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester City,Sheffield United,2,0,2023-12-30,22090,2023,633516,0,0,0,0,0,0,0

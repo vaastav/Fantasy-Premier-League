@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Lazio,Napoli,0,0,2024-01-28,22520,2023,637556,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,Burnley,3,2,2023-12-30,22085,2023,633528,0,0,0,0,0,0,0
 1,1,0.7647814750671387,90,DMC,Manchester United,Aston Villa,3,2,2023-12-26,22082,2023,633054,0,0,0,1,0.7647814750671387,0.5911310315132141,0.5911310315132141
 0,0,0,1,Sub,Brentford,Aston Villa,1,2,2023-12-17,22057,2023,630847,0,0,0,0,0,0,0
