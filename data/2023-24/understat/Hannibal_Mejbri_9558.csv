@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Rayo Vallecano,Sevilla,1,2,2024-02-05,22908,2023,639683,0,0,0,0,0,0,0
 0,0,0,23,Sub,Girona,Sevilla,5,1,2024-01-21,22886,2023,636457,0.03844846040010452,0,1,0,0,0.03844846040010452,0
 0,0,0,1,Sub,Manchester United,Aston Villa,3,2,2023-12-26,22082,2023,633046,0,0,0,0,0,0,0
 0,0,0,6,Sub,Liverpool,Manchester United,0,0,2023-12-17,22060,2023,631125,0,0,0,0,0,0,0

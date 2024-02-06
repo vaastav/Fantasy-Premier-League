@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Brighton,Crystal Palace,4,1,2024-02-03,22118,2023,638551,0,0,0,0,0,0,0
 0,0,0,24,Sub,Luton,Brighton,4,0,2024-01-30,22107,2023,637831,0,0,0,0,0,0,0
 0,0,0,26,Sub,Brighton,Tottenham,4,2,2023-12-28,22078,2023,633162,0,0,0,0,0,0,0
 0,1,0.05373252183198929,48,DMC,Crystal Palace,Brighton,1,1,2023-12-21,22066,2023,632260,0.02400040253996849,0,1,0,0.05373252183198929,0.10120678693056107,0.023473860695958138

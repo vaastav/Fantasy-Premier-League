@@ -252,7 +252,6 @@ César,Azpilicueta,189
 Abdul Rahman,Baba,190
 Benoît,Badiashile,191
 Marcus,Bettinelli,192
-Armando,Broja,193
 Trevoh,Chalobah,194
 Ben,Chilwell,195
 Carney,Chukwuemeka,196
@@ -340,7 +339,6 @@ Jean-Philippe,Gbamin,251
 Ben,Godfrey,252
 Demarai,Gray,253
 Idrissa,Gueye,254
-Mason,Holgate,255
 Michael,Keane,257
 Dwight,McNeil,259
 Vitalii,Mykolenko,260
@@ -362,6 +360,7 @@ Norberto Bercique,Gomes Betuncal,691
 Mackenzie,Hunt,719
 Jenson,Metcalfe,760
 Elijah,Campbell,761
+Armando,Broja,193
 Alex,Iwobi,256
 Andreas,Hoelgebaum Pereira,267
 Tom,Cairney,268
@@ -398,6 +397,7 @@ Steven,Benda,692
 Fodé,Ballo-Touré,707
 Devan,Tanton,732
 Kristian,Sekularac,796
+Joshua,King,810
 Adrián,San Miguel del Castillo,289
 Trent,Alexander-Arnold,290
 Alisson,Ramses Becker,291
@@ -654,6 +654,7 @@ Matz,Sels,808
 Rodrigo,Duarte Ribeiro,809
 Auston,Trusty,27
 Cameron,Archer,33
+Mason,Holgate,255
 James,McAtee,360
 Anel,Ahmedhodžić,471
 Jordan,Amissah,472

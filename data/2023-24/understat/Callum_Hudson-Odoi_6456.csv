@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,1,0.026953980326652527,90,AML,Bournemouth,Nottingham Forest,1,1,2024-02-04,22115,2023,639032,0.015455988235771656,0,1,1,0.026953980326652527,0,0
 0,0,0,23,Sub,Nottingham Forest,Arsenal,1,2,2024-01-30,22108,2023,637760,0,0,0,0,0,0,0
 0,1,0.13373658061027527,90,AML,Brentford,Nottingham Forest,3,2,2024-01-20,22104,2023,635964,0.2891697585582733,1,2,0,0.13373658061027527,0.6371927857398987,0.23620879650115967
 0,0,0,10,Sub,Nottingham Forest,Manchester United,2,1,2023-12-30,22091,2023,633651,0,0,0,0,0,0,0

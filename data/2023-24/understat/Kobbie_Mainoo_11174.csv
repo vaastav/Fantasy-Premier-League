@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,65,DMC,Manchester United,West Ham,3,0,2024-02-04,22122,2023,639075,0,0,0,0,0,0.09291083365678787,0.09291083365678787
 1,2,0.05320163816213608,90,DMC,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01,22111,2023,638131,0,0,0,1,0.05320163816213608,0.23728637397289276,0.21825675666332245
 0,0,0,90,DMC,Manchester United,Tottenham,2,2,2024-01-14,22099,2023,635461,0,0,0,0,0,0.4528437852859497,0.4528437852859497
 0,0,0,47,DMC,Nottingham Forest,Manchester United,2,1,2023-12-30,22091,2023,633660,0,0,0,0,0,0,0

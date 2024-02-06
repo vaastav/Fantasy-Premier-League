@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sheffield United,Aston Villa,0,5,2024-02-03,22124,2023,638727,0,0,0,0,0,0,0
 0,0,0,34,Sub,Crystal Palace,Sheffield United,3,2,2024-01-30,22112,2023,637865,0,0,0,0,0,0,0
 0,0,0,90,GK,Sheffield United,West Ham,2,2,2024-01-21,22101,2023,636183,0,0,0,0,0,0.0686870738863945,0.0686870738863945
 0,0,0,90,GK,Manchester City,Sheffield United,2,0,2023-12-30,22090,2023,633502,0,0,0,0,0,0.08508308231830597,0.08508308231830597

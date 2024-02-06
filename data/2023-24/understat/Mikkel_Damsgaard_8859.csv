@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Brentford,Manchester City,1,3,2024-02-05,22117,2023,639634,0.01914108358323574,0,1,0,0,0,0
 0,0,0,1,Sub,Tottenham,Brentford,3,2,2024-01-31,22109,2023,637982,0,0,0,0,0,0,0
 0,0,0,79,MC,Brentford,Nottingham Forest,3,2,2024-01-20,22104,2023,635946,0,0,0,0,0,0.5726220607757568,0.5726220607757568
 0,0,0,17,Sub,Crystal Palace,Brentford,3,1,2023-12-30,22086,2023,633571,0.034296665340662,0,1,0,0,0.6169971823692322,0.5827004909515381
