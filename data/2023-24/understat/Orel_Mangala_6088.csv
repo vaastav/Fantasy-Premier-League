@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,Sub,Montpellier,Lyon,1,2,2024-02-11,23556,2023,640921,0.12903767824172974,0,1,0,0,0.23002950847148895,0.10099182277917862
 0,0,0,74,DMC,Nottingham Forest,Arsenal,1,2,2024-01-30,22108,2023,637751,0,0,0,0,0,0,0
 0,3,0.6283881664276123,90,DMC,Brentford,Nottingham Forest,3,2,2024-01-20,22104,2023,635960,0.020331064239144325,0,1,0,0.6283881664276123,0.6706416010856628,0.021922359243035316
 0,0,0,2,Sub,Nottingham Forest,Manchester United,2,1,2023-12-30,22091,2023,633649,0,0,0,0,0,0,0

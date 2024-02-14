@@ -1,2 +1,3 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Crystal Palace,Chelsea,1,3,2024-02-12,22126,2023,641271,0.04752231389284134,0,1,0,0,0.24138100445270538,0.19385868310928345
 0,0,0,63,Sub,Brighton,Crystal Palace,4,1,2024-02-03,22118,2023,638571,0,0,0,0,0,0.024012897163629532,0.024012897163629532

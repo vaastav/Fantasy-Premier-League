@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Luton,Sheffield United,1,3,2024-02-10,22129,2023,640160,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Luton,4,4,2024-02-03,22123,2023,638630,0,0,0,0,0,0,0
 0,1,0.04195420816540718,2,Sub,Luton,Brighton,4,0,2024-01-30,22107,2023,637817,0,0,0,0,0.04195420816540718,0.04195420816540718,0
 0,0,0,1,Sub,Luton,Chelsea,2,3,2023-12-30,22089,2023,633377,0,0,0,0,0,0,0

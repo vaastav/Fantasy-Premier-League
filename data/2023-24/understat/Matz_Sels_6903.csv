@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Nottingham Forest,Newcastle United,2,3,2024-02-10,22131,2023,640396,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Nottingham Forest,1,1,2024-02-04,22115,2023,639023,0,0,0,0,0,0.05454311892390251,0.05454311892390251
 0,0,0,90,GK,Clermont Foot,Strasbourg,1,1,2024-01-28,23539,2023,637363,0,0,0,0,0,0,0
 0,0,0,90,GK,Marseille,Strasbourg,1,1,2024-01-12,23525,2023,634482,0,0,0,0,0,0.058259282261133194,0.058259282261133194
