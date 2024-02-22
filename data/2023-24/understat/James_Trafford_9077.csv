@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Burnley,Arsenal,0,5,2024-02-17,22136,2023,641730,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Burnley,3,1,2024-02-10,22128,2023,640102,0,0,0,0,0,0.01537682767957449,0.01537682767957449
 0,0,0,90,GK,Burnley,Fulham,2,2,2024-02-03,22119,2023,638572,0,0,0,0,0,0.08681324869394302,0.08681324869394302
 0,0,0,90,GK,Manchester City,Burnley,3,1,2024-01-31,22114,2023,637940,0,0,0,0,0,0.11211889982223511,0.11211889982223511

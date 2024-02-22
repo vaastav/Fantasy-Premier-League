@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Nottingham Forest,West Ham,2,0,2024-02-17,22142,2023,641818,0,0,0,0,0,0,0
 0,0,0,20,Sub,West Ham,Bournemouth,1,1,2024-02-01,22110,2023,638062,0.04794939234852791,0,1,0,0,0.04794939234852791,0
 0,6,0.8197591304779053,90,AMC,Sheffield United,West Ham,2,2,2024-01-21,22101,2023,636208,0.33092308044433594,0,4,0,0.8197591304779053,1.064308524131775,0.10632330924272537
 0,0,0,1,Sub,West Ham,Wolverhampton Wanderers,3,0,2023-12-17,22064,2023,630898,0,0,0,0,0,0,0

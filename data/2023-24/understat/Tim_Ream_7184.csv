@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,83,DC,Fulham,Aston Villa,1,2,2024-02-17,22138,2023,641765,0,0,0,0,0,0.42379212379455566,0.42379212379455566
 0,0,0,90,DC,Fulham,Bournemouth,3,1,2024-02-10,22127,2023,640119,0,0,0,0,0,0,0
 0,0,0,90,DC,Burnley,Fulham,2,2,2024-02-03,22119,2023,638590,0,0,0,0,0,0.43455299735069275,0.43455299735069275
 0,0,0,14,Sub,Fulham,Everton,0,0,2024-01-30,22106,2023,637789,0,0,0,0,0,0.07099141925573349,0.07099141925573349

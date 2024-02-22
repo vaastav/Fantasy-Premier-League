@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMR,Everton,Crystal Palace,1,1,2024-02-19,22137,2023,642765,0.16158215701580048,0,2,0,0,0.16158215701580048,0
 0,0,0,90,DR,Crystal Palace,Chelsea,1,3,2024-02-12,22126,2023,641266,0.08821722865104675,0,2,0,0,0.08821722865104675,0
 0,0,0,90,DR,Brighton,Crystal Palace,4,1,2024-02-03,22118,2023,638557,0.03328695893287659,0,1,0,0,0.09662763774394989,0.0633406788110733
