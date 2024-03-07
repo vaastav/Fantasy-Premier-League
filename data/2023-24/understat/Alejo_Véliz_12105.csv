@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Sevilla,Real Sociedad,3,2,2024-03-02,22952,2023,644579,0,0,0,0,0,0,0
+0,0,0,11,Sub,Real Madrid,Sevilla,1,0,2024-02-25,22939,2023,644163,0,0,0,0,0,0,0
 0,1,0.04578540474176407,4,Sub,Valencia,Sevilla,0,0,2024-02-17,22933,2023,642155,0,0,0,0,0.04578540474176407,0.04578540474176407,0.04578540474176407
 0,0,0,1,Sub,Tottenham,Bournemouth,3,1,2023-12-31,22092,2023,633738,0,0,0,0,0,0,0
 1,2,0.20565900206565857,15,Sub,Brighton,Tottenham,4,2,2023-12-28,22078,2023,633178,0,0,0,1,0.20565900206565857,0.20565900206565857,0

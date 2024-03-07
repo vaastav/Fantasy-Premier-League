@@ -1,0 +1,7 @@
+assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+0,0,0,0,0.0,802,0.00,0.00,0.00,0.00,217,0,0,0.0,0.0,2024-02-01T19:30:00Z,0,19,0,0,0,0,22,0,0,0,1,1,0.0,0,0,0,0,40,False,0
+0,0,0,0,0.0,802,0.00,0.00,0.00,0.00,222,0,0,0.0,0.0,2024-02-04T14:00:00Z,0,16,0,0,0,0,23,0,28,0,1,1,0.0,0,14,17,3,40,True,0
+0,0,0,0,0.0,802,0.00,0.00,0.00,0.00,233,0,0,0.0,0.0,2024-02-10T15:00:00Z,0,10,0,0,0,0,24,0,246,0,1,3,0.0,0,133,145,12,40,False,0
+0,0,0,0,0.0,802,0.00,0.00,0.00,0.00,247,0,0,0.0,0.0,2024-02-17T15:00:00Z,0,15,0,0,0,0,25,0,563,0,2,2,0.0,0,160,227,67,40,False,0
+0,0,0,0,0.0,802,0.00,0.00,0.00,0.00,253,0,0,0.0,0.0,2024-02-24T17:30:00Z,0,13,0,0,0,0,26,0,642,0,1,0,0.0,0,2,143,141,40,True,0
+0,0,0,0,0.0,802,0.00,0.00,0.00,0.00,262,0,0,0.0,0.0,2024-03-03T13:00:00Z,0,6,0,0,0,0,27,0,734,0,2,0,0.0,0,52,138,86,40,False,0

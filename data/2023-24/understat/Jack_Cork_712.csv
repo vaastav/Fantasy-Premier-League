@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Burnley,3,0,2024-02-24,22150,2023,643263,0,0,0,0,0,0,0
 0,0,0,1,Sub,Burnley,Luton,1,1,2024-01-12,22096,2023,634540,0,0,0,0,0,0,0
 0,0,0,11,Sub,Burnley,Tottenham,2,5,2023-09-02,21929,2023,608689,0,0,0,0,0,0.16922533512115479,0.16922533512115479
 0,2,0.11037600040435791,90,MC,Burnley,Newcastle United,1,2,2022-05-22,16749,2021,537749,0,0,0,0,0.11037600040435791,0.7815979719161987,0.671222984790802
