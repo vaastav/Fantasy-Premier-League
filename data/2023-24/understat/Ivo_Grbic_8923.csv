@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Sheffield United,2,2,2024-03-09,22165,2023,646639,0,0,0,0,0,0.021724281832575798,0.021724281832575798
+0,0,0,90,GK,Sheffield United,Arsenal,0,6,2024-03-04,22163,2023,646038,0,0,0,0,0,0,0
+0,0,0,90,GK,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25,22154,2023,643720,0,0,0,0,0,0.12053478509187698,0.12053478509187698
 0,0,0,56,GK,Crystal Palace,Sheffield United,3,2,2024-01-30,22112,2023,637850,0,0,0,0,0,0,0
 0,0,0,86,GK,Villarreal,Atletico Madrid,2,2,2023-06-04,19333,2022,602311,0,0,0,0,0,0.17373140156269073,0.17373140156269073
 0,0,0,90,GK,Atletico Madrid,Real Sociedad,2,1,2023-05-28,19323,2022,601240,0,0,0,0,0,0,0

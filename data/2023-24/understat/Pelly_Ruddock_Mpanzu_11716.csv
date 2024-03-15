@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,19,Sub,Bournemouth,Luton,4,3,2024-03-13,25861,2023,647920,0,0,0,0,0,0,0
+0,0,0,1,Sub,Luton,Aston Villa,2,3,2024-03-02,22159,2023,645155,0,0,0,0,0,0,0
 0,0,0,42,Sub,Liverpool,Luton,4,1,2024-02-21,22151,2023,642861,0.02400101162493229,0,1,0,0,0.04624650254845619,0.04624650254845619
 0,1,0.07621760666370392,18,Sub,Newcastle United,Luton,4,4,2024-02-03,22123,2023,638627,0,0,0,0,0.07621760666370392,0.07621760666370392,0
 0,0,0,17,Sub,Luton,Brighton,4,0,2024-01-30,22107,2023,637815,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Fulham,2,1,2024-03-09,22174,2023,646699,0,0,0,0,0,0.7578994035720825,0.7578994035720825
 0,0,0,90,GK,Fulham,Brighton,3,0,2024-03-02,22158,2023,644866,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Fulham,1,2,2024-02-24,22152,2023,643281,0,0,0,0,0,0.2747041881084442,0.2747041881084442
 0,0,0,90,GK,Fulham,Aston Villa,1,2,2024-02-17,22138,2023,641762,0,0,0,0,0,0.42379212379455566,0.42379212379455566

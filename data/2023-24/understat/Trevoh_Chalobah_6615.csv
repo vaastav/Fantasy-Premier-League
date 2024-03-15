@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Chelsea,Newcastle United,3,2,2024-03-11,22169,2023,647835,0,0,0,0,0,0,0
+0,0,0,90,DC,Brentford,Chelsea,2,2,2024-03-02,22155,2023,644826,0.024872589856386185,0,1,0,0,0.5037031769752502,0.5037031769752502
 0,0,0,16,Sub,Manchester City,Chelsea,1,1,2024-02-17,22140,2023,642001,0,0,0,0,0,0,0
 0,1,0.09422767907381058,50,DC,Chelsea,Newcastle United,1,1,2023-05-28,18575,2022,600910,0,0,0,0,0.09422767907381058,0,0
 0,0,0,90,DC,Manchester United,Chelsea,4,1,2023-05-25,18520,2022,599728,0,0,0,0,0,0.5281316041946411,0.5281316041946411

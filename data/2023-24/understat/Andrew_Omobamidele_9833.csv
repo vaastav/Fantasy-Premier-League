@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brighton,Nottingham Forest,1,0,2024-03-10,22168,2023,647231,0,0,0,0,0,0.0447566919028759,0.0447566919028759
+0,0,0,90,DC,Nottingham Forest,Liverpool,0,1,2024-03-02,22162,2023,644930,0,0,0,0,0,0,0
+0,0,0,38,Sub,Aston Villa,Nottingham Forest,4,2,2024-02-24,22147,2023,643201,0,0,0,0,0,0.3634808659553528,0.3634808659553528
 0,0,0,1,Sub,Nottingham Forest,West Ham,2,0,2024-02-17,22142,2023,641804,0,0,0,0,0,0,0
 0,0,0,90,DC,Bournemouth,Nottingham Forest,1,1,2024-02-04,22115,2023,639025,0.020589491352438927,0,1,0,0,0.07513260841369629,0.05454311892390251
 0,0,0,90,DC,Nottingham Forest,Arsenal,1,2,2024-01-30,22108,2023,637748,0,0,0,0,0,0,0
