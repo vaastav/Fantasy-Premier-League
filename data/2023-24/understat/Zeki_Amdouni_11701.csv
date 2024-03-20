@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.055080343037843704,15,Sub,Burnley,Brentford,2,1,2024-03-16,22177,2023,648344,0,0,0,0,0.055080343037843704,0.055080343037843704,0
 0,0,0,15,Sub,Burnley,Bournemouth,0,2,2024-03-03,22156,2023,645469,0,0,0,0,0,0,0
 0,0,0,36,FW,Crystal Palace,Burnley,3,0,2024-02-24,22150,2023,643259,0,0,0,0,0,0,0
 0,0,0,49,FW,Burnley,Arsenal,0,5,2024-02-17,22136,2023,641739,0,0,0,0,0,0,0

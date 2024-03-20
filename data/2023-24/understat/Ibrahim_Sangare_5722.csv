@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.05837901681661606,90,DMC,Luton,Nottingham Forest,1,1,2024-03-16,22181,2023,648324,0,0,0,0,0.05837901681661606,0,0
 0,0,0,26,Sub,Brighton,Nottingham Forest,1,0,2024-03-10,22168,2023,647244,0,0,0,0,0,0.05715058371424675,0.05715058371424675
 0,0,0,73,DMC,Newcastle United,Nottingham Forest,1,3,2023-12-26,22083,2023,632931,0.027449987828731537,0,1,0,0,1.272504448890686,1.2450544834136963
 0,0,0,50,DMC,Fulham,Nottingham Forest,5,0,2023-12-06,22038,2023,627952,0,0,0,0,0,0,0
