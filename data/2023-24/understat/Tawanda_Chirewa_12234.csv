@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30,22186,2023,650042,0,0,0,0,0,0,0
 0,1,0.05905846878886223,6,Sub,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02,22161,2023,644987,0.0158984512090683,0,1,0,0.05905846878886223,0.07495692372322083,0
 0,0,0,1,Sub,Brighton,Wolverhampton Wanderers,0,0,2024-01-22,22095,2023,636517,0,0,0,0,0,0,0

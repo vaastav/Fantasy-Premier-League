@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.061118487268686295,42,Sub,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30,22186,2023,650022,0,0,0,0,0.061118487268686295,0.367197722196579,0.306079238653183
 0,0,0,49,FW,West Ham,Aston Villa,1,1,2024-03-17,22183,2023,648762,0,0,0,0,0,0,0
 0,4,0.625206708908081,18,Sub,Everton,Aston Villa,0,0,2024-01-14,22098,2023,635212,0,0,0,0,0.625206708908081,0.625206708908081,0
 0,0,0,1,Sub,Aston Villa,Burnley,3,2,2023-12-30,22085,2023,633529,0,0,0,0,0,0,0

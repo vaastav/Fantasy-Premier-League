@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Luton,2,1,2024-03-30,22194,2023,649869,0,0,0,0,0,0,0
 0,0,0,90,GK,Luton,Nottingham Forest,1,1,2024-03-16,22181,2023,648304,0,0,0,0,0,0.11551632732152939,0.11551632732152939
 0,0,0,90,GK,Bournemouth,Luton,4,3,2024-03-13,25861,2023,647909,0,0,0,0,0,0.6581712365150452,0.6581712365150452
 0,0,0,90,GK,Crystal Palace,Luton,1,1,2024-03-09,22170,2023,646669,0,0,0,0,0,0,0

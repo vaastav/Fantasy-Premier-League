@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,86,MC,Sheffield United,Fulham,3,3,2024-03-30,22193,2023,649829,0,0,0,0,0,0,0
 0,0,0,40,Sub,Bournemouth,Sheffield United,2,2,2024-03-09,22165,2023,646651,0,0,0,0,0,0.05449967086315155,0.05449967086315155
 0,0,0,90,MC,Sheffield United,Arsenal,0,6,2024-03-04,22163,2023,646044,0,0,0,0,0,0,0
 0,0,0,84,MC,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25,22154,2023,643726,0.0652877688407898,0,1,0,0,0.18582256138324738,0.12053478509187698
