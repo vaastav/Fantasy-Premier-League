@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.05364103615283966,82,DML,Liverpool,Sheffield United,3,1,2024-04-04,22203,2023,651259,0,0,0,0,0.05364103615283966,0.03491055220365524,0.03491055220365524
 0,0,0,4,Sub,Sheffield United,Fulham,3,3,2024-03-30,22193,2023,649834,0,0,0,0,0,0,0
 0,1,0.03580803424119949,90,DC,Bournemouth,Sheffield United,2,2,2024-03-09,22165,2023,646640,0,0,0,0,0.03580803424119949,0.03580803424119949,0
 0,0,0,90,DL,Sheffield United,Arsenal,0,6,2024-03-04,22163,2023,646042,0,0,0,0,0,0,0

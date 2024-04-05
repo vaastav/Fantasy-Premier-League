@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,Luton,2,0,2024-04-03,22196,2023,651118,0,0,0,0,0,0.12940937280654907,0.12940937280654907
 0,0,0,90,GK,Manchester City,Arsenal,0,0,2024-03-31,22190,2023,650587,0,0,0,0,0,0,0
 0,0,0,90,GK,Sheffield United,Arsenal,0,6,2024-03-04,22163,2023,646054,0,0,0,0,0,0.5383493304252625,0.5383493304252625
 0,0,0,90,GK,Arsenal,Newcastle United,4,1,2024-02-24,22146,2023,643516,0,0,0,0,0,0.5974411368370056,0.5974411368370056

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Bournemouth,Crystal Palace,1,0,2024-04-02,22195,2023,651049,0,0,0,0,0,0.0380256362259388,0.0380256362259388
 0,0,0,90,DR,Bournemouth,Liverpool,0,4,2024-01-21,22102,2023,636276,0.034950997680425644,0,1,0,0,0.034950997680425644,0
 0,0,0,35,Sub,Tottenham,Bournemouth,3,1,2023-12-31,22092,2023,633755,0,0,0,0,0,0.658549427986145,0.658549427986145
 0,0,0,74,DR,Bournemouth,Newcastle United,2,0,2023-11-11,22005,2023,623469,0,0,0,0,0,0,0

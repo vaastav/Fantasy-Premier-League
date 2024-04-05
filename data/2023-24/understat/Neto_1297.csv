@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Crystal Palace,1,0,2024-04-02,22195,2023,651034,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Everton,2,1,2024-03-30,22185,2023,649737,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Luton,4,3,2024-03-13,25861,2023,647893,0,0,0,0,0,0.5544236898422241,0.5544236898422241
 0,0,0,90,GK,Bournemouth,Sheffield United,2,2,2024-03-09,22165,2023,646623,0,0,0,0,0,0.018101060763001442,0.018101060763001442
