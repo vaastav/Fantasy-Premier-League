@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Nantes,Lyon,1,3,2024-04-07,23620,2023,652677,0,0,0,0,0,0,0
 0,0,0,21,Sub,Nantes,Strasbourg,1,3,2024-03-16,23602,2023,648408,0,0,0,0,0,0,0
 0,1,0.01641765609383583,24,Sub,Marseille,Nantes,2,0,2024-03-10,23589,2023,647736,0.0671895444393158,0,1,0,0.01641765609383583,0,0
 0,0,0,30,Sub,Nantes,Metz,0,2,2024-03-03,23584,2023,645628,0,0,0,0,0,0,0

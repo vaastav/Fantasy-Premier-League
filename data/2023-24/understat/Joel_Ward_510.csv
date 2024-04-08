@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Crystal Palace,Manchester City,2,4,2024-04-06,22207,2023,651430,0,0,0,0,0,0.48204469680786133,0.48204469680786133
 0,0,0,90,DC,Bournemouth,Crystal Palace,1,0,2024-04-02,22195,2023,651053,0,0,0,0,0,0,0
 0,0,0,90,DC,Nottingham Forest,Crystal Palace,1,1,2024-03-30,22192,2023,649812,0,0,0,0,0,0.4345107674598694,0.4345107674598694
 0,1,0.09893310815095901,90,DC,Crystal Palace,Luton,1,1,2024-03-09,22170,2023,646658,0,0,0,0,0.09893310815095901,0.17399555444717407,0.17399555444717407

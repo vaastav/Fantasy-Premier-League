@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,Brentford,3,3,2024-04-06,22205,2023,651696,0,0,0,0,0,0,0
 0,0,0,90,DC,Brentford,Brighton,0,0,2024-04-03,22200,2023,651150,0,0,0,0,0,0.19023849070072174,0.19023849070072174
 0,0,0,90,DC,Brentford,Manchester United,1,1,2024-03-30,22187,2023,650204,0.23779985308647156,0,2,0,0,0.3593006134033203,0.2639801800251007
 0,1,0.017546866089105606,90,DC,Burnley,Brentford,2,1,2024-03-16,22177,2023,648348,0,0,0,0,0.017546866089105606,0,0
