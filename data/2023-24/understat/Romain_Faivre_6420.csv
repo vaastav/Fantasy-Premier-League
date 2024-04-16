@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04041104391217232,11,Sub,Bournemouth,Manchester United,2,2,2024-04-13,22215,2023,653513,0,0,0,0,0.04041104391217232,0,0
 0,0,0,7,Sub,Bournemouth,Manchester City,0,1,2024-02-24,22145,2023,643404,0,0,0,0,0,0.057604219764471054,0.057604219764471054
 0,1,0.0904083326458931,1,Sub,Fulham,Bournemouth,3,1,2024-02-10,22127,2023,640144,0,0,0,0,0.0904083326458931,0.0904083326458931,0.0904083326458931
 0,0,0,1,Sub,West Ham,Bournemouth,1,1,2024-02-01,22110,2023,638076,0,0,0,0,0,0,0

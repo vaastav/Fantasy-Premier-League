@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,32,Sub,Brentford,Sheffield United,2,0,2024-04-13,22217,2023,653227,0,0,0,0,0,0.11475484073162079,0.11475484073162079
 0,0,0,11,Sub,Sheffield United,Chelsea,2,2,2024-04-07,22212,2023,652584,0.033208806067705154,0,1,0,0,0,0
 0,1,0.5733560919761658,67,FW,Liverpool,Sheffield United,3,1,2024-04-04,22203,2023,651264,0.06099996343255043,0,2,0,0.5733560919761658,0.5807150602340698,0.007358929608017206
 0,0,0,1,Sub,Sheffield United,Fulham,3,3,2024-03-30,22193,2023,649835,0,0,0,0,0,0,0

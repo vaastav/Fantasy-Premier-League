@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Everton,6,0,2024-04-15,22219,2023,654314,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Burnley,1,0,2024-04-06,22208,2023,651710,0,0,0,0,0,0.013268636539578438,0.013268636539578438
 0,0,0,90,GK,Newcastle United,Everton,1,1,2024-04-02,22202,2023,651018,0,0,0,0,0,0.14263632893562317,0.14263632893562317
 0,0,0,90,GK,Bournemouth,Everton,2,1,2024-03-30,22185,2023,649752,0,0,0,0,0,0.12063316255807877,0.12063316255807877
