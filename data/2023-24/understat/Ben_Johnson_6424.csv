@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,37,Sub,Crystal Palace,West Ham,5,2,2024-04-21,22227,2023,655531,0,0,0,0,0,0,0
 0,0,0,19,Sub,West Ham,Fulham,0,2,2024-04-14,22224,2023,653852,0,0,0,0,0,0,0
 0,1,0.06648321449756622,42,Sub,Wolverhampton Wanderers,West Ham,1,2,2024-04-06,22214,2023,651829,0,0,0,0,0.06648321449756622,0.06648321449756622,0
 0,0,0,1,Sub,Newcastle United,West Ham,4,3,2024-03-30,22191,2023,649428,0,0,0,0,0,0.22243833541870117,0.22243833541870117

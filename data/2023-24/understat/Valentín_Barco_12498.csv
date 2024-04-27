@@ -1,2 +1,3 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.013543174602091312,90,DL,Brighton,Manchester City,0,4,2024-04-25,22176,2023,656558,0.07670682668685913,0,1,0,0.013543174602091312,0.06023991480469704,0.0466967411339283
 0,0,0,1,Sub,Liverpool,Brighton,2,1,2024-03-31,22189,2023,650351,0,0,0,0,0,0,0

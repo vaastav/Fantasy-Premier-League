@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,DC,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24,22184,2023,656368,0,0,0,0,0,0.031396929174661636,0.031396929174661636
+0,0,0,90,DC,Wolverhampton Wanderers,Arsenal,0,2,2024-04-20,22234,2023,655049,0,0,0,0,0,0.02430770918726921,0.02430770918726921
 0,0,0,90,DC,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13,22223,2023,653335,0,0,0,0,0,0.14529010653495789,0.14529010653495789
 0,0,0,90,DC,Wolverhampton Wanderers,West Ham,1,2,2024-04-06,22214,2023,651802,0.01751681976020336,0,1,0,0,0.7621372938156128,0.7621372938156128
 0,0,0,18,Sub,Burnley,Wolverhampton Wanderers,1,1,2024-04-02,22197,2023,651090,0,0,0,0,0,0,0

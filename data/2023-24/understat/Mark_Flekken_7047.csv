@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Luton,Brentford,1,5,2024-04-20,22230,2023,654815,0,0,0,0,0,0.3919522166252136,0.3919522166252136
 0,0,0,90,GK,Brentford,Sheffield United,2,0,2024-04-13,22217,2023,653199,0,0,0,0,0,0.09704341739416122,0.09704341739416122
 0,0,0,90,GK,Aston Villa,Brentford,3,3,2024-04-06,22205,2023,651694,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Brighton,0,0,2024-04-03,22200,2023,651148,0.024344950914382935,0,1,0,0,0.1370060294866562,0.1370060294866562

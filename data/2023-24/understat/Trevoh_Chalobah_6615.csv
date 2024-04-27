@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,Sub,Arsenal,Chelsea,5,0,2024-04-23,22175,2023,656058,0,0,0,0,0,0,0
 0,0,0,90,DC,Chelsea,Everton,6,0,2024-04-15,22219,2023,654301,0,0,0,0,0,0.22050665318965912,0.22050665318965912
 0,0,0,90,DC,Sheffield United,Chelsea,2,2,2024-04-07,22212,2023,652589,0,0,0,0,0,0.07152841985225677,0.07152841985225677
 0,0,0,10,Sub,Chelsea,Manchester United,4,3,2024-04-04,22201,2023,651283,0,0,0,0,0,0.031192997470498085,0.031192997470498085

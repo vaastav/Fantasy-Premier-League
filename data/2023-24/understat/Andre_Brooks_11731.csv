@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,MC,Manchester United,Sheffield United,4,2,2024-04-24,22182,2023,656298,0,0,0,0,0,0,0
+0,0,0,10,Sub,Sheffield United,Burnley,1,4,2024-04-20,22232,2023,654875,0,0,0,0,0,0,0
 0,0,0,8,Sub,Liverpool,Sheffield United,3,1,2024-04-04,22203,2023,651268,0,0,0,0,0,0,0
 0,0,0,39,Sub,Sheffield United,Arsenal,0,6,2024-03-04,22163,2023,646051,0,0,0,0,0,0.06920578330755234,0.06920578330755234
 0,0,0,19,Sub,Sheffield United,Brighton,0,5,2024-02-18,22143,2023,642330,0,0,0,0,0,0,0
