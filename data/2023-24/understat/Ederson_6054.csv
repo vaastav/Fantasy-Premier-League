@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,50,GK,Nottingham Forest,Manchester City,0,2,2024-04-28,22242,2023,657807,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Manchester City,0,4,2024-04-25,22176,2023,656569,0,0,0,0,0,0.10439630597829819,0.10439630597829819
 0,0,0,90,GK,Manchester City,Luton,5,1,2024-04-13,22221,2023,653290,0,0,0,0,0,0.30939674377441406,0.30939674377441406
 0,0,0,58,GK,Liverpool,Manchester City,1,1,2024-03-10,22171,2023,647471,0,0,0,0,0,0.05235155299305916,0.05235155299305916

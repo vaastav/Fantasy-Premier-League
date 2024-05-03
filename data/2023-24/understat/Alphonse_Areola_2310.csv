@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Liverpool,2,2,2024-04-27,22243,2023,656708,0,0,0,0,0,0,0
 0,0,0,58,GK,Newcastle United,West Ham,4,3,2024-03-30,22191,2023,649415,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Aston Villa,1,1,2024-03-17,22183,2023,648739,0,0,0,0,0,0.13013873994350433,0.13013873994350433
 0,0,0,90,GK,West Ham,Burnley,2,2,2024-03-10,22173,2023,647306,0,0,0,0,0,0.04345023259520531,0.04345023259520531

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27,23335,2023,656859,0,0,0,0,0,0,0
 0,0,0,18,Sub,VfB Stuttgart,Eintracht Frankfurt,3,0,2024-04-13,23324,2023,653560,0,0,0,0,0,0.013138112612068653,0.013138112612068653
 0,0,0,15,Sub,Eintracht Frankfurt,Hoffenheim,3,1,2024-03-10,23284,2023,647561,0.5575138926506042,0,2,0,0,0.03928125277161598,0
 0,0,0,71,MC,Eintracht Frankfurt,Wolfsburg,2,2,2024-02-25,23267,2023,643864,0,0,0,0,0,0.083111472427845,0.083111472427845
