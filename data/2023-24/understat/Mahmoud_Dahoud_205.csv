@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,VfB Stuttgart,Bayern Munich,3,1,2024-05-04,23351,2023,658688,0.023577654734253883,0,1,0,0,0.48669877648353577,0.48669877648353577
 0,0,0,14,Sub,Bayer Leverkusen,VfB Stuttgart,2,2,2024-04-27,23338,2023,657116,0,0,0,0,0,0,0
 0,0,0,23,Sub,Werder Bremen,VfB Stuttgart,2,1,2024-04-21,23333,2023,655467,0.09388663619756699,0,2,0,0,0.6889863014221191,0.6696009635925293
 0,0,0,6,Sub,VfB Stuttgart,Eintracht Frankfurt,3,0,2024-04-13,23324,2023,653542,0,0,0,0,0,0,0

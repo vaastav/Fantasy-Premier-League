@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Sheffield United,Nottingham Forest,1,3,2024-05-04,22254,2023,658920,0,0,0,0,0,0,0
 0,0,0,82,DMC,Everton,Nottingham Forest,2,0,2024-04-21,22228,2023,655278,0,0,0,0,0,0.10460153967142105,0.10460153967142105
 0,1,0.05238693952560425,20,Sub,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13,22223,2023,653329,0,0,0,0,0.05238693952560425,0,0
 0,1,0.029090795665979385,19,Sub,Tottenham,Nottingham Forest,3,1,2024-04-07,22213,2023,652628,0,0,0,0,0.029090795665979385,0.029090795665979385,0
