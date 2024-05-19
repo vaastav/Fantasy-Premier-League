@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,66,DR,Bournemouth,Brentford,1,2,2024-05-11,22255,2023,660703,0,0,0,0,0,0.12122949212789536,0.12122949212789536
 0,0,0,47,DR,Brentford,Fulham,0,0,2024-05-04,22246,2023,658834,0,0,0,0,0,0,0
 0,0,0,86,DR,Everton,Brentford,1,0,2024-04-27,22237,2023,657166,0,0,0,0,0,0,0
 0,3,0.177714541554451,80,DR,Luton,Brentford,1,5,2024-04-20,22230,2023,654816,0,0,0,0,0.177714541554451,0.2869759500026703,0.24984094500541687

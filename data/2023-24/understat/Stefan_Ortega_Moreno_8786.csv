@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,21,Sub,Tottenham,Manchester City,0,2,2024-05-14,22233,2023,661927,0,0,0,0,0,0,0
 0,0,0,40,Sub,Nottingham Forest,Manchester City,0,2,2024-04-28,22242,2023,657819,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Manchester City,2,4,2024-04-06,22207,2023,651443,0,0,0,0,0,0.3197339177131653,0.3197339177131653
 0,0,0,90,GK,Manchester City,Aston Villa,4,1,2024-04-03,22204,2023,651178,0,0,0,0,0,0.8522858023643494,0.8522858023643494

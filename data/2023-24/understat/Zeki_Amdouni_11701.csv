@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Burnley,2,1,2024-05-11,22262,2023,660654,0,0,0,0,0,0,0
 0,1,0.017498113214969635,1,Sub,Burnley,Newcastle United,1,4,2024-05-04,22248,2023,658878,0,0,0,0,0.017498113214969635,0.017498113214969635,0
 1,3,0.8596326112747192,31,Sub,Manchester United,Burnley,1,1,2024-04-27,22239,2023,657003,0,0,0,0,0.09846377372741699,0.09846377372741699,0
 0,0,0,3,Sub,Sheffield United,Burnley,1,4,2024-04-20,22232,2023,654889,0,0,0,0,0,0,0

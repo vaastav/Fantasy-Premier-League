@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Fulham,Manchester City,0,4,2024-05-11,22258,2023,660329,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,Fulham,0,0,2024-05-04,22246,2023,658864,0,0,0,0,0,0,0
 0,1,0.0346793532371521,3,Sub,Fulham,Crystal Palace,1,1,2024-04-27,22238,2023,656961,0,0,0,0,0.0346793532371521,0.0346793532371521,0
 0,1,0.01899019442498684,15,Sub,Fulham,Liverpool,1,3,2024-04-21,22229,2023,655639,0,0,0,0,0.01899019442498684,0.04673675820231438,0.027746563777327538
