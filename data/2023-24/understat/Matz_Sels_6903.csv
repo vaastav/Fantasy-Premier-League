@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Burnley,Nottingham Forest,1,2,2024-05-19,22268,2023,663159,0.06965266913175583,0,1,0,0,0.1010044515132904,0.031351786106824875
 0,0,0,90,GK,Nottingham Forest,Chelsea,2,3,2024-05-11,22261,2023,660869,0,0,0,0,0,0.06451007723808289,0.06451007723808289
 0,0,0,90,GK,Sheffield United,Nottingham Forest,1,3,2024-05-04,22254,2023,658909,0,0,0,0,0,0.07736612111330032,0.07736612111330032
 0,0,0,90,GK,Nottingham Forest,Manchester City,0,2,2024-04-28,22242,2023,657791,0,0,0,0,0,0,0

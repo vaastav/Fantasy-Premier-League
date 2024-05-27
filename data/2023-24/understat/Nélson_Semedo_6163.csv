@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,27,DMR,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19,22271,2023,663068,0,0,0,0,0,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11,22264,2023,660566,0.015137306414544582,0,1,0,0,0.015137306414544582,0
 0,0,0,90,DC,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04,22253,2023,659066,0,0,0,0,0,0,0
 0,1,0.4078189730644226,90,DC,Wolverhampton Wanderers,Luton,2,1,2024-04-27,22244,2023,658283,0,0,0,0,0.4078189730644226,0.7171801924705505,0.30936121940612793

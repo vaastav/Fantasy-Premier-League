@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Aston Villa,5,0,2024-05-19,22270,2023,663095,0,0,0,0,0,0,0
 0,0,0,1,Sub,Crystal Palace,Burnley,3,0,2024-02-24,22150,2023,643248,0,0,0,0,0,0,0
 0,0,0,1,Sub,Arsenal,Crystal Palace,5,0,2024-01-20,22103,2023,635697,0,0,0,0,0,0,0
 0,0,0,1,Sub,Sheffield United,Crystal Palace,0,1,2023-08-12,22280,2023,603842,0,0,0,0,0,0,0

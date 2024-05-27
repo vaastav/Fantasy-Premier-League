@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Brentford,Newcastle United,2,4,2024-05-19,22266,2023,663233,0,0,0,0,0,0,0
 0,0,0,25,Sub,Manchester United,Newcastle United,3,2,2024-05-15,22231,2023,662141,0.018845941871404648,0,1,0,0,0.018845941871404648,0
 0,1,0.07505151629447937,17,Sub,Newcastle United,Brighton,1,1,2024-05-11,22260,2023,660668,0,0,0,0,0.07505151629447937,0.18049274384975433,0.10544122755527496
 0,0,0,7,Sub,Burnley,Newcastle United,1,4,2024-05-04,22248,2023,658892,0,0,0,0,0,0,0
