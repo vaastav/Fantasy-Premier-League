@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Liverpool,Luton,4,1,2024-02-21,22151,2023,642846,0,0,0,0,0,0,0
+0,0,0,1,Sub,Liverpool,Burnley,3,1,2024-02-10,22128,2023,640101,0,0,0,0,0,0,0
+0,0,0,1,Sub,Liverpool,Brentford,3,0,2023-11-12,22011,2023,623851,0,0,0,0,0,0,0

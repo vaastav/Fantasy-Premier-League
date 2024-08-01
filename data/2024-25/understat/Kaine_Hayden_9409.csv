@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Aston Villa,5,0,2024-05-19,22270,2023,663107,0,0,0,0,0,0,0
+0,0,0,1,Sub,Aston Villa,Bournemouth,3,1,2024-04-21,22225,2023,655484,0,0,0,0,0,0,0
+0,0,0,1,Sub,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30,22186,2023,650025,0,0,0,0,0,0,0

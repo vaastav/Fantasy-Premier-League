@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Sheffield United,Tottenham,0,3,2024-05-19,22274,2023,663141,0,0,0,0,0,0,0
+0,0,0,13,Sub,Tottenham,Burnley,2,1,2024-05-11,22262,2023,660640,0,0,0,0,0,0,0
+0,0,0,1,Sub,Tottenham,Nottingham Forest,3,1,2024-04-07,22213,2023,652616,0,0,0,0,0,0,0
+0,0,0,1,Sub,Tottenham,Crystal Palace,3,1,2024-03-02,22164,2023,644912,0,0,0,0,0,0,0
+0,0,0,2,Sub,Leeds,Tottenham,0,4,2022-02-26,16642,2021,515745,0,0,0,0,0,0,0
+0,0,0,1,Sub,Tottenham,West Bromwich Albion,2,0,2021-02-07,14663,2020,448056,0,0,0,0,0,0,0

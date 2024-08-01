@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Brentford,Wolverhampton Wanderers,1,4,2023-12-27,22077,2023,633134,0.011411809362471104,0,1,0,0,0.011411809362471104,0
+0,0,0,1,Sub,Brighton,Brentford,2,1,2023-12-06,22036,2023,628021,0,0,0,0,0,0,0
+0,0,0,1,Sub,Brentford,Luton,3,1,2023-12-02,22027,2023,626511,0,0,0,0,0,0.1486079841852188,0.1486079841852188

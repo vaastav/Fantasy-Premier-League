@@ -1,0 +1,11 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Bournemouth,Crystal Palace,1,0,2024-04-02,22195,2023,651063,0,0,0,0,0,0,0
+0,0,0,1,Sub,Crystal Palace,Burnley,3,0,2024-02-24,22150,2023,643249,0,0,0,0,0,0,0
+0,0,0,1,Sub,Everton,Crystal Palace,1,1,2024-02-19,22137,2023,642773,0,0,0,0,0,0,0
+0,0,0,8,Sub,Crystal Palace,Sheffield United,3,2,2024-01-30,22112,2023,637849,0,0,0,0,0,0,0
+0,0,0,18,Sub,Arsenal,Crystal Palace,5,0,2024-01-20,22103,2023,635698,0,0,0,0,0,0,0
+0,0,0,29,Sub,Crystal Palace,Brighton,1,1,2023-12-21,22066,2023,632254,0,0,0,0,0,0,0
+0,0,0,57,Sub,Manchester City,Crystal Palace,2,2,2023-12-16,22061,2023,630323,0,0,0,0,0,0.742124617099762,0.742124617099762
+0,0,0,1,Sub,Crystal Palace,Liverpool,1,2,2023-12-09,22047,2023,628425,0,0,0,0,0,0,0
+0,0,0,1,Sub,Newcastle United,Crystal Palace,4,0,2023-10-21,21981,2023,618182,0,0,0,0,0,0,0
+0,0,0,1,Sub,Crystal Palace,Newcastle United,0,0,2023-01-21,18404,2022,570334,0,0,0,0,0,0,0

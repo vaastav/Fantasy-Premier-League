@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Nottingham Forest,Sheffield United,2,1,2023-08-18,22285,2023,604801,0,0,0,0,0,0,0
+0,0,0,2,Sub,Sheffield United,Crystal Palace,0,1,2023-08-12,22280,2023,603830,0,0,0,0,0,0,0
+0,1,0.10344500094652176,4,Sub,Crystal Palace,Sheffield United,2,0,2021-01-02,14604,2020,439131,0,0,0,0,0.10344500094652176,0.11183100193738937,0.008386320434510708
