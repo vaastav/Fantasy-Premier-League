@@ -90,6 +90,8 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 # Notable Usages of this Repository
 
++ [Picking the Ultimate Fantasy Premier League Team with ArcticDB by Matthew Simpson](https://medium.com/arcticdb/picking-the-ultimate-fantasy-premier-league-team-with-arcticdb-4ae31ff5d817)
+
 + [Analysing Fantasy Premier League data in R Course by Arif P. Sulistiono](https://github.com/arifpras/BelutListrik)
 
 + [Point Predictor via Random Forests by Francesco Barbara](https://github.com/francescobarbara/FPL-point-predictor-via-random-forests)
