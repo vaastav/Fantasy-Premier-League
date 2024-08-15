@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Manchester United,Arsenal,0,1,2024-05-12,22259,2023,661290,0,0,0,0,0,0,0
+0,0,0,7,Sub,Crystal Palace,Manchester United,4,0,2024-05-06,22250,2023,660065,0,0,0,0,0,0,0
+0,0,0,1,Sub,Manchester United,Sheffield United,4,2,2024-04-24,22182,2023,656290,0,0,0,0,0,0,0

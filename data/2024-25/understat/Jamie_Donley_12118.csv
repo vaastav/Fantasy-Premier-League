@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Brentford,3,2,2024-01-31,22109,2023,637969,0,0,0,0,0,0,0
+0,0,0,1,Sub,Tottenham,Newcastle United,4,1,2023-12-10,22053,2023,629554,0,0,0,0,0,0,0
+0,0,0,1,Sub,Manchester City,Tottenham,3,3,2023-12-03,22031,2023,627567,0,0,0,0,0,0,0

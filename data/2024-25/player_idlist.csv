@@ -17,7 +17,6 @@ David,Raya Martin,15
 Declan,Rice,16
 Bukayo,Saka,17
 William,Saliba,18
-Emile,Smith Rowe,19
 Thomas,Partey,20
 Kieran,Tierney,21
 Tomiyasu,Takehiro,22
@@ -83,11 +82,11 @@ Antoine,Semenyo,78
 Marcos,Senesi,79
 Luis,Sinisterra,80
 Adam,Smith,81
-Dominic,Solanke-Mitchell,82
 Marcus,Tavernier,83
 Mark,Travers,84
 Illia,Zabarnyi,85
 Dean,Huijsen,580
+Julián,Araujo Zúñiga,592
 Kristoffer,Ajer,86
 Ethan,Brierley,87
 Nathan,Collins,88
@@ -115,11 +114,11 @@ Hákon,Valdimarsson,109
 Yoane,Wissa,110
 Yehor,Yarmoliuk,111
 Mathias,Jorgensen,112
+Fábio,Freitas Gouveia Carvalho,314
 Simon,Adingra,113
 Benicio,Baker-Boaitey,114
 Carlos,Baleba,115
 Valentín,Barco,116
-Facundo,Buonanotte,117
 Amario,Cozier-Duberry,118
 Mahmoud,Dahoud,119
 Lewis,Dunk,120
@@ -192,6 +191,7 @@ Raheem,Sterling,186
 Tosin,Adarabioyo,187
 Lesley,Ugochukwu,188
 Wesley,Fofana,189
+Pedro,Lomba Neto,560
 Caleb,Wiley,575
 Filip,Jørgensen,581
 Naouirou,Ahamada,190
@@ -221,6 +221,7 @@ Jesurun,Rak-Sakyi,213
 Jeffrey,Schlupp,214
 Joel,Ward,215
 Adam,Wharton,216
+Ismaïla,Sarr,585
 Abdoulaye,Doucouré,217
 Norberto Bercique,Gomes Betuncal,218
 Jarrad,Branthwaite,219
@@ -244,6 +245,7 @@ Youssef,Ramalho Chermiti,237
 Ashley,Young,238
 Jesper,Lindstrøm,577
 Jake,O'Brien,582
+Emile,Smith Rowe,19
 Adama,Traoré,239
 Andreas,Hoelgebaum Pereira,240
 Calvin,Bassey,241
@@ -266,6 +268,7 @@ Kenny,Tete,257
 Carlos Vinícius,Alves Morais,258
 Harry,Wilson,259
 Ryan,Sessegnon,579
+Jorge,Cuenca Barreno,586
 Ali,Al-Hamadi,260
 Elkan,Baggott,261
 Nathan,Broadhead,262
@@ -293,6 +296,7 @@ Christian,Walton,283
 Luke,Woolfenden,284
 Arijanet,Muric,568
 Conor,Townsend,583
+Facundo,Buonanotte,117
 Boubakary,Soumaré,285
 Tom,Cannon,286
 Hamza,Choudhury,287
@@ -323,7 +327,6 @@ Alisson,Ramses Becker,310
 Trent,Alexander-Arnold,311
 Stefan,Bajčetić Maquieira,312
 Conor,Bradley,313
-Fábio,Freitas Gouveia Carvalho,314
 Bobby,Clark,315
 Darwin,Núñez Ribeiro,316
 Diogo,Teixeira da Silva,317
@@ -398,9 +401,10 @@ Facundo,Pellistri Rebollo,384
 Marcus,Rashford,385
 Jadon,Sancho,386
 Luke,Shaw,387
-Aaron,Wan-Bissaka,388
 Joshua,Zirkzee,389
 Leny,Yoro,572
+Matthijs,de Ligt,593
+Noussair,Mazraoui,594
 Alex,Murphy,390
 Miguel,Almirón Rejala,391
 Harvey,Barnes,392
@@ -434,6 +438,7 @@ Joe,White,419
 Joe,Willock,420
 Callum,Wilson,421
 Miodrag,Pivaš,574
+William,Osula,590
 Ola,Aina,422
 Elliot,Anderson,423
 Taiwo,Awoniyi,424
@@ -493,6 +498,7 @@ Kyle,Walker-Peters,476
 Nathan,Wood-Gordon,477
 Flynn,Downes,518
 Ben,Brereton Díaz,584
+Dominic,Solanke-Mitchell,82
 Ashley,Phillips,478
 Brandon,Austin,479
 Rodrigo,Bentancur,480
@@ -526,6 +532,7 @@ Alejo,Véliz,507
 Guglielmo,Vicario,508
 Timo,Werner,509
 Alfie,Whiteman,510
+Aaron,Wan-Bissaka,388
 Edson,Álvarez Velázquez,511
 Michail,Antonio,512
 Alphonse,Areola,513
@@ -548,6 +555,10 @@ Tomáš,Souček,530
 James,Ward-Prowse,531
 Kurt,Zouma,532
 Andy,Irving,576
+Crysencio,Summerville,587
+Guido,Rodríguez,588
+Niclas,Füllkrug,589
+Jean-Clair,Todibo,591
 Rayan,Aït-Nouri,533
 Boubacar,Traoré,534
 Jean-Ricner,Bellegarde,535
@@ -575,7 +586,6 @@ Tom,King,556
 Mario,Lemina,557
 Yerson,Mosquera,558
 Nélson,Cabral Semedo,559
-Pedro,Lomba Neto,560
 Pedro,Cardoso de Lima,561
 Daniel,Castelo Podence,562
 Rodrigo,Martins Gomes,563

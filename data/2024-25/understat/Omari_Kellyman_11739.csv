@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Crystal Palace,Aston Villa,5,0,2024-05-19,22270,2023,663109,0,0,0,0,0,0,0
+0,1,0.04926174506545067,8,Sub,Manchester City,Aston Villa,4,1,2024-04-03,22204,2023,651208,0,0,0,0,0.04926174506545067,0.04926174506545067,0
