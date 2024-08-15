@@ -42,6 +42,20 @@ The data folder contains the data from past seasons as well as the current seaso
 + season/players/player_name/gws.csv : GW-by-GW stats for that specific player
 + season/players/player_name/history.csv : Prior seasons history stats for that specific player.
 
+### Accessing the Data Directly in Python
+
+You can access data files within this repository programmatically using Python and the `pandas` library. Below is an example using the `data/2023-24/gws/merged_gw.csv` file. Similar methods can be applied to other data files in the repository. Note this is using the raw URL for direct file access, bypassing the GitHub UI.
+
+```python
+import pandas as pd
+
+# URL of the CSV file (example)
+url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2023-24/gws/merged_gw.csv"
+
+# Read the CSV file into a pandas DataFrame
+df = pd.read_csv(url)
+```
+
 ### Player Position Data
 
 In players_raw.csv, element_type is the field that corresponds to the position.
