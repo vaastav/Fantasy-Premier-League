@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Aston Villa,5,0,2024-05-19,22270,2023,663096,0,0,0,0,0,0.22823549807071686,0.22823549807071686
+0,0,0,90,GK,Brighton,Aston Villa,1,0,2024-05-05,22247,2023,659402,0,0,0,0,0,0,0
+0,0,0,38,Sub,Aston Villa,Chelsea,2,2,2024-04-27,22236,2023,657257,0,0,0,0,0,0.04651852697134018,0.04651852697134018
+0,0,0,90,GK,Manchester City,Aston Villa,4,1,2024-04-03,22204,2023,651193,0,0,0,0,0,0,0
 0,0,0,90,GK,Burnley,Aston Villa,1,3,2023-08-27,22302,2023,607453,0,0,0,0,0,0,0
 0,0,0,41,Sub,Brentford,Aston Villa,1,1,2023-04-22,18514,2022,590198,0,0,0,0,0,0,0
 0,0,0,90,GK,Tottenham,Aston Villa,0,2,2023-01-01,18379,2022,566730,0,0,0,0,0,0.029771799221634865,0.029771799221634865

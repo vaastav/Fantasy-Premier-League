@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.07050485908985138,51,FW,Bournemouth,Brighton,3,0,2024-04-28,22235,2023,657537,0,0,0,0,0.07050485908985138,0,0
+0,0,0,12,Sub,Brighton,Manchester City,0,4,2024-04-25,22176,2023,656566,0,0,0,0,0,0,0
+0,0,0,1,Sub,Burnley,Brighton,1,1,2024-04-13,22218,2023,653258,0,0,0,0,0,0,0

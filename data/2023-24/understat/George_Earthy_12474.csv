@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Manchester City,West Ham,3,1,2024-05-19,22273,2023,663015,0,0,0,0,0,0,0
+1,1,0.6298984289169312,10,Sub,West Ham,Luton,3,1,2024-05-11,22263,2023,660609,0,0,0,1,0.6298984289169312,0.6298984289169312,0
+0,0,0,6,Sub,West Ham,Fulham,0,2,2024-04-14,22224,2023,653854,0,0,0,0,0,0,0
