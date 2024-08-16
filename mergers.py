@@ -1,6 +1,4 @@
-from numpy.lib.index_tricks import _diag_indices_from
 import pandas as pd 
-import numpy as np
 from os.path import dirname, join
 import os
 
