@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brentford,Crystal Palace,2,1,2024-08-18,26609,2024,666812,0,0,0,0,0,0.11339995265007019,0.11339995265007019
 0,0,0,80,MC,Crystal Palace,Aston Villa,5,0,2024-05-19,22270,2023,663087,0.02037082426249981,0,1,0,0,0.5781720876693726,0.5781720876693726
 0,0,0,15,Sub,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11,22264,2023,660594,0,0,0,0,0,0,0
 0,0,0,9,Sub,Crystal Palace,Manchester United,4,0,2024-05-06,22250,2023,660051,0.05139845237135887,0,1,0,0,0.05139845237135887,0.05139845237135887

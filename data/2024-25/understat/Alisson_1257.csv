@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Ipswich,Liverpool,0,2,2024-08-17,26603,2024,666248,0,0,0,0,0,1.898234486579895,1.898234486579895
 0,0,0,90,GK,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19,22271,2023,663048,0,0,0,0,0,0.15123674273490906,0.15123674273490906
 0,0,0,90,GK,Aston Villa,Liverpool,3,3,2024-05-13,22256,2023,661852,0,0,0,0,0,0.01848509907722473,0.01848509907722473
 0,0,0,90,GK,Liverpool,Tottenham,4,2,2024-05-05,22251,2023,659542,0,0,0,0,0,0,0

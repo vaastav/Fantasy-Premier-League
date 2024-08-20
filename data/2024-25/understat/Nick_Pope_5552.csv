@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,Southampton,1,0,2024-08-17,26606,2024,666355,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Newcastle United,2,4,2024-05-19,22266,2023,663222,0,0,0,0,0,0.3921360671520233,0.3921360671520233
 0,0,0,87,GK,Newcastle United,Manchester United,1,0,2023-12-02,22032,2023,626931,0,0,0,0,0,0.23257391154766083,0.23257391154766083
 0,0,0,90,GK,Newcastle United,Chelsea,4,1,2023-11-25,22021,2023,624895,0,0,0,0,0,0.05671389028429985,0.05671389028429985

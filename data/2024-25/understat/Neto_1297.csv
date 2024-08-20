@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Nottingham Forest,Bournemouth,1,1,2024-08-17,26607,2024,666401,0,0,0,0,0,0.4283316135406494,0.4283316135406494
 0,0,0,90,GK,Chelsea,Bournemouth,2,1,2024-05-19,22269,2023,663281,0,0,0,0,0,0.03758472204208374,0.03758472204208374
 0,0,0,90,GK,Aston Villa,Bournemouth,3,1,2024-04-21,22225,2023,655485,0,0,0,0,0,0.11453276872634888,0.11453276872634888
 0,0,0,90,GK,Bournemouth,Manchester United,2,2,2024-04-13,22215,2023,653502,0,0,0,0,0,0.0877436026930809,0.0877436026930809
