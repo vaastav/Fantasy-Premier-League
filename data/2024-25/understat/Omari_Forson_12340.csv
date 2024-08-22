@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Manchester United,Arsenal,0,1,2024-05-12,22259,2023,661289,0,0,0,0,0,0,0
+0,0,0,5,Sub,Manchester City,Manchester United,3,1,2024-03-03,22160,2023,645762,0,0,0,0,0,0,0
+0,1,0.04880104586482048,55,AMR,Manchester United,Fulham,1,2,2024-02-24,22152,2023,643273,0.09365633875131607,0,1,0,0.04880104586482048,0.03421920910477638,0.03421920910477638
+0,0,0,1,Sub,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01,22111,2023,638138,0.03417201712727547,1,1,0,0,0.03417201712727547,0

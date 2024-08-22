@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Chelsea,Luton,3,0,2023-08-25,22295,2023,606595,0,0,0,0,0,0,0
+0,0,0,1,Sub,West Ham,Chelsea,3,1,2023-08-20,22293,2023,605924,0,0,0,0,0,0,0

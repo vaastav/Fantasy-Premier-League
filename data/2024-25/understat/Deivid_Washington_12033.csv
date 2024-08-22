@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Chelsea,Everton,6,0,2024-04-15,22219,2023,654313,0,0,0,0,0,0.06665752828121185,0.06665752828121185
+0,1,0.12518750131130219,6,Sub,Chelsea,Brentford,0,2,2023-10-28,21989,2023,619569,0,0,0,0,0.12518750131130219,0.12518750131130219,0
