@@ -168,4 +168,4 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 + [FPL.zoid.dev - Query FPL data with SQL in your browser](https://fpl.zoid.dev)
 
-+ [FPL Manager Medals by Edward Farragher]([https://fpl.zoid.dev](https://fpl-manager-medals.streamlit.app/Further_Information))
++ [FPL Manager Medals by Edward Farragher](https://fpl-manager-medals.streamlit.app/)
