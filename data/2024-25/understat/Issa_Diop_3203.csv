@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Fulham,Leicester,2,1,2024-08-24,26614,2024,667947,0,0,0,0,0,0.6553217768669128,0.6553217768669128
 0,0,0,90,DC,Manchester United,Fulham,1,0,2024-08-16,26602,2024,666187,0,0,0,0,0,0.0943298190832138,0.0943298190832138
 0,0,0,90,DC,Fulham,Manchester City,0,4,2024-05-11,22258,2023,660317,0,0,0,0,0,0,0
 0,0,0,90,DC,Brentford,Fulham,0,0,2024-05-04,22246,2023,658851,0,0,0,0,0,0.14633335173130035,0.14633335173130035

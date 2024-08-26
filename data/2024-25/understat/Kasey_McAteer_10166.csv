@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Fulham,Leicester,2,1,2024-08-24,26614,2024,667974,0,0,0,0,0,0.046203047037124634,0.046203047037124634
 0,1,0.013084491714835167,3,Sub,Leicester,Tottenham,1,1,2024-08-19,26611,2024,667454,0,0,0,0,0.013084491714835167,0,0
 0,0,0,1,Sub,Leicester,Newcastle United,4,0,2021-12-12,16532,2021,502258,0,0,0,0,0,0,0
