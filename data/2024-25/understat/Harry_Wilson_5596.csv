@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Ipswich,Fulham,1,1,2024-08-31,26625,2024,671810,0,0,0,0,0,0,0
 0,0,0,17,Sub,Fulham,Leicester,2,1,2024-08-24,26614,2024,667959,0,0,0,0,0,0,0
 0,0,0,11,Sub,Manchester United,Fulham,1,0,2024-08-16,26602,2024,666200,0,0,0,0,0,0,0
 1,3,0.13852646946907043,90,AMR,Luton,Fulham,2,4,2024-05-19,22272,2023,663039,0.2221054881811142,2,3,1,0.13852646946907043,0.4654252827167511,0.3102879822254181

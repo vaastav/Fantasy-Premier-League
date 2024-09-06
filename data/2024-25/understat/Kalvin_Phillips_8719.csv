@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,72,DMC,Ipswich,Fulham,1,1,2024-08-31,26625,2024,671786,0,0,0,0,0,0,0
 0,0,0,8,Sub,Crystal Palace,West Ham,5,2,2024-04-21,22227,2023,655530,0,0,0,0,0,0,0
 0,0,0,9,Sub,Newcastle United,West Ham,4,3,2024-03-30,22191,2023,649427,0,0,0,0,0,0.22243833541870117,0.22243833541870117
 0,0,0,49,DMC,West Ham,Burnley,2,2,2024-03-10,22173,2023,647312,0,0,0,0,0,0,0

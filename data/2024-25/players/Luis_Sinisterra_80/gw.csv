@@ -1,3 +1,4 @@
 assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
 0,0,7,0,1.8,80,0.02,0.17,0.15,1.02,6,1,0,3.2,7.0,2024-08-17T14:00:00Z,63,16,0,0,0,0,1,0,17130,1,1,1,23.0,2,0,0,0,50,False,0
 0,0,7,0,10.8,80,0.05,0.09,0.04,1.03,12,1,0,4.0,10.0,2024-08-25T13:00:00Z,18,15,0,0,0,0,2,0,18377,0,1,1,19.0,1,-575,1319,1894,50,True,0
+1,2,38,0,17.8,80,0.24,0.61,0.37,0.26,24,0,1,10.5,51.0,2024-08-31T14:00:00Z,25,8,0,0,0,0,3,0,15915,0,3,2,36.0,11,-2892,1030,3922,50,False,0
