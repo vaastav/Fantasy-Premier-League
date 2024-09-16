@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Brighton,Ipswich,0,0,2024-09-14,26633,2024,673669,0,0,0,0,0,0,0
 0,0,0,1,Sub,Ipswich,Fulham,1,1,2024-08-31,26625,2024,671793,0,0,0,0,0,0.08561579883098602,0.08561579883098602
 0,0,0,1,Sub,Manchester City,Ipswich,4,1,2024-08-24,26615,2024,668099,0,0,0,0,0,0,0
 0,0,0,66,AMC,Ipswich,Liverpool,0,2,2024-08-17,26603,2024,666240,0,0,0,0,0,0.08377160131931305,0.08377160131931305

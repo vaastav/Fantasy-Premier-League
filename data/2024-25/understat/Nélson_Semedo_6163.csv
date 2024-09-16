@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.012130174785852432,79,DR,Wolverhampton Wanderers,Newcastle United,1,2,2024-09-15,26641,2024,674611,0.11765637248754501,0,1,0,0.012130174785852432,0.4395934045314789,0.32193702459335327
 0,0,0,77,DR,Nottingham Forest,Wolverhampton Wanderers,1,1,2024-08-31,26627,2024,671859,0,0,0,0,0,0.10561864823102951,0.10561864823102951
 0,0,0,27,DMR,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19,22271,2023,663068,0,0,0,0,0,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11,22264,2023,660566,0.015137306414544582,0,1,0,0,0.015137306414544582,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Bournemouth,Chelsea,0,1,2024-09-14,26639,2024,674166,0,0,0,0,0,0.5329201221466064,0.5329201221466064
 0,0,0,90,DL,Chelsea,Crystal Palace,1,1,2024-09-01,26630,2024,672431,0,0,0,0,0,0.3566131591796875,0.3566131591796875
 0,0,0,90,DL,Wolverhampton Wanderers,Chelsea,2,6,2024-08-25,26619,2024,668752,0,0,0,0,0,0.373455286026001,0.373455286026001
 0,0,0,86,DL,Chelsea,Manchester City,0,2,2024-08-18,26610,2024,667014,0,0,0,0,0,0.18082593381404877,0.18082593381404877

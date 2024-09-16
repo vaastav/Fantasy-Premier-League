@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Southampton,Manchester United,0,3,2024-09-14,26632,2024,673368,0,0,0,0,0,0,0
 0,0,0,59,DC,Brentford,Southampton,3,1,2024-08-31,26623,2024,671739,0.11520012468099594,0,1,0,0,0.11520012468099594,0.11520012468099594
 0,0,0,77,DC,Southampton,Nottingham Forest,0,1,2024-08-24,26616,2024,668041,0,0,0,0,0,0.030219756066799164,0.030219756066799164
 0,0,0,90,DC,Newcastle United,Southampton,1,0,2024-08-17,26606,2024,666372,0.0185290165245533,0,1,0,0,0.6051218509674072,0.6051218509674072

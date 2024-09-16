@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Wolverhampton Wanderers,Newcastle United,1,2,2024-09-15,26641,2024,674622,0,0,0,0,0,0,0
 0,0,0,13,Sub,Nottingham Forest,Wolverhampton Wanderers,1,1,2024-08-31,26627,2024,671871,0,0,0,0,0,0,0
 0,0,0,26,Sub,Osasuna,Villarreal,1,1,2024-05-25,23059,2023,664265,0,0,0,0,0,0.08864263445138931,0.08864263445138931
 0,3,0.1310877799987793,90,ML,Villarreal,Real Madrid,4,4,2024-05-19,23054,2023,663496,0.15539135038852692,0,3,0,0.1310877799987793,0.9841070771217346,0.7931203842163086

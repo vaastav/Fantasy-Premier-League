@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Nottingham Forest,0,1,2024-09-14,26635,2024,673780,0,0,0,0,0,0.09076886624097824,0.09076886624097824
 0,0,0,90,GK,Nottingham Forest,Wolverhampton Wanderers,1,1,2024-08-31,26627,2024,671843,0,0,0,0,0,0,0
 0,0,0,90,GK,Southampton,Nottingham Forest,0,1,2024-08-24,26616,2024,668054,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Bournemouth,1,1,2024-08-17,26607,2024,666385,0,0,0,0,0,0,0

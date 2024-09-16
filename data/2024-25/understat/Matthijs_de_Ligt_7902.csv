@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.46635523438453674,90,DC,Southampton,Manchester United,0,3,2024-09-14,26632,2024,673375,0.01926337741315365,0,1,1,0.46635523438453674,0.7996252179145813,0.7996252179145813
 0,0,0,74,DC,Manchester United,Liverpool,0,3,2024-09-01,26631,2024,672615,0,0,0,0,0,0,0
 0,0,0,10,Sub,Brighton,Manchester United,2,1,2024-08-24,26612,2024,667722,0,0,0,0,0,0,0
 0,0,0,8,Sub,Manchester United,Fulham,1,0,2024-08-16,26602,2024,666181,0,0,0,0,0,0,0

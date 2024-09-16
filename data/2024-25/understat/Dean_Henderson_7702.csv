@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Leicester,2,2,2024-09-14,26636,2024,673703,0,0,0,0,0,0.48329946398735046,0.48329946398735046
 0,0,0,90,GK,Chelsea,Crystal Palace,1,1,2024-09-01,26630,2024,672441,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,West Ham,0,2,2024-08-24,26613,2024,667915,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Crystal Palace,2,1,2024-08-18,26609,2024,666809,0,0,0,0,0,0,0

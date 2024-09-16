@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Brentford,2,1,2024-09-14,26637,2024,673688,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Southampton,3,1,2024-08-31,26623,2024,671721,0,0,0,0,0,0.900075376033783,0.900075376033783
 0,0,0,90,GK,Liverpool,Brentford,2,0,2024-08-25,26621,2024,668963,0,0,0,0,0,0.0345180444419384,0.0345180444419384
 0,0,0,90,GK,Brentford,Crystal Palace,2,1,2024-08-18,26609,2024,666793,0,0,0,0,0,0.13167724013328552,0.13167724013328552
