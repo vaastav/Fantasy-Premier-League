@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.013401779346168041,90,AMC,Juventus,Napoli,0,0,2024-09-21,27407,2024,675919,0,0,0,0,0.013401779346168041,0.13736474514007568,0.12396296113729477
 0,0,0,7,Sub,Cagliari,Napoli,0,4,2024-09-15,27395,2024,674736,0,0,0,0,0,0,0
 0,1,0.12602733075618744,10,Sub,Brighton,Manchester United,2,1,2024-08-24,26612,2024,667723,0,0,0,0,0.12602733075618744,0.12602733075618744,0
 0,0,0,5,Sub,Manchester United,Fulham,1,0,2024-08-16,26602,2024,666183,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,Wolverhampton Wanderers,3,1,2024-09-21,26647,2024,675748,0,0,0,0,0,0.3652400076389313,0.3652400076389313
 0,0,0,90,DC,Aston Villa,Everton,3,2,2024-09-14,26638,2024,673923,0,0,0,0,0,0.618735134601593,0.618735134601593
 0,0,0,90,DC,Leicester,Aston Villa,1,2,2024-08-31,26626,2024,671829,0,0,0,0,0,0,0
 0,0,0,90,DC,Aston Villa,Arsenal,0,2,2024-08-24,26618,2024,668261,0,0,0,0,0,0.13606970012187958,0.13606970012187958

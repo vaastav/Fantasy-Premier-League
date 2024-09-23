@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Brentford,3,1,2024-09-21,26648,2024,675791,0,0,0,0,0,0,0
 0,0,0,14,Sub,Tottenham,Everton,4,0,2024-08-24,26617,2024,667990,0,0,0,0,0,0,0
 0,0,0,11,Sub,Leicester,Tottenham,1,1,2024-08-19,26611,2024,667470,0,0,0,0,0,0.08465122431516647,0.08465122431516647

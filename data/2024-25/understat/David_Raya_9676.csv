@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Arsenal,2,2,2024-09-22,26651,2024,676599,0,0,0,0,0,0,0
 0,0,0,90,GK,Tottenham,Arsenal,0,1,2024-09-15,26640,2024,674318,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Brighton,1,1,2024-08-31,26622,2024,671508,0,0,0,0,0,0.04776716232299805,0.04776716232299805
 0,0,0,90,GK,Aston Villa,Arsenal,0,2,2024-08-24,26618,2024,668275,0,0,0,0,0,0,0

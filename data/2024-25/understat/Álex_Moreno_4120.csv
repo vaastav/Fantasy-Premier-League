@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,50,DL,Brighton,Nottingham Forest,2,2,2024-09-22,26650,2024,676317,0,0,0,0,0,0,0
 0,0,0,83,DL,Liverpool,Nottingham Forest,0,1,2024-09-14,26635,2024,673784,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Aston Villa,1,0,2024-05-05,22247,2023,659415,0,0,0,0,0,0,0
 0,0,0,7,Sub,Arsenal,Aston Villa,0,2,2024-04-14,22216,2023,654054,0,0,0,0,0,0,0
