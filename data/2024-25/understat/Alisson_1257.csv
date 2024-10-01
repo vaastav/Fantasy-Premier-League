@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Liverpool,1,2,2024-09-28,26658,2024,678064,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Nottingham Forest,0,1,2024-09-14,26635,2024,673764,0,0,0,0,0,0.05126672983169556,0.05126672983169556
 0,0,0,90,GK,Manchester United,Liverpool,0,3,2024-09-01,26631,2024,672627,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Brentford,2,0,2024-08-25,26621,2024,668947,0,0,0,0,0,1.0512192249298096,1.0512192249298096

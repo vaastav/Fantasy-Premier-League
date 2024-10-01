@@ -1,2 +1,3 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.11073242872953415,33,Sub,Wolverhampton Wanderers,Liverpool,1,2,2024-09-28,26658,2024,678061,0,0,0,0,0.11073242872953415,0.11073242872953415,0
 0,0,0,2,Sub,Wolverhampton Wanderers,Newcastle United,1,2,2024-09-15,26641,2024,674623,0,0,0,0,0,0,0
