@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Everton,Newcastle United,0,0,2024-10-05,26669,2024,679740,0,0,0,0,0,0.023619532585144043,0.023619532585144043
 0,0,0,6,Sub,Leicester,Everton,1,1,2024-09-21,26644,2024,675681,0,0,0,0,0,0,0
 0,0,0,88,DMC,Aston Villa,Everton,3,2,2024-09-14,26638,2024,673943,0,0,0,0,0,0,0
 0,2,0.08942718803882599,90,DMC,Everton,Bournemouth,2,3,2024-08-31,26624,2024,671757,0.09728063642978668,0,2,0,0.08942718803882599,1.340989351272583,1.1542816162109375

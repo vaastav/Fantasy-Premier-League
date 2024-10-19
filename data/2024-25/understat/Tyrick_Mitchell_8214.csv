@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,62,DML,Crystal Palace,Liverpool,0,1,2024-10-05,26662,2024,679176,0,0,0,0,0,0,0
 0,0,0,90,DML,Everton,Crystal Palace,2,1,2024-09-28,26654,2024,677824,0,0,0,0,0,0,0
 0,0,0,90,DML,Crystal Palace,Manchester United,0,0,2024-09-21,26649,2024,675932,0.33017027378082275,0,1,0,0,0.6479231715202332,0.3177528977394104
 0,1,0.031843822449445724,90,DML,Crystal Palace,Leicester,2,2,2024-09-14,26636,2024,673708,1.0544013977050781,1,4,0,0.031843822449445724,1.5292913913726807,1.1010863780975342
