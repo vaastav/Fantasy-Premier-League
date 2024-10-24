@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Manchester United,2,1,2024-08-24,26612,2024,667692,0,0,0,0,0,0.135356605052948,0.135356605052948
 0,0,0,90,GK,Everton,Brighton,0,3,2024-08-17,26605,2024,666339,0,0,0,0,0,0.2725262939929962,0.2725262939929962
 0,0,0,90,GK,Brighton,Manchester United,0,2,2024-05-19,22267,2023,663175,0,0,0,0,0,0.3009648621082306,0.3009648621082306
 0,0,0,90,GK,Brighton,Manchester City,0,4,2024-04-25,22176,2023,656554,0,0,0,0,0,0.06023991480469704,0.06023991480469704

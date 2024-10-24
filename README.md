@@ -167,3 +167,9 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 + [My Personal Blog](http://vaastavanand.com/blog/)
 
 + [FPL.zoid.dev - Query FPL data with SQL in your browser](https://fpl.zoid.dev)
+
++ [Premier League Table by FPL Points by Edward F](https://fpl-pl-table.streamlit.app/)
+
++ [FPL Manager Medals by Edward F](https://fpl-manager-medals.streamlit.app/)
+
++ [SiegFPL by @infinitetrooper](https://fpl.infinitetrooper.com/)

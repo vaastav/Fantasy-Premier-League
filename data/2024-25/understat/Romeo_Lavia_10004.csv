@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,61,DMC,Liverpool,Chelsea,2,1,2024-10-20,26679,2024,682203,0,0,0,0,0,0.05280282348394394,0.05280282348394394
+0,0,0,3,Sub,Chelsea,Brighton,4,2,2024-09-28,26657,2024,677903,0,0,0,0,0,0,0
 0,0,0,73,DMC,Chelsea,Manchester City,0,2,2024-08-18,26610,2024,667015,0.5455207824707031,0,1,0,0,0.6766745448112488,0.13115380704402924
 0,0,0,29,Sub,Chelsea,Crystal Palace,2,1,2023-12-27,22080,2023,633077,0,0,0,0,0,0,0
 0,0,0,65,DMC,Southampton,Liverpool,4,4,2023-05-28,18581,2022,601095,0,0,0,0,0,0.44942885637283325,0.44942885637283325
