@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,43,Sub,Tottenham,West Ham,4,1,2024-10-19,26672,2024,680953,0.11323202401399612,1,1,0,0,0.2050013691186905,0.09176935255527496
 0,0,0,9,Sub,Brighton,Tottenham,3,2,2024-10-06,26671,2024,680446,0,0,0,0,0,0,0
 0,2,0.509319007396698,8,Sub,Manchester United,Tottenham,0,3,2024-09-29,26660,2024,678670,0.9579878449440002,1,2,0,0.509319007396698,0.4888429641723633,0
 0,0,0,16,Sub,Tottenham,Brentford,3,1,2024-09-21,26648,2024,675788,0,0,0,0,0,0,0
