@@ -172,4 +172,4 @@ This will create a new folder called "team_<team_id>_data18-19" with individual 
 
 + [FPL Manager Medals by Edward F](https://fpl-manager-medals.streamlit.app/)
 
-+ [SiegFPL by @infinitetrooper](https://fantasy.infinitetrooper.com/)
++ [SiegFPL by @infinitetrooper](https://fpl.infinitetrooper.com/)
