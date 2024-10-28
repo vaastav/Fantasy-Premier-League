@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.01733059622347355,10,Sub,Everton,Fulham,1,1,2024-10-26,26687,2024,683171,0,0,0,0,0.01733059622347355,0,0
 0,0,0,5,Sub,Nottingham Forest,Fulham,0,1,2024-09-28,26653,2024,677803,0,0,0,0,0,0,0
 0,0,0,22,Sub,Fulham,Newcastle United,3,1,2024-09-21,26646,2024,675728,0,0,0,0,0,0.2145950347185135,0.2145950347185135
 0,0,0,3,Sub,Fulham,West Ham,1,1,2024-09-14,26634,2024,673746,0.07896795868873596,0,1,0,0,0,0

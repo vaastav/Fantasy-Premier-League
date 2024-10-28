@@ -1,2 +1,3 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Arsenal,Liverpool,2,2,2024-10-27,26691,2024,683709,0,0,0,0,0,0.09494198858737946,0.09494198858737946
 0,0,0,1,Sub,Manchester City,Arsenal,2,2,2024-09-22,26651,2024,676612,0,0,0,0,0,0,0

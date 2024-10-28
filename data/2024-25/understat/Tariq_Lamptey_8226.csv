@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Brighton,Wolverhampton Wanderers,2,2,2024-10-26,26686,2024,683033,0.11369522660970688,1,1,0,0,0.11369522660970688,0
 0,0,0,8,Sub,Brighton,Manchester United,0,2,2024-05-19,22267,2023,663186,0,0,0,0,0,0,0
 0,0,0,90,DR,Brighton,Chelsea,1,2,2024-05-15,22226,2023,662145,0.6803475022315979,0,4,0,0,0.7076248526573181,0.10304594039916992
 0,0,0,51,Sub,Newcastle United,Brighton,1,1,2024-05-11,22260,2023,660683,0,0,0,0,0,0.018038613721728325,0.018038613721728325

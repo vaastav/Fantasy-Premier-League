@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Chelsea,Newcastle United,2,1,2024-10-27,26688,2024,683511,0,0,0,0,0,0.2631692886352539,0.2631692886352539
 0,0,0,61,DR,Liverpool,Chelsea,2,1,2024-10-20,26679,2024,682199,0,0,0,0,0,0.14267481863498688,0.14267481863498688
 0,0,0,12,Sub,Brighton,Chelsea,1,2,2024-05-15,22226,2023,662175,0,0,0,0,0,0,0
 0,0,0,6,Sub,Nottingham Forest,Chelsea,2,3,2024-05-11,22261,2023,660898,0.48384279012680054,1,1,0,0,0.556718111038208,0.07287535071372986
