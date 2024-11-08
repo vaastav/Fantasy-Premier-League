@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,86,DMC,Manchester United,Chelsea,1,1,2024-11-03,26697,2024,685861,0,0,0,0,0,0.26980483531951904,0.26980483531951904
 0,0,0,1,Sub,Manchester United,Brentford,2,1,2024-10-19,26675,2024,681302,0,0,0,0,0,0.06413087993860245,0.06413087993860245
 0,0,0,78,DMC,Manchester United,Tottenham,0,3,2024-09-29,26660,2024,678647,0,0,0,0,0,0.15078569948673248,0.15078569948673248
 0,0,0,14,Sub,Crystal Palace,Manchester United,0,0,2024-09-21,26649,2024,675954,0,0,0,0,0,0,0

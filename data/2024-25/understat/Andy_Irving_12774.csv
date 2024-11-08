@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Nottingham Forest,West Ham,3,0,2024-11-02,26698,2024,685082,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,West Ham,1,1,2024-09-28,26656,2024,677891,0,0,0,0,0,0,0
 0,1,0.0210413821041584,16,Sub,West Ham,Chelsea,0,3,2024-09-21,26642,2024,675290,0,0,0,0,0.0210413821041584,0.08413614332675934,0.06309476494789124

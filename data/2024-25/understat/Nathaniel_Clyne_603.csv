@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Wolverhampton Wanderers,Crystal Palace,2,2,2024-11-02,26701,2024,685261,0,0,0,0,0,0,0
 0,1,0.01046830415725708,74,Sub,Crystal Palace,Liverpool,0,1,2024-10-05,26662,2024,679185,0,0,0,0,0.01046830415725708,0,0
 0,0,0,67,DC,Crystal Palace,Leicester,2,2,2024-09-14,26636,2024,673705,0,0,0,0,0,0.7628335356712341,0.7628335356712341
 0,0,0,90,DC,Chelsea,Crystal Palace,1,1,2024-09-01,26630,2024,672444,0,0,0,0,0,0,0

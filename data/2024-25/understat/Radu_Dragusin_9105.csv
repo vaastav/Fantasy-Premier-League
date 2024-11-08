@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Tottenham,Aston Villa,4,1,2024-11-03,26700,2024,685517,0,0,0,0,0,0.6023221611976624,0.6023221611976624
 0,0,0,4,Sub,Manchester United,Tottenham,0,3,2024-09-29,26660,2024,678669,0,0,0,0,0,0.3080315887928009,0.3080315887928009
 0,1,0.03630290925502777,90,DC,Newcastle United,Tottenham,2,1,2024-09-01,26629,2024,672473,0,0,0,0,0.03630290925502777,0,0
 0,0,0,90,DC,Sheffield United,Tottenham,0,3,2024-05-19,22274,2023,663130,0,0,0,0,0,0.20405100286006927,0.20405100286006927

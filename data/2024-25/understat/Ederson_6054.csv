@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Manchester City,2,1,2024-11-02,26692,2024,684978,0,0,0,0,0,0.06827466189861298,0.06827466189861298
 0,0,0,90,GK,Manchester City,Southampton,1,0,2024-10-26,26683,2024,682930,0,0,0,0,0,0.1703816056251526,0.1703816056251526
 0,0,0,90,GK,Wolverhampton Wanderers,Manchester City,1,2,2024-10-20,26681,2024,681889,0,0,0,0,0,0.14787466824054718,0.14787466824054718
 0,0,0,90,GK,Manchester City,Fulham,3,2,2024-10-05,26664,2024,679451,0,0,0,0,0,0.12746305763721466,0.12746305763721466

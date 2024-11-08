@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,Newcastle United,Arsenal,1,0,2024-11-02,26694,2024,684679,0,0,0,0,0,0.09889227896928787,0.09889227896928787
 0,0,0,6,Sub,Arsenal,Brighton,1,1,2024-08-31,26622,2024,671521,0,0,0,0,0,0,0
 0,0,0,70,DL,Arsenal,Wolverhampton Wanderers,2,0,2024-08-17,26604,2024,666299,0,0,0,0,0,0.870730459690094,0.870730459690094
 0,0,0,24,Sub,Arsenal,Everton,2,1,2024-05-19,22265,2023,663251,0.08020839840173721,0,1,0,0,1.1031774282455444,1.0229690074920654

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Ipswich,Leicester,1,1,2024-11-02,26695,2024,685003,0,0,0,0,0,0,0
 1,1,0.3358561098575592,81,FW,Brentford,Ipswich,4,3,2024-10-26,26685,2024,683015,0.3189985454082489,1,2,1,0.3358561098575592,0.6548546552658081,0
 0,0,0,5,Sub,Ipswich,Everton,0,2,2024-10-19,26674,2024,681426,0,0,0,0,0,0.12675441801548004,0.12675441801548004
 0,0,0,4,Sub,West Ham,Ipswich,4,1,2024-10-05,26665,2024,679512,0,0,0,0,0,0,0
