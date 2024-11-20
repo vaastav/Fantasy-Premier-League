@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Brentford,Bournemouth,3,2,2024-11-09,26702,2024,686583,0,0,0,0,0,0,0
 0,1,0.5010765194892883,15,Sub,Fulham,Brentford,2,1,2024-11-04,26693,2024,686134,0,0,0,0,0.5010765194892883,0.5010765194892883,0
 0,0,0,1,Sub,Brentford,Ipswich,4,3,2024-10-26,26685,2024,683004,0,0,0,0,0,0,0
 0,2,0.10057678073644638,9,Sub,Manchester United,Brentford,2,1,2024-10-19,26675,2024,681316,0,0,0,0,0.10057678073644638,0.10057678073644638,0

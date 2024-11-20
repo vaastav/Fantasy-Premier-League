@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Brentford,Bournemouth,3,2,2024-11-09,26702,2024,686597,0,0,0,0,0,0,0
 0,0,0,29,DR,Aston Villa,Bournemouth,1,1,2024-10-26,26684,2024,682976,0,0,0,0,0,0.08122074604034424,0.08122074604034424
 0,0,0,50,DR,Bournemouth,Arsenal,2,0,2024-10-19,26680,2024,681564,0,0,0,0,0,0.028100507333874702,0.028100507333874702
 0,0,0,73,DR,Liverpool,Bournemouth,3,0,2024-09-21,26645,2024,675698,0,0,0,0,0,0.1850106120109558,0.1850106120109558

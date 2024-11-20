@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Ipswich,1,2,2024-11-10,26709,2024,687296,0,0,0,0,0,0,0
 0,0,0,90,GK,Ipswich,Leicester,1,1,2024-11-02,26695,2024,684991,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Ipswich,4,3,2024-10-26,26685,2024,683005,0,0,0,0,0,0,0
 0,0,0,90,GK,Ipswich,Everton,0,2,2024-10-19,26674,2024,681412,0,0,0,0,0,0.38363897800445557,0.38363897800445557
