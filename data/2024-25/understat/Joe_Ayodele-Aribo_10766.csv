@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,54,Sub,Southampton,Liverpool,2,3,2024-11-24,26721,2024,689139,0,0,0,0,0,0,0
 0,0,0,79,MC,Wolverhampton Wanderers,Southampton,2,0,2024-11-09,26711,2024,686683,0,0,0,0,0,0.06133110448718071,0.06133110448718071
 0,2,0.03164349123835564,41,Sub,Southampton,Everton,1,0,2024-11-02,26699,2024,685125,0,0,0,0,0.03164349123835564,0.22801744937896729,0.19637395441532135
 0,0,0,29,Sub,Manchester City,Southampton,1,0,2024-10-26,26683,2024,682955,0,0,0,0,0,0.06081664562225342,0.06081664562225342

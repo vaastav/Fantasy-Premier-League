@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Bournemouth,Brighton,1,2,2024-11-23,26712,2024,688376,0,0,0,0,0,0,0
 0,0,0,90,DR,Brighton,Manchester City,2,1,2024-11-09,26703,2024,686849,0,0,0,0,0,0.9021180868148804,0.9021180868148804
 0,0,0,78,DR,Liverpool,Brighton,2,1,2024-11-02,26696,2024,685038,0,0,0,0,0,0.11269979178905487,0.11269979178905487
 0,1,0.01754908449947834,90,DR,Brighton,Wolverhampton Wanderers,2,2,2024-10-26,26686,2024,683022,0,0,0,0,0.01754908449947834,0.01754908449947834,0

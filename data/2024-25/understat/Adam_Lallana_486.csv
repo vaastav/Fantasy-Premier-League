@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,36,MC,Southampton,Liverpool,2,3,2024-11-24,26721,2024,689134,0,0,0,0,0,0.023734262213110924,0.023734262213110924
 0,0,0,66,MC,Wolverhampton Wanderers,Southampton,2,0,2024-11-09,26711,2024,686684,0.027795981615781784,0,1,0,0,0.027795981615781784,0
 0,0,0,49,MC,Southampton,Everton,1,0,2024-11-02,26699,2024,685119,0,0,0,0,0,0.11588987708091736,0.11588987708091736
 0,0,0,61,MC,Manchester City,Southampton,1,0,2024-10-26,26683,2024,682950,0,0,0,0,0,0,0

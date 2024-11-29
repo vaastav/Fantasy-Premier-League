@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Fulham,Wolverhampton Wanderers,1,4,2024-11-23,26717,2024,688421,0,0,0,0,0,0,0
 0,1,0.014732361771166325,63,MC,Wolverhampton Wanderers,Crystal Palace,2,2,2024-11-02,26701,2024,685241,0,0,0,0,0.014732361771166325,0.0700727105140686,0.05534035339951515
 0,1,0.08800484240055084,90,MC,Brighton,Wolverhampton Wanderers,2,2,2024-10-26,26686,2024,683044,0.09421709179878235,1,1,0,0.08800484240055084,0.3745957911014557,0.1923738718032837
 0,0,0,42,Sub,Wolverhampton Wanderers,Manchester City,1,2,2024-10-20,26681,2024,681888,0,0,0,0,0,0,0

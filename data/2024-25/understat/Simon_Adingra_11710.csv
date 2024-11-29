@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,21,Sub,Bournemouth,Brighton,1,2,2024-11-23,26712,2024,688389,0,0,0,0,0,0,0
 0,0,0,68,MR,Brighton,Manchester City,2,1,2024-11-09,26703,2024,686853,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Brighton,2,1,2024-11-02,26696,2024,685052,0,0,0,0,0,0.0396023653447628,0.0396023653447628
 0,1,0.07342173904180527,66,AMR,Brighton,Nottingham Forest,2,2,2024-09-22,26650,2024,676305,0.02913203276693821,0,1,0,0.07342173904180527,0.07342173904180527,0
