@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester United,Everton,4,0,2024-12-01,26727,2024,690643,0,0,0,0,0,0.09699609875679016,0.09699609875679016
 0,0,0,90,DC,Manchester United,Leicester,3,0,2024-11-10,26708,2024,687342,0,0,0,0,0,0.7271810173988342,0.7271810173988342
 0,0,0,90,DC,Manchester United,Chelsea,1,1,2024-11-03,26697,2024,685857,0,0,0,0,0,0,0
 0,0,0,90,DC,West Ham,Manchester United,2,1,2024-10-27,26690,2024,683466,0,0,0,0,0,0.19563043117523193,0.19563043117523193

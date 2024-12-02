@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+3,5,1.3155505657196045,78,AML,Brentford,Leicester,4,1,2024-11-30,26722,2024,690059,0.525077760219574,1,1,3,1.3155505657196045,1.8406283855438232,0
 0,0,0,15,Sub,Everton,Brentford,0,0,2024-11-23,26715,2024,688477,0,0,0,0,0,0,0
 0,1,0.15192539989948273,5,Sub,Brentford,Bournemouth,3,2,2024-11-09,26702,2024,686582,0,0,0,0,0.15192539989948273,0.15192539989948273,0
 0,0,0,16,Sub,Fulham,Brentford,2,1,2024-11-04,26693,2024,686133,0,0,0,0,0,0,0

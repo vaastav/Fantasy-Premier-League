@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Crystal Palace,Newcastle United,1,1,2024-11-30,26725,2024,690107,0,0,0,0,0,0,0
 0,0,0,19,Sub,Newcastle United,West Ham,0,2,2024-11-25,26713,2024,689563,0,0,0,0,0,0,0
 0,0,0,4,Sub,Brentford,Newcastle United,2,4,2024-05-19,22266,2023,663235,0,0,0,0,0,0,0
 1,2,0.8898428082466125,75,FW,Burnley,Newcastle United,1,4,2024-05-04,22248,2023,658890,0.33916497230529785,0,1,1,0.8898428082466125,2.0497727394104004,0.8207648992538452

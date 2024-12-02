@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.03371269628405571,90,DML,Brentford,Leicester,4,1,2024-11-30,26722,2024,690071,0,0,0,0,0.03371269628405571,0,0
 0,0,0,90,DML,Manchester City,Sheffield United,2,0,2023-12-30,22090,2023,633507,0,0,0,0,0,0.08508308231830597,0.08508308231830597
 0,0,0,51,DML,Burnley,Sheffield United,5,0,2023-12-02,22028,2023,626488,0,0,0,0,0,0,0
 0,1,0.03958041965961456,70,DML,Sheffield United,Bournemouth,1,3,2023-11-25,22023,2023,624963,0,0,0,0,0.03958041965961456,0.05723380669951439,0.017653388902544975

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30,26731,2024,689986,0,0,0,0,0,0,0
 0,0,0,14,Sub,Bournemouth,Chelsea,0,1,2024-09-14,26639,2024,674158,0,0,0,0,0,0.03709999844431877,0.03709999844431877
 0,0,0,1,Sub,Nottingham Forest,Bournemouth,1,1,2024-08-17,26607,2024,666412,0,0,0,0,0,0,0
 0,1,0.01543139386922121,17,Sub,Chelsea,Bournemouth,2,1,2024-05-19,22269,2023,663293,0,0,0,0,0.01543139386922121,0.15786147117614746,0.15786147117614746

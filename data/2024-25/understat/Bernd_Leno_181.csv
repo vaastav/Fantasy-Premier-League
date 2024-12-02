@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Fulham,1,1,2024-12-01,26729,2024,690626,0,0,0,0,0,0.4252760708332062,0.4252760708332062
 0,0,0,90,GK,Fulham,Wolverhampton Wanderers,1,4,2024-11-23,26717,2024,688390,0,0,0,0,0,0.03731855750083923,0.03731855750083923
 0,0,0,90,GK,Crystal Palace,Fulham,0,2,2024-11-09,26706,2024,686617,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Brentford,2,1,2024-11-04,26693,2024,686105,0,0,0,0,0,0,0

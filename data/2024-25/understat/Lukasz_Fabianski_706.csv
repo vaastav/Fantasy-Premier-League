@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Arsenal,2,5,2024-11-30,26730,2024,690358,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,West Ham,0,2,2024-11-25,26713,2024,689566,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Everton,0,0,2024-11-09,26710,2024,686633,0,0,0,0,0,0.02261417731642723,0.02261417731642723
 0,0,0,90,GK,Nottingham Forest,West Ham,3,0,2024-11-02,26698,2024,685069,0,0,0,0,0,0,0

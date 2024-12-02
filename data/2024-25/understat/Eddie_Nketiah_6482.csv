@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Crystal Palace,Newcastle United,1,1,2024-11-30,26725,2024,690094,0,0,0,0,0,0,0
 0,2,0.10323616862297058,84,AMC,Wolverhampton Wanderers,Crystal Palace,2,2,2024-11-02,26701,2024,685257,0.16218647360801697,0,2,0,0.10323616862297058,0.2453107237815857,0
 0,0,0,17,Sub,Crystal Palace,Tottenham,1,0,2024-10-27,26689,2024,683491,0,0,0,0,0,0,0
 0,4,0.21241150796413422,68,FW,Nottingham Forest,Crystal Palace,1,0,2024-10-21,26677,2024,682460,0.20708896219730377,0,4,0,0.21241150796413422,0.47032591700553894,0.08682457357645035

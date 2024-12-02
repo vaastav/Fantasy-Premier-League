@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Nottingham Forest,Ipswich,1,0,2024-11-30,26728,2024,690019,0,0,0,0,0,0.015013577416539192,0.015013577416539192
+0,0,0,1,Sub,Brighton,Everton,0,0,2021-04-12,14735,2020,462496,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30,26731,2024,689959,0,0,0,0,0,0.04497711360454559,0.04497711360454559
 0,0,0,90,GK,Fulham,Wolverhampton Wanderers,1,4,2024-11-23,26717,2024,688406,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Southampton,2,0,2024-11-09,26711,2024,686661,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Crystal Palace,2,2,2024-11-02,26701,2024,685234,0,0,0,0,0,0.33423808217048645,0.33423808217048645

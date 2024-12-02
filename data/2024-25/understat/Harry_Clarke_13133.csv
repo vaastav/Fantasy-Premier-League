@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Nottingham Forest,Ipswich,1,0,2024-11-30,26728,2024,690017,0,0,0,0,0,0.01511572115123272,0.01511572115123272
 0,0,0,77,DR,Brentford,Ipswich,4,3,2024-10-26,26685,2024,683006,0,0,0,0,0,0,0
 0,0,0,21,Sub,Ipswich,Everton,0,2,2024-10-19,26674,2024,681423,0,0,0,0,0,0.13693657517433167,0.13693657517433167
