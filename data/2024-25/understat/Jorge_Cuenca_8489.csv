@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Fulham,Brighton,3,1,2024-12-05,26736,2024,691612,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Fulham,1,1,2024-10-26,26687,2024,683170,0,0,0,0,0,0,0
 0,0,0,64,DL,Osasuna,Villarreal,1,1,2024-05-25,23059,2023,664258,0.038860585540533066,0,2,0,0,0.370779424905777,0.3319188356399536
 0,0,0,51,DC,Villarreal,Real Madrid,4,4,2024-05-19,23054,2023,663490,0,0,0,0,0,0.07832451164722443,0.07832451164722443

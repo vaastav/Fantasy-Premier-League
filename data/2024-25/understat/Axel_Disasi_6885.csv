@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,1,0.5318944454193115,90,DC,Southampton,Chelsea,1,5,2024-12-04,26741,2024,691464,0,0,0,1,0.5318944454193115,0.362744003534317,0.362744003534317
 0,0,0,31,Sub,West Ham,Chelsea,0,3,2024-09-21,26642,2024,675302,0,0,0,0,0,0,0
 0,0,0,62,DR,Bournemouth,Chelsea,0,1,2024-09-14,26639,2024,674163,0,0,0,0,0,0,0
 0,0,0,5,Sub,Chelsea,West Ham,5,0,2024-05-05,22249,2023,659338,0,0,0,0,0,0.021399138495326042,0.021399138495326042

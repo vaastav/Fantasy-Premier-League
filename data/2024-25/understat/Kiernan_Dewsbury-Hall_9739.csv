@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Southampton,Chelsea,1,5,2024-12-04,26741,2024,691474,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leicester,Chelsea,1,2,2024-11-23,26719,2024,688103,0,0,0,0,0,0,0
 0,0,0,4,Sub,West Ham,Chelsea,0,3,2024-09-21,26642,2024,675306,0.10975684970617294,0,1,0,0,0.10975684970617294,0
 0,0,0,5,Sub,Wolverhampton Wanderers,Chelsea,2,6,2024-08-25,26619,2024,668763,0,0,0,0,0,0.1129174754023552,0.1129174754023552

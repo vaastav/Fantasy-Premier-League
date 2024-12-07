@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Leicester,West Ham,3,1,2024-12-03,26738,2024,691354,0,0,0,0,0,0,0
 0,1,0.12447119504213333,90,DMR,Brentford,Leicester,4,1,2024-11-30,26722,2024,690070,0,0,0,0,0.12447119504213333,0,0
 0,0,0,90,DR,Leicester,Chelsea,1,2,2024-11-23,26719,2024,688075,0,0,0,0,0,0.0670611634850502,0.0670611634850502
 0,0,0,85,DR,Manchester United,Leicester,3,0,2024-11-10,26708,2024,687356,0,0,0,0,0,0.27864059805870056,0.27864059805870056

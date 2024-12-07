@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Aston Villa,Brentford,3,1,2024-12-04,26734,2024,691565,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,Leicester,4,1,2024-11-30,26722,2024,690061,0,0,0,0,0,0,0
 0,0,0,90,DR,Fulham,Brentford,2,1,2024-11-04,26693,2024,686122,0.5010765194892883,0,1,0,0,0.5010765194892883,0
 0,0,0,90,DR,Brentford,Ipswich,4,3,2024-10-26,26685,2024,682992,0.634890615940094,1,5,0,0,1.6788740158081055,1.1649715900421143
