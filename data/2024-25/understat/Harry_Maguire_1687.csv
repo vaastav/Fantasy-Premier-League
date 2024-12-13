@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,24,Sub,Manchester United,Nottingham Forest,2,3,2024-12-07,26744,2024,692387,0.016878556460142136,0,1,0,0,0.06973373889923096,0.05285517871379852
 0,0,0,60,DC,Arsenal,Manchester United,2,0,2024-12-04,26733,2024,691525,0,0,0,0,0,0.011324725113809109,0.011324725113809109
 0,0,0,32,Sub,Manchester United,Everton,4,0,2024-12-01,26727,2024,690656,0,0,0,0,0,0.09699609875679016,0.09699609875679016
 0,0,0,49,DC,Aston Villa,Manchester United,0,0,2024-10-06,26670,2024,680089,0,0,0,0,0,0,0

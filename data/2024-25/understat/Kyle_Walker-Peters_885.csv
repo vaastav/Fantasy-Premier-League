@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,Southampton,1,0,2024-12-07,26742,2024,692180,0.04303988441824913,0,1,0,0,0.04303988441824913,0
 0,0,0,90,DC,Southampton,Chelsea,1,5,2024-12-04,26741,2024,691450,0.5794606804847717,1,1,0,0,0.5794606804847717,0.5794606804847717
 0,0,0,90,DC,Brighton,Southampton,1,1,2024-11-29,26723,2024,689631,0,0,0,0,0,0.46045252680778503,0.46045252680778503
 0,0,0,90,DR,Southampton,Liverpool,2,3,2024-11-24,26721,2024,689127,0,0,0,0,0,0,0

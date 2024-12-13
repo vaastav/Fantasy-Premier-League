@@ -1,4 +1,5 @@
-assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
-0,0,0,0,0.0,680,0.00,0.00,0.00,0.00,113,0,0,0.0,0.0,2024-11-23T15:00:00Z,0,5,0,0,0,0,12,0,0,0,2,1,0.0,0,0,0,0,40,True,0
-0,0,0,0,0.0,680,0.00,0.00,0.00,0.00,130,0,0,0.0,0.0,2024-11-30T15:00:00Z,0,20,0,0,0,0,13,0,245,0,4,2,0.0,0,126,138,12,40,False,0
-0,0,0,0,0.0,680,0.00,0.00,0.00,0.00,133,0,0,0.0,0.0,2024-12-05T20:15:00Z,0,18,0,0,0,0,14,0,513,0,0,1,0.0,0,117,190,73,40,True,0
+assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,modified,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+0,0,0,0,0.0,680,0.00,0.00,0.00,0.00,113,0,0,0.0,0.0,2024-11-23T15:00:00Z,0,False,5,0,0,0,0,12,0,0,0,2,1,0.0,0,0,0,0,40,True,0
+0,0,0,0,0.0,680,0.00,0.00,0.00,0.00,130,0,0,0.0,0.0,2024-11-30T15:00:00Z,0,False,20,0,0,0,0,13,0,245,0,4,2,0.0,0,126,138,12,40,False,0
+0,0,0,0,0.0,680,0.00,0.00,0.00,0.00,133,0,0,0.0,0.0,2024-12-05T20:15:00Z,0,False,18,0,0,0,0,14,0,513,0,0,1,0.0,0,117,190,73,40,True,0
+0,0,0,0,0.0,680,0.00,0.00,0.00,0.00,146,0,0,0.0,0.0,2024-12-08T14:00:00Z,0,False,10,0,0,0,0,15,0,963,0,2,1,0.0,0,285,379,94,40,False,0

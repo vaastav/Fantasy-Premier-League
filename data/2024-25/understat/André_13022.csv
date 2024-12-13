@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,63,MC,West Ham,Wolverhampton Wanderers,2,1,2024-12-09,26746,2024,693284,0.041633639484643936,0,1,0,0,0.0989486500620842,0.05731500685214996
 0,0,0,90,MC,Everton,Wolverhampton Wanderers,4,0,2024-12-04,26735,2024,691590,0,0,0,0,0,0.5170024633407593,0.5170024633407593
 0,0,0,90,DMC,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30,26731,2024,689964,0,0,0,0,0,0.6097366213798523,0.6097366213798523
 0,0,0,90,MC,Fulham,Wolverhampton Wanderers,1,4,2024-11-23,26717,2024,688412,0,0,0,0,0,0.4774569869041443,0.4774569869041443

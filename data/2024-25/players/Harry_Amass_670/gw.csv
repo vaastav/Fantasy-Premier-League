@@ -1,7 +1,8 @@
-assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
-0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,90,0,0,0.0,0.0,2024-10-27T14:00:00Z,0,19,0,0,0,0,9,0,0,0,1,2,0.0,0,0,0,0,40,False,0
-0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,95,0,0,0.0,0.0,2024-11-03T16:30:00Z,0,6,0,0,0,0,10,0,557,0,1,1,0.0,0,357,402,45,40,True,0
-0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,106,0,0,0.0,0.0,2024-11-10T14:00:00Z,0,11,0,0,0,0,11,0,1049,0,0,3,0.0,0,253,371,118,40,True,0
-0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,116,0,0,0.0,0.0,2024-11-24T16:30:00Z,0,10,0,0,0,0,12,0,1612,0,1,1,0.0,0,282,486,204,40,False,0
-0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,126,0,0,0.0,0.0,2024-12-01T13:30:00Z,0,8,0,0,0,0,13,0,1813,0,0,4,0.0,0,91,244,153,40,True,0
-0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,131,0,0,0.0,0.0,2024-12-04T20:15:00Z,0,1,0,0,0,0,14,0,2122,0,0,2,0.0,0,126,329,203,40,False,0
+assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,modified,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,90,0,0,0.0,0.0,2024-10-27T14:00:00Z,0,False,19,0,0,0,0,9,0,0,0,1,2,0.0,0,0,0,0,40,False,0
+0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,95,0,0,0.0,0.0,2024-11-03T16:30:00Z,0,False,6,0,0,0,0,10,0,557,0,1,1,0.0,0,357,402,45,40,True,0
+0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,106,0,0,0.0,0.0,2024-11-10T14:00:00Z,0,False,11,0,0,0,0,11,0,1049,0,0,3,0.0,0,253,371,118,40,True,0
+0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,116,0,0,0.0,0.0,2024-11-24T16:30:00Z,0,False,10,0,0,0,0,12,0,1612,0,1,1,0.0,0,282,486,204,40,False,0
+0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,126,0,0,0.0,0.0,2024-12-01T13:30:00Z,0,False,8,0,0,0,0,13,0,1813,0,0,4,0.0,0,91,244,153,40,True,0
+0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,131,0,0,0.0,0.0,2024-12-04T20:15:00Z,0,False,1,0,0,0,0,14,0,2122,0,0,2,0.0,0,126,329,203,40,False,0
+0,0,0,0,0.0,670,0.00,0.00,0.00,0.00,148,0,0,0.0,0.0,2024-12-07T17:30:00Z,0,False,16,0,0,0,0,15,0,2354,0,3,2,0.0,0,79,279,200,40,True,0
