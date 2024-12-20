@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Manchester City,Manchester United,1,2,2024-12-15,26753,2024,694440,0,0,0,0,0,0.07899001985788345,0.07899001985788345
 0,1,0.08930029720067978,90,AML,Crystal Palace,Manchester City,2,2,2024-12-07,26747,2024,692213,0.4303639531135559,1,4,0,0.08930029720067978,1.345802664756775,1.1816847324371338
 0,0,0,1,Sub,Manchester City,Nottingham Forest,3,0,2024-12-04,26739,2024,691397,0,0,0,0,0,0,0
 0,0,0,60,AML,Liverpool,Manchester City,2,0,2024-12-01,26726,2024,690881,0,0,0,0,0,0.16019801795482635,0.16019801795482635

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,70,DR,Bournemouth,West Ham,1,1,2024-12-16,26754,2024,694800,0,0,0,0,0,0.1352308839559555,0.1352308839559555
 0,0,0,66,DR,Ipswich,Bournemouth,1,2,2024-12-08,26750,2024,692757,0,0,0,0,0,1.1072051525115967,1.1072051525115967
 0,0,0,90,DR,Bournemouth,Tottenham,1,0,2024-12-05,26732,2024,691632,0,0,0,0,0,0.4958144426345825,0.4958144426345825
 0,0,0,90,DR,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30,26731,2024,689975,0,0,0,0,0,0.14725643396377563,0.14725643396377563

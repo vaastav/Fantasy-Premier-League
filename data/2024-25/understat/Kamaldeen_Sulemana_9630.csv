@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,FW,Southampton,Tottenham,0,5,2024-12-15,26759,2024,694626,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,Southampton,1,0,2024-12-07,26742,2024,692188,0,0,0,0,0,0,0
 0,0,0,23,Sub,Southampton,Chelsea,1,5,2024-12-04,26741,2024,691458,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Southampton,1,1,2024-11-29,26723,2024,689641,0,0,0,0,0,0,0

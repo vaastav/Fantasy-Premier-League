@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,GK,Newcastle United,Leicester,4,0,2024-12-14,26760,2024,693645,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,Brighton,2,2,2024-12-08,26751,2024,692772,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,West Ham,3,1,2024-12-03,26738,2024,691353,0,0,0,0,0,0.3004772961139679,0.3004772961139679
 0,0,0,90,GK,Brentford,Leicester,4,1,2024-11-30,26722,2024,690066,0,0,0,0,0,0.04213869199156761,0.04213869199156761

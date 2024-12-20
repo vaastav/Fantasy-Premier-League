@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.019882015883922577,24,Sub,Southampton,Tottenham,0,5,2024-12-15,26759,2024,694628,0,0,0,0,0.019882015883922577,0.08756963908672333,0.06768762320280075
 0,0,0,12,Sub,Southampton,Chelsea,1,5,2024-12-04,26741,2024,691459,0,0,0,0,0,0,0
 0,0,0,70,DR,Brighton,Southampton,1,1,2024-11-29,26723,2024,689630,0.4554513692855835,0,2,0,0,0.5643603801727295,0.5240997076034546
 0,0,0,7,Sub,Southampton,Liverpool,2,3,2024-11-24,26721,2024,689138,0,0,0,0,0,0,0

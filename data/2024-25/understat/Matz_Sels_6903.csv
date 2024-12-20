@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Nottingham Forest,Aston Villa,2,1,2024-12-14,26761,2024,693876,0,0,0,0,0,0.07286562770605087,0.07286562770605087
 0,0,0,90,GK,Manchester United,Nottingham Forest,2,3,2024-12-07,26744,2024,692390,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester City,Nottingham Forest,3,0,2024-12-04,26739,2024,691401,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Ipswich,1,0,2024-11-30,26728,2024,689989,0,0,0,0,0,0.04208270460367203,0.04208270460367203
