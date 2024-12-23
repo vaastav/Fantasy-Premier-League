@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,25,Sub,Brentford,Nottingham Forest,0,2,2024-12-21,26766,2024,695288,0,0,0,0,0,0,0
 0,2,0.06728237122297287,71,DMC,Nottingham Forest,Aston Villa,2,1,2024-12-14,26761,2024,693881,0,0,0,0,0.06728237122297287,0.19363999366760254,0.17344939708709717
 0,0,0,90,DMC,Manchester United,Nottingham Forest,2,3,2024-12-07,26744,2024,692395,0.05027336627244949,0,1,0,0,0.08710858225822449,0.08710858225822449
 0,0,0,47,DMC,Manchester City,Nottingham Forest,3,0,2024-12-04,26739,2024,691407,0,0,0,0,0,0.09976208955049515,0.09976208955049515

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.022582674399018288,55,FW,Manchester United,Bournemouth,0,3,2024-12-22,26769,2024,695734,0,0,0,0,0.022582674399018288,0,0
 0,0,0,8,Sub,Manchester City,Manchester United,1,2,2024-12-15,26753,2024,694463,0,0,0,0,0,0,0
 0,0,0,13,Sub,Manchester United,Nottingham Forest,2,3,2024-12-07,26744,2024,692386,0,0,0,0,0,0.0353245884180069,0.0353245884180069
 0,0,0,30,Sub,Arsenal,Manchester United,2,0,2024-12-04,26733,2024,691535,0,0,0,0,0,0,0
