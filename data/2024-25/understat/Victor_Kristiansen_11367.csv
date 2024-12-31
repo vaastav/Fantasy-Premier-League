@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Liverpool,Leicester,3,1,2024-12-26,26776,2024,696355,0,0,0,0,0,0,0
 0,0,0,90,DL,Leicester,Wolverhampton Wanderers,0,3,2024-12-22,26770,2024,695664,0,0,0,0,0,0.08689907938241959,0.08689907938241959
 0,0,0,90,DL,Newcastle United,Leicester,4,0,2024-12-14,26760,2024,693649,0,0,0,0,0,0.03262873739004135,0.03262873739004135
 0,0,0,90,DL,Leicester,Brighton,2,2,2024-12-08,26751,2024,692776,0.2453758865594864,0,1,0,0,0.39997050166130066,0.39997050166130066

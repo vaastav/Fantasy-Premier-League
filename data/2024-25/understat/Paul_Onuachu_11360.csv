@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,8,1.5071535110473633,90,FW,Southampton,West Ham,0,1,2024-12-26,26780,2024,696278,0.045268699526786804,0,1,0,1.5071535110473633,1.672841191291809,0.12041903287172318
 0,0,0,1,Sub,Fulham,Southampton,0,0,2024-12-22,26763,2024,695657,0,0,0,0,0,0,0
 0,0,0,58,FW,Southampton,Liverpool,2,3,2024-11-24,26721,2024,689136,0,0,0,0,0,0,0
 0,0,0,11,Sub,Wolverhampton Wanderers,Southampton,2,0,2024-11-09,26711,2024,686690,0,0,0,0,0,0,0
