@@ -27,4 +27,13 @@ def modifyTable(data):
     team_matches['team_goals_diff'] = team_matches['team_goals_scored'] - team_matches['team_goals_conceded']
     newData = data.merge(team_matches[['season_x','GW','team_x','points','team_goals_scored','team_goals_conceded','team_goals_diff']], on=['season_x','GW','team_x'],how='left')
     return newData
-    
+
+
+def main():
+    data = pd.read_csv('data/cleaned_merged_seasons.csv')
+    newData = modifyTable(data)
+    newData.to_csv('data/cleaned_merged_seasons_team_aggregated.csv',index=False)
+
+if __name__ == '__main__':
+    main()
+
