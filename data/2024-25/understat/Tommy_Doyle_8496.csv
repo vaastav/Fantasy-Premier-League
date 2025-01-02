@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,18,Sub,Tottenham,Wolverhampton Wanderers,2,2,2024-12-29,26790,2024,696762,0.05872489884495735,0,1,0,0,0.2948162257671356,0.2948162257671356
 0,0,0,16,Sub,Wolverhampton Wanderers,Manchester United,2,0,2024-12-26,26781,2024,696318,0,0,0,0,0,0.6423093676567078,0.6423093676567078
 0,0,0,3,Sub,Leicester,Wolverhampton Wanderers,0,3,2024-12-22,26770,2024,695691,0,0,0,0,0,0,0
 0,2,0.03365214541554451,41,Sub,Wolverhampton Wanderers,Ipswich,1,2,2024-12-14,26758,2024,693613,0.12267231196165085,0,2,0,0.03365214541554451,0.2030358761548996,0.04671141132712364

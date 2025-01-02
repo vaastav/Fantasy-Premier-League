@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.0790550485253334,42,Sub,Everton,Nottingham Forest,0,2,2024-12-29,26785,2024,696681,0.035416822880506516,0,1,0,0.0790550485253334,0.17913877964019775,0.14174491167068481
 0,0,0,8,Sub,Manchester City,Everton,1,1,2024-12-26,26777,2024,696147,0,0,0,0,0,0.0394122377038002,0.0394122377038002
 0,0,0,16,Sub,Everton,Chelsea,0,0,2024-12-22,26764,2024,695765,0,0,0,0,0,0,0
 0,0,0,23,Sub,Arsenal,Everton,0,0,2024-12-14,26755,2024,693752,0,0,0,0,0,0,0

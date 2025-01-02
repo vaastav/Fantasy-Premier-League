@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.019988445565104485,6,Sub,West Ham,Liverpool,0,5,2024-12-29,26791,2024,696806,0,0,0,0,0.019988445565104485,0.019988445565104485,0
 0,0,0,6,Sub,West Ham,Everton,0,0,2024-11-09,26710,2024,686644,0,0,0,0,0,0,0
 0,0,0,1,Sub,West Ham,Ipswich,4,1,2024-10-05,26665,2024,679493,0,0,0,0,0,0,0
