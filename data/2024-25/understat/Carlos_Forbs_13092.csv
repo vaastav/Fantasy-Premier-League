@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Wolverhampton Wanderers,Nottingham Forest,0,3,2025-01-06,26801,2024,697811,0,0,0,0,0,0,0
 0,1,0.034817419946193695,9,Sub,Tottenham,Wolverhampton Wanderers,2,2,2024-12-29,26790,2024,696761,0,0,0,0,0.034817419946193695,0,0
 0,0,0,1,Sub,Leicester,Wolverhampton Wanderers,0,3,2024-12-22,26770,2024,695688,0,0,0,0,0,0,0
 0,0,0,18,Sub,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30,26731,2024,689971,0,0,0,0,0,0,0

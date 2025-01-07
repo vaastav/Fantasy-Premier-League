@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.10854616016149521,79,DMC,Aston Villa,Leicester,2,1,2025-01-04,26793,2024,697252,0,0,0,1,0.10854616016149521,0.22736765444278717,0.22736765444278717
 0,0,0,1,Sub,Aston Villa,Brighton,2,2,2024-12-30,26782,2024,696992,0.013821008615195751,0,1,0,0,0.013821008615195751,0
 0,0,0,17,Sub,Newcastle United,Aston Villa,3,0,2024-12-26,26778,2024,696235,0,0,0,0,0,0,0
 0,0,0,1,Sub,Nottingham Forest,Aston Villa,2,1,2024-12-14,26761,2024,693904,0,0,0,0,0,0,0

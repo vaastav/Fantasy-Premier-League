@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.016653962433338165,58,FWL,Southampton,Brentford,0,5,2025-01-04,26799,2024,697197,0.017778225243091583,0,1,0,0.016653962433338165,0.03443218767642975,0
 0,0,0,23,Sub,Crystal Palace,Southampton,2,1,2024-12-29,26784,2024,696666,0,0,0,0,0,0,0
 0,0,0,7,Sub,Southampton,West Ham,0,1,2024-12-26,26780,2024,696280,0,0,0,0,0,0.023284049704670906,0.023284049704670906
 0,0,0,14,FW,Southampton,Tottenham,0,5,2024-12-15,26759,2024,694626,0,0,0,0,0,0,0

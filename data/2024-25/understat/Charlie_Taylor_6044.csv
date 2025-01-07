@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,41,Sub,Southampton,Brentford,0,5,2025-01-04,26799,2024,697201,0,0,0,0,0,0.07425826042890549,0.07425826042890549
 0,0,0,6,Sub,Southampton,Chelsea,1,5,2024-12-04,26741,2024,691461,0,0,0,0,0,0,0
 0,0,0,10,Sub,Southampton,Leicester,2,3,2024-10-19,26678,2024,681395,0,0,0,0,0,0,0
 0,0,0,1,Sub,Arsenal,Southampton,3,1,2024-10-05,26666,2024,679542,0,0,0,0,0,0,0

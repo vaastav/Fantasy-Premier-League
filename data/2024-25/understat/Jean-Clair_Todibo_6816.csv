@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,54,DC,Manchester City,West Ham,4,1,2025-01-04,26798,2024,697293,0,0,0,0,0,0.4733557105064392,0.4733557105064392
 0,0,0,41,Sub,West Ham,Liverpool,0,5,2024-12-29,26791,2024,696807,0,0,0,0,0,0.07287240028381348,0.07287240028381348
 0,0,0,72,Sub,Southampton,West Ham,0,1,2024-12-26,26780,2024,696299,0,0,0,0,0,0,0
 0,0,0,40,Sub,West Ham,Brighton,1,1,2024-12-21,26767,2024,695303,0,0,0,0,0,0,0

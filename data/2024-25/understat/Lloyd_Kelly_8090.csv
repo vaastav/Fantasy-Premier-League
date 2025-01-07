@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Newcastle United,1,2,2025-01-04,26800,2024,697128,0,0,0,0,0,0,0
 0,1,0.0783141553401947,90,DC,Newcastle United,West Ham,0,2,2024-11-25,26713,2024,689553,0.04035681486129761,0,1,0,0.0783141553401947,0.20848695933818817,0.16813014447689056
 0,0,0,1,Sub,Newcastle United,Arsenal,1,0,2024-11-02,26694,2024,684665,0,0,0,0,0,0,0
 0,0,0,1,Sub,Chelsea,Newcastle United,2,1,2024-10-27,26688,2024,683535,0,0,0,0,0,0,0

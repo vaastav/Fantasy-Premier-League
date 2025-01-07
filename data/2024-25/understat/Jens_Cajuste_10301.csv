@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,73,MC,Fulham,Ipswich,2,2,2025-01-05,26796,2024,697544,0,0,0,0,0,0.44096893072128296,0.44096893072128296
 0,0,0,82,DMC,Ipswich,Chelsea,2,0,2024-12-30,26787,2024,696894,0,0,0,0,0,0,0
 0,0,0,81,MC,Arsenal,Ipswich,1,0,2024-12-27,26773,2024,696417,0,0,0,0,0,0,0
 0,1,0.04675990715622902,67,DMC,Ipswich,Newcastle United,0,4,2024-12-21,26771,2024,695328,0.09504490345716476,0,1,0,0.04675990715622902,0.14180481433868408,0

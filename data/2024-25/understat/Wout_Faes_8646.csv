@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,25,Sub,Aston Villa,Leicester,2,1,2025-01-04,26793,2024,697272,0,0,0,0,0,0,0
 0,0,0,41,Sub,Leicester,Wolverhampton Wanderers,0,3,2024-12-22,26770,2024,695672,0,0,0,0,0,0.07015308737754822,0.07015308737754822
 0,0,0,7,Sub,Leicester,Brighton,2,2,2024-12-08,26751,2024,692783,0,0,0,0,0,0,0
 0,0,0,26,Sub,Leicester,West Ham,3,1,2024-12-03,26738,2024,691364,0,0,0,0,0,0.3004772961139679,0.3004772961139679

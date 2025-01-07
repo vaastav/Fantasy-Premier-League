@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,Ipswich,2,2,2025-01-05,26796,2024,697536,0,0,0,0,0,0,0
 0,0,0,90,GK,Ipswich,Chelsea,2,0,2024-12-30,26787,2024,696888,0.01685086265206337,0,1,0,0,0.01685086265206337,0
 0,0,0,90,GK,Ipswich,Liverpool,0,2,2024-08-17,26603,2024,666232,0,0,0,0,0,0,0

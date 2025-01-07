@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Aston Villa,Leicester,2,1,2025-01-04,26793,2024,697264,0,0,0,0,0,0.0587538480758667,0.0587538480758667
 0,1,0.03371269628405571,90,DML,Brentford,Leicester,4,1,2024-11-30,26722,2024,690071,0,0,0,0,0.03371269628405571,0,0
 0,0,0,90,DML,Manchester City,Sheffield United,2,0,2023-12-30,22090,2023,633507,0,0,0,0,0,0.08508308231830597,0.08508308231830597
 0,0,0,51,DML,Burnley,Sheffield United,5,0,2023-12-02,22028,2023,626488,0,0,0,0,0,0,0

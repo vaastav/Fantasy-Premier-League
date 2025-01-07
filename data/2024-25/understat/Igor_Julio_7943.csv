@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,70,DC,Brighton,Arsenal,1,1,2025-01-04,26794,2024,697371,0,0,0,0,0,0.12760955095291138,0.12760955095291138
 0,0,0,90,DL,Aston Villa,Brighton,2,2,2024-12-30,26782,2024,696999,0,0,0,0,0,0.42944347858428955,0.42944347858428955
 0,0,0,1,Sub,Leicester,Brighton,2,2,2024-12-08,26751,2024,692803,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,Brighton,3,1,2024-12-05,26736,2024,691618,0,0,0,0,0,0.3994528651237488,0.3994528651237488

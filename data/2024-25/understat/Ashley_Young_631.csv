@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Bournemouth,Everton,1,0,2025-01-04,26792,2024,697147,0,0,0,0,0,0,0
 0,0,0,70,DR,Everton,Nottingham Forest,0,2,2024-12-29,26785,2024,696671,0.06654450297355652,0,1,0,0,0.03756905347108841,0.03756905347108841
 0,1,0.04675908386707306,75,DR,Everton,Chelsea,0,0,2024-12-22,26764,2024,695755,0,0,0,0,0.04675908386707306,0,0
 0,0,0,90,DR,Arsenal,Everton,0,0,2024-12-14,26755,2024,693741,0,0,0,0,0,0,0

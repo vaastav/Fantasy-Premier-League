@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Fiorentina,Napoli,0,3,2025-01-04,27544,2024,697367,0,0,0,0,0,0,0
 0,0,0,1,Sub,Udinese,Napoli,1,3,2024-12-14,27521,2024,693875,0,0,0,0,0,0,0
 0,0,0,6,Sub,Napoli,Lazio,0,1,2024-12-08,27509,2024,693183,0,0,0,0,0,0,0
 0,0,0,61,MC,Inter,Napoli,1,1,2024-11-10,27473,2024,687822,0,0,0,0,0,0.04351218789815903,0.04351218789815903

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,18,AML,Aston Villa,Leicester,2,1,2025-01-04,26793,2024,697255,0,0,0,0,0,0,0
 0,0,0,90,AMC,Aston Villa,Brighton,2,2,2024-12-30,26782,2024,696987,0.07090401649475098,0,1,0,0,0.2852237820625305,0.2852237820625305
 0,0,0,84,AMR,Newcastle United,Aston Villa,3,0,2024-12-26,26778,2024,696228,0,0,0,0,0,0,0
 0,0,0,90,AMR,Aston Villa,Manchester City,2,1,2024-12-21,26762,2024,695019,0.3827427327632904,1,4,0,0,0.7553032636642456,0.48674607276916504
