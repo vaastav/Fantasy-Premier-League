@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Bournemouth,2,2,2025-01-14,26809,2024,699125,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Everton,1,0,2025-01-04,26792,2024,697131,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Manchester City,2,1,2024-11-02,26692,2024,684963,0,0,0,0,0,0.3533495366573334,0.3533495366573334
 0,0,0,90,GK,Aston Villa,Bournemouth,1,1,2024-10-26,26684,2024,682975,0,0,0,0,0,0.02296334318816662,0.02296334318816662

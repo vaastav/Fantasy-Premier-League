@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,West Ham,Fulham,3,2,2025-01-14,26808,2024,699151,0.06383352726697922,0,1,0,0,0.06383352726697922,0
 0,0,0,15,Sub,West Ham,Brighton,1,1,2024-12-21,26767,2024,695305,0,0,0,0,0,0,0
 0,0,0,13,Sub,Bournemouth,West Ham,1,1,2024-12-16,26754,2024,694827,0,0,0,0,0,0,0

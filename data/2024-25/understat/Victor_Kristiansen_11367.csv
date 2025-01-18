@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Leicester,Crystal Palace,0,2,2025-01-15,26806,2024,699288,0.18928098678588867,0,2,0,0,0.30840563774108887,0.2120680958032608
 0,0,0,90,DL,Leicester,Manchester City,0,2,2024-12-29,26788,2024,696586,0,0,0,0,0,0.7298741340637207,0.7298741340637207
 0,0,0,90,DL,Liverpool,Leicester,3,1,2024-12-26,26776,2024,696355,0,0,0,0,0,0,0
 0,0,0,90,DL,Leicester,Wolverhampton Wanderers,0,3,2024-12-22,26770,2024,695664,0,0,0,0,0,0.08689907938241959,0.08689907938241959

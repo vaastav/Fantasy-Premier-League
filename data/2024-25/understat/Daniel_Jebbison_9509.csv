@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Chelsea,Bournemouth,2,2,2025-01-14,26809,2024,699137,0.1237974539399147,0,1,0,0,0.1237974539399147,0
 0,0,0,2,Sub,Bournemouth,Newcastle United,1,1,2024-08-25,26620,2024,668714,0,0,0,0,0,0,0
 0,0,0,10,Sub,Nottingham Forest,Bournemouth,1,1,2024-08-17,26607,2024,666415,0.02117341011762619,0,1,0,0,0.02117341011762619,0
 0,0,0,15,Sub,Sheffield United,Tottenham,0,3,2024-05-19,22274,2023,663126,0,0,0,0,0,0,0
