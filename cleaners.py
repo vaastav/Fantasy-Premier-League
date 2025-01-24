@@ -25,6 +25,8 @@ def clean_players(filename, base_filename):
             line['element_type'] = 'MID'
         elif line['element_type'] == '4':
             line['element_type'] = 'FWD'
+        elif line['element_type'] == '5':
+            line['element_type'] = 'MGR'
         else:
             print("Oh boy")
         writer.writerow(line)
