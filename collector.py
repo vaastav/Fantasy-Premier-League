@@ -25,7 +25,7 @@ def get_fixtures(directory):
 def get_positions(directory):
     positions = {}
     names = {}
-    pos_dict = {'1': "GK", '2': "DEF", '3': "MID", '4': "FWD"}
+    pos_dict = {'1': "GK", '2': "DEF", '3': "MID", '4': "FWD", '5': "AM"}
     fin = open(directory + "/players_raw.csv", 'r',encoding="utf-8")
     reader = csv.DictReader(fin)
     for row in reader:
