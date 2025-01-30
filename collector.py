@@ -115,7 +115,7 @@ def merge_all_gws(num_gws, gw_directory):
 def main():
     #collect_all_gws(sys.argv[1], sys.argv[2], sys.argv[3])
     merge_all_gws(int(sys.argv[1]), sys.argv[2])
-    #collect_gw(26, sys.argv[1], sys.argv[2])
+    #collect_gw(22, sys.argv[1], sys.argv[2])
 
 if __name__ == '__main__':
     main()
