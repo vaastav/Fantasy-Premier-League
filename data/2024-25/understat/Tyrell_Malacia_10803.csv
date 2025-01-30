@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Fulham,Manchester United,0,1,2025-01-26,26826,2024,702354,0,0,0,0,0,0,0
 0,0,0,47,DML,Manchester United,Bournemouth,0,3,2024-12-22,26769,2024,695729,0.062010977417230606,0,1,0,0,0.062010977417230606,0
 0,0,0,47,DML,Arsenal,Manchester United,2,0,2024-12-04,26733,2024,691527,0,0,0,0,0,0,0
 0,0,0,90,DL,Manchester United,Fulham,2,1,2023-05-28,18580,2022,601063,0.3317071795463562,0,2,0,0,0.8615864515304565,0.53667151927948

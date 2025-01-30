@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,Barcelona,Valencia,7,1,2025-01-26,27184,2024,702447,0,0,0,0,0,0,0
 0,0,0,5,Sub,Fulham,Bournemouth,2,2,2024-12-29,26786,2024,696730,0,0,0,0,0,0,0
 0,0,0,63,DR,Bournemouth,Crystal Palace,0,0,2024-12-26,26772,2024,696150,0,0,0,0,0,0,0
 0,0,0,10,Sub,Bournemouth,Brighton,1,2,2024-11-23,26712,2024,688373,0,0,0,0,0,0.9639191627502441,0.9639191627502441

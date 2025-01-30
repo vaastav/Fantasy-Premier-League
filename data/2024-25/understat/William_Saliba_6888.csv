@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Wolverhampton Wanderers,Arsenal,0,1,2025-01-25,26831,2024,701454,0,0,0,0,0,0.4378713369369507,0.4378713369369507
 0,0,0,90,DC,Arsenal,Tottenham,2,1,2025-01-15,26802,2024,699508,0,0,0,0,0,0.5611678957939148,0.5611678957939148
 0,0,0,90,DC,Brighton,Arsenal,1,1,2025-01-04,26794,2024,697386,0,0,0,0,0,0,0
 0,0,0,90,DC,Brentford,Arsenal,1,3,2025-01-01,26783,2024,697029,0,0,0,0,0,0.3138617277145386,0.3138617277145386

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Brentford,1,2,2025-01-26,26825,2024,701951,0,0,0,0,0,0,0
 0,0,0,83,DC,Brighton,Brentford,0,0,2024-12-27,26774,2024,696385,0,0,0,0,0,0.030085433274507523,0.030085433274507523
 0,0,0,90,DC,Brentford,Nottingham Forest,0,2,2024-12-21,26766,2024,695262,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,Newcastle United,4,2,2024-12-07,26743,2024,692230,0,0,0,0,0,0,0

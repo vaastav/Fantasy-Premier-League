@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Ipswich,Manchester City,0,6,2025-01-19,26816,2024,700769,0,0,0,0,0,0.22059932351112366,0.22059932351112366
 0,1,0.16064772009849548,90,DC,Manchester City,Manchester United,1,2,2024-12-15,26753,2024,694439,0,0,0,0,0.16064772009849548,0,0
 0,0,0,90,DC,Crystal Palace,Manchester City,2,2,2024-12-07,26747,2024,692207,0,0,0,0,0,1.0837699174880981,1.0837699174880981
 0,0,0,90,DC,Manchester City,Nottingham Forest,3,0,2024-12-04,26739,2024,691388,0,0,0,0,0,0.6251020431518555,0.6251020431518555

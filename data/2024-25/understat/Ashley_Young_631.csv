@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Brighton,Everton,0,1,2025-01-25,26824,2024,701432,0,0,0,0,0,0,0
+0,0,0,10,Sub,Everton,Tottenham,3,2,2025-01-19,26815,2024,700452,0,0,0,0,0,0,0
 0,0,0,84,DR,Everton,Aston Villa,0,1,2025-01-15,26804,2024,699259,0.07465875893831253,0,1,0,0,0.22142431139945984,0.22142431139945984
 0,0,0,90,DR,Bournemouth,Everton,1,0,2025-01-04,26792,2024,697147,0,0,0,0,0,0,0
 0,0,0,70,DR,Everton,Nottingham Forest,0,2,2024-12-29,26785,2024,696671,0.06654450297355652,0,1,0,0,0.03756905347108841,0.03756905347108841

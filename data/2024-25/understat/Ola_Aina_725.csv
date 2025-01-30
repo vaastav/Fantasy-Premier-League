@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,82,DR,Bournemouth,Nottingham Forest,5,0,2025-01-25,26822,2024,701542,0,0,0,0,0,0.024111367762088776,0.024111367762088776
+0,0,0,90,DR,Nottingham Forest,Southampton,3,2,2025-01-19,26820,2024,700499,0.04390649497509003,1,1,0,0,0.5993619561195374,0.5554554462432861
 0,0,0,90,DR,Nottingham Forest,Liverpool,1,1,2025-01-14,26807,2024,699199,0,0,0,0,0,0,0
 0,0,0,90,DR,Wolverhampton Wanderers,Nottingham Forest,0,3,2025-01-06,26801,2024,697814,0,0,0,0,0,0.8727750182151794,0.8727750182151794
 0,0,0,90,DR,Everton,Nottingham Forest,0,2,2024-12-29,26785,2024,696686,0,0,0,0,0,0.08106184005737305,0.08106184005737305

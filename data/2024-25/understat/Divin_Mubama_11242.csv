@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.06255101412534714,26,Sub,Ipswich,Manchester City,0,6,2025-01-19,26816,2024,700781,0,0,0,0,0.06255101412534714,0,0
 0,0,0,1,Sub,Sheffield United,West Ham,2,2,2024-01-21,22101,2023,636212,0,0,0,0,0,0,0
 0,0,0,16,Sub,West Ham,Brighton,0,0,2024-01-02,22093,2023,633863,0,0,0,0,0,0,0
 0,0,0,1,Sub,West Ham,Wolverhampton Wanderers,3,0,2023-12-17,22064,2023,630897,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Southampton,Newcastle United,1,3,2025-01-25,26829,2024,701479,0,0,0,0,0,0.06085798889398575,0.06085798889398575
 0,0,0,67,MC,Southampton,Chelsea,1,5,2024-12-04,26741,2024,691454,0,0,0,0,0,0.10100987553596497,0.10100987553596497
 0,0,0,20,Sub,Brighton,Southampton,1,1,2024-11-29,26723,2024,689643,0,0,0,0,0,0,0
 0,0,0,83,DL,Southampton,Liverpool,2,3,2024-11-24,26721,2024,689131,0.02889833226799965,0,1,0,0,0.5020205974578857,0.473122239112854
