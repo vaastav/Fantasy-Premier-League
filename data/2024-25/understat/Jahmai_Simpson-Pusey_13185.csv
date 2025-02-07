@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Manchester City,Everton,1,1,2024-12-26,26777,2024,696134,0,0,0,0,0,0.015594711527228355,0.015594711527228355
+0,0,0,90,DC,Brighton,Manchester City,2,1,2024-11-09,26703,2024,686867,0,0,0,0,0,0.9961417317390442,0.9961417317390442

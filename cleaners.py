@@ -25,8 +25,10 @@ def clean_players(filename, base_filename):
             line['element_type'] = 'MID'
         elif line['element_type'] == '4':
             line['element_type'] = 'FWD'
+        elif line['element_type'] == '5':
+            line['element_type'] = 'AM'
         else:
-            print("Oh boy")
+            print("Unknown element type")
         writer.writerow(line)
 
 def id_players(players_filename, base_filename):

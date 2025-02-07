@@ -1,4 +1,10 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Newcastle United,Bournemouth,1,4,2025-01-18,26819,2024,699761,0,0,0,0,0,0,0
+0,0,0,9,Sub,Newcastle United,Wolverhampton Wanderers,3,0,2025-01-15,26810,2024,699453,0,0,0,0,0,0,0
+0,0,0,1,Sub,Newcastle United,Aston Villa,3,0,2024-12-26,26778,2024,696216,0,0,0,0,0,0,0
+0,0,0,14,Sub,Newcastle United,Leicester,4,0,2024-12-14,26760,2024,693640,0.08025070279836655,0,1,0,0,0.08025070279836655,0
+0,0,0,1,Sub,Nottingham Forest,Newcastle United,1,3,2024-11-10,26704,2024,687337,0,0,0,0,0,0,0
+0,0,0,1,Sub,Chelsea,Newcastle United,2,1,2024-10-27,26688,2024,683533,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Brighton,0,1,2024-10-19,26676,2024,681360,0,0,0,0,0,0,0
 0,0,0,6,Sub,Fulham,Newcastle United,3,1,2024-09-21,26646,2024,675740,0,0,0,0,0,0,0
 0,1,0.13889358937740326,19,Sub,Newcastle United,Sheffield United,5,1,2024-04-27,22240,2023,657032,0,0,0,0,0.13889358937740326,0.13889358937740326,0

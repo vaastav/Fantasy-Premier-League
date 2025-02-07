@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,Manchester City,Nottingham Forest,3,0,2024-12-04,26739,2024,691412,0,0,0,0,0,0,0
+0,0,0,1,Sub,Nottingham Forest,West Ham,3,0,2024-11-02,26698,2024,685064,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Leicester,1,2,2025-01-26,26830,2024,702030,0,0,0,0,0,0,0
+0,0,0,4,Sub,Southampton,Tottenham,0,5,2024-12-15,26759,2024,694645,0,0,0,0,0,0,0
+0,0,0,1,Sub,Tottenham,Fulham,1,1,2024-12-01,26729,2024,690625,0,0,0,0,0,0,0

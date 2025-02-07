@@ -4,6 +4,12 @@
 Fantasy-Premier-League
 ======================
 
+# ARCHIVAL NOTICE
+
+This repository will be archived at the end of the 2024-25 season. NO updates will be posted to this repository after the 2024-25 season.
+
+## Description
+
 A FPL library that gets all the basic stats for each player, gw-specific data for each player and season history of each player
 
 ### How to CIte this dataset?

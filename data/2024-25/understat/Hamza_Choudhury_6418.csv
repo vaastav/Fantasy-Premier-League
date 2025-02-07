@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,19,Sub,Leicester,Manchester City,0,2,2024-12-29,26788,2024,696595,0,0,0,0,0,0.07014193385839462,0.07014193385839462
+0,0,0,34,Sub,Leicester,Wolverhampton Wanderers,0,3,2024-12-22,26770,2024,695675,0.34699830412864685,0,1,0,0,0.4747730493545532,0.12777476012706757
+0,0,0,61,DMC,Newcastle United,Leicester,4,0,2024-12-14,26760,2024,693651,0.052330054342746735,0,1,0,0,0.11377738416194916,0.11377738416194916
 0,0,0,11,Sub,Crystal Palace,Leicester,2,2,2024-09-14,26636,2024,673731,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester United,Leicester,1,1,2022-04-02,16679,2021,523039,0,0,0,0,0,0,0
 0,0,0,62,DR,Leicester,Leeds,1,0,2022-03-05,16648,2021,517252,0,0,0,0,0,0,0

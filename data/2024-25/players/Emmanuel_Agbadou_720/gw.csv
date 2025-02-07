@@ -1,0 +1,4 @@
+assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,mng_clean_sheets,mng_draw,mng_goals_scored,mng_loss,mng_underdog_draw,mng_underdog_win,mng_win,modified,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+0,0,-3,0,0.8,720,0.01,0.01,0.00,2.11,210,3,0,2.3,21.8,2025-01-15T19:30:00Z,90,0,0,0,0,0,0,0,False,15,0,0,0,0,21,0,100,1,0,3,0.0,0,86,91,5,40,False,1
+0,0,3,0,1.0,720,0.00,0.00,0.00,3.15,213,3,0,2.3,22.2,2025-01-20T20:00:00Z,90,0,0,0,0,0,0,0,False,6,0,0,0,0,22,0,825,1,1,3,0.0,1,600,677,77,40,False,0
+0,0,22,0,1.5,720,0.01,0.03,0.02,1.00,230,1,0,3.1,28.6,2025-01-25T15:00:00Z,90,0,0,0,0,0,0,0,False,1,0,0,0,0,23,0,1759,1,1,0,1.0,2,771,944,173,40,True,0
