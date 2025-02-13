@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,77,DML,Wolverhampton Wanderers,Aston Villa,2,0,2025-02-01,26841,2024,703639,0,0,0,0,0,0,0
 0,1,0.023981504142284393,90,DML,Wolverhampton Wanderers,Arsenal,0,1,2025-01-25,26831,2024,701440,0,0,0,0,0.023981504142284393,0.038072068244218826,0.014090562239289284
 0,0,0,81,DML,Chelsea,Wolverhampton Wanderers,3,1,2025-01-20,26814,2024,701021,0.06586585938930511,0,1,0,0,0.06586585938930511,0.06586585938930511
 0,0,0,90,DML,Newcastle United,Wolverhampton Wanderers,3,0,2025-01-15,26810,2024,699463,0.2980729043483734,0,1,0,0,0.6060267090797424,0.307953804731369

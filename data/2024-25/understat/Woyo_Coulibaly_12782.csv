@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Everton,Leicester,4,0,2025-02-01,26836,2024,703349,0,0,0,0,0,0.016437197104096413,0.016437197104096413
 0,0,0,1,Sub,Tottenham,Leicester,1,2,2025-01-26,26830,2024,702043,0,0,0,0,0,0,0
 0,0,0,90,DL,Parma Calcio 1913,Monza,2,1,2024-12-28,27540,2024,696429,0,0,0,0,0,0,0
 0,0,0,90,DR,Roma,Parma Calcio 1913,5,0,2024-12-22,27529,2024,695584,0.039154622703790665,0,1,0,0,0.08744779974222183,0.04829317703843117

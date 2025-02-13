@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Ipswich,Southampton,1,2,2025-02-01,26837,2024,703353,0,0,0,0,0,0.02156989835202694,0.02156989835202694
 0,0,0,90,GK,Arsenal,Ipswich,1,0,2024-12-27,26773,2024,696409,0,0,0,0,0,0,0
 0,0,0,90,GK,Ipswich,Newcastle United,0,4,2024-12-21,26771,2024,695322,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Ipswich,1,2,2024-12-14,26758,2024,693614,0,0,0,0,0,0.617776095867157,0.617776095867157
