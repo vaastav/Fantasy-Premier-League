@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Southampton,Bournemouth,1,3,2025-02-15,26849,2024,706271,0,0,0,0,0,0,0
 0,0,0,23,Sub,Bournemouth,Arsenal,2,0,2024-10-19,26680,2024,681574,0,0,0,0,0,0,0
 0,1,0.019554143771529198,24,Sub,Leicester,Bournemouth,1,0,2024-10-05,26663,2024,679447,0.6448059678077698,0,2,0,0.019554143771529198,0.6643601059913635,0
 0,1,0.11391223967075348,1,Sub,Bournemouth,Southampton,3,1,2024-09-30,26661,2024,678933,0,0,0,0,0.11391223967075348,0.11391223967075348,0

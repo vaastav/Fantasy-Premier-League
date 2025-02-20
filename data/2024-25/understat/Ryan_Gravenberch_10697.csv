@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Liverpool,Wolverhampton Wanderers,2,1,2025-02-16,26847,2024,706710,0,0,0,0,0,0,0
 0,0,0,66,DMC,Everton,Liverpool,2,2,2025-02-12,26748,2024,705768,0,0,0,0,0,0,0
 0,1,0.05705302208662033,90,DMC,Bournemouth,Liverpool,0,2,2025-02-01,26832,2024,703314,0.055055588483810425,0,2,0,0.05705302208662033,1.3924739360809326,1.335420846939087
 0,0,0,75,DMC,Liverpool,Ipswich,4,1,2025-01-25,26827,2024,701501,0.1413382589817047,0,1,0,0,0.1413382589817047,0

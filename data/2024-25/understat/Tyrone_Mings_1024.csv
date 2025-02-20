@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,75,Sub,Aston Villa,Ipswich,1,1,2025-02-15,26842,2024,706164,0,0,0,0,0,0.7847957611083984,0.7847957611083984
 0,0,0,37,DC,Aston Villa,West Ham,1,1,2025-01-26,26823,2024,702174,0,0,0,0,0,0.14264601469039917,0.14264601469039917
 0,0,0,90,DC,Arsenal,Aston Villa,2,2,2025-01-18,26812,2024,700188,0,0,0,0,0,0,0
 0,0,0,90,DC,Everton,Aston Villa,0,1,2025-01-15,26804,2024,699274,0.12457885593175888,0,1,0,0,0.1903558075428009,0.06577695161104202

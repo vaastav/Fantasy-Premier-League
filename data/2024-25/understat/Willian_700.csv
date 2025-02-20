@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Fulham,Nottingham Forest,2,1,2025-02-15,26845,2024,706193,0.07816680520772934,0,1,0,0,0.07816680520772934,0
 0,0,0,49,AML,Fulham,Manchester City,0,4,2024-05-11,22258,2023,660324,0,0,0,0,0,0,0
 0,0,0,70,AML,Brentford,Fulham,0,0,2024-05-04,22246,2023,658858,0,0,0,0,0,0.06023051589727402,0.06023051589727402
 0,0,0,20,Sub,Fulham,Crystal Palace,1,1,2024-04-27,22238,2023,656958,0,0,0,0,0,0.05104883760213852,0.05104883760213852

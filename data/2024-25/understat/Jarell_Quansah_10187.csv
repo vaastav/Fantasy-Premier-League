@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,41,Sub,Liverpool,Wolverhampton Wanderers,2,1,2025-02-16,26847,2024,706717,0,0,0,0,0,0,0
 0,0,0,54,Sub,West Ham,Liverpool,0,5,2024-12-29,26791,2024,696825,0,0,0,0,0,0.530228853225708,0.530228853225708
 0,0,0,15,Sub,Liverpool,Fulham,2,2,2024-12-14,26752,2024,693766,0,0,0,0,0,0.5299983620643616,0.5299983620643616
 0,0,0,90,DR,Newcastle United,Liverpool,3,3,2024-12-04,26740,2024,691433,0,0,0,0,0,0.12933383882045746,0.12933383882045746
