@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,ML,Southampton,Bournemouth,1,3,2025-02-15,26849,2024,706251,0,0,0,0,0,0,0
+0,0,0,84,DML,Ipswich,Southampton,1,2,2025-02-01,26837,2024,703373,0.0395561046898365,0,2,0,0,0.07448381930589676,0.03492771461606026

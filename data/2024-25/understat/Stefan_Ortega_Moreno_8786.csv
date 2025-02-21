@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,Manchester City,5,1,2025-02-02,26833,2024,704205,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Manchester City,2,2,2025-01-14,26803,2024,699007,0,0,0,0,0,0.8112226128578186,0.8112226128578186
 0,0,0,90,GK,Manchester City,West Ham,4,1,2025-01-04,26798,2024,697276,0,0,0,0,0,1.13139808177948,1.13139808177948
 0,0,0,90,GK,Leicester,Manchester City,0,2,2024-12-29,26788,2024,696597,0,0,0,0,0,0.13307204842567444,0.13307204842567444
