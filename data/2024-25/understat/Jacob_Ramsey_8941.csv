@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,52,AML,Aston Villa,Chelsea,2,1,2025-02-22,26854,2024,708080,0,0,0,0,0,0,0
+0,0,0,20,Sub,Aston Villa,Liverpool,2,2,2025-02-19,26884,2024,707341,0.04958050325512886,0,1,0,0,0,0
 0,0,0,50,AML,Aston Villa,Ipswich,1,1,2025-02-15,26842,2024,706160,0,0,0,0,0,0.02129613421857357,0.02129613421857357
 0,0,0,50,AML,Wolverhampton Wanderers,Aston Villa,2,0,2025-02-01,26841,2024,703658,0,0,0,0,0,0,0
 1,1,0.10451826453208923,82,AML,Aston Villa,West Ham,1,1,2025-01-26,26823,2024,702181,0.16943183541297913,0,2,1,0.10451826453208923,0.27395009994506836,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0,68,MC,Manchester City,Liverpool,0,2,2025-02-23,26859,2024,708633,0,0,2,0,0,0,0
 0,0,0,17,Sub,Arsenal,Manchester City,5,1,2025-02-02,26833,2024,704216,0,0,0,0,0,0,0
 0,0,0,14,Sub,Manchester City,Chelsea,3,1,2025-01-25,26828,2024,701660,0,0,0,0,0,0.37857693433761597,0.37857693433761597
 0,2,0.13956846296787262,64,AMC,Ipswich,Manchester City,0,6,2025-01-19,26816,2024,700775,0.7496261596679688,2,3,0,0.13956846296787262,0.9786682724952698,0.7391502857208252

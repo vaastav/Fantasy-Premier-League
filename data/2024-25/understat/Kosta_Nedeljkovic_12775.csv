@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,RasenBallsport Leipzig,FC Heidenheim,2,2,2025-02-23,27941,2024,708422,0,0,0,0,0,0,0
 0,2,0.6053498983383179,7,Sub,Augsburg,RasenBallsport Leipzig,0,0,2025-02-14,27936,2024,705807,0,0,0,0,0.6053498983383179,0.6053498983383179,0
 0,0,0,3,Sub,Wolverhampton Wanderers,Aston Villa,2,0,2025-02-01,26841,2024,703664,0,0,0,0,0,0.01879197359085083,0.01879197359085083
 0,0,0,17,Sub,Newcastle United,Aston Villa,3,0,2024-12-26,26778,2024,696236,0,0,0,0,0,0,0

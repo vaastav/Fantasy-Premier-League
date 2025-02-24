@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,Sub,Fulham,Crystal Palace,0,2,2025-02-22,26856,2024,707848,0,0,0,0,0,0,0
 0,0,0,1,Sub,Crystal Palace,Everton,1,2,2025-02-15,26844,2024,706403,0.06600747257471085,0,1,0,0,0.06600747257471085,0
 0,0,0,62,AMC,Manchester United,Crystal Palace,0,2,2025-02-02,26838,2024,703999,0.042836010456085205,0,1,0,0,0.042836010456085205,0
 0,0,0,6,Sub,Crystal Palace,Brentford,1,2,2025-01-26,26825,2024,701936,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Arsenal,West Ham,0,1,2025-02-22,26853,2024,707775,0,0,0,0,0,0.09633937478065491,0.09633937478065491
 0,0,0,90,GK,West Ham,Brentford,0,1,2025-02-15,26851,2024,706275,0,0,0,0,0,0.11609889566898346,0.11609889566898346
 0,0,0,90,GK,Chelsea,West Ham,2,1,2025-02-03,26835,2024,704451,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,West Ham,1,1,2025-01-26,26823,2024,702188,0,0,0,0,0,0.03156740218400955,0.03156740218400955

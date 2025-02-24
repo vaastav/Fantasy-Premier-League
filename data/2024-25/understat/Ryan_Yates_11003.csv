@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.6500781178474426,7,Sub,Newcastle United,Nottingham Forest,4,3,2025-02-23,26860,2024,708346,0,0,0,1,0.6500781178474426,0.037791453301906586,0
 0,1,0.010758534073829651,49,DMC,Bournemouth,Nottingham Forest,5,0,2025-01-25,26822,2024,701546,0,0,0,0,0.010758534073829651,0.14696797728538513,0.13620944321155548
 0,0,0,4,Sub,Nottingham Forest,Southampton,3,2,2025-01-19,26820,2024,700512,0,0,0,0,0,0,0
 0,0,0,77,DMC,Nottingham Forest,Liverpool,1,1,2025-01-14,26807,2024,699203,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,49,DR,Ipswich,Tottenham,1,4,2025-02-22,26857,2024,707790,0,0,0,0,0,0.12878254055976868,0.12878254055976868
 0,0,0,65,DC,Ipswich,Manchester City,0,6,2025-01-19,26816,2024,700755,0,0,0,0,0,0.09684164077043533,0.09684164077043533
 0,0,0,21,Sub,Lecce,Atalanta,0,4,2024-08-19,27370,2024,667346,0,0,0,0,0,0,0
 0,0,0,90,DR,Luton,Everton,1,1,2024-05-03,22252,2023,658571,0,0,0,0,0,0.023149337619543076,0.023149337619543076

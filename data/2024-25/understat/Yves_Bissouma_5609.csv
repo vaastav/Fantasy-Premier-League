@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Ipswich,Tottenham,1,4,2025-02-22,26857,2024,707817,0,0,0,0,0,0,0
 0,1,0.034171491861343384,11,Sub,Tottenham,Manchester United,1,0,2025-02-16,26850,2024,706994,0,0,0,0,0.034171491861343384,0,0
 0,2,0.06139921769499779,70,DMC,Brentford,Tottenham,0,2,2025-02-02,26834,2024,703935,0.01774718053638935,0,1,0,0.06139921769499779,0.15728548169136047,0.07813908904790878
 0,0,0,50,MC,Arsenal,Tottenham,2,1,2025-01-15,26802,2024,699525,0,0,0,0,0,0,0

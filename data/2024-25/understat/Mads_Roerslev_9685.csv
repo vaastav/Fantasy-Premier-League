@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,59,DR,Wolfsburg,Bochum,1,1,2025-02-22,27945,2024,707730,0,0,0,0,0,0,0
 0,0,0,39,Sub,VfB Stuttgart,Wolfsburg,1,2,2025-02-15,27932,2024,706149,0,0,0,0,0,0,0
 0,0,0,12,Sub,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02,27919,2024,704063,0,0,0,0,0,0,0
 0,1,0.026361780241131783,90,DR,Crystal Palace,Brentford,1,2,2025-01-26,26825,2024,701940,0.015513531863689423,0,1,0,0.026361780241131783,0.026361780241131783,0

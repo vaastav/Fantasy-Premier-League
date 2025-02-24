@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,76,FW,Everton,Manchester United,2,2,2025-02-22,26855,2024,707539,0.01786896586418152,0,1,0,0,0,0
 0,3,0.176177978515625,90,FW,Tottenham,Manchester United,1,0,2025-02-16,26850,2024,707008,0,0,0,0,0.176177978515625,0.19539088010787964,0.01921289972960949
 0,1,0.08882353454828262,19,Sub,Manchester United,Crystal Palace,0,2,2025-02-02,26838,2024,703987,0,0,0,0,0.08882353454828262,0.08882353454828262,0
 0,0,0,59,FW,Fulham,Manchester United,0,1,2025-01-26,26826,2024,702351,0,0,0,0,0,0,0
