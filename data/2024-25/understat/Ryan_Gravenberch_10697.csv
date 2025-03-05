@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,77,DMC,Liverpool,Newcastle United,2,0,2025-02-26,26870,2024,709242,0,0,0,0,0,0,0
 0,0,0,90,DMC,Manchester City,Liverpool,0,2,2025-02-23,26859,2024,708647,0,0,0,0,0,0,0
 0,0,0,90,DMC,Aston Villa,Liverpool,2,2,2025-02-19,26884,2024,707348,0.05412771925330162,0,1,0,0,0.4542252719402313,0.4000975489616394
 0,0,0,90,DMC,Liverpool,Wolverhampton Wanderers,2,1,2025-02-16,26847,2024,706710,0,0,0,0,0,0,0

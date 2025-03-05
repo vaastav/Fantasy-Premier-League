@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Ipswich,3,2,2025-02-26,26871,2024,709220,0,0,0,0,0,0.15727782249450684,0.15727782249450684
 0,0,0,90,GK,Ipswich,Tottenham,1,4,2025-02-22,26857,2024,707789,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Ipswich,1,1,2025-02-15,26842,2024,706166,0,0,0,0,0,0.12506118416786194,0.12506118416786194

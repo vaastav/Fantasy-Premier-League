@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,71,MC,Nottingham Forest,Arsenal,0,0,2025-02-26,26864,2024,709162,0,0,0,0,0,0.33376801013946533,0.33376801013946533
 0,0,0,10,Sub,Leicester,Arsenal,0,2,2025-02-15,26846,2024,705961,0,0,0,0,0,0.5364933609962463,0.5364933609962463
 0,0,0,68,MC,Brighton,Arsenal,1,1,2025-01-04,26794,2024,697388,0.29089659452438354,0,1,0,0,0.29089659452438354,0
 0,0,0,1,Sub,Brentford,Arsenal,1,3,2025-01-01,26783,2024,697038,0,0,0,0,0,0,0

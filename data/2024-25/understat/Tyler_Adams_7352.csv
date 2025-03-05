@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Brighton,Bournemouth,2,1,2025-02-25,26863,2024,709077,0,0,0,0,0,0.047844842076301575,0.047844842076301575
 0,0,0,26,Sub,Bournemouth,Wolverhampton Wanderers,0,1,2025-02-22,26852,2024,707895,0,0,0,0,0,0,0
 0,0,0,90,DMC,Southampton,Bournemouth,1,3,2025-02-15,26849,2024,706265,0.04345991834998131,0,2,0,0,0.08039002120494843,0.036930106580257416
 0,0,0,90,DMC,Bournemouth,Liverpool,0,2,2025-02-01,26832,2024,703300,0,0,0,0,0,0.10691502690315247,0.10691502690315247

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.06416983902454376,90,DL,Liverpool,Newcastle United,2,0,2025-02-26,26870,2024,709240,0,0,0,0,0.06416983902454376,0.6174342632293701,0.5532644391059875
 0,0,0,14,Sub,Manchester City,Liverpool,0,2,2025-02-23,26859,2024,708652,0,0,0,0,0,0,0
 0,0,0,16,Sub,Everton,Liverpool,2,2,2025-02-12,26748,2024,705773,0,0,0,0,0,0,0
 0,0,0,66,DL,Brentford,Liverpool,0,2,2025-01-18,26813,2024,700008,0.06412935256958008,0,2,0,0,0.6174748539924622,0.60258549451828
