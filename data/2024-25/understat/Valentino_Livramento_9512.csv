@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,West Ham,Newcastle United,0,1,2025-03-10,26880,2024,712476,0.017480842769145966,0,1,0,0,0.2626168131828308,0.2626168131828308
 0,0,0,69,DR,Liverpool,Newcastle United,2,0,2025-02-26,26870,2024,709253,0,0,0,0,0,0,0
 0,0,0,90,DR,Newcastle United,Nottingham Forest,4,3,2025-02-23,26860,2024,708322,0.6235221028327942,0,2,0,0,0.6235221028327942,0
 0,0,0,43,Sub,Manchester City,Newcastle United,4,0,2025-02-15,26848,2024,706242,0,0,0,0,0,0.09435655176639557,0.09435655176639557

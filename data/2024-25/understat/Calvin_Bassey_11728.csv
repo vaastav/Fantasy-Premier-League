@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brighton,Fulham,2,1,2025-03-08,26873,2024,711337,0,0,0,0,0,0,0
 0,0,0,12,Sub,Wolverhampton Wanderers,Fulham,1,2,2025-02-25,26867,2024,709054,0,0,0,0,0,0.33766865730285645,0.33766865730285645
 0,0,0,90,DC,Fulham,Crystal Palace,0,2,2025-02-22,26856,2024,707824,0,0,0,0,0,0,0
 1,2,0.3985729515552521,90,DC,Fulham,Nottingham Forest,2,1,2025-02-15,26845,2024,706185,0,0,0,1,0.3985729515552521,0.8154851794242859,0.8154851794242859

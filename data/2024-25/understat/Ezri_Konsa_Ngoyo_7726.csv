@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brentford,Aston Villa,0,1,2025-03-08,26872,2024,711557,0,0,0,0,0,0,0
 0,1,0.012006934732198715,90,DC,Crystal Palace,Aston Villa,4,1,2025-02-25,26868,2024,709104,0,0,0,0,0.012006934732198715,0,0
 0,0,0,90,DC,Aston Villa,Chelsea,2,1,2025-02-22,26854,2024,708074,0,0,0,0,0,0.13080626726150513,0.13080626726150513
 0,0,0,90,DC,Wolverhampton Wanderers,Aston Villa,2,0,2025-02-01,26841,2024,703652,0,0,0,0,0,0.4560052752494812,0.4560052752494812
