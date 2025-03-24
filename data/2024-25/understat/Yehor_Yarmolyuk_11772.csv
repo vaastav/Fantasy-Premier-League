@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Bournemouth,Brentford,1,2,2025-03-15,26882,2024,713316,0,0,0,0,0,0,0
 0,0,0,90,DMC,Brentford,Everton,1,1,2025-02-26,26862,2024,709123,0.03686119243502617,0,1,0,0,0,0
 0,1,0.11118628084659576,40,Sub,Leicester,Brentford,0,4,2025-02-21,26858,2024,707513,0.2745818495750427,0,1,0,0.11118628084659576,0.3889809250831604,0.3889809250831604
 0,0,0,11,Sub,West Ham,Brentford,0,1,2025-02-15,26851,2024,706304,0,0,0,0,0,0,0

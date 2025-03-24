@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Everton,West Ham,1,1,2025-03-15,26885,2024,712965,0,0,0,0,0,0,0
 0,0,0,23,Sub,West Ham,Newcastle United,0,1,2025-03-10,26880,2024,712468,0,0,0,0,0,0.015001879073679447,0.015001879073679447
 0,1,0.5605607032775879,23,Sub,West Ham,Leicester,2,0,2025-02-27,26866,2024,709309,0,0,0,0,0.5605607032775879,0.1324261724948883,0.1324261724948883
 0,0,0,26,Sub,Arsenal,West Ham,0,1,2025-02-22,26853,2024,707786,0,0,0,0,0,0,0

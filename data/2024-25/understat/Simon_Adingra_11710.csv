@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Manchester City,Brighton,2,2,2025-03-15,26889,2024,713038,0,0,0,0,0,0,0
 0,0,0,2,Sub,Brighton,Fulham,2,1,2025-03-08,26873,2024,711333,0,0,0,0,0,0,0
 0,2,0.049530815333127975,9,Sub,Southampton,Brighton,0,4,2025-02-22,26861,2024,707883,0.14671294391155243,0,1,0,0.049530815333127975,0.6770690083503723,0.6275382041931152
 0,0,0,1,Sub,Brighton,Chelsea,3,0,2025-02-14,26843,2024,705887,0,0,0,0,0,0,0

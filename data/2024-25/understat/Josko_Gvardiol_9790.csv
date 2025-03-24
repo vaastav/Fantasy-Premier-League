@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Manchester City,Brighton,2,2,2025-03-15,26889,2024,713013,0,0,0,0,0,0.3676813840866089,0.3676813840866089
 0,0,0,90,DL,Nottingham Forest,Manchester City,1,0,2025-03-08,26878,2024,711023,0.18018287420272827,0,2,0,0,0.40565329790115356,0.40565329790115356
 0,0,0,90,DL,Tottenham,Manchester City,0,1,2025-02-26,26865,2024,709193,0.06686490774154663,0,1,0,0,0.3462047576904297,0.3462047576904297
 0,0,0,90,DL,Manchester City,Liverpool,0,2,2025-02-23,26859,2024,708630,0,0,2,0,0,0,0
