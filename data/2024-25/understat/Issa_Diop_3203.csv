@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Brighton,Fulham,2,1,2025-03-08,26873,2024,711336,0.02734760008752346,0,1,0,0,0.02734760008752346,0
+0,0,0,90,DC,Wolverhampton Wanderers,Fulham,1,2,2025-02-25,26867,2024,709042,0,0,0,0,0,0.7294676899909973,0.7294676899909973
+0,0,0,9,Sub,Fulham,Crystal Palace,0,2,2025-02-22,26856,2024,707835,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Fulham,1,2,2025-02-01,26839,2024,703413,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leicester,Fulham,0,2,2025-01-18,26817,2024,700047,0,0,0,0,0,0,0
 0,0,0,46,DC,Fulham,Ipswich,2,2,2025-01-05,26796,2024,697523,0,0,0,0,0,0.17096121609210968,0.17096121609210968

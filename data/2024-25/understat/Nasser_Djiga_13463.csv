@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Southampton,Wolverhampton Wanderers,1,2,2025-03-15,26891,2024,713066,0,0,0,0,0,0,0
+0,0,0,13,Sub,Bournemouth,Wolverhampton Wanderers,0,1,2025-02-22,26852,2024,707910,0,0,0,0,0,0,0
