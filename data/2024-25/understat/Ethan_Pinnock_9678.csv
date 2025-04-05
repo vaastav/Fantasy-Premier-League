@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.1275307983160019,86,DC,Newcastle United,Brentford,2,1,2025-04-02,26899,2024,716160,0,0,0,0,0.1275307983160019,0.22549128532409668,0.09796048700809479
 0,0,0,90,DC,Bournemouth,Brentford,1,2,2025-03-15,26882,2024,713305,0,0,0,0,0,0,0
 0,0,0,90,DC,Brentford,Aston Villa,0,1,2025-03-08,26872,2024,711544,0,0,0,0,0,0.12159513682126999,0.12159513682126999
 0,0,0,90,DC,Brentford,Everton,1,1,2025-02-26,26862,2024,709120,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Brighton,Aston Villa,0,3,2025-04-02,26893,2024,716185,0.010383612476289272,0,1,0,0,0.010383612476289272,0
 0,0,0,1,Sub,Manchester City,Brighton,2,2,2025-03-15,26889,2024,713035,0,0,0,0,0,0,0
 0,0,0,2,Sub,Brighton,Fulham,2,1,2025-03-08,26873,2024,711329,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Bournemouth,2,1,2025-02-25,26863,2024,709067,0,0,0,0,0,0,0

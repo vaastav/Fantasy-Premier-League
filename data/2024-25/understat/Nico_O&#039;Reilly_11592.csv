@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.12164574861526489,90,DL,Manchester City,Leicester,2,0,2025-04-02,26898,2024,716115,0.03761851042509079,0,1,0,0.12164574861526489,0.3356535732746124,0.3356535732746124
 0,0,0,2,Sub,Manchester City,Newcastle United,4,0,2025-02-15,26848,2024,706227,0,0,0,0,0,0,0
 0,1,0.015996936708688736,17,Sub,Ipswich,Manchester City,0,6,2025-01-19,26816,2024,700782,0,0,0,0,0.015996936708688736,0.015996936708688736,0
