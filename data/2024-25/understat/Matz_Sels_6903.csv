@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Nottingham Forest,Manchester United,1,0,2025-04-01,26894,2024,716001,0,0,0,0,0,0,0
 0,0,0,90,GK,Ipswich,Nottingham Forest,2,4,2025-03-15,26887,2024,712993,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Manchester City,1,0,2025-03-08,26878,2024,711004,0.022183170542120934,0,1,0,0,0.07458052039146423,0.05239734798669815
 0,0,0,90,GK,Nottingham Forest,Arsenal,0,0,2025-02-26,26864,2024,709143,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,49,DC,Wolverhampton Wanderers,West Ham,1,0,2025-04-01,26895,2024,715987,0,0,0,0,0,0,0
 0,0,0,71,DC,West Ham,Newcastle United,0,1,2025-03-10,26880,2024,712458,0,0,0,0,0,0.08055254817008972,0.08055254817008972
 0,0,0,90,DC,West Ham,Leicester,2,0,2025-02-27,26866,2024,709300,1.1678416728973389,0,2,0,0,0.6617825031280518,0.05450153350830078
 0,0,0,90,DC,Arsenal,West Ham,0,1,2025-02-22,26853,2024,707779,0,0,0,0,0,0.7903981804847717,0.7903981804847717
