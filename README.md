@@ -4,9 +4,15 @@
 Fantasy-Premier-League
 ======================
 
-# ARCHIVAL NOTICE
+# NOTICE
 
-This repository will be archived at the end of the 2024-25 season. NO updates will be posted to this repository after the 2024-25 season.
+This weekly updates for the repository have been stopped at the end of the 2024-25 season. NO weekly updates will be posted to this repository after the 2024-25 season.
+
+Instead, there will be 3 major updates posted to this repository:
+
++ One at the start of the season
++ One at the end of the January transfer window
++ One at the end of the season
 
 ## Description
 

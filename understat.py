@@ -125,7 +125,7 @@ def main():
     #md, sd, gd = get_player_data(318)
     #match_frame = pd.DataFrame.from_records(md)
     #match_frame.to_csv('auba.csv', index=False)
-    match_ids('data/2024-25/understat', 'data/2024-25')
+    match_ids('data/2025-26/understat', 'data/2025-26')
 
 if __name__ == '__main__':
     main()
