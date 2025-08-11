@@ -1,0 +1,5 @@
+assists,bonus,bps,clean_sheets,creativity,defensive_contribution,element_code,end_cost,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,goals_conceded,goals_scored,ict_index,influence,minutes,own_goals,penalties_missed,penalties_saved,red_cards,saves,season_name,start_cost,starts,threat,total_points,yellow_cards
+3,1,98,2,118.5,0,215711,63,0.00,0.00,0.00,0.00,13,1,53.2,143.2,750,0,0,0,0,0,2021/22,65,0,271.0,37,3
+5,6,242,8,452.8,0,215711,43,4.77,10.11,5.34,35.15,32,4,132.8,339.6,1964,0,0,0,0,0,2022/23,50,26,540.0,100,4
+11,11,482,5,707.1,0,215711,54,7.17,13.46,6.29,36.17,32,10,199.1,663.2,2063,0,0,0,0,0,2023/24,55,22,623.0,148,5
+2,2,174,2,235.8,0,215711,62,2.92,4.65,1.73,13.91,19,1,70.3,146.4,1132,0,0,0,0,0,2024/25,65,14,325.0,47,3

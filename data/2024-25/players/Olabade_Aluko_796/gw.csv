@@ -1,0 +1,8 @@
+assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,mng_clean_sheets,mng_draw,mng_goals_scored,mng_loss,mng_underdog_draw,mng_underdog_win,mng_win,modified,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
+0,0,0,0,0.0,796,0.00,0.00,0.00,0.00,313,0,0,0.0,0.0,2025-04-12T14:00:00Z,0,0,0,0,0,0,0,0,False,5,0,0,0,0,32,0,0,0,2,2,0.0,0,0,0,0,40,False,0
+0,0,0,0,0.0,796,0.00,0.00,0.00,0.00,327,0,0,0.0,0.0,2025-04-20T15:30:00Z,0,0,0,0,0,0,0,0,False,12,0,0,0,0,33,0,78,0,1,0,0.0,0,33,37,4,40,True,0
+0,0,0,0,0.0,796,0.00,0.00,0.00,0.00,340,0,0,0.0,0.0,2025-04-26T14:00:00Z,0,0,0,0,0,0,0,0,False,20,0,0,0,0,34,0,117,0,0,3,0.0,0,0,17,17,40,False,0
+0,0,0,0,0.0,796,0.00,0.00,0.00,0.00,348,0,0,0.0,0.0,2025-05-03T14:00:00Z,0,0,0,0,0,0,0,0,False,17,0,0,0,0,35,0,123,0,0,2,0.0,0,9,20,11,40,True,0
+0,0,0,0,0.0,796,0.00,0.00,0.00,0.00,357,0,0,0.0,0.0,2025-05-11T13:15:00Z,0,0,0,0,0,0,0,0,False,16,0,0,0,0,36,0,152,0,2,2,0.0,0,9,21,12,40,False,0
+0,0,0,0,0.0,796,0.00,0.00,0.00,0.00,368,0,0,0.0,0.0,2025-05-18T14:00:00Z,0,0,0,0,0,0,0,0,False,10,0,0,0,0,37,0,186,0,0,2,0.0,0,18,26,8,40,True,0
+0,0,3,0,0.2,796,0.00,0.00,0.00,0.04,371,0,0,0.2,2.0,2025-05-25T15:00:00Z,1,0,0,0,0,0,0,0,False,3,0,0,0,0,38,0,258,0,0,2,0.0,1,36,62,26,40,False,0
