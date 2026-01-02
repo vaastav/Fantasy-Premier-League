@@ -68,6 +68,10 @@ url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/d
 df = pd.read_csv(url)
 ```
 
+### Data Dictionary
+
+For a comprehensive explanation of all variables and columns in the dataset, see the [DATA_DICTIONARY.md](DATA_DICTIONARY.md) file.
+
 ### Player Position Data
 
 In players_raw.csv, element_type is the field that corresponds to the position.
