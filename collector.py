@@ -149,8 +149,8 @@ def collect_gw(gw, directory_name, output_dir, root_directory_name="data/2025-26
     for row in rows:
         writer.writerow(row)
 
-def collect_all_gws(directory_name, output_dir, root_dir):
-    for i in range(1,17):
+def collect_all_gws(directory_name, output_dir, root_dir, num_gws):
+    for i in range(1, num_gws+1):
         collect_gw(i, directory_name, output_dir, root_dir)
 
 def merge_all_gws(num_gws, gw_directory):
@@ -283,7 +283,7 @@ def main():
             Regenerate merged_gw.csv from all gw*.csv files
             (fixes schema drift issues)
         
-        python collector.py collect <player_dir> <output_dir> <root_dir>
+        python collector.py collect <player_dir> <output_dir> <root_dir> <num_gws>
             Collect gameweek data from player files
     
     Examples:
@@ -313,10 +313,10 @@ def main():
         regenerate_merged_gw(gw_directory)
     
     elif command == "collect":
-        if len(sys.argv) < 5:
-            print("Usage: python collector.py collect <player_dir> <output_dir> <root_dir>")
+        if len(sys.argv) < 6:
+            print("Usage: python collector.py collect <player_dir> <output_dir> <root_dir> <num_gws>")
             sys.exit(1)
-        collect_all_gws(sys.argv[2], sys.argv[3], sys.argv[4])
+        collect_all_gws(sys.argv[2], sys.argv[3], sys.argv[4], int(sys.argv[5]))
     
     else:
         # Legacy mode: assume it's num_gws for backwards compatibility
