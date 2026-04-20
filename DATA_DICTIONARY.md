@@ -296,13 +296,22 @@ Individual gameweek performance data for all players.
 
 | Column | Type | Description |
 |--------|------|-------------|
-| `xP` | float | Expected points (predicted before match) |
+| `xP` | float | Expected points from the FPL API's `ep_this` field — **see caveat below** |
 | `value` | int | Player price at this gameweek (in £0.1m) |
 | `selected` | int | Number of managers who owned this player |
 | `transfers_in` | int | Transfers in this GW |
 | `transfers_out` | int | Transfers out this GW |
 | `transfers_balance` | int | Net transfers (in - out) |
 | `modified` | bool | Whether data was modified/corrected |
+
+> **Caveat on `xP` (timing uncertainty):** `xP` is scraped from FPL's `ep_this`
+> field *after* each gameweek has ended. FPL's update cadence for this field is
+> not documented, and empirical evidence suggests scraped values may reflect
+> post-match information rather than the pre-match prediction managers actually
+> saw before the deadline. If you are using `xP` as an ML feature, treat it as
+> potentially post-match (apply `shift(1)` within each `element` group, or drop
+> the column). See the "Known Data Limitations" / "xP column" section of the
+> README before relying on it.
 
 ### Defensive Stats (when available)
 

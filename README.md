@@ -84,6 +84,20 @@ In players_raw.csv, element_type is the field that corresponds to the position.
 
 + GW35 expected points data is wrong (all values are 0).
 
+### `xP` column — potential lookahead for ML models
+
+The `xP` column in `gws/merged_gw.csv` is sourced from the FPL bootstrap-static API's `ep_this` field. The scraper runs **after** each gameweek ends, so if FPL updates `ep_this` post-match, the scraped value will contain information that was not available to managers before the deadline. FPL's update cadence for `ep_this` is not documented, so the exact behaviour is uncertain.
+
+Empirical comparisons suggest the scraped `xP` values diverge from live pre-match `ep_this`:
+
++ Live API `ep_this` vs `form` correlation (fetched pre-deadline): ~0.98
++ Scraped `xP` vs `form` correlation (this dataset): ~0.75
++ `xP` rolling-3 vs same-GW `total_points` correlation: ~0.40 (unusually high for a genuinely pre-match feature)
+
+**If you are training ML models on this dataset:** treat `xP` as potentially post-match. Either apply `shift(1)` within each `element` group, or exclude the column entirely. Using it unshifted as a feature to predict same-GW `total_points` has been observed to cause severe lookahead bias.
+
+See [this analysis](https://github.com/ADnocap/FPL-RL/blob/main/XP_LOOKAHEAD_ANALYSIS.md) for the full investigation.
+
 ### Contributing
 
 + If you feel like there is some data that is missing which you would like to see, then please feel free to create a PR or create an issue highlighting what is missing and what you would like to be added
