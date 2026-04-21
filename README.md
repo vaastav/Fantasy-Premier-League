@@ -84,19 +84,13 @@ In players_raw.csv, element_type is the field that corresponds to the position.
 
 + GW35 expected points data is wrong (all values are 0).
 
-### `xP` column — potential lookahead for ML models
+### `xP` column — scraping window caveat
 
-The `xP` column in `gws/merged_gw.csv` is sourced from the FPL bootstrap-static API's `ep_this` field. The scraper runs **after** each gameweek ends, so if FPL updates `ep_this` post-match, the scraped value will contain information that was not available to managers before the deadline. FPL's update cadence for `ep_this` is not documented, so the exact behaviour is uncertain.
+`xP` is scraped from the FPL API's `ep_this` field, which is a pre-match prediction computed at each gameweek's deadline and frozen (unchanged) until the next deadline. When the scraper is run inside a gameweek's `is_current=True` window, the captured value is the correct pre-match prediction for that gameweek — it contains no post-match information.
 
-Empirical comparisons suggest the scraped `xP` values diverge from live pre-match `ep_this`:
+If the scraper misses that window entirely, `xP{N}.csv` is not written and `merged_gw.csv`'s `xP` column will be zero/empty for that gameweek. Known missing gameweeks: 2024-25 GW22, GW32, GW34. When using `xP` as an ML feature, detect these gaps (e.g. `df.groupby('GW').xP.sum() == 0`) and handle them explicitly. Also deduplicate double-gameweek rows before aggregating — `ep_this` is a single value that gets stamped on every fixture row, so use `.first()` or `.max()`, not `.sum()`.
 
-+ Live API `ep_this` vs `form` correlation (fetched pre-deadline): ~0.98
-+ Scraped `xP` vs `form` correlation (this dataset): ~0.75
-+ `xP` rolling-3 vs same-GW `total_points` correlation: ~0.40 (unusually high for a genuinely pre-match feature)
-
-**If you are training ML models on this dataset:** treat `xP` as potentially post-match. Either apply `shift(1)` within each `element` group, or exclude the column entirely. Using it unshifted as a feature to predict same-GW `total_points` has been observed to cause severe lookahead bias.
-
-See [this analysis](https://github.com/ADnocap/FPL-RL/blob/main/XP_LOOKAHEAD_ANALYSIS.md) for the full investigation.
+See [this analysis](https://github.com/ADnocap/FPL-RL/blob/main/EP_FORMULA.md) for the full investigation, including the structural proof that post-match leakage is not possible and the empirical mid-GW test that confirms `ep_this` is frozen at the deadline.
 
 ### Contributing
 
