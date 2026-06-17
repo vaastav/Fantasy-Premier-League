@@ -289,6 +289,7 @@ def main():
     Examples:
         python collector.py merge 38 data/2024-25/gws
         python collector.py regenerate data/2024-25/gws
+        python collector.py collect data/2025-26/players data/2025-26/gws data/2025-26 39
     """
     if len(sys.argv) < 2:
         print("Usage: python collector.py <command> [args...]")
