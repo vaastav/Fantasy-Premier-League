@@ -21,7 +21,7 @@ def get_data(url):
     return scripts
 
 def get_epl_data():
-    scripts = get_data("https://understat.com/league/EPL/2024")
+    scripts = get_data("https://understat.com/league/EPL/2025")
     teamData = {}
     playerData = {}
     for script in scripts:
