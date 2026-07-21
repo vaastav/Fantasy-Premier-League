@@ -1,0 +1,390 @@
+code,web_name,first_name,second_name,position_2023_24,position_2024_25,position_2025_26,position_changed,team_2023_24,team_2024_25,team_2025_26,team_changed,played_all_seasons,points_3yr_total,minutes_3yr_total,points_per_90_3yr
+118748,M.Salah,Mohamed,Salah,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,True,678.0,8049.0,7.581065970928066
+223094,Haaland,Erling,Haaland,FWD,FWD,FWD,False,Man City,Man City,Man City,False,True,637.0,8242.0,6.955835962145111
+178301,Watkins,Ollie,Watkins,FWD,FWD,FWD,False,Aston Villa,Aston Villa,Aston Villa,False,True,581.0,8648.0,6.046484736355227
+141746,B.Fernandes,Bruno,Borges Fernandes,MID,MID,MID,False,Man Utd,Man Utd,Man Utd,False,True,575.0,9200.0,5.625
+244851,Palmer,Cole,Palmer,MID,MID,MID,False,Chelsea,Chelsea,Chelsea,False,True,572.0,7764.0,6.630602782071098
+178186,Bowen,Jarrod,Bowen,MID,MID,FWD,True,West Ham,West Ham,West Ham,False,True,562.0,9400.0,5.3808510638297875
+446008,Mbeumo,Bryan,Mbeumo,MID,MID,MID,False,Brentford,Brentford,Man Utd,True,True,511.0,7983.0,5.760992108229989
+223340,Saka,Bukayo,Saka,MID,MID,MID,False,Arsenal,Arsenal,Arsenal,False,True,510.0,6864.0,6.687062937062937
+222531,Gibbs-White,Morgan,Gibbs-White,MID,MID,MID,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,484.0,9063.0,4.80635551142006
+204480,Rice,Declan,Rice,MID,MID,MID,False,Arsenal,Arsenal,Arsenal,False,True,476.0,9141.0,4.686576960945192
+226597,Gabriel,Gabriel,dos Santos Magalhães,DEF,DEF,DEF,False,Arsenal,Arsenal,Arsenal,False,True,475.0,8155.0,5.242182709993869
+437730,Semenyo,Antoine,Semenyo,FWD,MID,MID,True,Bournemouth,Bournemouth,Man City,True,True,474.0,8501.0,5.018233149041289
+209244,Foden,Phil,Foden,MID,MID,MID,False,Man City,Man City,Man City,False,True,466.0,6709.0,6.251304218214339
+430871,Cunha,Matheus,Santos Carneiro da Cunha,FWD,FWD,MID,True,Wolves,Wolves,Man Utd,True,True,456.0,7527.0,5.452371462734157
+111234,Pickford,Jordan,Pickford,GK,GK,GK,False,Everton,Everton,Everton,False,True,446.0,10260.0,3.912280701754386
+208706,Bruno G.,Bruno,Guimarães Rodriguez Moura,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,442.0,8993.0,4.4234404536862
+154561,Raya,David,Raya Martín,GK,GK,GK,False,Arsenal,Arsenal,Arsenal,False,True,439.0,9630.0,4.102803738317757
+97032,Virgil,Virgil,van Dijk,DEF,DEF,DEF,False,Liverpool,Liverpool,Liverpool,False,True,435.0,9927.0,3.943789664551224
+462424,Saliba,William,Saliba,DEF,DEF,DEF,False,Arsenal,Arsenal,Arsenal,False,True,431.0,9073.0,4.275322385098645
+231747,Mateta,Jean-Philippe,Mateta,FWD,FWD,FWD,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,429.0,7126.0,5.418186921133876
+219168,Isak,Alexander,Isak,FWD,FWD,FWD,False,Newcastle,Newcastle,Liverpool,True,True,424.0,5705.0,6.6888694127957935
+116216,Trossard,Leandro,Trossard,MID,MID,MID,False,Arsenal,Arsenal,Arsenal,False,True,409.0,6176.0,5.960168393782383
+232826,Gordon,Anthony,Gordon,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,408.0,7122.0,5.155855096882898
+475168,João Pedro,João Pedro,Junqueira de Jesus,FWD,FWD,FWD,False,Brighton,Brighton,Chelsea,True,True,407.0,6641.0,5.515735581990664
+424876,Szoboszlai,Dominik,Szoboszlai,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,True,402.0,7819.0,4.627190177772094
+232413,Eze,Eberechi,Eze,MID,MID,MID,False,Crystal Palace,Crystal Palace,Arsenal,True,True,397.0,6527.0,5.474184158112456
+17761,Tarkowski,James,Tarkowski,DEF,DEF,DEF,False,Everton,Everton,Everton,False,True,392.0,9672.0,3.6476426799007444
+244723,Mitchell,Tyrick,Mitchell,DEF,DEF,DEF,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,377.0,9547.0,3.5539960196920495
+184029,Ødegaard,Martin,Ødegaard,MID,MID,MID,False,Arsenal,Arsenal,Arsenal,False,True,376.0,6782.0,4.989678560896491
+60689,Wood,Chris,Wood,FWD,FWD,FWD,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,372.0,5655.0,5.9204244031830235
+80201,Leno,Bernd,Leno,GK,GK,GK,False,Fulham,Fulham,Fulham,False,True,370.0,10260.0,3.245614035087719
+448047,Enzo,Enzo,Fernández,MID,MID,MID,False,Chelsea,Chelsea,Chelsea,False,True,369.0,8265.0,4.018148820326679
+244850,Rogers,Morgan,Rogers,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,True,365.0,7031.0,4.672166121462097
+243298,Gakpo,Cody,Gakpo,FWD,FWD,MID,True,Liverpool,Liverpool,Liverpool,False,True,364.0,6290.0,5.208267090620032
+153133,Iwobi,Alex,Iwobi,MID,MID,MID,False,Fulham,Fulham,Fulham,False,True,361.0,7732.0,4.2020175892395235
+209036,Guéhi,Marc,Guéhi,DEF,DEF,DEF,False,Crystal Palace,Crystal Palace,Man City,True,True,361.0,8229.0,3.948231862923806
+477424,Gvardiol,Joško,Gvardiol,DEF,DEF,DEF,False,Man City,Man City,Man City,False,True,355.0,6975.0,4.580645161290322
+165809,Bernardo,Bernardo,Mota Veiga de Carvalho e Silva,MID,MID,MID,False,Man City,Man City,Man City,False,True,353.0,8112.0,3.9164201183431953
+441164,Pedro Porro,Pedro,Porro Sauceda,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,True,351.0,8489.0,3.721286370597243
+98980,Martinez,Emiliano,Martínez Romero,GK,GK,GK,False,Aston Villa,Aston Villa,Aston Villa,False,True,346.0,9045.0,3.442786069651741
+215439,Souček,Tomáš,Souček,MID,MID,MID,False,West Ham,West Ham,West Ham,False,True,345.0,7620.0,4.074803149606299
+216646,Wissa,Yoane,Wissa,FWD,FWD,FWD,False,Brentford,Brentford,Newcastle,True,True,343.0,5926.0,5.209247384407695
+85971,Son,Son,Heung-min,MID,MID,MID,False,Spurs,Spurs,Spurs,False,False,342.0,5040.0,6.107142857142857
+432830,Collins,Nathan,Collins,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,True,340.0,9040.0,3.38495575221239
+153682,Wilson,Harry,Wilson,MID,MID,MID,False,Fulham,Fulham,Fulham,False,True,340.0,5425.0,5.6405529953917055
+243016,Mac Allister,Alexis,Mac Allister,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,True,339.0,7851.0,3.8861291555215898
+247348,Muñoz,Daniel,Muñoz Mejía,DEF,DEF,DEF,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,334.0,7069.0,4.252369500636582
+242898,Johnson,Brennan,Johnson,MID,MID,MID,False,Spurs,Spurs,Crystal Palace,True,True,333.0,6198.0,4.835430784123911
+102057,Raúl,Raúl,Jiménez Rodríguez,FWD,FWD,FWD,False,Fulham,Fulham,Fulham,False,True,331.0,6059.0,4.9166529130219505
+50175,Welbeck,Danny,Welbeck,FWD,FWD,FWD,False,Brighton,Brighton,Brighton,False,True,330.0,6045.0,4.913151364764268
+215379,Anderson,Elliot,Anderson,MID,MID,MID,False,Newcastle,Nott'm Forest,Nott'm Forest,True,True,329.0,7076.0,4.184567552289429
+244731,Luis Díaz,Luis,Díaz Marulanda,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,False,325.0,5018.0,5.82901554404145
+114243,J.Murphy,Jacob,Murphy,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,323.0,5146.0,5.649047804119705
+154566,Solanke,Dominic,Solanke-Mitchell,FWD,FWD,FWD,False,Bournemouth,Spurs,Spurs,True,True,323.0,6521.0,4.457905229259316
+449434,Elanga,Anthony,Elanga,MID,MID,MID,False,Nott'm Forest,Nott'm Forest,Newcastle,True,True,320.0,6222.0,4.628736740597879
+460842,Kudus,Mohammed,Kudus,MID,MID,MID,False,West Ham,West Ham,Spurs,True,True,318.0,6609.0,4.330458465728552
+224967,Mykolenko,Vitalii,Mykolenko,DEF,DEF,DEF,False,Everton,Everton,Everton,False,True,317.0,8510.0,3.352526439482961
+216051,Dalot,Diogo,Dalot Teixeira,DEF,DEF,DEF,False,Man Utd,Man Utd,Man Utd,False,True,317.0,8595.0,3.319371727748691
+247632,Neto,Pedro,Lomba Neto,MID,MID,MID,False,Wolves,Chelsea,Chelsea,True,True,315.0,6407.0,4.424847822693929
+172649,Henderson,Dean,Henderson,GK,GK,GK,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,314.0,8370.0,3.3763440860215055
+201658,Tavernier,Marcus,Tavernier,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,True,313.0,6782.0,4.153641993512238
+219847,Havertz,Kai,Havertz,MID,FWD,FWD,True,Arsenal,Arsenal,Arsenal,False,True,313.0,5076.0,5.549645390070922
+116535,A.Becker,Alisson,Becker,GK,GK,GK,False,Liverpool,Liverpool,Liverpool,False,True,310.0,7368.0,3.786644951140065
+221466,Senesi,Marcos,Senesi Barón,DEF,DEF,DEF,False,Bournemouth,Bournemouth,Bournemouth,False,True,308.0,6630.0,4.180995475113122
+513418,Schade,Kevin,Schade,MID,MID,MID,False,Brentford,Brentford,Brentford,False,True,307.0,5352.0,5.1625560538116595
+177815,Calvert-Lewin,Dominic,Calvert-Lewin,FWD,FWD,FWD,False,Everton,Everton,Leeds,True,True,306.0,6489.0,4.244105409153953
+248875,Doku,Jérémy,Doku,MID,MID,MID,False,Man City,Man City,Man City,False,True,306.0,4864.0,5.662006578947368
+78916,Burn,Dan,Burn,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,True,305.0,8250.0,3.3272727272727276
+533463,O.Dango,Dango,Ouattara,MID,MID,MID,False,Bournemouth,Bournemouth,Brentford,True,True,303.0,5483.0,4.97355462338136
+489639,Verbruggen,Bart,Verbruggen,GK,GK,GK,False,Brighton,Brighton,Brighton,False,True,301.0,8550.0,3.168421052631579
+444145,Martinelli,Gabriel,Martinelli Silva,MID,MID,MID,False,Arsenal,Arsenal,Arsenal,False,True,300.0,5359.0,5.038253405486098
+209046,Hudson-Odoi,Callum,Hudson-Odoi,MID,MID,MID,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,300.0,5874.0,4.596527068437181
+201666,Barnes,Harvey,Barnes,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,300.0,4485.0,6.020066889632107
+122806,McGinn,John,McGinn,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,True,300.0,7353.0,3.671970624235006
+222683,Kluivert,Justin,Kluivert,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,True,299.0,5194.0,5.1809780515979975
+215059,Sánchez,Robert,Lynch Sánchez,GK,GK,GK,False,Chelsea,Chelsea,Chelsea,False,True,298.0,7353.0,3.6474908200734393
+469142,Van Hecke,Jan Paul,van Hecke,DEF,DEF,DEF,False,Brighton,Brighton,Brighton,False,True,296.0,8538.0,3.120168657765285
+174874,Andersen,Joachim,Andersen,DEF,DEF,DEF,False,Crystal Palace,Fulham,Fulham,True,True,295.0,8971.0,2.9595362835804258
+199798,Konsa,Ezri,Konsa Ngoyo,DEF,DEF,DEF,False,Aston Villa,Aston Villa,Aston Villa,False,True,294.0,9040.0,2.9269911504424777
+493105,Garnacho,Alejandro,Garnacho Ferreyra,MID,MID,MID,False,Man Utd,Man Utd,Chelsea,True,True,293.0,6013.0,4.385498087477132
+119471,Schär,Fabian,Schär,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,True,292.0,7079.0,3.7123887554739365
+486672,Caicedo,Moisés,Caicedo Corozo,MID,MID,MID,False,Chelsea,Chelsea,Chelsea,False,True,292.0,9012.0,2.9161118508655126
+204716,Konaté,Ibrahima,Konaté,DEF,DEF,DEF,False,Liverpool,Liverpool,Liverpool,False,True,291.0,7221.0,3.626921479019526
+171314,Rúben,Rúben,dos Santos Gato Alves Dias,DEF,DEF,DEF,False,Man City,Man City,Man City,False,True,291.0,6965.0,3.7602297200287147
+85633,Sels,Matz,Sels,GK,GK,GK,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,289.0,7527.0,3.4555599840573934
+440089,Damsgaard,Mikkel,Damsgaard,MID,MID,MID,False,Brentford,Brentford,Brentford,False,True,289.0,5786.0,4.495333563774628
+232928,Garner,James,Garner,MID,MID,MID,False,Everton,Everton,Everton,False,True,288.0,8004.0,3.2383808095952022
+249231,Lewis-Potter,Keane,Lewis-Potter,MID,MID,DEF,True,Brentford,Brentford,Brentford,False,True,282.0,6480.0,3.9166666666666665
+441266,Gravenberch,Ryan,Gravenberch,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,True,281.0,7261.0,3.4829913235091583
+451340,Mitoma,Mitoma,Kaoru,MID,MID,MID,False,Brighton,Brighton,Brighton,False,True,281.0,5796.0,4.36335403726708
+179268,Cucurella,Marc,Cucurella Saseta,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,True,281.0,7477.0,3.3823726093352953
+544877,Kerkez,Milos,Kerkez,DEF,DEF,DEF,False,Bournemouth,Bournemouth,Liverpool,True,True,278.0,7553.0,3.312591023434397
+198869,White,Benjamin,White,DEF,DEF,DEF,False,Arsenal,Arsenal,Arsenal,False,True,277.0,4881.0,5.107559926244622
+215136,N.Williams,Neco,Williams,DEF,DEF,DEF,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,276.0,7421.0,3.347257781970085
+212319,Richarlison,Richarlison,de Andrade,MID,FWD,FWD,True,Spurs,Spurs,Spurs,False,True,276.0,3932.0,6.317395727365208
+169528,Robinson,Antonee,Robinson,DEF,DEF,DEF,False,Fulham,Fulham,Fulham,False,True,275.0,7919.0,3.1253946205328953
+575476,Murillo,Murillo,Costa dos Santos,DEF,DEF,DEF,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,271.0,8108.0,3.0081401085347803
+101188,Digne,Lucas,Digne,DEF,DEF,DEF,False,Aston Villa,Aston Villa,Aston Villa,False,True,271.0,6595.0,3.698256254738438
+61256,Casemiro,Carlos Henrique,Casimiro,MID,MID,MID,False,Man Utd,Man Utd,Man Utd,False,True,271.0,6045.0,4.034739454094293
+433154,McNeil,Dwight,McNeil,MID,MID,MID,False,Everton,Everton,Everton,False,True,270.0,5418.0,4.485049833887043
+448089,J.Gomes,João Victor,Gomes da Silva,MID,MID,MID,False,Wolves,Wolves,Wolves,False,True,269.0,8450.0,2.86508875739645
+149065,José Sá,José,Malheiro de Sá,GK,GK,GK,False,Wolves,Wolves,Wolves,False,True,268.0,7717.0,3.125566930154205
+180736,Chalobah,Trevoh,Chalobah,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,True,268.0,5698.0,4.2330642330642325
+248857,Madueke,Noni,Madueke,MID,MID,MID,False,Chelsea,Chelsea,Arsenal,True,True,268.0,4277.0,5.63946691606266
+184254,Vicario,Guglielmo,Vicario,GK,GK,GK,False,Spurs,Spurs,Spurs,False,True,268.0,8370.0,2.881720430107527
+465351,Matheus N.,Matheus,Nunes,MID,MID,DEF,True,Man City,Man City,Man City,False,True,267.0,5362.0,4.48153674002238
+166989,Tielemans,Youri,Tielemans,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,True,266.0,6495.0,3.685912240184758
+517052,N.Jackson,Nicolas,Jackson,FWD,FWD,FWD,False,Chelsea,Chelsea,Chelsea,False,False,263.0,5021.0,4.714200358494324
+445122,J.Timber,Jurriën,Timber,DEF,DEF,DEF,False,Arsenal,Arsenal,Arsenal,False,True,263.0,4937.0,4.794409560461819
+448514,Aït-Nouri,Rayan,Aït-Nouri,DEF,DEF,DEF,False,Wolves,Wolves,Man City,True,True,262.0,6410.0,3.6786271450858035
+427623,Richards,Chris,Richards,DEF,DEF,DEF,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,258.0,6837.0,3.3962264150943393
+199796,Cash,Matty,Cash,DEF,DEF,DEF,False,Aston Villa,Aston Villa,Aston Villa,False,True,257.0,7223.0,3.2022705247127234
+98747,Pope,Nick,Pope,GK,GK,GK,False,Newcastle,Newcastle,Newcastle,False,True,255.0,6281.0,3.653876771214775
+202641,Onana,André,Onana,GK,GK,GK,False,Man Utd,Man Utd,Man Utd,False,False,253.0,6480.0,3.513888888888889
+172780,Maddison,James,Maddison,MID,MID,MID,False,Spurs,Spurs,Spurs,False,True,253.0,3970.0,5.73551637279597
+224024,L.Paquetá,Lucas,Tolentino Coelho de Lima,MID,MID,MID,False,West Ham,West Ham,West Ham,False,True,249.0,6514.0,3.4402824685293214
+445044,Kulusevski,Dejan,Kulusevski,MID,MID,MID,False,Spurs,Spurs,Spurs,False,False,247.0,5145.0,4.320699708454811
+221632,Romero,Cristian,Romero,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,True,247.0,6075.0,3.659259259259259
+80801,Gana,Idrissa Gana,Gueye,MID,MID,MID,False,Everton,Everton,Everton,False,True,245.0,7042.0,3.131212723658052
+232892,Bassey,Calvin,Bassey,DEF,DEF,DEF,False,Fulham,Fulham,Fulham,False,True,244.0,7905.0,2.777988614800759
+480455,Branthwaite,Jarrad,Branthwaite,DEF,DEF,DEF,False,Everton,Everton,Everton,False,True,244.0,6303.0,3.4840552118039025
+493250,Amad,Amad,Diallo,MID,MID,MID,False,Man Utd,Man Utd,Man Utd,False,True,243.0,4622.0,4.731717871051493
+440993,Ndiaye,Iliman,Ndiaye,FWD,FWD,MID,True,Sheffield Utd,Everton,Everton,True,False,242.0,5207.0,4.182830804686
+486385,Beto,Norberto Bercique,Gomes Betuncal,FWD,FWD,FWD,False,Everton,Everton,Everton,False,True,241.0,4015.0,5.402241594022416
+159506,Aina,Ola,Aina,DEF,DEF,DEF,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,240.0,6273.0,3.443328550932568
+204580,Janelt,Vitaly,Janelt,MID,MID,MID,False,Brentford,Brentford,Brentford,False,True,240.0,6739.0,3.205223326903101
+101178,Ward-Prowse,James,Ward-Prowse,MID,MID,MID,False,West Ham,West Ham,Burnley,True,True,237.0,5525.0,3.860633484162896
+77794,Trippier,Kieran,Trippier,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,True,237.0,5120.0,4.166015625
+84182,Areola,Alphonse,Areola,GK,GK,GK,False,West Ham,West Ham,West Ham,False,True,236.0,6759.0,3.1424766977363516
+207283,Jensen,Mathias,Jensen,MID,MID,MID,False,Brentford,Brentford,Brentford,False,True,234.0,5286.0,3.9841089670828604
+83299,Dunk,Lewis,Dunk,DEF,DEF,DEF,False,Brighton,Brighton,Brighton,False,True,233.0,7787.0,2.6929497881083857
+214590,Wan-Bissaka,Aaron,Wan-Bissaka,DEF,DEF,DEF,False,Man Utd,West Ham,West Ham,True,True,232.0,7012.0,2.9777524244152884
+60307,Groß,Pascal,Groß,MID,MID,MID,False,Brighton,Brighton,Brighton,False,False,231.0,4748.0,4.378685762426285
+220566,Rodrigo,Rodrigo 'Rodri',Hernandez Cascante,MID,MID,MID,False,Man City,Man City,Man City,False,True,231.0,4513.0,4.606691779304232
+482609,Gusto,Malo,Gusto,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,True,230.0,5854.0,3.536043730782371
+491279,Van de Ven,Micky,van de Ven,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,True,229.0,6396.0,3.222326454033771
+482442,P.M.Sarr,Pape Matar,Sarr,MID,MID,MID,False,Spurs,Spurs,Spurs,False,True,228.0,5352.0,3.834080717488789
+121160,Ederson M.,Ederson,Santana de Moraes,GK,GK,GK,False,Man City,Man City,Man City,False,False,223.0,5105.0,3.931439764936337
+122798,Robertson,Andrew,Robertson,DEF,DEF,DEF,False,Liverpool,Liverpool,Liverpool,False,True,222.0,5333.0,3.746484155259704
+200720,Kelleher,Caoimhín,Kelleher,GK,GK,GK,False,Liverpool,Liverpool,Brentford,True,True,222.0,5130.0,3.8947368421052633
+532529,Hinshelwood,Jack,Hinshelwood,MID,MID,MID,False,Brighton,Brighton,Brighton,False,True,222.0,4441.0,4.4989867147038956
+487838,Hall,Lewis,Hall,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,True,219.0,5137.0,3.8368697683472845
+209289,Smith Rowe,Emile,Smith Rowe,MID,MID,MID,False,Arsenal,Fulham,Fulham,True,True,219.0,4288.0,4.596548507462686
+244042,Muniz,Rodrigo,Muniz Carvalho,FWD,FWD,FWD,False,Fulham,Fulham,Fulham,False,True,219.0,3519.0,5.601023017902813
+207189,Berge,Sander,Berge,MID,MID,MID,False,Burnley,Fulham,Fulham,True,True,218.0,8127.0,2.414174972314507
+180974,Joelinton,Joelinton Cássio,Apolinário de Lira,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,217.0,5620.0,3.4750889679715304
+184754,Hee Chan,Hwang,Hee-chan,MID,MID,MID,False,Wolves,Wolves,Wolves,False,True,216.0,4201.0,4.627469650083313
+215711,Bailey,Leon,Bailey,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,True,216.0,3645.0,5.333333333333334
+67089,Dúbravka,Martin,Dúbravka,GK,GK,GK,False,Newcastle,Newcastle,Burnley,True,True,215.0,6034.0,3.2068279748094137
+158499,Christie,Ryan,Christie,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,True,213.0,6000.0,3.195
+166477,Castagne,Timothy,Castagne,DEF,DEF,DEF,False,Fulham,Fulham,Fulham,False,True,212.0,6110.0,3.1227495908346974
+95658,Maguire,Harry,Maguire,DEF,DEF,DEF,False,Man Utd,Man Utd,Man Utd,False,True,211.0,5050.0,3.7603960396039606
+441191,Livramento,Tino,Livramento,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,True,209.0,5463.0,3.443163097199341
+206915,C.Jones,Curtis,Jones,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,True,208.0,4781.0,3.915498849613052
+156689,Andreas,Andreas,Hoelgebaum Pereira,MID,MID,MID,False,Fulham,Fulham,Fulham,False,False,208.0,4615.0,4.056338028169014
+233963,Mavropanos,Konstantinos,Mavropanos,DEF,DEF,DEF,False,West Ham,West Ham,West Ham,False,True,207.0,6067.0,3.0707104005274433
+449871,Onana,Amadou,Onana,MID,MID,MID,False,Everton,Aston Villa,Aston Villa,True,True,207.0,5453.0,3.416467999266459
+58621,Walker,Kyle,Walker,DEF,DEF,DEF,False,Man City,Man City,Burnley,True,True,206.0,6827.0,2.7156877105610078
+496221,Wharton,Adam,Wharton,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,204.0,5162.0,3.5567609453700118
+244954,Pau,Pau,Torres,DEF,DEF,DEF,False,Aston Villa,Aston Villa,Aston Villa,False,True,204.0,6154.0,2.983425414364641
+503139,Scott,Alex,Scott,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,True,203.0,4596.0,3.975195822454308
+176297,Rashford,Marcus,Rashford,MID,MID,MID,False,Man Utd,Aston Villa,Man Utd,True,False,203.0,3678.0,4.967373572593801
+432422,Tonali,Sandro,Tonali,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,203.0,5596.0,3.264832022873481
+510362,Toti,Toti,Gomes,DEF,DEF,DEF,False,Wolves,Wolves,Wolves,False,True,202.0,6807.0,2.6707800793301013
+88894,Barkley,Ross,Barkley,MID,MID,MID,False,Luton,Aston Villa,Aston Villa,True,True,201.0,4027.0,4.492177799851006
+214048,Kilman,Maximilian,Kilman,DEF,DEF,DEF,False,Wolves,West Ham,West Ham,True,True,200.0,8327.0,2.161642848564909
+180135,Longstaff,Sean,Longstaff,MID,MID,MID,False,Newcastle,Newcastle,Leeds,True,True,200.0,4528.0,3.975265017667845
+155408,Cook,Lewis,Cook,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,True,199.0,6635.0,2.699321778447626
+447203,Darwin,Darwin,Núñez Ribeiro,FWD,FWD,FWD,False,Liverpool,Liverpool,Liverpool,False,False,198.0,3146.0,5.664335664335665
+106611,Keane,Michael,Keane,DEF,DEF,DEF,False,Everton,Everton,Everton,False,True,197.0,4071.0,4.3551952837140755
+457569,Petrović,Đorđe,Petrović,GK,GK,GK,False,Chelsea,Chelsea,Bournemouth,True,False,195.0,5406.0,3.2463928967813542
+54469,Smith,Adam,Smith,DEF,DEF,DEF,False,Bournemouth,Bournemouth,Bournemouth,False,True,195.0,4807.0,3.6509257333055958
+516895,Mainoo,Kobbie,Mainoo,MID,MID,MID,False,Man Utd,Man Utd,Man Utd,False,True,192.0,5226.0,3.3065442020665903
+535818,Adingra,Simon,Adingra,MID,MID,MID,False,Brighton,Brighton,Sunderland,True,True,191.0,3950.0,4.351898734177215
+152551,Lerma,Jefferson,Lerma Solís,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,191.0,6391.0,2.6897199186355816
+497894,Højlund,Rasmus,Højlund,FWD,FWD,FWD,False,Man Utd,Man Utd,Man Utd,False,False,190.0,4154.0,4.11651420317766
+128295,Nørgaard,Christian,Nørgaard,MID,MID,MID,False,Brentford,Brentford,Arsenal,True,True,188.0,5425.0,3.11889400921659
+221399,Harrison,Jack,Harrison,MID,MID,MID,False,Everton,Everton,Leeds,True,True,185.0,4542.0,3.665785997357992
+191866,Ajer,Kristoffer,Ajer,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,True,183.0,5064.0,3.2523696682464456
+460028,Colwill,Levi,Samuels Colwill,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,True,182.0,5169.0,3.168891468369124
+512462,O'Brien,Jake,O'Brien,DEF,DEF,DEF,False,Crystal Palace,Everton,Everton,True,False,181.0,4686.0,3.4763124199743918
+508395,Yarmoliuk,Yehor,Yarmoliuk,MID,MID,MID,False,Brentford,Brentford,Brentford,False,True,180.0,4757.0,3.40550767290309
+225796,James,Reece,James,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,True,180.0,3430.0,4.723032069970846
+231057,Bellegarde,Jean-Ricner,Bellegarde,MID,MID,MID,False,Wolves,Wolves,Wolves,False,True,179.0,3853.0,4.181157539579549
+477580,Zabarnyi,Illia,Zabarnyi,DEF,DEF,DEF,False,Bournemouth,Bournemouth,Bournemouth,False,False,178.0,6439.0,2.4879639695604907
+91651,Kovačić,Mateo,Kovačić,MID,MID,MID,False,Man City,Man City,Man City,False,True,177.0,3858.0,4.129082426127527
+535301,Baleba,Carlos,Baleba,MID,MID,MID,False,Brighton,Brighton,Brighton,False,True,177.0,5620.0,2.8345195729537362
+444765,Van den Berg,Sepp,van den Berg,DEF,DEF,DEF,False,Liverpool,Brentford,Brentford,True,False,175.0,5345.0,2.9466791393826006
+211975,Akanji,Manuel,Akanji,DEF,DEF,DEF,False,Man City,Man City,Man City,False,False,173.0,4524.0,3.4416445623342176
+232787,Gallagher,Conor,Gallagher,MID,MID,MID,False,Chelsea,Chelsea,Spurs,True,False,173.0,4312.0,3.6108534322820036
+108413,Hughes,Will,Hughes,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,173.0,5546.0,2.8074287774972952
+509416,Ayari,Yasin,Ayari,MID,MID,MID,False,Brighton,Brighton,Brighton,False,False,172.0,3879.0,3.9907192575406034
+109646,Tosin,Tosin,Adarabioyo,DEF,DEF,DEF,False,Fulham,Chelsea,Chelsea,True,True,171.0,3807.0,4.042553191489362
+250199,Dominguez,Nicolás,Domínguez,MID,MID,MID,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,169.0,4611.0,3.2986337020169163
+75115,Wilson,Callum,Wilson,FWD,FWD,FWD,False,Newcastle,Newcastle,West Ham,True,True,168.0,2570.0,5.883268482490273
+202993,Bentancur,Rodrigo,Bentancur,MID,MID,MID,False,Spurs,Spurs,Spurs,False,True,167.0,4517.0,3.3274297099845027
+114283,Grealish,Jack,Grealish,MID,MID,MID,False,Man City,Man City,Everton,True,True,167.0,3335.0,4.506746626686656
+212314,Lukić,Saša,Lukić,MID,MID,MID,False,Fulham,Fulham,Fulham,False,True,166.0,5191.0,2.878058177615103
+550839,Odobert,Wilson,Odobert,MID,MID,MID,False,Burnley,Spurs,Spurs,True,True,162.0,3910.0,3.7289002557544757
+126184,Aké,Nathan,Aké,DEF,DEF,DEF,False,Man City,Man City,Man City,False,True,160.0,3402.0,4.232804232804233
+220237,Botman,Sven,Botman,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,True,158.0,3621.0,3.927091963545982
+109533,Emerson,Emerson,Palmieri dos Santos,DEF,DEF,DEF,False,West Ham,West Ham,West Ham,False,False,158.0,5246.0,2.7106366755623332
+226944,Kamara,Boubacar,Kamara,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,True,158.0,4783.0,2.97302947940623
+232653,J.Ramsey,Jacob,Ramsey,MID,MID,MID,False,Aston Villa,Aston Villa,Newcastle,True,True,157.0,3905.0,3.618437900128041
+503714,Ugochukwu,Lesley,Ugochukwu,MID,MID,MID,False,Chelsea,Southampton,Burnley,True,True,157.0,4278.0,3.3029453015427768
+231480,S.Bueno,Santiago,Ignacio Bueno,DEF,DEF,DEF,False,Wolves,Wolves,Wolves,False,True,157.0,5049.0,2.798573975044563
+167074,Tete,Kenny,Tete,DEF,DEF,DEF,False,Fulham,Fulham,Fulham,False,True,157.0,4427.0,3.1917777275807544
+159533,Adama,Adama,Traoré Diarra,MID,MID,MID,False,Fulham,Fulham,West Ham,True,True,156.0,2495.0,5.627254509018036
+204968,Yates,Ryan,Yates,MID,MID,MID,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,156.0,4482.0,3.132530120481928
+111478,Veltman,Joël,Veltman,DEF,DEF,DEF,False,Brighton,Brighton,Brighton,False,True,154.0,4320.0,3.2083333333333335
+220362,Disasi,Axel,Disasi,DEF,DEF,DEF,False,Chelsea,Aston Villa,West Ham,True,True,153.0,4684.0,2.939795046968403
+184349,Sessegnon,Ryan,Sessegnon,DEF,DEF,MID,True,Spurs,Fulham,Fulham,True,False,152.0,2390.0,5.723849372384937
+205651,G.Jesus,Gabriel,Fernando de Jesus,FWD,FWD,FWD,False,Arsenal,Arsenal,Arsenal,False,True,151.0,2488.0,5.462218649517685
+206325,Zinchenko,Oleksandr,Zinchenko,DEF,DEF,DEF,False,Arsenal,Arsenal,Nott'm Forest,True,True,151.0,2587.0,5.253189022033243
+487053,Udogie,Destiny,Udogie,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,True,151.0,5649.0,2.4057355284121082
+106760,Shaw,Luke,Shaw,DEF,DEF,DEF,False,Man Utd,Man Utd,Man Utd,False,True,149.0,4526.0,2.9628811312417147
+205533,Nketiah,Eddie,Nketiah,FWD,FWD,FWD,False,Arsenal,Crystal Palace,Crystal Palace,True,True,147.0,2497.0,5.298358029635563
+76357,Cairney,Tom,Cairney,MID,MID,MID,False,Fulham,Fulham,Fulham,False,True,144.0,2838.0,4.5665961945031714
+225321,Ramsdale,Aaron,Ramsdale,GK,GK,GK,False,Arsenal,Southampton,Newcastle,True,True,142.0,4243.0,3.0120197973132217
+210156,Awoniyi,Taiwo,Awoniyi,FWD,FWD,FWD,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,142.0,1914.0,6.677115987460814
+200785,Adams,Tyler,Adams,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,True,140.0,3846.0,3.2761310452418093
+231065,Pinnock,Ethan,Pinnock,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,True,138.0,4751.0,2.6141864870553566
+477064,Lewis,Rico,Lewis,DEF,DEF,DEF,False,Man City,Man City,Man City,False,True,137.0,3093.0,3.986420950533463
+547719,L.Miley,Lewis,Miley,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,137.0,3000.0,4.11
+536916,Buonanotte,Facundo,Buonanotte,MID,MID,MID,False,Brighton,Leicester,Leeds,True,True,135.0,2945.0,4.125636672325976
+210462,Sangaré,Ibrahim,Sangaré,MID,MID,MID,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,True,134.0,3688.0,3.270065075921909
+111317,Brooks,David,Brooks,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,True,134.0,2400.0,5.0249999999999995
+444884,Elliott,Harvey,Elliott,MID,MID,MID,False,Liverpool,Liverpool,Aston Villa,True,True,134.0,1799.0,6.70372429127293
+221820,Martinez,Lisandro,Martínez,DEF,DEF,DEF,False,Man Utd,Man Utd,Man Utd,False,True,134.0,3623.0,3.3287330941208944
+492777,Bradley,Conor,Bradley,DEF,DEF,DEF,False,Liverpool,Liverpool,Liverpool,False,True,133.0,2424.0,4.938118811881188
+463981,Hill,James,Hill,DEF,DEF,DEF,False,Bournemouth,Bournemouth,Bournemouth,False,True,132.0,2619.0,4.536082474226804
+444180,Anthony,Jaidon,Anthony,MID,MID,MID,False,Bournemouth,Bournemouth,Burnley,True,False,130.0,2868.0,4.079497907949791
+87835,Doherty,Matt,Doherty,DEF,DEF,DEF,False,Wolves,Wolves,Wolves,False,True,130.0,4027.0,2.905388626769307
+232859,Spence,Djed,Spence,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,False,129.0,3839.0,3.0242250586090127
+209243,Sancho,Jadon,Sancho,MID,MID,MID,False,Man Utd,Chelsea,Aston Villa,True,True,126.0,2693.0,4.210917192721872
+432714,McAtee,James,McAtee,MID,MID,MID,False,Sheffield Utd,Man City,Nott'm Forest,True,True,125.0,2443.0,4.604993860008187
+171287,Gomez,Joe,Gomez,DEF,DEF,DEF,False,Liverpool,Liverpool,Liverpool,False,True,123.0,2883.0,3.8397502601456814
+441302,Maatsen,Ian,Maatsen,MID,DEF,DEF,True,Chelsea,Aston Villa,Aston Villa,True,True,122.0,2915.0,3.7667238421955402
+204214,Estupiñan,Pervis,Estupiñán Tenorio,DEF,DEF,DEF,False,Brighton,Brighton,Brighton,False,False,120.0,3641.0,2.966218071958253
+538207,Osula,William,Osula,FWD,FWD,FWD,False,Sheffield Utd,Newcastle,Newcastle,True,True,120.0,1707.0,6.32688927943761
+184667,Lindelöf,Victor,Lindelöf,DEF,DEF,DEF,False,Man Utd,Man Utd,Aston Villa,True,True,118.0,2965.0,3.581787521079258
+69752,Neto,Norberto,Murara Neto,GK,GK,GK,False,Bournemouth,Arsenal,Bournemouth,True,False,117.0,3060.0,3.4411764705882355
+195546,Buendía,Emiliano,Buendía Stati,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,False,113.0,1842.0,5.521172638436482
+490721,H.Bueno,Hugo,Bueno López,DEF,DEF,DEF,False,Wolves,Wolves,Wolves,False,False,112.0,3086.0,3.2663642255346725
+227127,Bissouma,Yves,Bissouma,MID,MID,MID,False,Spurs,Spurs,Spurs,False,True,111.0,4066.0,2.456960157402853
+226956,Roerslev,Mads,Roerslev Rasmussen,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,False,111.0,3075.0,3.248780487804878
+440854,Kiwior,Jakub,Kiwior,DEF,DEF,DEF,False,Arsenal,Arsenal,Arsenal,False,False,110.0,2059.0,4.808159300631375
+109745,Arrizabalaga,Kepa,Arrizabalaga Revuelta,GK,GK,GK,False,Chelsea,Bournemouth,Arsenal,True,False,108.0,2880.0,3.375
+184341,Mount,Mason,Mount,MID,MID,MID,False,Man Utd,Man Utd,Man Utd,False,True,106.0,2132.0,4.474671669793621
+219924,Diop,Issa,Diop,DEF,DEF,DEF,False,Fulham,Fulham,Fulham,False,True,105.0,3569.0,2.6478005043429533
+213999,Álvarez,Edson,Álvarez Velázquez,MID,MID,MID,False,West Ham,West Ham,West Ham,False,False,102.0,4144.0,2.215250965250965
+200089,Willock,Joe,Willock,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,True,102.0,2452.0,3.743882544861338
+101982,Johnstone,Sam,Johnstone,GK,GK,GK,False,Crystal Palace,Wolves,Wolves,True,True,101.0,3506.0,2.5926982316029665
+465920,Mudryk,Mykhailo,Mudryk,MID,MID,MID,False,Chelsea,Chelsea,Chelsea,False,False,101.0,1709.0,5.318899941486249
+490094,Iroegbunam,Tim,Iroegbunam,MID,MID,MID,False,Aston Villa,Everton,Everton,True,True,100.0,2196.0,4.098360655737705
+168636,Enes Ünal,Enes,Ünal,FWD,FWD,FWD,False,Bournemouth,Bournemouth,Bournemouth,False,True,99.0,861.0,10.348432055749129
+97299,Stones,John,Stones,DEF,DEF,DEF,False,Man City,Man City,Man City,False,True,98.0,2041.0,4.321411073003429
+149484,Mings,Tyrone,Mings,DEF,DEF,DEF,False,Aston Villa,Aston Villa,Aston Villa,False,True,97.0,2471.0,3.5329825981384055
+487117,Ferguson,Evan,Ferguson,FWD,FWD,FWD,False,Brighton,West Ham,Brighton,True,False,97.0,1741.0,5.01435956346927
+214285,Tsimikas,Konstantinos,Tsimikas,DEF,DEF,DEF,False,Liverpool,Liverpool,Liverpool,False,False,91.0,1504.0,5.445478723404255
+444463,Fofana,Wesley,Fofana,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,False,91.0,2890.0,2.833910034602076
+440323,Broja,Armando,Broja,FWD,FWD,FWD,False,Fulham,Everton,Burnley,True,True,90.0,1699.0,4.767510300176575
+213198,Nkunku,Christopher,Nkunku,FWD,MID,MID,True,Chelsea,Chelsea,Chelsea,False,False,89.0,1341.0,5.973154362416107
+199670,Édouard,Odsonne,Édouard,FWD,FWD,FWD,False,Crystal Palace,Leicester,Crystal Palace,True,True,87.0,1688.0,4.638625592417061
+57328,Clyne,Nathaniel,Clyne,DEF,DEF,DEF,False,Crystal Palace,Crystal Palace,Crystal Palace,False,True,87.0,2404.0,3.2570715474209653
+106468,Alex Moreno,Álex,Moreno Lopera,DEF,DEF,DEF,False,Aston Villa,Nott'm Forest,Aston Villa,True,False,83.0,1976.0,3.7803643724696356
+158983,Endo,Endo,Wataru,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,True,80.0,2143.0,3.3597760149323377
+474120,Enciso,Julio,Enciso Espínola,MID,MID,MID,False,Brighton,Ipswich,Brighton,True,False,79.0,1623.0,4.380776340110906
+477555,Bobb,Oscar,Bobb,MID,MID,MID,False,Man City,Man City,Fulham,True,True,75.0,1338.0,5.044843049327355
+499175,Nwaneri,Ethan,Nwaneri,MID,MID,MID,False,Arsenal,Arsenal,Arsenal,False,True,75.0,1060.0,6.367924528301887
+232792,Lamptey,Tariq,Lamptey,DEF,DEF,DEF,False,Brighton,Brighton,Brighton,False,False,73.0,1764.0,3.7244897959183674
+577725,King,Josh,King,MID,MID,MID,False,Fulham,Fulham,Fulham,False,False,73.0,1416.0,4.639830508474576
+153366,Reed,Harrison,Reed,MID,MID,MID,False,Fulham,Fulham,Fulham,False,True,72.0,1506.0,4.302788844621514
+115556,Davies,Ben,Davies,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,True,72.0,2550.0,2.5411764705882356
+82143,Foderingham,Wes,Foderingham,GK,GK,GK,False,Sheffield Utd,West Ham,West Ham,True,False,70.0,2648.0,2.3791540785498486
+168991,Philip,Philip,Billing,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,False,70.0,1561.0,4.0358744394618835
+243571,Patterson,Nathan,Patterson,DEF,DEF,DEF,False,Everton,Everton,Everton,False,True,70.0,1580.0,3.9873417721518987
+465527,Hannibal,Hannibal,Mejbri,MID,MID,MID,False,Man Utd,Man Utd,Burnley,True,False,70.0,1350.0,4.666666666666667
+194010,Henry,Rico,Henry,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,True,69.0,1817.0,3.4177215189873418
+15157,Milner,James,Milner,MID,MID,MID,False,Brighton,Brighton,Brighton,False,True,69.0,1712.0,3.6273364485981308
+88248,Ortega Moreno,Stefan,Ortega Moreno,GK,GK,GK,False,Man City,Man City,Nott'm Forest,True,True,68.0,2001.0,3.058470764617691
+224995,Sinisterra,Luis,Sinisterra Lucumí,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,False,66.0,914.0,6.4989059080962805
+499169,Lewis-Skelly,Myles,Lewis-Skelly,MID,MID,DEF,True,Arsenal,Arsenal,Arsenal,False,False,66.0,2059.0,2.8848955803788243
+110735,Webster,Adam,Webster,DEF,DEF,DEF,False,Brighton,Brighton,Brighton,False,False,65.0,2027.0,2.8860384805130734
+501837,Mosquera,Yerson,Mosquera Valdelamar,DEF,DEF,DEF,False,Wolves,Wolves,Wolves,False,False,64.0,2578.0,2.234290147401086
+90585,Boly,Willy,Boly,DEF,DEF,DEF,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,False,64.0,1583.0,3.6386607706885656
+37096,Fabianski,Lukasz,Fabianski,GK,GK,GK,False,West Ham,West Ham,West Ham,False,False,63.0,1881.0,3.014354066985646
+181284,Guedes,Gonçalo Manuel,Ganchinho Guedes,MID,MID,MID,False,Wolves,Wolves,Wolves,False,False,62.0,979.0,5.6996935648621045
+223434,Igor,Igor Julio,dos Santos de Paulo,DEF,DEF,DEF,False,Brighton,Brighton,Brighton,False,True,61.0,2693.0,2.038618640920906
+200641,Nelson,Reiss,Nelson,MID,MID,MID,False,Arsenal,Fulham,Brentford,True,True,56.0,857.0,5.88098016336056
+493125,Dragusin,Radu,Drăgușin,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,True,55.0,2189.0,2.261306532663317
+467169,Antony,Antony,dos Santos,MID,MID,MID,False,Man Utd,Man Utd,Man Utd,False,False,55.0,1446.0,3.4232365145228214
+472713,Hickey,Aaron,Hickey,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,False,54.0,1392.0,3.491379310344828
+428580,Onyeka,Frank,Onyeka,MID,MID,MID,False,Brentford,Brentford,Brentford,False,True,53.0,1258.0,3.791732909379968
+49262,Steele,Jason,Steele,GK,GK,GK,False,Brighton,Brighton,Brighton,False,False,51.0,1710.0,2.6842105263157894
+109345,March,Solly,March,MID,MID,MID,False,Brighton,Brighton,Brighton,False,True,50.0,754.0,5.96816976127321
+111773,Krafth,Emil,Krafth,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,True,50.0,1288.0,3.493788819875776
+536109,Scarles,Ollie,Scarles,DEF,DEF,DEF,False,West Ham,West Ham,West Ham,False,False,50.0,1315.0,3.4220532319391634
+242880,B.Badiashile,Benoît,Badiashile Mukinayi,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,True,49.0,2139.0,2.0617110799438993
+532605,Andrey Santos,Andrey,Nascimento dos Santos,MID,MID,MID,False,Chelsea,Chelsea,Chelsea,False,False,48.0,1254.0,3.4449760765550237
+101148,Lascelles,Jamaal,Lascelles,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,False,47.0,1096.0,3.859489051094891
+577016,Acheampong,Josh,Acheampong,DEF,DEF,DEF,False,Chelsea,Chelsea,Chelsea,False,True,44.0,830.0,4.771084337349397
+224068,Turner,Matt,Turner,GK,GK,GK,False,Nott'm Forest,Crystal Palace,Nott'm Forest,True,False,41.0,1530.0,2.411764705882353
+438464,Doucouré,Cheick,Doucouré,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,40.0,1363.0,2.641232575201761
+514356,Lavia,Roméo,Lavia,MID,MID,MID,False,Chelsea,Chelsea,Chelsea,False,True,40.0,1198.0,3.005008347245409
+59949,Coleman,Séamus,Coleman,DEF,DEF,DEF,False,Everton,Everton,Everton,False,True,40.0,894.0,4.026845637583893
+210494,N.Aguerd,Nayef,Aguerd,DEF,DEF,DEF,False,West Ham,West Ham,West Ham,False,False,39.0,2037.0,1.7231222385861562
+229600,Travers,Mark,Travers,GK,GK,GK,False,Bournemouth,Bournemouth,Everton,True,False,38.0,810.0,4.222222222222222
+155405,Phillips,Kalvin,Phillips,MID,MID,MID,False,West Ham,Ipswich,Man City,True,False,37.0,1625.0,2.0492307692307694
+550615,George,Tyrique,George,FWD,MID,MID,True,Chelsea,Chelsea,Everton,True,False,33.0,528.0,5.625
+79602,Bentley,Daniel,Bentley,GK,GK,GK,False,Wolves,Wolves,Wolves,False,True,33.0,832.0,3.5697115384615383
+208912,Worrall,Joe,Worrall,DEF,DEF,DEF,False,Nott'm Forest,Nott'm Forest,Burnley,True,False,33.0,934.0,3.179871520342613
+476502,B.Traore,Boubacar,Traoré,MID,MID,MID,False,Wolves,Wolves,Wolves,False,False,26.0,803.0,2.914072229140722
+536694,M.França,Matheus,França de Oliveira,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,25.0,276.0,8.152173913043478
+429414,Kalajdžić,Saša,Kalajdžić,FWD,FWD,FWD,False,Wolves,Wolves,Wolves,False,False,25.0,172.0,13.08139534883721
+438098,Fábio Vieira,Fábio,Ferreira Vieira,MID,MID,MID,False,Arsenal,Arsenal,Arsenal,False,False,24.0,290.0,7.448275862068965
+499721,Moore,Mikey,Moore,MID,MID,MID,False,Spurs,Spurs,Spurs,False,False,21.0,362.0,5.220994475138121
+151589,Dendoncker,Leander,Dendoncker,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,False,20.0,118.0,15.254237288135592
+491012,Y.Chermiti,Youssef,Ramalho Chermiti,FWD,FWD,FWD,False,Everton,Everton,Everton,False,False,19.0,238.0,7.184873949579831
+40383,Forster,Fraser,Forster,GK,GK,GK,False,Spurs,Spurs,Bournemouth,True,False,19.0,630.0,2.7142857142857144
+451302,Bayindir,Altay,Bayındır,GK,GK,GK,False,Man Utd,Man Utd,Man Utd,False,False,19.0,900.0,1.9000000000000001
+461421,Dobbin,Lewis,Dobbin,MID,MID,MID,False,Everton,Aston Villa,Aston Villa,True,False,18.0,226.0,7.168141592920354
+466117,Ahamada,Naouirou,Ahamada,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,16.0,332.0,4.337349397590362
+223911,Mepham,Chris,Mepham,DEF,DEF,DEF,False,Bournemouth,Bournemouth,Bournemouth,False,False,16.0,613.0,2.3491027732463294
+149519,Cornet,Maxwel,Cornet,MID,MID,MID,False,West Ham,Southampton,West Ham,True,False,14.0,180.0,7.0
+235674,Solomon,Manor,Solomon,MID,MID,MID,False,Spurs,Spurs,Spurs,False,False,14.0,196.0,6.428571428571428
+490145,Scarlett,Dane,Scarlett,FWD,FWD,FWD,False,Spurs,Spurs,Spurs,False,True,12.0,57.0,18.94736842105263
+111452,Odysseas,Odysseas,Vlachodimos,GK,GK,GK,False,Nott'm Forest,Newcastle,Newcastle,True,False,12.0,450.0,2.4000000000000004
+496208,Gannon-Doak,Ben,Gannon-Doak,MID,MID,MID,False,Liverpool,Liverpool,Bournemouth,True,False,12.0,118.0,9.152542372881356
+436234,Bryan,Bryan,Gil Salvatierra,MID,MID,MID,False,Spurs,Spurs,Spurs,False,False,12.0,200.0,5.3999999999999995
+628204,Konak,Yunus Emre,Konak,MID,MID,MID,False,Brentford,Brentford,Brentford,False,False,10.0,53.0,16.9811320754717
+441271,Hoever,Ki-Jana,Hoever,DEF,DEF,DEF,False,Wolves,Wolves,Wolves,False,False,10.0,423.0,2.127659574468085
+497606,Chirewa,Tawanda,Chirewa,MID,MID,MID,False,Wolves,Wolves,Wolves,False,False,10.0,163.0,5.521472392638037
+490885,Earthy,George,Earthy,MID,MID,MID,False,West Ham,West Ham,West Ham,False,False,9.0,41.0,19.75609756097561
+449988,Fábio Silva,Fábio,Soares Silva,FWD,FWD,FWD,False,Wolves,Wolves,Wolves,False,False,8.0,259.0,2.77992277992278
+531989,Ozoh,David,Ozoh,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,8.0,148.0,4.864864864864865
+450542,J.Rak-Sakyi,Jesurun,Rak-Sakyi,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,8.0,132.0,5.454545454545455
+531363,Fraser,Nathan,Fraser,FWD,FWD,FWD,False,Wolves,Wolves,Wolves,False,False,7.0,183.0,3.4426229508196724
+424044,H.Traorè,Hamed,Traorè,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,False,7.0,60.0,10.5
+490881,Collyer,Toby,Collyer,MID,MID,MID,False,Man Utd,Man Utd,Man Utd,False,False,6.0,174.0,3.103448275862069
+591386,Nyoni,Trey,Nyoni,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,False,6.0,21.0,25.71428571428571
+589507,Chiwome,Leon,Chiwome,FWD,FWD,FWD,False,Wolves,Wolves,Wolves,False,False,5.0,173.0,2.601156069364162
+183656,Dasilva,Josh,Dasilva,MID,MID,MID,False,Brentford,Brentford,Brentford,False,False,5.0,24.0,18.75
+222690,Malacia,Tyrell,Malacia,DEF,DEF,DEF,False,Man Utd,Man Utd,Man Utd,False,False,5.0,114.0,3.9473684210526314
+441240,Faivre,Romain,Faivre,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,False,4.0,37.0,9.72972972972973
+169359,Targett,Matt,Targett,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,False,4.0,97.0,3.711340206185567
+450539,Peart-Harris,Myles,Peart-Harris,MID,MID,MID,False,Brentford,Brentford,Brentford,False,False,4.0,12.0,30.0
+545477,A.Murphy,Alex,Murphy,DEF,DEF,DEF,False,Newcastle,Newcastle,Newcastle,False,False,4.0,18.0,20.0
+577974,Amass,Harry,Amass,DEF,DEF,DEF,False,Man Utd,Man Utd,Man Utd,False,False,4.0,345.0,1.0434782608695652
+461484,White,Joe,White,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,False,3.0,12.0,22.5
+570241,Ji-soo,Kim,Ji-soo,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,False,3.0,28.0,9.642857142857142
+575034,Wheatley,Ethan,Wheatley,FWD,FWD,FWD,False,Man Utd,Man Utd,Man Utd,False,False,3.0,13.0,20.76923076923077
+507433,Valdimarsson,Hákon Rafn,Valdimarsson,GK,GK,GK,False,Brentford,Brentford,Brentford,False,False,3.0,234.0,1.1538461538461537
+491501,McConnell,James,McConnell,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,False,3.0,3.0,90.0
+500058,Danns,Jayden,Danns,FWD,FWD,FWD,False,Liverpool,Liverpool,Liverpool,False,False,2.0,17.0,10.588235294117647
+518442,Orford,Lewis,Orford,MID,MID,MID,False,West Ham,West Ham,West Ham,False,False,2.0,47.0,3.829787234042553
+518438,Casey,Kaelan,Casey,DEF,DEF,DEF,False,West Ham,West Ham,West Ham,False,False,2.0,2.0,90.0
+515024,Harris,Luke,Harris,MID,MID,MID,False,Fulham,Fulham,Fulham,False,False,2.0,74.0,2.4324324324324325
+530318,Rodney,Kaden,Rodney,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,1.0,3.0,30.0
+591357,Trevitt,Ryan,Trevitt,MID,MID,MID,False,Brentford,Brentford,Brentford,False,False,1.0,3.0,30.0
+550596,Sadi,Dominic,Sadi,MID,MID,MID,False,Bournemouth,Bournemouth,Bournemouth,False,False,1.0,1.0,90.0
+593001,Gonzalez,Enso,González Medina,MID,MID,MID,False,Wolves,Wolves,Wolves,False,False,1.0,1.0,90.0
+441192,Sarmiento,Jeremy,Sarmiento Morante,MID,MID,MID,False,Brighton,Brighton,Brighton,False,False,1.0,8.0,11.25
+169593,Matthews,Remi,Matthews,GK,GK,GK,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,1.0,3.0,30.0
+214572,Austin,Brandon,Austin,GK,GK,GK,False,Spurs,Spurs,Spurs,False,False,1.0,90.0,1.0
+138001,King,Tom,King,GK,GK,GK,False,Wolves,Wolves,Everton,True,False,1.0,1.0,90.0
+535928,Bajcetic,Stefan,Bajčetić Maquieira,MID,MID,MID,False,Liverpool,Liverpool,Liverpool,False,False,1.0,25.0,3.6
+537403,Young,Kadan,Young,MID,MID,MID,False,Aston Villa,Aston Villa,Aston Villa,False,False,0.0,0.0,
+240299,Hodge,Joe,Hodge,MID,MID,MID,False,Wolves,Wolves,Wolves,False,False,0.0,0.0,
+156074,Holding,Rob,Holding,DEF,DEF,DEF,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,0.0,0.0,
+153127,Hayden,Isaac,Hayden,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,False,0.0,0.0,
+548308,Phillips,Ashley,Phillips,DEF,DEF,DEF,False,Spurs,Spurs,Spurs,False,False,0.0,0.0,
+491557,Metcalfe,Jenson,Metcalfe,MID,MID,MID,False,Everton,Everton,Everton,False,False,0.0,0.0,
+568791,McKenna,Callan,McKenna,GK,GK,GK,False,Bournemouth,Bournemouth,Bournemouth,False,False,0.0,0.0,
+243345,O'Brien,Lewis,O'Brien,MID,MID,MID,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,False,0.0,0.0,
+428971,Benda,Steven,Benda,GK,GK,GK,False,Fulham,Fulham,Fulham,False,False,0.0,0.0,
+564510,Kuol,Garang,Kuol,MID,MID,MID,False,Newcastle,Newcastle,Newcastle,False,False,0.0,0.0,
+450535,Ebiowei,Malcolm,Ebiowei,MID,MID,MID,False,Crystal Palace,Crystal Palace,Crystal Palace,False,False,0.0,0.0,
+461537,Mee,Dermot,Mee,GK,GK,GK,False,Man Utd,Man Utd,Man Utd,False,False,0.0,0.0,
+462381,Marschall,Filip,Marschall,GK,GK,GK,False,Aston Villa,Aston Villa,Aston Villa,False,False,0.0,0.0,
+462492,Gauci,Joe,Gauci,GK,GK,GK,False,Aston Villa,Aston Villa,Aston Villa,False,False,0.0,0.0,
+21205,Heaton,Tom,Heaton,GK,GK,GK,False,Man Utd,Man Utd,Man Utd,False,False,0.0,0.0,
+574398,Umeh,Franco,Umeh-Chibueze,FWD,MID,MID,True,Crystal Palace,Crystal Palace,Crystal Palace,False,False,0.0,0.0,
+204822,O.Richards,Omar,Richards,DEF,DEF,DEF,False,Nott'm Forest,Nott'm Forest,Nott'm Forest,False,False,0.0,0.0,
+463748,Hein,Karl,Hein,GK,GK,GK,False,Arsenal,Arsenal,Arsenal,False,False,0.0,0.0,
+612534,Fredrick,Benjamin,Fredrick,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,False,0.0,0.0,
+611926,Nallo,Amara,Nallo,DEF,DEF,DEF,False,Liverpool,Liverpool,Liverpool,False,False,0.0,0.0,
+622536,Arthur,Benjamin,Arthur,DEF,DEF,DEF,False,Brentford,Brentford,Brentford,False,False,0.0,0.0,
+122074,Bettinelli,Marcus,Bettinelli,GK,GK,GK,False,Chelsea,Chelsea,Man City,True,False,-1.0,0.0,

@@ -1,0 +1,44 @@
+{
+  "description": "Core 3-season common-player FPL dataset",
+  "seasons": [
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "identity_key": "code (stable FPL permanent player code)",
+  "common_players": 389,
+  "inputs": {
+    "2023-24": {
+      "players_raw": "data/2023-24/players_raw.csv",
+      "merged_gw": "data/2023-24/gws/merged_gw.csv",
+      "teams": "data/2023-24/teams.csv"
+    },
+    "2024-25": {
+      "players_raw": "data/2024-25/players_raw.csv",
+      "merged_gw": "data/2024-25/gws/merged_gw.csv",
+      "teams": "data/2024-25/teams.csv"
+    },
+    "2025-26": {
+      "players_raw": "data/2025-26/players_raw.csv",
+      "merged_gw": "data/2025-26/gws/merged_gw.csv",
+      "teams": "data/2025-26/teams.csv"
+    }
+  },
+  "outputs": {
+    "roster": "scratch/summaries/core_players_roster.csv",
+    "season_panel": "scratch/summaries/core_player_season_panel.csv",
+    "gameweek_long": "scratch/summaries/core_player_gameweek_long.csv"
+  },
+  "row_counts": {
+    "roster": 389,
+    "season_panel": 1167,
+    "gameweek_long": 42989
+  },
+  "validation": {
+    "all_hard_passed": true,
+    "source_discrepancy_rows": 1,
+    "material_discrepancy_rows": 0,
+    "report": "scratch/validation/core_dataset_validation.md"
+  },
+  "non_player_exclusions": "element_type == 5 (Assistant Manager) removed before intersection"
+}

@@ -1,0 +1,261 @@
+{
+  "n_common_players": 389,
+  "panel_rows": 1167,
+  "gw_rows": 42989,
+  "roster_rows": 389,
+  "all_hard_passed": true,
+  "all_diagnostics_clean": true,
+  "hard_checks": [
+    {
+      "check": "players_raw non-empty [2023-24]",
+      "passed": true,
+      "detail": {
+        "rows": 865
+      }
+    },
+    {
+      "check": "players_raw non-empty [2024-25]",
+      "passed": true,
+      "detail": {
+        "rows": 804
+      }
+    },
+    {
+      "check": "players_raw non-empty [2025-26]",
+      "passed": true,
+      "detail": {
+        "rows": 841
+      }
+    },
+    {
+      "check": "code unique within season [2023-24]",
+      "passed": true,
+      "detail": {
+        "n_players": 865,
+        "n_unique_codes": 865
+      }
+    },
+    {
+      "check": "code unique within season [2024-25]",
+      "passed": true,
+      "detail": {
+        "n_players": 784,
+        "n_unique_codes": 784
+      }
+    },
+    {
+      "check": "code unique within season [2025-26]",
+      "passed": true,
+      "detail": {
+        "n_players": 841,
+        "n_unique_codes": 841
+      }
+    },
+    {
+      "check": "common player count > 0",
+      "passed": true,
+      "detail": {
+        "n_common": 389
+      }
+    },
+    {
+      "check": "panel row count == n_common * 3",
+      "passed": true,
+      "detail": {
+        "panel_rows": 1167,
+        "expected": 1167
+      }
+    },
+    {
+      "check": "panel (code, season) unique",
+      "passed": true,
+      "detail": {
+        "duplicated_rows": 0
+      }
+    },
+    {
+      "check": "panel has all 3 seasons for every player",
+      "passed": true,
+      "detail": {
+        "players_missing_a_season": 0
+      }
+    },
+    {
+      "check": "roster row count == n_common",
+      "passed": true,
+      "detail": {
+        "roster_rows": 389,
+        "expected": 389
+      }
+    },
+    {
+      "check": "roster code unique",
+      "passed": true,
+      "detail": {
+        "n_unique": 389
+      }
+    },
+    {
+      "check": "panel positions in {GK,DEF,MID,FWD}",
+      "passed": true,
+      "detail": {
+        "unexpected_positions": []
+      }
+    },
+    {
+      "check": "panel: no null code/season",
+      "passed": true,
+      "detail": {
+        "null_code": 0,
+        "null_season": 0
+      }
+    },
+    {
+      "check": "panel minutes >= 0",
+      "passed": true,
+      "detail": {
+        "min": 0.0
+      }
+    },
+    {
+      "check": "panel goals_scored >= 0",
+      "passed": true,
+      "detail": {
+        "min": 0.0
+      }
+    },
+    {
+      "check": "panel assists >= 0",
+      "passed": true,
+      "detail": {
+        "min": 0.0
+      }
+    },
+    {
+      "check": "gw_long codes subset of common roster",
+      "passed": true,
+      "detail": {
+        "gw_unique_codes": 389
+      }
+    },
+    {
+      "check": "gw_long: all elements mapped to a code (0 unmapped)",
+      "passed": true,
+      "detail": {
+        "2023-24": 0,
+        "2024-25": 0,
+        "2025-26": 0
+      }
+    }
+  ],
+  "diagnostic_checks": [
+    {
+      "check": "xcheck [total_points]: 0 MATERIAL diffs (>1.5)",
+      "passed": true,
+      "detail": {
+        "max_abs_diff": 1.0,
+        "mean_abs_diff": 0.000856898029134533,
+        "rows_mismatched": 1,
+        "rows_material": 0
+      }
+    },
+    {
+      "check": "xcheck [minutes]: 0 MATERIAL diffs (>30.0)",
+      "passed": true,
+      "detail": {
+        "max_abs_diff": 17.0,
+        "mean_abs_diff": 0.01456726649528706,
+        "rows_mismatched": 1,
+        "rows_material": 0
+      }
+    },
+    {
+      "check": "xcheck [goals_scored]: 0 MATERIAL diffs (>0.5)",
+      "passed": true,
+      "detail": {
+        "max_abs_diff": 0.0,
+        "mean_abs_diff": 0.0,
+        "rows_mismatched": 0,
+        "rows_material": 0
+      }
+    },
+    {
+      "check": "xcheck [assists]: 0 MATERIAL diffs (>0.5)",
+      "passed": true,
+      "detail": {
+        "max_abs_diff": 0.0,
+        "mean_abs_diff": 0.0,
+        "rows_mismatched": 0,
+        "rows_material": 0
+      }
+    }
+  ],
+  "gw_diagnostics": {
+    "unmapped_elements_rows": {
+      "2023-24": 0,
+      "2024-25": 0,
+      "2025-26": 0
+    },
+    "rows_before_filter": {
+      "2023-24": 29725,
+      "2024-25": 27605,
+      "2025-26": 29757
+    },
+    "rows_after_filter": {
+      "2023-24": 13753,
+      "2024-25": 14553,
+      "2025-26": 14683
+    }
+  },
+  "cross_check": {
+    "total_points": {
+      "max_abs_diff": 1.0,
+      "mean_abs_diff": 0.000856898029134533,
+      "rows_mismatched": 1,
+      "rows_material": 0
+    },
+    "minutes": {
+      "max_abs_diff": 17.0,
+      "mean_abs_diff": 0.01456726649528706,
+      "rows_mismatched": 1,
+      "rows_material": 0
+    },
+    "goals_scored": {
+      "max_abs_diff": 0.0,
+      "mean_abs_diff": 0.0,
+      "rows_mismatched": 0,
+      "rows_material": 0
+    },
+    "assists": {
+      "max_abs_diff": 0.0,
+      "mean_abs_diff": 0.0,
+      "rows_mismatched": 0,
+      "rows_material": 0
+    }
+  },
+  "cross_check_exceptions": [
+    {
+      "code": 487117,
+      "web_name": "Ferguson",
+      "season": "2024-25",
+      "team_name": "West Ham",
+      "raw_total_points": 28.0,
+      "raw_minutes": 385.0,
+      "raw_goals_scored": 1.0,
+      "raw_assists": 0.0,
+      "gw_total_points": 27.0,
+      "gw_minutes": 368.0,
+      "gw_goals_scored": 1.0,
+      "gw_assists": 0.0,
+      "abs_diff": {
+        "total_points": 1.0,
+        "minutes": 17.0,
+        "goals_scored": 0.0,
+        "assists": 0.0
+      },
+      "material": false
+    }
+  ],
+  "n_source_discrepancy_rows": 1,
+  "n_material_discrepancy_rows": 0
+}
