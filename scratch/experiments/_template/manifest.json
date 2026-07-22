@@ -20,7 +20,9 @@
   "depends_on": [],
   "outputs": [],
   "key_findings": [],
+  "core_dataset_version": null,
   "core_dataset_fingerprint": {},
+  "environment": {},
   "git_commit": null,
   "tags": []
 }

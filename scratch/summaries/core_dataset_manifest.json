@@ -1,5 +1,6 @@
 {
   "description": "Core 3-season common-player FPL dataset",
+  "version": "core_v1",
   "seasons": [
     "2023-24",
     "2024-25",

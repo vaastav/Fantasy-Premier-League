@@ -513,8 +513,16 @@ def main() -> None:
     panel.to_csv(panel_path, index=False, encoding="utf-8")
     gw_long.to_csv(gw_path, index=False, encoding="utf-8")
 
+    # Register this build in the core-version registry (idempotent).
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from _lib import experiment as _exp
+    core_version, is_new = _exp.register_core_version()
+    print(f"Core version: {core_version}" + (" (new)" if is_new else " (unchanged)"))
+
     manifest = {
         "description": "Core 3-season common-player FPL dataset",
+        "version": core_version,
         "seasons": SEASONS,
         "identity_key": "code (stable FPL permanent player code)",
         "common_players": len(common_codes),

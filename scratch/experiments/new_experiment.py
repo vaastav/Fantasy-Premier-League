@@ -25,14 +25,32 @@ TEMPLATE = exp.EXPERIMENTS / "_template"
 FOLDER_RE = re.compile(r"^(\d{3})__\d{4}-\d{2}-\d{2}__")
 
 
-def next_id() -> str:
-    ids = []
+def _existing_experiments() -> dict:
+    """Map experiment id -> manifest for every scaffolded experiment."""
+    out = {}
     for p in exp.EXPERIMENTS.iterdir():
-        if p.is_dir():
-            m = FOLDER_RE.match(p.name)
-            if m:
-                ids.append(int(m.group(1)))
+        if p.is_dir() and FOLDER_RE.match(p.name) and (p / "manifest.json").exists():
+            m = exp.load_manifest(p)
+            out[m.get("id")] = m
+    return out
+
+
+def next_id() -> str:
+    ids = [int(i) for i in _existing_experiments() if i and i.isdigit()]
     return f"{(max(ids) + 1) if ids else 1:03d}"
+
+
+def validate_dependencies(dep_ids: list[str]) -> None:
+    """Fail fast if a declared dependency is unknown or abandoned."""
+    existing = _existing_experiments()
+    problems = []
+    for d in dep_ids:
+        if d not in existing:
+            problems.append(f"'{d}' does not exist")
+        elif existing[d].get("status") == "abandoned":
+            problems.append(f"'{d}' is abandoned (don't build on it)")
+    if problems:
+        raise SystemExit("Invalid --depends-on:\n  " + "\n  ".join(problems))
 
 
 def slugify(s: str) -> str:
@@ -50,6 +68,7 @@ def main() -> None:
     ap.add_argument("--depends-on", nargs="*", default=[])
     args = ap.parse_args()
 
+    validate_dependencies(list(args.depends_on))
     slug = slugify(args.slug)
     exp_id = next_id()
     date = dt.date.today().isoformat()
@@ -83,7 +102,9 @@ def main() -> None:
         "author": args.author,
         "rationale": args.rationale,
         "depends_on": list(args.depends_on),
+        "core_dataset_version": exp.current_core_version(),
         "core_dataset_fingerprint": exp.core_fingerprint(),
+        "environment": exp.capture_environment(),
     })
     manifest["inputs"]["upstream_experiments"] = list(args.depends_on)
     exp.save_manifest(dest, manifest)
