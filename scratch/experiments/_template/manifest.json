@@ -1,0 +1,26 @@
+{
+  "id": "__ID__",
+  "slug": "__SLUG__",
+  "title": "",
+  "date_created": "__DATE__",
+  "date_completed": null,
+  "status": "planned",
+  "author": "",
+  "rationale": "",
+  "question": "",
+  "method_summary": "",
+  "inputs": {
+    "core_dataset": [
+      "core_players_roster.csv",
+      "core_player_season_panel.csv",
+      "core_player_gameweek_long.csv"
+    ],
+    "upstream_experiments": []
+  },
+  "depends_on": [],
+  "outputs": [],
+  "key_findings": [],
+  "core_dataset_fingerprint": {},
+  "git_commit": null,
+  "tags": []
+}
