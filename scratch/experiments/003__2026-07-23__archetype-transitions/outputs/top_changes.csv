@@ -1,0 +1,44 @@
+archetype_name_from,archetype_name_to,n
+Creative midfielder,Elite goalscorer,18
+Attacking / ball-playing defender,Balanced defender,17
+Balanced defender,Defensive / rotation defender,15
+Defensive / rotation defender,Attacking / ball-playing defender,15
+Defensive / rotation defender,Balanced defender,14
+Elite goalscorer,Premium attacker,13
+Balanced defender,Attacking / ball-playing defender,13
+Defensive / rotation defender,Rotation midfielder,11
+Attacking / ball-playing defender,Rotation midfielder,10
+Attacking / ball-playing defender,Defensive / rotation defender,10
+Elite playmaker,Creative midfielder,8
+Premium attacker,Elite goalscorer,8
+Attacking / ball-playing defender,Premium attacker,7
+Creative midfielder,Premium attacker,7
+Creative midfielder,Attacking / ball-playing defender,6
+Elite goalscorer,Rotation midfielder,6
+Balanced defender,Rotation midfielder,5
+Rotation midfielder,Defensive / rotation defender,5
+Premium attacker,Creative midfielder,4
+Rotation midfielder,Attacking / ball-playing defender,4
+Rotation midfielder,Balanced defender,3
+Goalkeeper,Defensive / rotation defender,3
+Rotation midfielder,Premium attacker,2
+Balanced defender,Creative midfielder,2
+Rotation midfielder,Creative midfielder,2
+Premium attacker,Balanced defender,2
+Premium attacker,Attacking / ball-playing defender,2
+Defensive / rotation defender,Goalkeeper,2
+Elite goalscorer,Creative midfielder,2
+Creative midfielder,Rotation midfielder,2
+Elite playmaker,Elite goalscorer,2
+Balanced defender,Premium attacker,1
+Balanced defender,Elite goalscorer,1
+Attacking / ball-playing defender,Elite goalscorer,1
+Attacking / ball-playing defender,Creative midfielder,1
+Elite playmaker,Attacking / ball-playing defender,1
+Elite goalscorer,Balanced defender,1
+Defensive / rotation defender,Elite goalscorer,1
+Creative midfielder,Balanced defender,1
+Elite playmaker,Balanced defender,1
+Elite playmaker,Rotation midfielder,1
+Premium attacker,Rotation midfielder,1
+Rotation midfielder,Elite goalscorer,1

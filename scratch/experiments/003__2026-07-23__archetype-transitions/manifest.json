@@ -1,0 +1,69 @@
+{
+  "id": "003",
+  "slug": "archetype-transitions",
+  "title": "Archetype transitions season to season",
+  "date_created": "2026-07-23",
+  "date_completed": "2026-07-23",
+  "status": "complete",
+  "author": "andrew",
+  "rationale": "Which players change archetype year to year, and what are the common role transitions.",
+  "question": "Which players change archetype season to season, and what are common role transitions?",
+  "method_summary": "From exp002 labels, for each consecutive season pair keep players classified in both; build transition matrices + stayed/changed summary.",
+  "inputs": {
+    "core_dataset": [
+      "core_players_roster.csv",
+      "core_player_season_panel.csv",
+      "core_player_gameweek_long.csv"
+    ],
+    "upstream_experiments": [
+      "002"
+    ]
+  },
+  "depends_on": [
+    "002"
+  ],
+  "outputs": [
+    "transitions_long.csv",
+    "transition_summary.csv",
+    "top_changes.csv",
+    "transition_matrix_2023-24_to_2024-25.csv",
+    "transition_matrix_2024-25_to_2025-26.csv",
+    "figures/transitions_2023-24_to_2024-25.png",
+    "figures/transitions_2024-25_to_2025-26.png"
+  ],
+  "key_findings": [
+    "358 player-pairs; only 35% keep the same fine archetype year to year.",
+    "Most changes are adjacent quality-tier moves within a role (e.g. Creative mid -> Elite goalscorer, Balanced <-> Defensive defender).",
+    "Genuine cross-role switches are rare."
+  ],
+  "core_dataset_version": "core_v1",
+  "core_dataset_fingerprint": {
+    "roster": {
+      "file": "scratch/summaries/core_players_roster.csv",
+      "sha256": "f9356db4746a07d02b9569f6859412b7dea2b6c2cc681750466c44279e1806d4",
+      "rows": 389,
+      "bytes": 45835
+    },
+    "season_panel": {
+      "file": "scratch/summaries/core_player_season_panel.csv",
+      "sha256": "3b13fe7143a14c526e1f0587b83cb7262541c832a60c4be80112aee7b8cd0be2",
+      "rows": 1167,
+      "bytes": 283565
+    },
+    "gameweek_long": {
+      "file": "scratch/summaries/core_player_gameweek_long.csv",
+      "sha256": "fe8f7c5170ab1a63ff663b5e822632821648dbe1c8ab56cf8aa18450cc6cf416",
+      "rows": 42989,
+      "bytes": 8320913
+    }
+  },
+  "environment": {
+    "python": "3.11.15",
+    "packages": {
+      "pandas": "3.0.3",
+      "numpy": "2.4.6"
+    }
+  },
+  "git_commit": "922c63f91e27fdd138b0c7672ddce3764ef4b02b",
+  "tags": []
+}

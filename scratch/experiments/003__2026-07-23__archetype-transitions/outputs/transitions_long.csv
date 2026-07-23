@@ -1,0 +1,359 @@
+pair,code,web_name,archetype_name_from,archetype_name_to,changed,total_points_from,total_points_to
+2023-24->2024-25,85971,Son,Elite goalscorer,Creative midfielder,True,213,129
+2023-24->2024-25,118748,Salah,Elite goalscorer,Elite goalscorer,False,211,344
+2023-24->2024-25,154566,Solanke,Elite goalscorer,Elite goalscorer,False,175,108
+2023-24->2024-25,178186,Bowen,Elite goalscorer,Elite goalscorer,False,182,193
+2023-24->2024-25,178301,Watkins,Elite goalscorer,Elite goalscorer,False,228,186
+2023-24->2024-25,209244,Foden,Elite goalscorer,Elite goalscorer,False,230,105
+2023-24->2024-25,216646,Wissa,Elite goalscorer,Elite goalscorer,False,131,185
+2023-24->2024-25,219168,Isak,Elite goalscorer,Elite goalscorer,False,172,211
+2023-24->2024-25,219847,Havertz,Elite goalscorer,Elite goalscorer,False,180,97
+2023-24->2024-25,223094,Haaland,Elite goalscorer,Elite goalscorer,False,217,181
+2023-24->2024-25,223340,Saka,Elite goalscorer,Creative midfielder,True,226,127
+2023-24->2024-25,231747,Mateta,Elite goalscorer,Elite goalscorer,False,165,150
+2023-24->2024-25,244851,Palmer,Elite goalscorer,Elite goalscorer,False,244,214
+2023-24->2024-25,430871,Cunha,Elite goalscorer,Elite goalscorer,False,135,178
+2023-24->2024-25,447203,Darwin,Elite goalscorer,Premium attacker,True,132,66
+2023-24->2024-25,517052,N.Jackson,Elite goalscorer,Elite goalscorer,False,142,121
+2023-24->2024-25,50175,Welbeck,Premium attacker,Elite goalscorer,True,79,125
+2023-24->2024-25,60689,Wood,Premium attacker,Elite goalscorer,True,131,200
+2023-24->2024-25,116216,Trossard,Premium attacker,Creative midfielder,True,138,152
+2023-24->2024-25,121599,A.Doucoure,Premium attacker,Balanced defender,True,116,94
+2023-24->2024-25,122798,Robertson,Premium attacker,Balanced defender,True,76,91
+2023-24->2024-25,153133,Iwobi,Premium attacker,Creative midfielder,True,102,156
+2023-24->2024-25,176297,Rashford,Premium attacker,Elite goalscorer,True,108,95
+2023-24->2024-25,177815,Calvert-Lewin,Premium attacker,Premium attacker,False,101,63
+2023-24->2024-25,194634,Diogo J.,Premium attacker,Premium attacker,False,110,87
+2023-24->2024-25,201658,Tavernier,Premium attacker,Creative midfielder,True,89,87
+2023-24->2024-25,205533,Nketiah,Premium attacker,Premium attacker,False,71,53
+2023-24->2024-25,209046,Hudson-Odoi,Premium attacker,Attacking / ball-playing defender,True,109,103
+2023-24->2024-25,222683,Kluivert,Premium attacker,Elite goalscorer,True,100,158
+2023-24->2024-25,243298,Gakpo,Premium attacker,Elite goalscorer,True,106,127
+2023-24->2024-25,244042,Muniz,Premium attacker,Premium attacker,False,97,86
+2023-24->2024-25,248857,Madueke,Premium attacker,Elite goalscorer,True,76,120
+2023-24->2024-25,249231,Lewis-Potter,Premium attacker,Attacking / ball-playing defender,True,73,94
+2023-24->2024-25,424876,Szoboszlai,Premium attacker,Creative midfielder,True,99,143
+2023-24->2024-25,433979,Archer,Premium attacker,Premium attacker,False,82,57
+2023-24->2024-25,437730,Semenyo,Premium attacker,Elite goalscorer,True,107,165
+2023-24->2024-25,486385,Beto,Premium attacker,Premium attacker,False,50,87
+2023-24->2024-25,497894,Højlund,Premium attacker,Premium attacker,False,112,78
+2023-24->2024-25,535818,Adingra,Premium attacker,Premium attacker,False,97,60
+2023-24->2024-25,54469,Smith,Rotation midfielder,Defensive / rotation defender,True,80,57
+2023-24->2024-25,80607,Eriksen,Rotation midfielder,Premium attacker,True,48,45
+2023-24->2024-25,91651,Kovačić,Rotation midfielder,Balanced defender,True,59,109
+2023-24->2024-25,108413,Hughes,Rotation midfielder,Attacking / ball-playing defender,True,61,67
+2023-24->2024-25,115556,Davies,Rotation midfielder,Defensive / rotation defender,True,34,28
+2023-24->2024-25,166989,Tielemans,Rotation midfielder,Creative midfielder,True,77,121
+2023-24->2024-25,180974,Joelinton,Rotation midfielder,Attacking / ball-playing defender,True,45,99
+2023-24->2024-25,202993,Bentancur,Rotation midfielder,Defensive / rotation defender,True,32,49
+2023-24->2024-25,204214,Estupiñan,Rotation midfielder,Attacking / ball-playing defender,True,57,63
+2023-24->2024-25,247348,Muñoz,Rotation midfielder,Creative midfielder,True,56,142
+2023-24->2024-25,250199,Dominguez,Rotation midfielder,Defensive / rotation defender,True,67,54
+2023-24->2024-25,440854,Kiwior,Rotation midfielder,Defensive / rotation defender,True,67,43
+2023-24->2024-25,441266,Gravenberch,Rotation midfielder,Balanced defender,True,45,92
+2023-24->2024-25,496221,Wharton,Rotation midfielder,Rotation midfielder,False,50,42
+2023-24->2024-25,533463,O.Dango,Rotation midfielder,Elite goalscorer,True,56,111
+2023-24->2024-25,536916,Buonanotte,Rotation midfielder,Attacking / ball-playing defender,True,57,75
+2023-24->2024-25,17761,Tarkowski,Attacking / ball-playing defender,Attacking / ball-playing defender,False,117,105
+2023-24->2024-25,60232,Dawson,Attacking / ball-playing defender,Defensive / rotation defender,True,69,17
+2023-24->2024-25,61256,Casemiro,Attacking / ball-playing defender,Defensive / rotation defender,True,58,48
+2023-24->2024-25,78916,Burn,Attacking / ball-playing defender,Attacking / ball-playing defender,False,97,115
+2023-24->2024-25,101188,Digne,Attacking / ball-playing defender,Attacking / ball-playing defender,False,85,89
+2023-24->2024-25,109533,Emerson,Attacking / ball-playing defender,Attacking / ball-playing defender,False,82,76
+2023-24->2024-25,119471,Schär,Attacking / ball-playing defender,Balanced defender,True,123,118
+2023-24->2024-25,128295,Nørgaard,Attacking / ball-playing defender,Balanced defender,True,74,107
+2023-24->2024-25,152551,Lerma,Attacking / ball-playing defender,Defensive / rotation defender,True,64,58
+2023-24->2024-25,158499,Christie,Attacking / ball-playing defender,Attacking / ball-playing defender,False,90,76
+2023-24->2024-25,169528,Robinson,Attacking / ball-playing defender,Attacking / ball-playing defender,False,104,106
+2023-24->2024-25,174874,Andersen,Attacking / ball-playing defender,Balanced defender,True,121,51
+2023-24->2024-25,179268,Cucurella,Attacking / ball-playing defender,Balanced defender,True,44,133
+2023-24->2024-25,199796,Cash,Attacking / ball-playing defender,Defensive / rotation defender,True,64,76
+2023-24->2024-25,199798,Konsa,Attacking / ball-playing defender,Attacking / ball-playing defender,False,91,103
+2023-24->2024-25,204580,Janelt,Attacking / ball-playing defender,Attacking / ball-playing defender,False,93,73
+2023-24->2024-25,213999,Álvarez,Attacking / ball-playing defender,Balanced defender,True,62,40
+2023-24->2024-25,214048,Kilman,Attacking / ball-playing defender,Defensive / rotation defender,True,82,82
+2023-24->2024-25,215439,Souček,Attacking / ball-playing defender,Elite goalscorer,True,116,126
+2023-24->2024-25,221466,Senesi,Attacking / ball-playing defender,Defensive / rotation defender,True,102,31
+2023-24->2024-25,224024,L.Paquetá,Attacking / ball-playing defender,Attacking / ball-playing defender,False,100,80
+2023-24->2024-25,231065,Pinnock,Attacking / ball-playing defender,Defensive / rotation defender,True,77,47
+2023-24->2024-25,232928,Garner,Attacking / ball-playing defender,Defensive / rotation defender,True,87,42
+2023-24->2024-25,244723,Mitchell,Attacking / ball-playing defender,Attacking / ball-playing defender,False,119,123
+2023-24->2024-25,432830,Collins,Attacking / ball-playing defender,Attacking / ball-playing defender,False,84,127
+2023-24->2024-25,448047,Enzo,Attacking / ball-playing defender,Creative midfielder,True,77,135
+2023-24->2024-25,448089,João Gomes,Attacking / ball-playing defender,Balanced defender,True,75,87
+2023-24->2024-25,448514,Aït-Nouri,Attacking / ball-playing defender,Balanced defender,True,77,125
+2023-24->2024-25,469142,Van Hecke,Attacking / ball-playing defender,Balanced defender,True,61,87
+2023-24->2024-25,477580,Zabarnyi,Attacking / ball-playing defender,Balanced defender,True,84,94
+2023-24->2024-25,482442,Sarr,Attacking / ball-playing defender,Attacking / ball-playing defender,False,86,71
+2023-24->2024-25,486672,Caicedo,Attacking / ball-playing defender,Attacking / ball-playing defender,False,84,98
+2023-24->2024-25,491279,Van de Ven,Attacking / ball-playing defender,Rotation midfielder,True,81,32
+2023-24->2024-25,575476,Murillo,Attacking / ball-playing defender,Attacking / ball-playing defender,False,58,130
+2023-24->2024-25,67089,Dubravka,Goalkeeper,Defensive / rotation defender,True,75,44
+2023-24->2024-25,80201,Leno,Goalkeeper,Goalkeeper,False,133,115
+2023-24->2024-25,84182,Areola,Goalkeeper,Goalkeeper,False,116,69
+2023-24->2024-25,85633,Sels,Goalkeeper,Goalkeeper,False,34,150
+2023-24->2024-25,98747,Pope,Goalkeeper,Goalkeeper,False,57,102
+2023-24->2024-25,98980,Martinez,Goalkeeper,Goalkeeper,False,115,111
+2023-24->2024-25,111234,Pickford,Goalkeeper,Goalkeeper,False,153,158
+2023-24->2024-25,116535,A.Becker,Goalkeeper,Goalkeeper,False,107,112
+2023-24->2024-25,118342,Flekken,Goalkeeper,Goalkeeper,False,119,138
+2023-24->2024-25,121160,Ederson M.,Goalkeeper,Goalkeeper,False,112,111
+2023-24->2024-25,149065,José Sá,Goalkeeper,Goalkeeper,False,107,93
+2023-24->2024-25,154561,Raya,Goalkeeper,Goalkeeper,False,135,142
+2023-24->2024-25,172649,Henderson,Goalkeeper,Goalkeeper,False,48,135
+2023-24->2024-25,184254,Vicario,Goalkeeper,Goalkeeper,False,112,66
+2023-24->2024-25,200720,Kelleher,Goalkeeper,Defensive / rotation defender,True,34,45
+2023-24->2024-25,202641,Onana,Goalkeeper,Goalkeeper,False,133,120
+2023-24->2024-25,215059,Sanchez,Goalkeeper,Goalkeeper,False,59,126
+2023-24->2024-25,232917,Muric,Goalkeeper,Goalkeeper,False,47,49
+2023-24->2024-25,489639,Verbruggen,Goalkeeper,Goalkeeper,False,68,103
+2023-24->2024-25,61366,De Bruyne,Creative midfielder,Creative midfielder,False,98,114
+2023-24->2024-25,114243,J.Murphy,Creative midfielder,Creative midfielder,False,82,159
+2023-24->2024-25,153682,Wilson,Creative midfielder,Premium attacker,True,94,78
+2023-24->2024-25,172780,Maddison,Creative midfielder,Creative midfielder,False,117,133
+2023-24->2024-25,215711,Bailey,Creative midfielder,Premium attacker,True,148,47
+2023-24->2024-25,232413,Eze,Creative midfielder,Elite goalscorer,True,136,148
+2023-24->2024-25,242898,Johnson,Creative midfielder,Elite goalscorer,True,131,137
+2023-24->2024-25,244731,Luis Díaz,Creative midfielder,Elite goalscorer,True,142,183
+2023-24->2024-25,247632,Neto,Creative midfielder,Creative midfielder,False,86,104
+2023-24->2024-25,248875,Doku,Creative midfielder,Creative midfielder,False,98,88
+2023-24->2024-25,446008,Mbeumo,Creative midfielder,Elite goalscorer,True,127,236
+2023-24->2024-25,449434,Elanga,Creative midfielder,Creative midfielder,False,119,153
+2023-24->2024-25,451340,Mitoma,Creative midfielder,Elite goalscorer,True,74,145
+2023-24->2024-25,460842,Kudus,Creative midfielder,Balanced defender,True,137,106
+2023-24->2024-25,475168,João Pedro,Creative midfielder,Elite goalscorer,True,104,126
+2023-24->2024-25,18892,Young,Balanced defender,Balanced defender,False,76,98
+2023-24->2024-25,80146,J.Ayew,Balanced defender,Attacking / ball-playing defender,True,109,75
+2023-24->2024-25,83299,Dunk,Balanced defender,Defensive / rotation defender,True,89,44
+2023-24->2024-25,97032,Virgil,Balanced defender,Attacking / ball-playing defender,True,117,143
+2023-24->2024-25,102057,Raúl,Balanced defender,Elite goalscorer,True,72,147
+2023-24->2024-25,122806,McGinn,Balanced defender,Attacking / ball-playing defender,True,119,78
+2023-24->2024-25,151086,Mario Jr.,Balanced defender,Rotation midfielder,True,95,47
+2023-24->2024-25,155408,L.Cook,Balanced defender,Balanced defender,False,77,82
+2023-24->2024-25,164555,Coufal,Balanced defender,Defensive / rotation defender,True,85,27
+2023-24->2024-25,200402,N.Semedo,Balanced defender,Attacking / ball-playing defender,True,63,84
+2023-24->2024-25,206915,Jones,Balanced defender,Balanced defender,False,40,87
+2023-24->2024-25,207189,Berge,Balanced defender,Defensive / rotation defender,True,74,53
+2023-24->2024-25,211975,Akanji,Balanced defender,Defensive / rotation defender,True,112,61
+2023-24->2024-25,216051,Dalot,Balanced defender,Attacking / ball-playing defender,True,111,95
+2023-24->2024-25,216616,O'Shea,Balanced defender,Defensive / rotation defender,True,69,49
+2023-24->2024-25,219924,Diop,Balanced defender,Defensive / rotation defender,True,43,31
+2023-24->2024-25,221632,Romero,Balanced defender,Defensive / rotation defender,True,107,49
+2023-24->2024-25,226944,Kamara,Balanced defender,Defensive / rotation defender,True,40,57
+2023-24->2024-25,227127,Bissouma,Balanced defender,Defensive / rotation defender,True,44,50
+2023-24->2024-25,231057,Bellegarde,Balanced defender,Creative midfielder,True,45,90
+2023-24->2024-25,232892,Bassey,Balanced defender,Defensive / rotation defender,True,66,75
+2023-24->2024-25,243016,Mac Allister,Balanced defender,Creative midfielder,True,109,122
+2023-24->2024-25,482609,Gusto,Balanced defender,Defensive / rotation defender,True,74,60
+2023-24->2024-25,487053,Udogie,Balanced defender,Defensive / rotation defender,True,79,43
+2023-24->2024-25,544877,Kerkez,Balanced defender,Attacking / ball-playing defender,True,59,134
+2023-24->2024-25,77794,Trippier,Elite playmaker,Rotation midfielder,True,111,72
+2023-24->2024-25,101178,Ward-Prowse,Elite playmaker,Balanced defender,True,146,51
+2023-24->2024-25,141746,B.Fernandes,Elite playmaker,Creative midfielder,True,166,174
+2023-24->2024-25,156689,Andreas,Elite playmaker,Creative midfielder,True,127,81
+2023-24->2024-25,165809,Bernardo,Elite playmaker,Creative midfielder,True,141,110
+2023-24->2024-25,169187,Alexander-Arnold,Elite playmaker,Creative midfielder,True,122,148
+2023-24->2024-25,204480,Rice,Elite playmaker,Creative midfielder,True,165,127
+2023-24->2024-25,208706,Bruno G.,Elite playmaker,Creative midfielder,True,153,135
+2023-24->2024-25,222531,Gibbs-White,Elite playmaker,Creative midfielder,True,142,154
+2023-24->2024-25,232826,Gordon,Elite playmaker,Elite goalscorer,True,183,124
+2023-24->2024-25,433154,McNeil,Elite playmaker,Creative midfielder,True,124,93
+2023-24->2024-25,441164,Pedro Porro,Elite playmaker,Attacking / ball-playing defender,True,136,98
+2023-24->2024-25,445044,Kulusevski,Elite playmaker,Elite goalscorer,True,130,117
+2023-24->2024-25,87835,Doherty,Defensive / rotation defender,Defensive / rotation defender,False,41,75
+2023-24->2024-25,109646,Tosin,Defensive / rotation defender,Defensive / rotation defender,False,66,71
+2023-24->2024-25,111478,Veltman,Defensive / rotation defender,Defensive / rotation defender,False,49,59
+2023-24->2024-25,159506,Aina,Defensive / rotation defender,Attacking / ball-playing defender,True,45,128
+2023-24->2024-25,179519,Mangala,Defensive / rotation defender,Defensive / rotation defender,False,40,39
+2023-24->2024-25,209036,Guéhi,Defensive / rotation defender,Balanced defender,True,66,116
+2023-24->2024-25,212314,Lukić,Defensive / rotation defender,Defensive / rotation defender,False,43,56
+2023-24->2024-25,214590,Wan-Bissaka,Defensive / rotation defender,Attacking / ball-playing defender,True,47,118
+2023-24->2024-25,215136,Williams,Defensive / rotation defender,Attacking / ball-playing defender,True,39,109
+2023-24->2024-25,223434,Igor,Defensive / rotation defender,Defensive / rotation defender,False,37,18
+2023-24->2024-25,226956,Roerslev,Defensive / rotation defender,Rotation midfielder,True,75,36
+2023-24->2024-25,233963,Mavropanos,Defensive / rotation defender,Balanced defender,True,40,45
+2023-24->2024-25,244619,Thomas,Defensive / rotation defender,Defensive / rotation defender,False,7,27
+2023-24->2024-25,427623,C.Richards,Defensive / rotation defender,Balanced defender,True,62,68
+2023-24->2024-25,441191,Livramento,Defensive / rotation defender,Attacking / ball-playing defender,True,45,105
+2023-24->2024-25,460028,Colwill,Defensive / rotation defender,Attacking / ball-playing defender,True,65,109
+2023-24->2024-25,535301,Baleba,Defensive / rotation defender,Balanced defender,True,34,87
+2024-25->2025-26,50175,Welbeck,Elite goalscorer,Premium attacker,True,125,126
+2024-25->2025-26,102057,Raúl,Elite goalscorer,Premium attacker,True,147,112
+2024-25->2025-26,118748,M.Salah,Elite goalscorer,Elite goalscorer,False,344,123
+2024-25->2025-26,154566,Solanke,Elite goalscorer,Rotation midfielder,True,108,40
+2024-25->2025-26,178186,Bowen,Elite goalscorer,Elite goalscorer,False,193,187
+2024-25->2025-26,178301,Watkins,Elite goalscorer,Elite goalscorer,False,186,167
+2024-25->2025-26,201666,Barnes,Elite goalscorer,Premium attacker,True,130,106
+2024-25->2025-26,209244,Foden,Elite goalscorer,Elite goalscorer,False,105,131
+2024-25->2025-26,215439,Souček,Elite goalscorer,Balanced defender,True,126,103
+2024-25->2025-26,222683,Kluivert,Elite goalscorer,Rotation midfielder,True,158,41
+2024-25->2025-26,223094,Haaland,Elite goalscorer,Elite goalscorer,False,181,239
+2024-25->2025-26,231747,Mateta,Elite goalscorer,Premium attacker,True,150,114
+2024-25->2025-26,232185,I.Sarr,Elite goalscorer,Premium attacker,True,149,117
+2024-25->2025-26,232413,Eze,Elite goalscorer,Premium attacker,True,148,113
+2024-25->2025-26,232826,Gordon,Elite goalscorer,Premium attacker,True,124,101
+2024-25->2025-26,242898,Johnson,Elite goalscorer,Rotation midfielder,True,137,65
+2024-25->2025-26,243298,Gakpo,Elite goalscorer,Elite goalscorer,False,127,131
+2024-25->2025-26,244851,Palmer,Elite goalscorer,Premium attacker,True,214,114
+2024-25->2025-26,247412,Strand Larsen,Elite goalscorer,Rotation midfielder,True,145,75
+2024-25->2025-26,248857,Madueke,Elite goalscorer,Premium attacker,True,120,72
+2024-25->2025-26,430871,Cunha,Elite goalscorer,Elite goalscorer,False,178,143
+2024-25->2025-26,437730,Semenyo,Elite goalscorer,Elite goalscorer,False,165,202
+2024-25->2025-26,444102,Evanilson,Elite goalscorer,Premium attacker,True,128,115
+2024-25->2025-26,444145,Martinelli,Elite goalscorer,Rotation midfielder,True,125,57
+2024-25->2025-26,446008,Mbeumo,Elite goalscorer,Elite goalscorer,False,236,148
+2024-25->2025-26,463034,Delap,Elite goalscorer,Rotation midfielder,True,132,45
+2024-25->2025-26,475168,João Pedro,Elite goalscorer,Elite goalscorer,False,126,177
+2024-25->2025-26,493105,Garnacho,Elite goalscorer,Premium attacker,True,106,56
+2024-25->2025-26,513418,Schade,Elite goalscorer,Premium attacker,True,149,125
+2024-25->2025-26,533463,O.Dango,Elite goalscorer,Elite goalscorer,False,111,136
+2024-25->2025-26,111317,Brooks,Premium attacker,Premium attacker,False,52,59
+2024-25->2025-26,153682,Wilson,Premium attacker,Elite goalscorer,True,78,168
+2024-25->2025-26,177815,Calvert-Lewin,Premium attacker,Premium attacker,False,63,142
+2024-25->2025-26,195384,Merino,Premium attacker,Premium attacker,False,92,67
+2024-25->2025-26,244042,Muniz,Premium attacker,Rotation midfielder,True,86,36
+2024-25->2025-26,463067,Georginio,Premium attacker,Premium attacker,False,95,87
+2024-25->2025-26,486385,Beto,Premium attacker,Premium attacker,False,87,104
+2024-25->2025-26,511499,Tel,Premium attacker,Premium attacker,False,42,78
+2024-25->2025-26,155511,Armstrong,Rotation midfielder,Rotation midfielder,False,45,39
+2024-25->2025-26,200089,Willock,Rotation midfielder,Rotation midfielder,False,46,38
+2024-25->2025-26,225796,James,Rotation midfielder,Premium attacker,True,54,115
+2024-25->2025-26,466075,Calafiori,Rotation midfielder,Rotation midfielder,False,39,109
+2024-25->2025-26,467779,Wieffer,Rotation midfielder,Rotation midfielder,False,52,94
+2024-25->2025-26,491279,Van de Ven,Rotation midfielder,Balanced defender,True,32,116
+2024-25->2025-26,570526,Bergvall,Rotation midfielder,Rotation midfielder,False,44,49
+2024-25->2025-26,17761,Tarkowski,Attacking / ball-playing defender,Attacking / ball-playing defender,False,105,170
+2024-25->2025-26,78916,Burn,Attacking / ball-playing defender,Balanced defender,True,115,93
+2024-25->2025-26,80801,Gana,Attacking / ball-playing defender,Balanced defender,True,89,83
+2024-25->2025-26,97032,Virgil,Attacking / ball-playing defender,Attacking / ball-playing defender,False,143,175
+2024-25->2025-26,101188,Digne,Attacking / ball-playing defender,Premium attacker,True,89,97
+2024-25->2025-26,108413,Hughes,Attacking / ball-playing defender,Rotation midfielder,True,67,45
+2024-25->2025-26,122806,McGinn,Attacking / ball-playing defender,Premium attacker,True,78,103
+2024-25->2025-26,158499,Christie,Attacking / ball-playing defender,Balanced defender,True,76,47
+2024-25->2025-26,169528,Robinson,Attacking / ball-playing defender,Rotation midfielder,True,106,65
+2024-25->2025-26,199798,Konsa,Attacking / ball-playing defender,Balanced defender,True,103,100
+2024-25->2025-26,204580,Janelt,Attacking / ball-playing defender,Rotation midfielder,True,73,74
+2024-25->2025-26,209046,Hudson-Odoi,Attacking / ball-playing defender,Premium attacker,True,103,88
+2024-25->2025-26,209289,Smith Rowe,Attacking / ball-playing defender,Rotation midfielder,True,114,80
+2024-25->2025-26,215136,N.Williams,Attacking / ball-playing defender,Balanced defender,True,109,128
+2024-25->2025-26,216051,Dalot,Attacking / ball-playing defender,Attacking / ball-playing defender,False,95,111
+2024-25->2025-26,224024,L.Paquetá,Attacking / ball-playing defender,Balanced defender,True,80,69
+2024-25->2025-26,224967,Mykolenko,Attacking / ball-playing defender,Attacking / ball-playing defender,False,121,95
+2024-25->2025-26,227444,Milenković,Attacking / ball-playing defender,Attacking / ball-playing defender,False,145,119
+2024-25->2025-26,230001,Mazraoui,Attacking / ball-playing defender,Defensive / rotation defender,True,88,53
+2024-25->2025-26,244723,Mitchell,Attacking / ball-playing defender,Attacking / ball-playing defender,False,123,135
+2024-25->2025-26,249231,Lewis-Potter,Attacking / ball-playing defender,Premium attacker,True,94,115
+2024-25->2025-26,432422,Tonali,Attacking / ball-playing defender,Attacking / ball-playing defender,False,106,81
+2024-25->2025-26,432830,Collins,Attacking / ball-playing defender,Attacking / ball-playing defender,False,127,129
+2024-25->2025-26,437499,Lacroix,Attacking / ball-playing defender,Balanced defender,True,114,154
+2024-25->2025-26,440993,Ndiaye,Attacking / ball-playing defender,Premium attacker,True,114,128
+2024-25->2025-26,441164,Pedro Porro,Attacking / ball-playing defender,Attacking / ball-playing defender,False,98,117
+2024-25->2025-26,441191,Livramento,Attacking / ball-playing defender,Defensive / rotation defender,True,105,59
+2024-25->2025-26,477424,Gvardiol,Attacking / ball-playing defender,Rotation midfielder,True,153,79
+2024-25->2025-26,482442,P.M.Sarr,Attacking / ball-playing defender,Rotation midfielder,True,71,71
+2024-25->2025-26,486672,Caicedo,Attacking / ball-playing defender,Balanced defender,True,98,110
+2024-25->2025-26,503301,Hutchinson,Attacking / ball-playing defender,Premium attacker,True,88,82
+2024-25->2025-26,509416,Ayari,Attacking / ball-playing defender,Rotation midfielder,True,74,98
+2024-25->2025-26,532529,Hinshelwood,Attacking / ball-playing defender,Premium attacker,True,89,91
+2024-25->2025-26,544877,Kerkez,Attacking / ball-playing defender,Rotation midfielder,True,134,85
+2024-25->2025-26,551226,M.Fernandes,Attacking / ball-playing defender,Attacking / ball-playing defender,False,95,135
+2024-25->2025-26,575476,Murillo,Attacking / ball-playing defender,Rotation midfielder,True,130,83
+2024-25->2025-26,80201,Leno,Goalkeeper,Goalkeeper,False,115,122
+2024-25->2025-26,84182,Areola,Goalkeeper,Goalkeeper,False,69,51
+2024-25->2025-26,85633,Sels,Goalkeeper,Goalkeeper,False,150,105
+2024-25->2025-26,98747,Pope,Goalkeeper,Goalkeeper,False,102,96
+2024-25->2025-26,98980,Martinez,Goalkeeper,Goalkeeper,False,111,120
+2024-25->2025-26,111234,Pickford,Goalkeeper,Goalkeeper,False,158,135
+2024-25->2025-26,116535,A.Becker,Goalkeeper,Goalkeeper,False,112,91
+2024-25->2025-26,149065,José Sá,Goalkeeper,Goalkeeper,False,93,68
+2024-25->2025-26,154561,Raya,Goalkeeper,Goalkeeper,False,142,162
+2024-25->2025-26,172649,Henderson,Goalkeeper,Goalkeeper,False,135,131
+2024-25->2025-26,184254,Vicario,Goalkeeper,Goalkeeper,False,66,90
+2024-25->2025-26,215059,Sánchez,Goalkeeper,Goalkeeper,False,126,113
+2024-25->2025-26,225321,Ramsdale,Goalkeeper,Defensive / rotation defender,True,97,25
+2024-25->2025-26,467189,Hermansen,Goalkeeper,Goalkeeper,False,63,76
+2024-25->2025-26,489639,Verbruggen,Goalkeeper,Goalkeeper,False,103,130
+2024-25->2025-26,114243,J.Murphy,Creative midfielder,Premium attacker,True,159,82
+2024-25->2025-26,141746,B.Fernandes,Creative midfielder,Elite goalscorer,True,174,235
+2024-25->2025-26,153133,Iwobi,Creative midfielder,Premium attacker,True,156,103
+2024-25->2025-26,165809,Bernardo,Creative midfielder,Attacking / ball-playing defender,True,110,102
+2024-25->2025-26,166989,Tielemans,Creative midfielder,Attacking / ball-playing defender,True,121,68
+2024-25->2025-26,184029,Ødegaard,Creative midfielder,Premium attacker,True,116,74
+2024-25->2025-26,201658,Tavernier,Creative midfielder,Elite goalscorer,True,87,137
+2024-25->2025-26,204480,Rice,Creative midfielder,Elite goalscorer,True,127,184
+2024-25->2025-26,208706,Bruno G.,Creative midfielder,Elite goalscorer,True,135,154
+2024-25->2025-26,222531,Gibbs-White,Creative midfielder,Elite goalscorer,True,154,188
+2024-25->2025-26,223340,Saka,Creative midfielder,Elite goalscorer,True,127,157
+2024-25->2025-26,231057,Bellegarde,Creative midfielder,Rotation midfielder,True,90,44
+2024-25->2025-26,243016,Mac Allister,Creative midfielder,Attacking / ball-playing defender,True,122,108
+2024-25->2025-26,244850,Rogers,Creative midfielder,Elite goalscorer,True,161,169
+2024-25->2025-26,247348,Muñoz,Creative midfielder,Attacking / ball-playing defender,True,142,136
+2024-25->2025-26,247632,Neto,Creative midfielder,Elite goalscorer,True,104,125
+2024-25->2025-26,248875,Doku,Creative midfielder,Elite goalscorer,True,88,120
+2024-25->2025-26,424876,Szoboszlai,Creative midfielder,Elite goalscorer,True,143,160
+2024-25->2025-26,433154,McNeil,Creative midfielder,Rotation midfielder,True,93,53
+2024-25->2025-26,440089,Damsgaard,Creative midfielder,Premium attacker,True,131,113
+2024-25->2025-26,448047,Enzo,Creative midfielder,Elite goalscorer,True,135,157
+2024-25->2025-26,465351,Matheus N.,Creative midfielder,Attacking / ball-playing defender,True,81,154
+2024-25->2025-26,487838,Hall,Creative midfielder,Attacking / ball-playing defender,True,102,79
+2024-25->2025-26,493250,Amad,Creative midfielder,Premium attacker,True,129,91
+2024-25->2025-26,592031,Minteh,Creative midfielder,Elite goalscorer,True,102,117
+2024-25->2025-26,119471,Schär,Balanced defender,Defensive / rotation defender,True,118,51
+2024-25->2025-26,122798,Robertson,Balanced defender,Rotation midfielder,True,91,55
+2024-25->2025-26,174874,Andersen,Balanced defender,Balanced defender,False,51,123
+2024-25->2025-26,179268,Cucurella,Balanced defender,Balanced defender,False,133,104
+2024-25->2025-26,180804,Tuanzebe,Balanced defender,Defensive / rotation defender,True,27,34
+2024-25->2025-26,206915,Jones,Balanced defender,Attacking / ball-playing defender,True,87,81
+2024-25->2025-26,209036,Guéhi,Balanced defender,Attacking / ball-playing defender,True,116,179
+2024-25->2025-26,232653,Ramsey,Balanced defender,Balanced defender,False,66,62
+2024-25->2025-26,232859,Spence,Balanced defender,Rotation midfielder,True,51,78
+2024-25->2025-26,233963,Mavropanos,Balanced defender,Attacking / ball-playing defender,True,45,122
+2024-25->2025-26,427623,C.Richards,Balanced defender,Attacking / ball-playing defender,True,68,128
+2024-25->2025-26,441266,Gravenberch,Balanced defender,Attacking / ball-playing defender,True,92,144
+2024-25->2025-26,448089,J.Gomes,Balanced defender,Attacking / ball-playing defender,True,87,107
+2024-25->2025-26,448514,Aït-Nouri,Balanced defender,Rotation midfielder,True,125,60
+2024-25->2025-26,460842,Kudus,Balanced defender,Premium attacker,True,106,75
+2024-25->2025-26,462424,Saliba,Balanced defender,Rotation midfielder,True,130,137
+2024-25->2025-26,469142,Van Hecke,Balanced defender,Attacking / ball-playing defender,True,87,148
+2024-25->2025-26,535301,Baleba,Balanced defender,Defensive / rotation defender,True,87,56
+2024-25->2025-26,54469,Smith,Defensive / rotation defender,Defensive / rotation defender,False,57,58
+2024-25->2025-26,58621,Walker,Defensive / rotation defender,Attacking / ball-playing defender,True,13,70
+2024-25->2025-26,61256,Casemiro,Defensive / rotation defender,Elite goalscorer,True,48,165
+2024-25->2025-26,67089,Dúbravka,Defensive / rotation defender,Goalkeeper,True,44,96
+2024-25->2025-26,83299,Dunk,Defensive / rotation defender,Attacking / ball-playing defender,True,44,100
+2024-25->2025-26,95658,Maguire,Defensive / rotation defender,Balanced defender,True,48,90
+2024-25->2025-26,106611,Keane,Defensive / rotation defender,Balanced defender,True,48,131
+2024-25->2025-26,111478,Veltman,Defensive / rotation defender,Defensive / rotation defender,False,59,46
+2024-25->2025-26,149484,Mings,Defensive / rotation defender,Defensive / rotation defender,False,47,50
+2024-25->2025-26,152551,Lerma,Defensive / rotation defender,Rotation midfielder,True,58,69
+2024-25->2025-26,158534,Walker-Peters,Defensive / rotation defender,Defensive / rotation defender,False,54,53
+2024-25->2025-26,167074,Tete,Defensive / rotation defender,Rotation midfielder,True,49,81
+2024-25->2025-26,199796,Cash,Defensive / rotation defender,Attacking / ball-playing defender,True,76,117
+2024-25->2025-26,200720,Kelleher,Defensive / rotation defender,Goalkeeper,True,45,143
+2024-25->2025-26,200785,Adams,Defensive / rotation defender,Rotation midfielder,True,58,77
+2024-25->2025-26,202993,Bentancur,Defensive / rotation defender,Rotation midfielder,True,49,86
+2024-25->2025-26,207189,Berge,Defensive / rotation defender,Attacking / ball-playing defender,True,53,91
+2024-25->2025-26,209365,De Ligt,Defensive / rotation defender,Rotation midfielder,True,68,43
+2024-25->2025-26,212314,Lukić,Defensive / rotation defender,Rotation midfielder,True,56,67
+2024-25->2025-26,214048,Kilman,Defensive / rotation defender,Defensive / rotation defender,False,82,36
+2024-25->2025-26,220627,Justin,Defensive / rotation defender,Rotation midfielder,True,70,94
+2024-25->2025-26,221466,Senesi,Defensive / rotation defender,Attacking / ball-playing defender,True,31,175
+2024-25->2025-26,221632,Romero,Defensive / rotation defender,Balanced defender,True,49,91
+2024-25->2025-26,221820,Martinez,Defensive / rotation defender,Balanced defender,True,68,51
+2024-25->2025-26,231480,S.Bueno,Defensive / rotation defender,Attacking / ball-playing defender,True,52,92
+2024-25->2025-26,232892,Bassey,Defensive / rotation defender,Attacking / ball-playing defender,True,75,103
+2024-25->2025-26,244954,Pau,Defensive / rotation defender,Defensive / rotation defender,False,55,64
+2024-25->2025-26,250199,Dominguez,Defensive / rotation defender,Rotation midfielder,True,54,48
+2024-25->2025-26,444463,W.Fofana,Defensive / rotation defender,Balanced defender,True,26,65
+2024-25->2025-26,444765,Van den Berg,Defensive / rotation defender,Attacking / ball-playing defender,True,62,113
+2024-25->2025-26,449871,Onana,Defensive / rotation defender,Rotation midfielder,True,65,76
+2024-25->2025-26,462116,Todibo,Defensive / rotation defender,Balanced defender,True,54,46
+2024-25->2025-26,482609,Gusto,Defensive / rotation defender,Balanced defender,True,60,96
+2024-25->2025-26,487053,Udogie,Defensive / rotation defender,Defensive / rotation defender,False,43,29
+2024-25->2025-26,503714,Ugochukwu,Defensive / rotation defender,Balanced defender,True,47,97
+2024-25->2025-26,508395,Yarmoliuk,Defensive / rotation defender,Attacking / ball-playing defender,True,43,104
+2024-25->2025-26,509291,André,Defensive / rotation defender,Attacking / ball-playing defender,True,61,96
+2024-25->2025-26,512462,O'Brien,Defensive / rotation defender,Balanced defender,True,65,116
+2024-25->2025-26,516939,Agbadou,Defensive / rotation defender,Balanced defender,True,45,23
+2024-25->2025-26,547701,Gray,Defensive / rotation defender,Rotation midfielder,True,45,61
+2024-25->2025-26,550864,Yoro,Defensive / rotation defender,Defensive / rotation defender,False,22,56

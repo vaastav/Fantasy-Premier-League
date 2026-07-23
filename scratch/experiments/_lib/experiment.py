@@ -234,6 +234,20 @@ def git_commit_hash() -> str | None:
         return None
 
 
+def experiment_dir_by_id(exp_id: str) -> Path:
+    """Locate an experiment folder by its NNN id (e.g. '002')."""
+    matches = sorted(EXPERIMENTS.glob(f"{exp_id}__*"))
+    if not matches:
+        raise FileNotFoundError(f"No experiment folder for id {exp_id}")
+    return matches[0]
+
+
+def load_experiment_output(exp_id: str, filename: str):
+    """Load a CSV output from an upstream experiment as a DataFrame."""
+    import pandas as pd
+    return pd.read_csv(experiment_dir_by_id(exp_id) / "outputs" / filename)
+
+
 def exp_paths(run_file: str) -> dict:
     """Given an experiment's run.py __file__, return its standard paths and
     ensure outputs/ and validation/ exist."""

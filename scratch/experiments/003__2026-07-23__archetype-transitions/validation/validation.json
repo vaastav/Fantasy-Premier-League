@@ -1,0 +1,21 @@
+{
+  "pairs": [
+    {
+      "pair": "2023-24->2024-25",
+      "n_players": 178,
+      "n_stayed": 69,
+      "n_changed": 109,
+      "pct_stayed": 38.8
+    },
+    {
+      "pair": "2024-25->2025-26",
+      "n_players": 180,
+      "n_stayed": 57,
+      "n_changed": 123,
+      "pct_stayed": 31.7
+    }
+  ],
+  "n_transition_rows": 358,
+  "overall_pct_stayed": 35.2,
+  "n_distinct_change_types": 43
+}

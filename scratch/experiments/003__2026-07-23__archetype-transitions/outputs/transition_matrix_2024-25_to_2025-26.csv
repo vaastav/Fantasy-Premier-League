@@ -1,0 +1,10 @@
+archetype_name_from,Attacking / ball-playing defender,Balanced defender,Creative midfielder,Defensive / rotation defender,Elite goalscorer,Elite playmaker,Goalkeeper,Premium attacker,Rotation midfielder
+Attacking / ball-playing defender,10,8,0,2,0,0,0,7,9
+Balanced defender,7,3,0,3,0,0,0,1,4
+Creative midfielder,6,0,0,0,12,0,0,5,2
+Defensive / rotation defender,10,10,0,8,1,0,2,0,10
+Elite goalscorer,0,1,0,0,11,0,0,12,6
+Elite playmaker,0,0,0,0,0,0,0,0,0
+Goalkeeper,0,0,0,1,0,0,14,0,0
+Premium attacker,0,0,0,0,1,0,0,6,1
+Rotation midfielder,0,1,0,0,0,0,0,1,5
