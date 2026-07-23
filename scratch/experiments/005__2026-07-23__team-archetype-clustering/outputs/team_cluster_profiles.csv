@@ -1,0 +1,8 @@
+team_cluster,size,mean_n_classified,members,mean_p__Attacking / ball-playing defender,mean_p__Balanced defender,mean_p__Creative midfielder,mean_p__Defensive / rotation defender,mean_p__Elite goalscorer,mean_p__Elite playmaker,mean_p__Goalkeeper,mean_p__Premium attacker,mean_p__Rotation midfielder
+0,12,15.6,"Everton(24), Arsenal(26), Bournemouth(26), Brentford(26), Brighton(26), Burnley(26), Crystal Palace(26), Fulham(26), Leeds(26), Nott'm Forest(26), Spurs(26), Wolves(26)",0.195,0.073,0.0,0.09,0.055,0.007,0.065,0.242,0.273
+1,10,14.8,"Arsenal(25), Bournemouth(25), Brentford(25), Chelsea(25), Crystal Palace(25), Liverpool(25), Man City(25), Newcastle(25), Liverpool(26), Man City(26)",0.182,0.103,0.148,0.128,0.216,0.0,0.068,0.061,0.094
+2,6,14.3,"Arsenal(24), Luton(24), Man City(24), Man Utd(24), Newcastle(24), Spurs(24)",0.081,0.074,0.074,0.185,0.105,0.115,0.082,0.119,0.165
+3,6,17.0,"Aston Villa(25), Fulham(25), Leicester(25), Man Utd(25), Southampton(25), Spurs(25)",0.166,0.039,0.09,0.429,0.077,0.0,0.059,0.101,0.037
+4,7,17.6,"Brighton(24), Burnley(24), Chelsea(24), Crystal Palace(24), Liverpool(24), Nott'm Forest(24), West Ham(26)",0.123,0.155,0.072,0.213,0.048,0.024,0.114,0.147,0.104
+5,11,15.9,"Bournemouth(24), Fulham(24), Brighton(25), Ipswich(25), West Ham(25), Wolves(25), Aston Villa(26), Chelsea(26), Everton(26), Man Utd(26), Newcastle(26)",0.126,0.185,0.017,0.2,0.115,0.005,0.064,0.173,0.115
+6,8,14.1,"Aston Villa(24), Brentford(24), Sheffield Utd(24), West Ham(24), Wolves(24), Everton(25), Nott'm Forest(25), Sunderland(26)",0.329,0.13,0.082,0.158,0.055,0.019,0.071,0.101,0.054

@@ -1,0 +1,20 @@
+{
+  "n_team_seasons": 60,
+  "n_features": 18,
+  "primary_method": "agglomerative",
+  "primary_k": 7,
+  "primary_silhouette": 0.163,
+  "hdbscan_n_clusters": 2,
+  "hdbscan_n_noise": 1,
+  "archetypes": [
+    "Attacking / ball-playing defender",
+    "Balanced defender",
+    "Creative midfielder",
+    "Defensive / rotation defender",
+    "Elite goalscorer",
+    "Elite playmaker",
+    "Goalkeeper",
+    "Premium attacker",
+    "Rotation midfielder"
+  ]
+}
