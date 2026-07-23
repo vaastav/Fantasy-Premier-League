@@ -1,0 +1,107 @@
+{
+  "min_minutes": 900,
+  "k_coarse": 5,
+  "seed": 42,
+  "features": [
+    "goals_scored",
+    "assists",
+    "expected_goals",
+    "expected_assists",
+    "expected_goal_involvements",
+    "clean_sheets",
+    "goals_conceded",
+    "expected_goals_conceded",
+    "saves",
+    "bonus",
+    "bps",
+    "yellow_cards",
+    "red_cards",
+    "influence",
+    "creativity",
+    "threat",
+    "ict_index",
+    "points_per_90",
+    "goals_per_90",
+    "assists_per_90",
+    "xg_per_90",
+    "xa_per_90",
+    "xgi_per_90"
+  ],
+  "umap_cluster": {
+    "n_neighbors": 12,
+    "min_dist": 0.0,
+    "n_components": 10
+  },
+  "hdbscan_fine": {
+    "min_cluster_size": 15,
+    "min_samples": 3,
+    "cluster_selection_method": "leaf"
+  },
+  "seasons": {
+    "2023-24": {
+      "n_all_players": 389,
+      "n_clustered": 237,
+      "n_excluded_below_min": 152,
+      "n_nan_features_filled": 0,
+      "levels": {
+        "coarse": {
+          "n_clusters": 5,
+          "n_noise": 9,
+          "noise_fraction": 0.038,
+          "silhouette": 0.273
+        },
+        "fine": {
+          "n_clusters": 9,
+          "n_noise": 9,
+          "noise_fraction": 0.038,
+          "silhouette": 0.495
+        }
+      }
+    },
+    "2024-25": {
+      "n_all_players": 389,
+      "n_clustered": 229,
+      "n_excluded_below_min": 160,
+      "n_nan_features_filled": 0,
+      "levels": {
+        "coarse": {
+          "n_clusters": 5,
+          "n_noise": 29,
+          "noise_fraction": 0.127,
+          "silhouette": 0.452
+        },
+        "fine": {
+          "n_clusters": 8,
+          "n_noise": 29,
+          "noise_fraction": 0.127,
+          "silhouette": 0.473
+        }
+      }
+    },
+    "2025-26": {
+      "n_all_players": 389,
+      "n_clustered": 208,
+      "n_excluded_below_min": 181,
+      "n_nan_features_filled": 0,
+      "levels": {
+        "coarse": {
+          "n_clusters": 5,
+          "n_noise": 9,
+          "noise_fraction": 0.043,
+          "silhouette": 0.577
+        },
+        "fine": {
+          "n_clusters": 7,
+          "n_noise": 9,
+          "noise_fraction": 0.043,
+          "silhouette": 0.556
+        }
+      }
+    }
+  },
+  "assignment_rows": 674,
+  "expected_rows": 674,
+  "rows_match": true,
+  "no_nan_in_clustered_features": true,
+  "coarse_is_nested_in_fine": true
+}

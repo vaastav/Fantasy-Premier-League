@@ -1,0 +1,68 @@
+{
+  "id": "001",
+  "slug": "player-clustering-umap-hdbscan",
+  "title": "Player archetype clustering (UMAP + HDBSCAN), per season",
+  "date_created": "2026-07-23",
+  "date_completed": "2026-07-23",
+  "status": "complete",
+  "author": "andrew",
+  "rationale": "Discover coarse and fine-grained player archetypes from season-aggregate stats, per season, unsupervised.",
+  "question": "Do FPL players fall into interpretable coarse/fine archetypes from season-aggregate production stats, consistently across seasons?",
+  "method_summary": "Per season, players >=900 min; 23 production/rate features (no minutes); UMAP(10D)->HDBSCAN(leaf) for fine; agglomerate fine centroids to K=5 for coarse (nested). Seed 42.",
+  "inputs": {
+    "core_dataset": [
+      "core_players_roster.csv",
+      "core_player_season_panel.csv",
+      "core_player_gameweek_long.csv"
+    ],
+    "upstream_experiments": []
+  },
+  "depends_on": [],
+  "outputs": [
+    "player_clusters.csv",
+    "cluster_profiles.csv",
+    "figures/umap_2023-24_coarse.png",
+    "figures/umap_2023-24_fine.png",
+    "figures/umap_2024-25_coarse.png",
+    "figures/umap_2024-25_fine.png",
+    "figures/umap_2025-26_coarse.png",
+    "figures/umap_2025-26_fine.png"
+  ],
+  "key_findings": [
+    "5 stable coarse archetypes/season: GK, elite attackers, creative mids, attacking full-backs, defensive/rotation defenders.",
+    "Fine gives 7-9 nested sub-roles (goalscorer vs playmaker; attacking vs defensive full-back).",
+    "Position is recovered without being a feature - archetypes are football-sensible.",
+    "A minutes floor (>=900) is essential; otherwise coarse clustering just recovers played-vs-not-played.",
+    "Coarse via merging fine centroids is stable across seasons; a 2nd independent HDBSCAN was not."
+  ],
+  "core_dataset_version": "core_v1",
+  "core_dataset_fingerprint": {
+    "roster": {
+      "file": "scratch/summaries/core_players_roster.csv",
+      "sha256": "f9356db4746a07d02b9569f6859412b7dea2b6c2cc681750466c44279e1806d4",
+      "rows": 389,
+      "bytes": 45835
+    },
+    "season_panel": {
+      "file": "scratch/summaries/core_player_season_panel.csv",
+      "sha256": "3b13fe7143a14c526e1f0587b83cb7262541c832a60c4be80112aee7b8cd0be2",
+      "rows": 1167,
+      "bytes": 283565
+    },
+    "gameweek_long": {
+      "file": "scratch/summaries/core_player_gameweek_long.csv",
+      "sha256": "fe8f7c5170ab1a63ff663b5e822632821648dbe1c8ab56cf8aa18450cc6cf416",
+      "rows": 42989,
+      "bytes": 8320913
+    }
+  },
+  "environment": {
+    "python": "3.11.15",
+    "packages": {
+      "pandas": "3.0.3",
+      "numpy": "2.4.6"
+    }
+  },
+  "git_commit": "d39c5d9cc7c79a2db5ad43d1374fa22ddf49e957",
+  "tags": []
+}
