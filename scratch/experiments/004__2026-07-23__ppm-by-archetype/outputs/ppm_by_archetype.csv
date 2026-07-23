@@ -1,0 +1,10 @@
+archetype_name,n,mean_ppm,median_ppm,p25_ppm,p75_ppm,mean_points,mean_cost_m
+Elite playmaker,17.0,23.7,23.96,22.74,26.38,141.6,6.1
+Elite goalscorer,90.0,22.52,23.0,18.95,25.6,160.2,7.4
+Goalkeeper,68.0,20.78,21.39,16.12,25.33,99.9,4.7
+Attacking / ball-playing defender,162.0,20.66,20.21,16.46,24.82,100.5,4.9
+Creative midfielder,58.0,19.64,19.84,16.22,22.57,117.9,6.2
+Balanced defender,105.0,15.83,16.09,11.43,19.47,77.3,4.8
+Premium attacker,133.0,15.68,15.44,12.08,19.0,88.2,5.7
+Rotation midfielder,124.0,11.79,10.68,8.62,14.1,59.0,5.1
+Defensive / rotation defender,177.0,9.97,10.0,7.56,12.24,44.1,4.4
