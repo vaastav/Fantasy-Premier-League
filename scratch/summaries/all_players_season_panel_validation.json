@@ -1,0 +1,16 @@
+{
+  "rows": 2490,
+  "per_season": {
+    "2023-24": 865,
+    "2024-25": 784,
+    "2025-26": 841
+  },
+  "unique_code_season": true,
+  "positions_ok": true,
+  "core_is_subset": true,
+  "n_ge_900_min": {
+    "2023-24": 339,
+    "2024-25": 321,
+    "2025-26": 339
+  }
+}

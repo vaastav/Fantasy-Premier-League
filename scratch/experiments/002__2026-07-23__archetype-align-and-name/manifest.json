@@ -1,0 +1,70 @@
+{
+  "id": "002",
+  "slug": "archetype-align-and-name",
+  "title": "Align & name player archetypes across seasons",
+  "date_created": "2026-07-23",
+  "date_completed": "2026-07-23",
+  "status": "complete",
+  "author": "andrew",
+  "rationale": "Re-fit fine archetypes on all >=900-min players and align them across seasons into stable named labels for downstream use.",
+  "question": "Can per-season fine clusters be aligned into stable, named archetypes covering all >=900-min players?",
+  "method_summary": "Cluster all >=900-min players per season (UMAP10D->HDBSCAN leaf); meta-cluster the 32 per-season centroids into 9 canonical archetypes; name by role+tier. Reads all_players_season_panel.csv.",
+  "inputs": {
+    "core_dataset": [
+      "core_players_roster.csv",
+      "core_player_season_panel.csv",
+      "core_player_gameweek_long.csv"
+    ],
+    "upstream_experiments": [
+      "001"
+    ]
+  },
+  "depends_on": [
+    "001"
+  ],
+  "outputs": [
+    "player_archetypes.csv",
+    "archetype_profiles.csv",
+    "season_cluster_map.csv",
+    "figures/archetypes_2023-24.png",
+    "figures/archetypes_2024-25.png",
+    "figures/archetypes_2025-26.png"
+  ],
+  "key_findings": [
+    "9 canonical named archetypes; 7 present in all 3 seasons; 999 player-seasons labeled (65 noise).",
+    "Fine archetypes encode role AND quality tier (elite vs premium attacker; attacking vs defensive defender).",
+    "Meta-clustering per-season cluster centroids gives stable cross-season labels.",
+    "Assignments are football-sensible without using position as a feature (Salah/Haaland=Elite goalscorer, Pickford=Goalkeeper)."
+  ],
+  "core_dataset_version": "core_v1",
+  "core_dataset_fingerprint": {
+    "roster": {
+      "file": "scratch/summaries/core_players_roster.csv",
+      "sha256": "f9356db4746a07d02b9569f6859412b7dea2b6c2cc681750466c44279e1806d4",
+      "rows": 389,
+      "bytes": 45835
+    },
+    "season_panel": {
+      "file": "scratch/summaries/core_player_season_panel.csv",
+      "sha256": "3b13fe7143a14c526e1f0587b83cb7262541c832a60c4be80112aee7b8cd0be2",
+      "rows": 1167,
+      "bytes": 283565
+    },
+    "gameweek_long": {
+      "file": "scratch/summaries/core_player_gameweek_long.csv",
+      "sha256": "fe8f7c5170ab1a63ff663b5e822632821648dbe1c8ab56cf8aa18450cc6cf416",
+      "rows": 42989,
+      "bytes": 8320913
+    }
+  },
+  "environment": {
+    "python": "3.11.15",
+    "packages": {
+      "pandas": "3.0.3",
+      "numpy": "2.4.6"
+    }
+  },
+  "git_commit": "9b58d9026228509d8cdf3c6b6b6f0483c96931c5",
+  "tags": [],
+  "all_players_panel_sha256": "345d0c3d0e095b25294f3fd17426bf1a6bfa463d7806e99130ba3946a16333fe"
+}

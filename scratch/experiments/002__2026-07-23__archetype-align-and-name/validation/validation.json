@@ -1,0 +1,27 @@
+{
+  "min_minutes": 900,
+  "n_archetypes_requested": 9,
+  "n_archetypes_found": 9,
+  "seed": 42,
+  "all_panel_sha256": "345d0c3d0e095b25294f3fd17426bf1a6bfa463d7806e99130ba3946a16333fe",
+  "n_labeled_player_seasons": 999,
+  "n_unclassified": 65,
+  "per_season_qualifying": {
+    "2023-24": 339,
+    "2024-25": 321,
+    "2025-26": 339
+  },
+  "archetypes_present_all_seasons": 7,
+  "names": {
+    "0": "Elite goalscorer",
+    "1": "Premium attacker",
+    "2": "Rotation midfielder",
+    "3": "Attacking / ball-playing defender",
+    "4": "Goalkeeper",
+    "5": "Creative midfielder",
+    "6": "Balanced defender",
+    "7": "Elite playmaker",
+    "8": "Defensive / rotation defender"
+  },
+  "archetypes_in_1_or_2_seasons": 2
+}
