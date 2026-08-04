@@ -1,0 +1,568 @@
+first_name,second_name,id
+David,Raya Martín,1
+Kepa,Arrizabalaga Revuelta,2
+Illan,Meslier,3
+Gabriel,dos Santos Magalhães,4
+Jurriën,Timber,5
+William,Saliba,6
+Myles,Lewis-Skelly,7
+Riccardo,Calafiori,8
+Piero,Hincapié,9
+Benjamin,White,10
+Cristhian,Mosquera,11
+Bukayo,Saka,12
+Declan,Rice,13
+Eberechi,Eze,14
+Martin,Ødegaard,15
+Noni,Madueke,16
+Mikel,Merino Zazón,17
+Gabriel,Martinelli Silva,18
+Martín,Zubimendi Ibáñez,19
+Max,Dowman,20
+Christian,Nørgaard,21
+Ethan,Nwaneri,22
+Fábio,Ferreira Vieira,23
+Reiss,Nelson,24
+Viktor,Gyökeres,25
+Kai,Havertz,26
+Gabriel,Fernando de Jesus,27
+Christos,Tzolis,557
+Emiliano,Martínez Romero,28
+Marco,Bizot,29
+Lucas,Digne,30
+Ezri,Konsa Ngoyo,31
+Matty,Cash,32
+Tyrone,Mings,33
+Pau,Torres,34
+Lamare,Bogarde,35
+Ian,Maatsen,36
+Victor,Lindelöf,37
+Andrés,García,38
+Kosta,Nedeljkovic,39
+Emiliano,Buendía Stati,41
+Evann,Guessand,42
+Leon,Bailey,44
+John,McGinn,45
+Ross,Barkley,46
+Boubacar,Kamara,47
+Amadou,Onana,48
+Samuel,Iling-Junior,49
+Bradley,Burrowes,50
+George,Hemmings,51
+Alysson Edward Franco,da Rocha dos Santos,52
+Johan,Manzambi,53
+Joao,Gomes,54
+Ollie,Watkins,55
+Tammy,Abraham,56
+Alejandro,Garnacho Ferreyra,160
+Đorđe,Petrović,57
+Fraser,Forster,58
+Will,Dennis,59
+James,Hill,60
+Adrien,Truffert,61
+Bafodé,Diakité,62
+Veljko,Milosavljevic,63
+Adam,Smith,64
+Julián,Araujo Zúñiga,65
+Julio,Soler Barreto,66
+Rayan Vitor,Simplício Rocha,67
+Marcus,Tavernier,68
+Alex,Scott,69
+Justin,Kluivert,70
+Lewis,Cook,71
+Ben,Gannon-Doak,72
+Tyler,Adams,73
+David,Brooks,74
+Ryan,Christie,75
+Alex,Tóth,76
+Amine,Adli,77
+Junior,Kroupi,78
+Francisco Evanilson,de Lima Barbosa,79
+Enes,Ünal,80
+Álvaro,Rodríguez,81
+António João,Pereira de Albuquerque Tavares da Silva,566
+Caoimhín,Kelleher,82
+Hákon Rafn,Valdimarsson,83
+Nathan,Collins,84
+Sepp,van den Berg,85
+Keane,Lewis-Potter,86
+Kristoffer,Ajer,87
+Michael,Kayode,88
+Rico,Henry,89
+Aaron,Hickey,90
+Ethan,Pinnock,91
+Kim,Ji-soo,92
+Jannik,Schuster,93
+Kevin,Schade,94
+Dango,Ouattara,95
+Mikkel,Damsgaard,96
+Mathias,Jensen,97
+Vitaly,Janelt,98
+Antoni,Milambo,99
+Fábio,Freitas Gouveia Carvalho,100
+Jordan,Henderson,101
+Yehor,Yarmoliuk,102
+Josh,Dasilva,103
+Jaidon,Anthony,105
+Igor Thiago,Nascimento Rodrigues,106
+Kaye,Furo,107
+Callum,Wilson,108
+Mamadou,Sangaré,565
+Bart,Verbruggen,109
+Carl,Rushworth,110
+Jason,Steele,111
+Ferdi,Kadıoğlu,113
+Olivier,Boscagli,114
+Maxim,De Cuyper,115
+Lewis,Dunk,116
+Diego,Coppola,117
+Igor Julio,dos Santos de Paulo,118
+João Pedro,Loureiro da Costa,119
+Michael,Svoboda,120
+Mitoma,Kaoru,121
+Yankuba,Minteh,122
+Jack,Hinshelwood,123
+Pascal,Groß,124
+Georginio,Rutter,125
+Matt,O'Riley,126
+Diego,Gómez Amarilla,127
+Facundo,Buonanotte,128
+Yasin,Ayari,129
+Mats,Wieffer,130
+Carlos,Baleba,131
+Harry,Howell,132
+Tom,Watson,133
+Nehemiah,Oriola,134
+Zadok,Yohanna,135
+Stefanos,Tzimas,137
+Charalampos,Kostoulas,138
+Evan,Ferguson,139
+Pascal,Struijk,328
+Luka,Vušković,504
+Morgan,Rogers,40
+Danny,Welbeck,136
+Robert,Lynch Sánchez,140
+Filip,Jörgensen,141
+Reece,James,142
+Trevoh,Chalobah,143
+Malo,Gusto,144
+Wesley,Fofana,145
+Benoît,Badiashile Mukinayi,146
+Tosin,Adarabioyo,147
+Jorrel,Hato,148
+Levi,Samuels Colwill,149
+Mamadou,Sarr,150
+Josh,Acheampong,151
+Marco,Palestra,152
+Axel,Disasi,153
+Cole,Palmer,154
+Enzo,Fernández,155
+Pedro,Lomba Neto,156
+Estêvão,Almeida de Oliveira Gonçalves,157
+Jamie,Bynoe-Gittens,158
+Moisés,Caicedo Corozo,159
+Roméo,Lavia,161
+Dário,Luís Essugo,163
+Geovany,Quenda,164
+João Pedro,Junqueira de Jesus,165
+Nicolas,Jackson,166
+Liam,Delap,167
+Marc,Guiu Paz,168
+Shumaira,Mheuka,169
+Emmanuel,Emegha,170
+Maxence,Lacroix,200
+Mike,Penders,560
+Aaron,Anselmino,561
+Frank,Onyeka,104
+Oliver,Dovin,171
+Ben,Wilson,172
+Bobby,Thomas,173
+Liam,Kitching,174
+Milan,van Ewijk,175
+Jay,Dasilva,176
+Kaine,Kesler-Hayden,177
+Jake,Bidwell,178
+Joel,Latibeaudiere,179
+Luke,Woolfenden,180
+Miguel,Brau,181
+Aurèle,Amenda,182
+Jack,Rudoni,183
+Matt,Grimes,184
+Tatsuhiro,Sakamoto,185
+Ephron,Mason-Clark,186
+Josh,Eccles,187
+Victor,Torp,188
+George,Shepherd,189
+Loum,Tchaouna,190
+Raphael,Borges Rodrigues,191
+Kaine,Andrews,192
+Haji,Wright,193
+Brandon,Thomas-Asante,194
+Ellis,Simms,195
+Jahnoah,Markelo,196
+Norman,Bassette,197
+Dean,Henderson,198
+Walter,Benítez,199
+Daniel,Muñoz Mejía,201
+Chris,Richards,202
+Jaydee,Canvot,203
+Tyrick,Mitchell,204
+Borna,Sosa,205
+Chadi,Riad Dnanou,206
+Oscar,Mingueza,207
+Ismaïla,Sarr,208
+Brennan,Johnson,209
+Adam,Wharton,210
+Yéremy,Pino Santos,211
+Will,Hughes,212
+Jefferson,Lerma Solís,213
+Daichi,Kamada,214
+Justin,Devenny,215
+Romain,Esse,216
+Matheus,França de Oliveira,217
+Cheick,Doucouré,218
+Jesurun,Rak-Sakyi,219
+Rio,Cardines,220
+Joél,Drakes-Thomas,221
+Jørgen,Strand Larsen,222
+Jean-Philippe,Mateta,223
+Eddie,Nketiah,224
+Christantus,Uche,225
+Remi,Matthews,555
+Jordan,Pickford,226
+Mark,Travers,227
+Tom,King,228
+James,Tarkowski,229
+Jarrad,Branthwaite,230
+Michael,Keane,231
+Jake,O'Brien,232
+Vitalii,Mykolenko,233
+Nathan,Patterson,234
+Adam,Aznou,235
+Kiernan,Dewsbury-Hall,236
+Iliman,Ndiaye,237
+James,Garner,239
+Tim,Iroegbunam,240
+Dwight,McNeil,241
+Tyrique,George,242
+Carlos,Alcaraz Durán,243
+Harrison,Armstrong,244
+Tyler,Dibling,245
+Merlin,Röhl,246
+Hayden,Hackney,247
+Norberto Bercique,Gomes Betuncal,248
+Thierno,Barry,249
+Bernd,Leno,250
+Benjamin,Lecomte,251
+Alfie,McNally,252
+Joachim,Andersen,253
+Antonee,Robinson,254
+Jorge,Cuenca Barreno,255
+Kenny,Tete,256
+Calvin,Bassey,257
+Timothy,Castagne,258
+Alex,Iwobi,261
+Emile,Smith Rowe,262
+Kevin,Santos Lopes de Macedo,263
+Oscar,Bobb,264
+Sander,Berge,265
+Tom,Cairney,266
+Saša,Lukić,267
+Josh,King,268
+Ryan,Sessegnon,269
+Harrison,Reed,270
+Rodrigo,Muniz Carvalho,271
+Jonah,Kusi-Asare,272
+Dillon,Phillips,273
+Jack,Butland,274
+Harvey,Cartwright,275
+Thimothée,Lo-Tutala,276
+John,Egan,277
+Charlie,Hughes,278
+Semi,Ajayi,279
+Lewie,Coyle,280
+Cody,Drameh,281
+Ryan,Giles,282
+Matty,Jacob,283
+Cathal,McCarthy,284
+Paddy,McNair,285
+Mohamed,Belloumi,286
+Liam,Millar,287
+Kieran,Dowell,288
+Matt,Crooks,289
+Regan,Slater,290
+Eliot,Matazo,291
+Abdülkadir,Ömür,292
+Abu,Kamara,293
+Óscar,Zambrano,294
+Oli,McBurnie,295
+David,Akintola,296
+Darko,Gyabi,297
+Enis,Destan,298
+Mason,Burstow,299
+Matt,Targett,556
+Hidemasa,Morita,563
+Issa,Diop,259
+Christian,Walton,300
+Alex,Palmer,301
+David,Button,302
+Cédric,Kipré,303
+Dara,O'Shea,304
+Leif,Davis,305
+Jacob,Greaves,306
+Ben,Johnson,307
+Darnell,Furlong,308
+Marcelino,Núñez,309
+Azor,Matusiwa,310
+Wes,Burns,311
+Jack,Taylor,312
+Jack,Clarke,313
+Chiedozie,Ogbene,314
+Abdul,Fatawu,315
+Emersonn,Correia da Silva,316
+George,Hirst,317
+Jaden,Philogene,318
+Sam,Szmodics,319
+Chuba,Akpom,320
+Sindre,Walle Egeli,321
+Ali,Al-Hamadi,322
+Kasey,McAteer,323
+Anis,Mehmeti,324
+Kayne,van Oevelen,554
+Daizen,Maeda,562
+Kjell,Scherpen,564
+Harry,Wilson,260
+Lucas Estella,Perri,326
+Jaka,Bijol,327
+Joe,Rodon,329
+Jayden,Bogle,330
+Gabriel,Gudmundsson,331
+James,Justin,332
+Sebastiaan,Bornauw,333
+Tarik,Muharemović,334
+Anton,Stach,335
+Noah,Okafor,336
+Brenden,Aaronson,337
+Ethan,Ampadu,338
+Sean,Longstaff,339
+Joe,Gelhardt,340
+Wilfried,Gnonto,341
+Jack,Harrison,342
+Daniel,James,343
+Ilia,Gruev,344
+Tanaka,Ao,345
+Dominic,Calvert-Lewin,346
+Lukas,Nmecha,347
+Joël,Piroe,348
+Mateo,Joseph Fernández-Regatillo,349
+Alisson,Becker,350
+Giorgi,Mamardashvili,351
+Freddie,Woodman,352
+Armin,Pecsi,353
+Vitezslav,Jaros,354
+Harvey,Davies,355
+Virgil,van Dijk,356
+Jeremie,Frimpong,357
+Milos,Kerkez,358
+Joe,Gomez,359
+Conor,Bradley,360
+Wellity,Lucky,361
+Jeremy,Jacquet,362
+Giovanni,Leoni,363
+Kostas,Tsimikas,364
+Calvin,Ramsay,365
+Florian,Wirtz,366
+Cody,Gakpo,367
+Dominik,Szoboszlai,368
+Rio,Ngumoha,369
+Federico,Chiesa,370
+Ryan,Gravenberch,371
+Alexis,Mac Allister,372
+Curtis,Jones,373
+Endo,Wataru,374
+Trey,Nyoni,375
+Stefan,Bajčetić Maquieira,376
+Victor,Munoz,377
+James,McConnell,378
+Alexander,Isak,379
+Hugo,Ekitiké,380
+Lewis,Koumas,381
+Jayden,Danns,382
+Harvey,Elliott,383
+Jack,Grealish,238
+Gianluigi,Donnarumma,384
+James,Trafford,385
+Marcus,Bettinelli,386
+Nico,O'Reilly,387
+Marc,Guéhi,388
+Matheus,Nunes,389
+Rúben,dos Santos Gato Alves Dias,390
+Joško,Gvardiol,391
+Rayan,Aït-Nouri,392
+Abdukodir,Khusanov,393
+Max,Alleyne,394
+Rico,Lewis,395
+Vitor,de Oliveira Nunes dos Reis,396
+Antoine,Semenyo,397
+Phil,Foden,398
+Rayan,Cherki,399
+Jérémy,Doku,400
+Omar,Marmoush,401
+Rodrigo 'Rodri',Hernandez Cascante,402
+Sávio,Moreira de Oliveira,403
+Tijjani,Reijnders,404
+Nico,González Iglesias,405
+Mateo,Kovačić,406
+Claudio,Echeverri,407
+Kalvin,Phillips,408
+Divine,Mukasa,409
+Jeremy,Monga,410
+Erling,Haaland,411
+Elliot,Anderson,481
+Youri,Tielemans,43
+Andrey,Nascimento dos Santos,162
+Karl,Darlow,325
+Senne,Lammens,412
+Altay,Bayındır,413
+Tom,Heaton,414
+Patrick,Dorgu,415
+Matthijs,de Ligt,416
+Diogo,Dalot Teixeira,417
+Harry,Maguire,418
+Lisandro,Martínez,419
+Leny,Yoro,420
+Ayden,Heaven,421
+Noussair,Mazraoui,422
+Luke,Shaw,423
+Harry,Amass,424
+Tyler,Fredricson,425
+Bruno,Borges Fernandes,426
+Bryan,Mbeumo,427
+Matheus,Santos Carneiro da Cunha,428
+Marcus,Rashford,429
+Mason,Mount,430
+Amad,Diallo,431
+Kobbie,Mainoo,432
+Manuel,Ugarte Ribeiro,433
+Jack,Fletcher,434
+Shea,Lacey,435
+Toby,Collyer,436
+Bendito,Mantato,437
+Tyler,Fletcher,438
+Benjamin,Sesko,439
+Joshua,Zirkzee,440
+Chido,Obi,441
+Nick,Pope,442
+Mark,Gillespie,443
+Ewen,Jaouen,444
+Malick,Thiaw,445
+Fabian,Schär,446
+Sven,Botman,447
+Dan,Burn,448
+Lewis,Hall,449
+Tino,Livramento,450
+Alex,Murphy,451
+Bruno,Guimarães Rodriguez Moura,452
+Harvey,Barnes,453
+Anthony,Elanga,454
+Jacob,Ramsey,456
+Jacob,Murphy,457
+Joelinton Cássio,Apolinário de Lira,458
+Lewis,Miley,459
+Joe,Willock,460
+Bazoumana,Touré,461
+Sean,Steur,462
+Nick,Woltemade,463
+Yoane,Wissa,464
+William,Osula,465
+Sean,Neave,466
+Aladji,Bamba,559
+Lukás,Hornícek,567
+Matz,Sels,467
+John Victor,Maciel Furtado,468
+Neco,Williams,469
+Felipe,Rodrigues da Silva,470
+Nikola,Milenković,471
+Murillo,Costa dos Santos,472
+Ola,Aina,473
+Jair,Paula da Cunha Filho,474
+Nicolò,Savona,475
+Omar,Richards,476
+Zach,Abbott,477
+Luca,Netz,478
+Tyler,Bindon,479
+Morgan,Gibbs-White,480
+Callum,Hudson-Odoi,482
+Dan,Ndoye,483
+Omari,Hutchinson,484
+Dilane,Bakwa,485
+James,McAtee,486
+Nicolás,Domínguez,487
+Ibrahim,Sangaré,488
+Ryan,Yates,489
+Chris,Wood,490
+Igor Jesus,Maciel da Cruz,491
+Taiwo,Awoniyi,492
+Arnaud,Kalimuendo,493
+Xaver,Schlager,558
+Jan Paul,van Hecke,112
+Sandro,Tonali,455
+Guglielmo,Vicario,494
+Brandon,Austin,495
+Antonín,Kinský,496
+Martin,Dubravka,497
+Marcos,Senesi Barón,498
+Pedro,Porro Sauceda,499
+Cristian,Romero,500
+Kevin,Danso,501
+Andrew,Robertson,502
+Micky,van de Ven,503
+Djed,Spence,505
+Destiny,Udogie,506
+Ashley,Phillips,507
+Ben,Davies,508
+Jun'ai,Byfield,509
+James,Rowswell,510
+João Victor,de Souza Menezes,511
+Mohammed,Kudus,512
+Xavi,Simons,513
+Mathys,Tel,514
+James,Maddison,515
+Rodrigo,Bentancur,516
+Wilson,Odobert,517
+Pape Matar,Sarr,518
+Conor,Gallagher,519
+Lucas,Bergvall,520
+Dejan,Kulusevski,521
+Archie,Gray,522
+Mikey,Moore,523
+Callum,Olusesi,524
+Mateus,Fernandes,525
+Dominic,Solanke-Mitchell,526
+Richarlison,de Andrade,527
+Dane,Scarlett,528
+Robin,Roefs,529
+Anthony,Patterson,530
+Melker,Ellborg,531
+Daniel,Ballard,532
+Nordi,Mukiele,533
+Trai,Hume,534
+Omar,Alderete,535
+Reinildo,Mandava,536
+Jenson,Seelt,537
+Leo Fuhr,Hjelde,538
+Luke,O'Nien,539
+Arthur,Masuaku,540
+Thomas,Meunier,541
+Enzo,Le Fée,542
+Habib,Diarra,543
+Granit,Xhaka,544
+Noah,Sadiki,545
+Simon,Adingra,546
+Romaine,Mundle,547
+Chris,Rigg,548
+Chemsdine,Talbi,549
+Djiamgone Jocelin Ta,Bi,550
+Nilson,Angulo,551
+Brian,Brobbey,552
+Wilson,Isidor,553

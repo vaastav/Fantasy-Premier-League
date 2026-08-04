@@ -110,7 +110,7 @@ def merge_gw(gw, gw_directory):
             filled_row = {field: row.get(field, '') for field in final_fieldnames}
             writer.writerow(filled_row)
 
-def collect_gw(gw, directory_name, output_dir, root_directory_name="data/2025-26"):
+def collect_gw(gw, directory_name, output_dir, root_directory_name="data/2026-27"):
     rows = []
     fieldnames = []
     fixtures_home, fixtures_away = get_fixtures(root_directory_name)
