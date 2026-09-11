@@ -1,2 +1,4 @@
 assists,bonus,bps,clean_sheets,clearances_blocks_interceptions,creativity,defensive_contribution,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,modified,opponent_team,own_goals,penalties_missed,penalties_saved,recoveries,red_cards,round,saves,selected,starts,tackles,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
 0,0,24,1,2,35.6,2,473,0.17,0.21,0.04,0.34,6,0,0,6.3,16.0,2026-08-22T14:00:00Z,73,False,13,0,0,0,4,0,1,0,328883,1,0,1,0,11.0,5,0,0,0,45,True,1
+0,0,2,0,3,15.5,5,473,0.35,0.35,0.00,1.75,14,2,0,3.1,11.8,2026-08-29T11:30:00Z,85,False,14,0,0,0,4,0,2,0,345943,1,2,2,2,4.0,0,-5067,17770,22837,45,False,1
+0,0,8,0,2,0.5,7,473,0.00,0.00,0.00,0.81,28,0,0,1.4,13.0,2026-09-05T14:00:00Z,58,False,19,0,0,0,4,0,3,0,313105,1,5,0,0,0.0,1,-30402,20608,51010,45,True,0
