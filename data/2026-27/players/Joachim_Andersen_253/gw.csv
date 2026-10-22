@@ -1,2 +1,8 @@
 assists,bonus,bps,clean_sheets,clearances_blocks_interceptions,creativity,defensive_contribution,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,modified,opponent_team,own_goals,penalties_missed,penalties_saved,recoveries,red_cards,round,saves,selected,starts,tackles,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards
 0,0,0,0,0,0.0,0,253,0.00,0.00,0.00,0.00,10,0,0,0.0,0.0,2026-08-24T19:00:00Z,0,False,6,0,0,0,0,0,1,0,3342,0,0,3,2,0.0,0,0,0,0,50,True,0
+0,0,4,0,8,12.9,8,253,0.04,0.04,0.00,2.02,19,1,0,3.3,17.8,2026-08-30T13:00:00Z,90,False,20,0,0,0,2,0,2,0,7735,1,0,0,1,2.0,1,1684,2314,630,50,False,1
+0,0,8,0,5,22.9,7,253,0.06,0.06,0.00,1.97,24,3,0,5.3,24.4,2026-09-05T14:00:00Z,90,False,8,0,0,0,7,0,3,0,15474,1,2,3,2,6.0,1,3704,5842,2138,50,True,0
+0,0,0,0,0,0.0,0,253,0.00,0.00,0.00,0.00,35,0,0,0.0,0.0,2026-09-12T14:00:00Z,0,False,14,0,0,0,0,0,4,0,13284,0,0,0,0,0.0,0,-1378,1887,3265,50,False,0
+0,0,0,0,5,0.0,5,253,0.00,0.00,0.00,0.36,50,1,0,1.0,10.0,2026-09-20T15:30:00Z,10,False,16,0,0,0,0,0,5,0,14092,0,0,1,1,0.0,1,-246,1831,2077,50,True,0
+0,0,0,0,0,0.0,0,253,0.00,0.00,0.00,0.00,57,0,0,0.0,0.0,2026-10-10T14:00:00Z,0,False,12,0,0,0,0,0,6,0,22066,0,0,1,2,0.0,0,5638,8155,2517,50,False,0
+0,0,0,0,0,0.0,0,253,0.00,0.00,0.00,0.00,65,0,0,0.0,0.0,2026-10-17T14:00:00Z,0,False,11,0,0,0,0,0,7,0,21304,0,0,,,0.0,0,81,2547,2466,50,True,0
